@@ -1,0 +1,3422 @@
+{
+ "unit": {
+  "tb": {
+   "en": "This is Unit 1 of our English book.",
+   "zh": "这是我们英语书的第一单元。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "In which unit of a textbook can the text be found?",
+   "zh": "这篇短文可以在课本的哪个单元找到？",
+   "src": "2023年河南中考"
+  }
+ },
+ "starter-unit": {
+  "tb": {
+   "en": "Starter Unit 1 is about how to greet people.",
+   "zh": "过渡单元 1 讲的是如何跟人打招呼。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Before Unit 1, the starter units help new students review what they learned in primary school.",
+   "zh": "在第一单元之前，过渡单元帮助新生复习小学学过的内容。",
+   "src": "拓展"
+  }
+ },
+ "section": {
+  "tb": {
+   "en": "Read the conversation in Section B.",
+   "zh": "读一读 B 部分的对话。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "This section of the library is only for students who are reading quietly.",
+   "zh": "图书馆的这个区域只供安静阅读的学生使用。",
+   "src": "拓展"
+  }
+ },
+ "greet": {
+  "tb": {
+   "en": "How do you greet people?",
+   "zh": "你怎样跟人打招呼？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "As I entered the house, Mom greeted me with a smile.",
+   "zh": "我一进家门，妈妈就笑着跟我打招呼。",
+   "src": "2026 周口模拟"
+  }
+ },
+ "oh": {
+  "tb": {
+   "en": "Oh, I have drum class on Tuesday afternoons.",
+   "zh": "哦，我周二下午有鼓课。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Oh, I forgot to bring my homework, so I had to go back home to get it.",
+   "zh": "哦，我忘了带作业，只好回家去拿。",
+   "src": "拓展"
+  }
+ },
+ "everyone": {
+  "tb": {
+   "en": "Everyone in our class likes her.",
+   "zh": "我们班每个人都喜欢她。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "This is a wonderful story everyone should know.",
+   "zh": "这是一个人人都应该知道的精彩故事。",
+   "src": "2024年河南中考"
+  }
+ },
+ "start": {
+  "tb": {
+   "en": "It's a special way to start the week.",
+   "zh": "这是开始新一周的一种特别方式。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Chinese New Year starts with a spring-cleaning day called Sao Chen.",
+   "zh": "春节从一个叫“扫尘”的大扫除日开始。",
+   "src": "2026年河南中考"
+  }
+ },
+ "conversation": {
+  "tb": {
+   "en": "Listen to three conversations and colour the things.",
+   "zh": "听三段对话，给物品涂上颜色。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "One evening, I overheard her conversation with an elderly lady.",
+   "zh": "一天傍晚，我无意中听到了她和一位老太太的谈话。",
+   "src": "2025 新乡二模"
+  }
+ },
+ "spell": {
+  "tb": {
+   "en": "How do you spell your name?",
+   "zh": "你的名字怎么拼写？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Why don't you come to Spelling Bee Day?",
+   "zh": "你为什么不来参加拼字比赛日呢？",
+   "src": "2025 新乡三模"
+  }
+ },
+ "bell": {
+  "tb": {
+   "en": "Oh, that's the bell. Let's go to class.",
+   "zh": "哦，铃响了。我们去上课吧。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Its bells ring every hour, and at night, it is beautifully lit up.",
+   "zh": "它的钟每小时响一次，到了晚上灯火辉煌，非常漂亮。",
+   "src": "2026 新乡模拟"
+  }
+ },
+ "bottle": {
+  "tb": {
+   "en": "I have a bottle.",
+   "zh": "我有一个瓶子。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Although the bottles can be recycled, only a small part of them are.",
+   "zh": "虽然这些瓶子可以回收，但真正被回收的只有一小部分。",
+   "src": "2026 周口模拟"
+  }
+ },
+ "eraser": {
+  "tb": {
+   "en": "I have an eraser.",
+   "zh": "我有一块橡皮。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "She lent me her eraser when I made a mistake in the exam.",
+   "zh": "考试时我写错了，她把橡皮借给了我。",
+   "src": "拓展"
+  }
+ },
+ "key": {
+  "tb": {
+   "en": "Are your keys in the box?",
+   "zh": "你的钥匙在盒子里吗？",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "According to the teacher, what is the key to practicing dance well?",
+   "zh": "根据老师的说法，练好舞蹈的关键是什么？",
+   "src": "2025 河南联考"
+  }
+ },
+ "thing": {
+  "tb": {
+   "en": "We put our things in the desk drawers.",
+   "zh": "我们把东西放在课桌抽屉里。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Try to find out how living things grow around you.",
+   "zh": "试着去发现你身边的生物是怎样生长的。",
+   "src": "2026年河南中考"
+  }
+ },
+ "youre-welcome": {
+  "tb": {
+   "en": "—Thank you. —You're welcome.",
+   "zh": "——谢谢你。——不客气。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "—Thank you for your advice. —You're welcome.",
+   "zh": "——谢谢你的建议。——不客气。",
+   "src": "改编自2024年河南中考"
+  }
+ },
+ "fun": {
+  "tb": {
+   "en": "I learn a lot at my school and have fun too.",
+   "zh": "我在学校学到很多，也玩得很开心。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The best way to tidy up is to make it fun.",
+   "zh": "整理房间最好的方法就是让它变得有趣。",
+   "src": "2026年河南中考"
+  }
+ },
+ "yard": {
+  "tb": {
+   "en": "What animal does Helen see in the yard?",
+   "zh": "海伦在院子里看到了什么动物？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In the large yard stood thirteen trees of different sizes.",
+   "zh": "大院子里立着十三棵大小不一的树。",
+   "src": "2022年河南中考"
+  }
+ },
+ "carrot": {
+  "tb": {
+   "en": "They are carrot plants.",
+   "zh": "它们是胡萝卜苗。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Grandpa grows carrots, tomatoes and potatoes in his garden every spring.",
+   "zh": "每年春天，爷爷都在菜园里种胡萝卜、西红柿和土豆。",
+   "src": "拓展"
+  }
+ },
+ "goose": {
+  "tb": {
+   "en": "Is that a goose?",
+   "zh": "那是一只鹅吗？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "A goose walked slowly across the farm, followed by its babies.",
+   "zh": "一只鹅慢慢地走过农场，小鹅们跟在它后面。",
+   "src": "拓展"
+  }
+ },
+ "count": {
+  "tb": {
+   "en": "Let me count. One, two, three, four, five…",
+   "zh": "让我数一数。一、二、三、四、五……",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "A certain kind of ants can count their steps to avoid getting lost.",
+   "zh": "有一种蚂蚁能数自己走了多少步，以免迷路。",
+   "src": "2025 南阳联考"
+  }
+ },
+ "another": {
+  "tb": {
+   "en": "Oh, and there's another blackboard at the back of the classroom.",
+   "zh": "哦，教室后面还有一块黑板。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "A moment later, the squirrel climbed down to the ground to pick another pecan.",
+   "zh": "过了一会儿，松鼠爬下树，又去捡了一颗山核桃。",
+   "src": "2023年河南中考"
+  }
+ },
+ "else": {
+  "tb": {
+   "en": "What else can you see on the farm?",
+   "zh": "你在农场上还能看到什么？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "I looked around, but nobody else seemed to have noticed it.",
+   "zh": "我环顾四周，但似乎没有别人注意到它。",
+   "src": "2025 南阳联考"
+  }
+ },
+ "circle": {
+  "tb": {
+   "en": "Circle the words you hear.",
+   "zh": "圈出你听到的单词。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Over and over, I carefully cleaned a small circle on my window so that I could see the rain outside.",
+   "zh": "我一遍又一遍地把窗户擦出一个小圆圈，好看清外面的雨。",
+   "src": "2025 南阳联考"
+  }
+ },
+ "look-at": {
+  "tb": {
+   "en": "It's fun to look at the marks later.",
+   "zh": "以后再看这些记号很有意思。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "You may see bright and colorful patterns if you look at fish in the sea.",
+   "zh": "如果你观察海里的鱼，可能会看到鲜艳多彩的花纹。",
+   "src": "2026年河南中考"
+  }
+ },
+ "make-friends": {
+  "tb": {
+   "en": "Do you like to make new friends at school?",
+   "zh": "你喜欢在学校交新朋友吗？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "His job was to make friends with some tribes and bring peace to the area.",
+   "zh": "他的任务是和一些部落交朋友，给这个地区带来和平。",
+   "src": "改编自2026 周口模拟"
+  }
+ },
+ "get-to-know": {
+  "tb": {
+   "en": "How do we get to know each other?",
+   "zh": "我们怎样相互认识？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "We hope people will get to know more about my hometown.",
+   "zh": "我们希望人们能更多地了解我的家乡。",
+   "src": "2022年河南中考"
+  }
+ },
+ "each": {
+  "tb": {
+   "en": "Each boat has one teacher and one class.",
+   "zh": "每条船上有一位老师和一个班。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Each living thing has its own pattern as it grows.",
+   "zh": "每种生物在生长中都有自己的规律。",
+   "src": "2026年河南中考"
+  }
+ },
+ "other": {
+  "tb": {
+   "en": "What other classes do you have today?",
+   "zh": "你今天还有什么别的课？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Pilots, farmers and many other people depend on these forecasts.",
+   "zh": "飞行员、农民和许多其他人都依靠这些天气预报。",
+   "src": "2024年河南中考"
+  }
+ },
+ "each-other": {
+  "tb": {
+   "en": "We love and help each other.",
+   "zh": "我们彼此相爱，互相帮助。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Most importantly, the Silk Road helped different cultures learn from each other.",
+   "zh": "最重要的是，丝绸之路帮助不同的文化相互学习。",
+   "src": "2026 河南调研"
+  }
+ },
+ "full": {
+  "tb": {
+   "en": "His full name is George Charles Wood.",
+   "zh": "他的全名是乔治·查尔斯·伍德。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It seems as if the world is full of patterns.",
+   "zh": "这个世界似乎充满了各种规律。",
+   "src": "2026年河南中考"
+  }
+ },
+ "full-name": {
+  "tb": {
+   "en": "My full name is Alan Luke Wood.",
+   "zh": "我的全名是艾伦·卢克·伍德。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "—What's his full name? —His full name is Jim Green.",
+   "zh": "——他的全名叫什么？——他的全名是吉姆·格林。",
+   "src": "拓展"
+  }
+ },
+ "grade": {
+  "tb": {
+   "en": "I'm in Class 1, Grade 7.",
+   "zh": "我在七年级一班。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "She had been trying hard to forget about starting third grade in a new town.",
+   "zh": "她一直努力不去想要在一个新城镇开始读三年级的事。",
+   "src": "2026 驻马店二模"
+  }
+ },
+ "last-name": {
+  "tb": {
+   "en": "We also call the last name a \"family name\" or \"surname\".",
+   "zh": "我们也把姓称为“家族名”或“姓氏”。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In China, people put their last name before their first name.",
+   "zh": "在中国，人们把姓放在名字前面。",
+   "src": "拓展"
+  }
+ },
+ "classmate": {
+  "tb": {
+   "en": "This is my new classmate.",
+   "zh": "这是我的新同学。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Why did Ananya's classmates avoid her?",
+   "zh": "为什么阿南娅的同学们都躲着她？",
+   "src": "2026年河南中考"
+  }
+ },
+ "class-teacher": {
+  "tb": {
+   "en": "Who's your class teacher?",
+   "zh": "你的班主任是谁？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Our class teacher always encourages us to ask questions when we don't understand.",
+   "zh": "我们班主任总是鼓励我们不懂就问。",
+   "src": "拓展"
+  }
+ },
+ "first-name": {
+  "tb": {
+   "en": "Alan is my first name, Luke is my middle name, and Wood is my last name.",
+   "zh": "艾伦是我的名，卢克是我的中间名，伍德是我的姓。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In English names, the first name usually comes before the family name.",
+   "zh": "在英文名字里，名通常放在姓的前面。",
+   "src": "拓展"
+  }
+ },
+ "mistake": {
+  "tb": {
+   "en": "Don't worry. Everyone makes mistakes.",
+   "zh": "别担心，每个人都会犯错。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "I can learn a lot from others, even from the mistakes.",
+   "zh": "我可以从别人身上学到很多，甚至从错误中学习。",
+   "src": "2022年河南中考"
+  }
+ },
+ "country": {
+  "tb": {
+   "en": "China is a big country.",
+   "zh": "中国是一个大国。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "It also spread to other countries, changing the way people learned and communicated.",
+   "zh": "它还传到了其他国家，改变了人们学习和交流的方式。",
+   "src": "2025 郑州一模"
+  }
+ },
+ "same": {
+  "tb": {
+   "en": "Wow, we're in the same class!",
+   "zh": "哇，我们在同一个班！",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "They can get some exercise, enjoy the fresh air and be happy, all at the same time.",
+   "zh": "他们可以同时锻炼身体、享受新鲜空气，还能心情愉快。",
+   "src": "2025年河南中考"
+  }
+ },
+ "twin": {
+  "tb": {
+   "en": "Emma and Ella are twins.",
+   "zh": "埃玛和埃拉是双胞胎。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Although they are twins, the two sisters have very different hobbies.",
+   "zh": "虽然是双胞胎，这对姐妹的爱好却很不一样。",
+   "src": "拓展"
+  }
+ },
+ "pot": {
+  "tb": {
+   "en": "I like hot pot very much.",
+   "zh": "我非常喜欢火锅。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "My sister copied me, threw another pot over her shoulder and carried it.",
+   "zh": "我妹妹学着我的样子，把另一口锅甩到肩上扛着。",
+   "src": "2026 新乡模拟"
+  }
+ },
+ "tofu": {
+  "tb": {
+   "en": "Her favourite food is Mapo tofu.",
+   "zh": "她最喜欢的食物是麻婆豆腐。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Tofu is made from beans, and it is popular all over China.",
+   "zh": "豆腐是用豆子做的，在全中国都很受欢迎。",
+   "src": "拓展"
+  }
+ },
+ "need": {
+  "tb": {
+   "en": "I need a pair of sports shoes for school.",
+   "zh": "我上学需要一双运动鞋。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Like people, animals need to rest after working hard.",
+   "zh": "和人一样，动物在辛苦劳动后也需要休息。",
+   "src": "2022年河南中考"
+  }
+ },
+ "parrot": {
+  "tb": {
+   "en": "It's a parrot.",
+   "zh": "它是一只鹦鹉。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The parrot can say \"Hello\" to everyone who comes into the shop.",
+   "zh": "这只鹦鹉会向每一个进店的人说“你好”。",
+   "src": "拓展"
+  }
+ },
+ "guitar": {
+  "tb": {
+   "en": "I like music, and I play the guitar.",
+   "zh": "我喜欢音乐，还会弹吉他。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "What made Dora fall in love with the guitar?",
+   "zh": "是什么让多拉爱上了吉他？",
+   "src": "2026 驻马店二模"
+  }
+ },
+ "tennis": {
+  "tb": {
+   "en": "He often plays tennis with me.",
+   "zh": "他经常和我打网球。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "She was deeply attracted by a tennis match.",
+   "zh": "她被一场网球比赛深深吸引住了。",
+   "src": "2025 南阳联考"
+  }
+ },
+ "play-the-guitar": {
+  "tb": {
+   "en": "I can play the guitar.",
+   "zh": "我会弹吉他。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "How does Dora learn to play the guitar?",
+   "zh": "多拉是怎样学弹吉他的？",
+   "src": "2026 驻马店二模"
+  }
+ },
+ "would": {
+  "tb": {
+   "en": "Would you like to be my friend?",
+   "zh": "你愿意做我的朋友吗？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Would you like a boy or a girl to be your partner?",
+   "zh": "你想让男生还是女生做你的搭档？",
+   "src": "2025年河南中考"
+  }
+ },
+ "would-like-to": {
+  "tb": {
+   "en": "I'd like to learn French.",
+   "zh": "我想学法语。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "If so, we would like to meet you!",
+   "zh": "如果是这样，我们很想见见你！",
+   "src": "2025 南阳三模"
+  }
+ },
+ "information": {
+  "tb": {
+   "en": "Email Jenny at jenny66@happymail.com for more information.",
+   "zh": "想了解更多信息，请给珍妮发邮件。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Here is some useful information about planning a school visit to Kew Gardens.",
+   "zh": "这里有一些关于计划学校参观邱园的有用信息。",
+   "src": "2023年河南中考"
+  }
+ },
+ "hobby": {
+  "tb": {
+   "en": "What are your hobbies?",
+   "zh": "你有哪些爱好？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "A lot of people take up dancing as a hobby after school.",
+   "zh": "很多人放学后把跳舞当作爱好。",
+   "src": "2025 开封一模"
+  }
+ },
+ "re": {
+  "tb": {
+   "en": "Re: My new school",
+   "zh": "关于：我的新学校",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Re: Our school trip — please read the email and reply before Friday.",
+   "zh": "事由：我们的学校旅行——请阅读邮件，并在周五前回复。",
+   "src": "拓展"
+  }
+ },
+ "uk": {
+  "tb": {
+   "en": "I'm from London, in the UK.",
+   "zh": "我来自英国伦敦。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Many students from the UK come to China to learn Chinese every year.",
+   "zh": "每年都有许多英国学生来中国学习汉语。",
+   "src": "拓展"
+  }
+ },
+ "us": {
+  "tb": {
+   "en": "He's from the US.",
+   "zh": "他来自美国。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "However, to a certain degree, life in the US was hard to get used to.",
+   "zh": "不过在某种程度上，美国的生活很难适应。",
+   "src": "2025 郑州一模"
+  }
+ },
+ "hot-pot": {
+  "tb": {
+   "en": "I like hot pot very much.",
+   "zh": "我非常喜欢火锅。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In winter, many families in Chongqing enjoy hot pot together.",
+   "zh": "冬天，重庆的许多家庭会一起吃火锅。",
+   "src": "拓展"
+  }
+ },
+ "sydney": {
+  "tb": {
+   "en": "She's from Sydney, Australia.",
+   "zh": "她来自澳大利亚悉尼。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Sydney is famous for its beautiful harbour and opera house.",
+   "zh": "悉尼以美丽的港湾和歌剧院闻名。",
+   "src": "拓展"
+  }
+ },
+ "australia": {
+  "tb": {
+   "en": "She's from Australia.",
+   "zh": "她来自澳大利亚。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Kangaroos can only be found in the wild in Australia.",
+   "zh": "只有在澳大利亚才能看到野生袋鼠。",
+   "src": "拓展"
+  }
+ },
+ "mapo-tofu": {
+  "tb": {
+   "en": "Her favourite food is Mapo tofu.",
+   "zh": "她最喜欢的食物是麻婆豆腐。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Mapo tofu is a famous dish from Sichuan, and it is hot and delicious.",
+   "zh": "麻婆豆腐是一道有名的川菜，又辣又好吃。",
+   "src": "拓展"
+  }
+ },
+ "beijing-roast-duck": {
+  "tb": {
+   "en": "My favourite food is Beijing roast duck, and my favourite place is the Great Wall.",
+   "zh": "我最喜欢的食物是北京烤鸭，最喜欢的地方是长城。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Visitors to Beijing often try Beijing roast duck and visit the Great Wall.",
+   "zh": "来北京的游客常常会尝尝北京烤鸭，再去长城看看。",
+   "src": "拓展"
+  }
+ },
+ "singapore": {
+  "tb": {
+   "en": "I live in Singapore with my big family.",
+   "zh": "我和我的大家庭住在新加坡。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Singapore is a small country, but it is clean and green.",
+   "zh": "新加坡虽然是个小国，但干净又绿意盎然。",
+   "src": "拓展"
+  }
+ },
+ "the-great-wall": {
+  "tb": {
+   "en": "My favourite place is the Great Wall.",
+   "zh": "我最喜欢的地方是长城。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Others show famous places like the Great Wall in China or the Eiffel Tower in Paris.",
+   "zh": "另一些展示了中国长城或巴黎埃菲尔铁塔这样的名胜。",
+   "src": "2025 洛阳一模"
+  }
+ },
+ "london": {
+  "tb": {
+   "en": "I'm from London, in the UK.",
+   "zh": "我来自英国伦敦。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Now living in London, Dorsa continues to train and hopes to take part in more international games.",
+   "zh": "多萨现在住在伦敦，她继续训练，希望参加更多国际比赛。",
+   "src": "2026 南阳预测"
+  }
+ },
+ "mean": {
+  "tb": {
+   "en": "What is the meaning of your name?",
+   "zh": "你名字的含义是什么？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "This could mean a drop in air pressure.",
+   "zh": "这可能意味着气压下降。",
+   "src": "2024年河南中考"
+  }
+ },
+ "husband": {
+  "tb": {
+   "en": "In the UK, a woman often changes her family name to her husband's family name.",
+   "zh": "在英国，女子常常把自己的姓改成丈夫的姓。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "She and her husband opened a small restaurant in their hometown.",
+   "zh": "她和丈夫在家乡开了一家小餐馆。",
+   "src": "拓展"
+  }
+ },
+ "bat": {
+  "tb": {
+   "en": "He has some ping-pong bats.",
+   "zh": "他有一些乒乓球拍。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The boy picked up his bat and hit the ball as hard as he could.",
+   "zh": "男孩拿起球拍，用尽全力击球。",
+   "src": "拓展"
+  }
+ },
+ "ping-pong-bat": {
+  "tb": {
+   "en": "This is my ping-pong bat, and the old one is my grandpa's.",
+   "zh": "这是我的乒乓球拍，旧的那个是我爷爷的。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "He bought a new ping-pong bat with the money he saved.",
+   "zh": "他用攒下的钱买了一个新的乒乓球拍。",
+   "src": "拓展"
+  }
+ },
+ "play-ping-pong": {
+  "tb": {
+   "en": "Can you play ping-pong?",
+   "zh": "你会打乒乓球吗？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "After school, we often play ping-pong in the sports hall for half an hour.",
+   "zh": "放学后，我们常在体育馆打半小时乒乓球。",
+   "src": "拓展"
+  }
+ },
+ "together": {
+  "tb": {
+   "en": "We are very different, but we have a lot of fun together.",
+   "zh": "我们很不一样，但在一起玩得很开心。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "How did Jennifer feel when she asked Sophia to sit together with her?",
+   "zh": "詹妮弗请索菲娅和她坐在一起时，感觉怎么样？",
+   "src": "2026 驻马店二模"
+  }
+ },
+ "every-day": {
+  "tb": {
+   "en": "They play with them in the playground every day.",
+   "zh": "他们每天在操场上玩它们。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The sea has rising and falling tides every day.",
+   "zh": "大海每天都有涨潮和落潮。",
+   "src": "2026年河南中考"
+  }
+ },
+ "spend": {
+  "tb": {
+   "en": "We spend most of the time in our classroom.",
+   "zh": "我们大部分时间待在教室里。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Doctors say that many students are spending too much time in front of screens.",
+   "zh": "医生说，很多学生花在屏幕前的时间太多了。",
+   "src": "2022年河南中考"
+  }
+ },
+ "a-lot-of-lots-of": {
+  "tb": {
+   "en": "Big windows bring in lots of sunlight and fresh air.",
+   "zh": "大窗户让充足的阳光和新鲜空气进来。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "They receive a lot of visitors every year.",
+   "zh": "他们每年接待很多游客。",
+   "src": "2024年河南中考"
+  }
+ },
+ "hey": {
+  "tb": {
+   "en": "Hey, do you play the piano?",
+   "zh": "嘿，你弹钢琴吗？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "\"Hey, wait for me!\" Tom shouted as he ran after his friends.",
+   "zh": "“嘿，等等我！”汤姆一边追朋友一边喊。",
+   "src": "拓展"
+  }
+ },
+ "really": {
+  "tb": {
+   "en": "English is important, and my English teacher is really nice.",
+   "zh": "英语很重要，而且我的英语老师人非常好。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "I'm really interested in Henan's history and culture.",
+   "zh": "我对河南的历史和文化非常感兴趣。",
+   "src": "2026年河南中考"
+  }
+ },
+ "member": {
+  "tb": {
+   "en": "I can name different family members.",
+   "zh": "我能说出不同家庭成员的称呼。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Family members go hiking, fly kites and have a picnic in the parks.",
+   "zh": "家人们在公园里徒步、放风筝、野餐。",
+   "src": "2025 郑州三模"
+  }
+ },
+ "activity": {
+  "tb": {
+   "en": "I can describe what people do in different school clubs.",
+   "zh": "我能描述人们在不同学校社团里做什么。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "We have different activities in the clubs after class.",
+   "zh": "课后我们在社团里有各种不同的活动。",
+   "src": "2026年河南中考"
+  }
+ },
+ "chess": {
+  "tb": {
+   "en": "Sam is seven, and he really likes chess.",
+   "zh": "萨姆七岁了，他非常喜欢国际象棋。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Who likes playing chess in the speaker's family?",
+   "zh": "说话人的家里谁喜欢下棋？",
+   "src": "2022年河南中考"
+  }
+ },
+ "chinese-chess": {
+  "tb": {
+   "en": "Can you play Chinese chess?",
+   "zh": "你会下中国象棋吗？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Grandpa taught me to play Chinese chess when I was eight.",
+   "zh": "我八岁时，爷爷教我下中国象棋。",
+   "src": "拓展"
+  }
+ },
+ "a-lot": {
+  "tb": {
+   "en": "I learn a lot at my school and have fun too.",
+   "zh": "我在学校学到很多，也玩得很开心。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "People who stay indoors a lot should get outside in the sunshine.",
+   "zh": "经常待在室内的人应该出去晒晒太阳。",
+   "src": "2025年河南中考"
+  }
+ },
+ "grandparent": {
+  "tb": {
+   "en": "They're my grandparents.",
+   "zh": "他们是我的祖父母。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Every Saturday, he visits his grandparents' farm and helps them with the farm work.",
+   "zh": "每个星期六，他都去祖父母的农场帮他们干农活。",
+   "src": "2026 河南模拟卷"
+  }
+ },
+ "funny": {
+  "tb": {
+   "en": "He is really funny, and he often makes us laugh.",
+   "zh": "他特别有趣，常常逗我们笑。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "They looked funny, but she walked safely to school.",
+   "zh": "它们看起来很滑稽，但她安全地走到了学校。",
+   "src": "2026 郑州适应性"
+  }
+ },
+ "laugh": {
+  "tb": {
+   "en": "He is really funny, and he often makes us laugh.",
+   "zh": "他特别有趣，常常逗我们笑。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "How did Winston feel when Jack didn't laugh at his haircut?",
+   "zh": "杰克没有嘲笑温斯顿的发型时，温斯顿是什么感受？",
+   "src": "2025 焦作二模"
+  }
+ },
+ "different": {
+  "tb": {
+   "en": "How is your new school different from your old one?",
+   "zh": "你的新学校和以前的学校有什么不同？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In the large yard stood thirteen trees of different sizes.",
+   "zh": "大院子里立着十三棵大小不一的树。",
+   "src": "2022年河南中考"
+  }
+ },
+ "have-fun": {
+  "tb": {
+   "en": "I learn a lot at my school and have fun too.",
+   "zh": "我在学校学到很多，也玩得很开心。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "These activities help you work as a team and have fun while learning.",
+   "zh": "这些活动帮助你学会团队合作，在学习中获得乐趣。",
+   "src": "2025 河南联考"
+  }
+ },
+ "hat": {
+  "tb": {
+   "en": "I'm the one with the pink hat.",
+   "zh": "我是戴粉色帽子的那个。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "By the end of the afternoon, Tiegan's hat was full.",
+   "zh": "到傍晚的时候，蒂根的帽子里已经装满了钱。",
+   "src": "2025 洛阳模拟"
+  }
+ },
+ "handsome": {
+  "tb": {
+   "en": "He's handsome, and he often plays tennis.",
+   "zh": "他很英俊，还经常打网球。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The young man in the photo looks handsome in his new suit.",
+   "zh": "照片里的年轻人穿着新西装，看起来很帅气。",
+   "src": "拓展"
+  }
+ },
+ "knee": {
+  "tb": {
+   "en": "My little brother, Sam, is on his knee.",
+   "zh": "我的小弟弟萨姆坐在他的膝盖上。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "He fell off his bike and hurt his knee on the way to school.",
+   "zh": "他在上学路上从自行车上摔下来，伤了膝盖。",
+   "src": "拓展"
+  }
+ },
+ "at-night": {
+  "tb": {
+   "en": "We try to keep quiet at night so he sleeps well.",
+   "zh": "我们晚上尽量保持安静，好让他睡个好觉。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Solar panels don't work at night, and cloudy days reduce their power.",
+   "zh": "太阳能板晚上不工作，阴天也会降低它们的发电量。",
+   "src": "2026 新乡一模"
+  }
+ },
+ "grandchild": {
+  "tb": {
+   "en": "Lily thinks she is her grandparents' favourite grandchild.",
+   "zh": "莉莉认为她是祖父母最喜爱的孙辈。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The old man spends every weekend playing with his grandchildren.",
+   "zh": "这位老人每个周末都陪孙子孙女们玩。",
+   "src": "拓展"
+  }
+ },
+ "son": {
+  "tb": {
+   "en": "Fred is Jack and Sarah's son.",
+   "zh": "弗雷德是杰克和萨拉的儿子。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Later, she gave birth to a baby son called Chen Xiang.",
+   "zh": "后来，她生下了一个儿子，名叫沉香。",
+   "src": "2025 焦作一模"
+  }
+ },
+ "listen-to": {
+  "tb": {
+   "en": "I often listen to the news or music.",
+   "zh": "我经常听新闻或音乐。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "For example, listen to your favorite song, or watch an interesting TV program.",
+   "zh": "比如，听听你最喜欢的歌，或者看一个有趣的电视节目。",
+   "src": "2025年河南中考"
+  }
+ },
+ "next-to": {
+  "tb": {
+   "en": "There's a large sports field next to the teachers' building.",
+   "zh": "教师楼旁边有一个大运动场。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Why did Mia sit down next to the writer?",
+   "zh": "米娅为什么坐到了作者旁边？",
+   "src": "2025 河南模拟"
+  }
+ },
+ "ireland": {
+  "tb": {
+   "en": "Hi, I'm Lily from Ireland.",
+   "zh": "你好，我是来自爱尔兰的莉莉。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Ireland is an island country with green fields and friendly people.",
+   "zh": "爱尔兰是一个岛国，有绿色的田野和友好的人们。",
+   "src": "拓展"
+  }
+ },
+ "hall": {
+  "tb": {
+   "en": "There is a teachers' building across from the school hall.",
+   "zh": "礼堂对面有一栋教师楼。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Every Friday afternoon, they hold small shows and exhibitions in the school hall.",
+   "zh": "每周五下午，他们在学校礼堂举办小型演出和展览。",
+   "src": "2025 河南模拟"
+  }
+ },
+ "dining-hall": {
+  "tb": {
+   "en": "The dining hall is across from the sports field.",
+   "zh": "餐厅在运动场对面。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "How could she face so many strangers in the dining hall?",
+   "zh": "她怎么能面对餐厅里那么多陌生人呢？",
+   "src": "2026 驻马店二模"
+  }
+ },
+ "in-front-of": {
+  "tb": {
+   "en": "There are some trees in front of the sports field.",
+   "zh": "运动场前面有一些树。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Many students are spending too much time in front of screens, especially during online classes.",
+   "zh": "很多学生在屏幕前花的时间太多了，上网课时尤其如此。",
+   "src": "2022年河南中考"
+  }
+ },
+ "building": {
+  "tb": {
+   "en": "There are many modern buildings.",
+   "zh": "有许多现代化的建筑。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "If you photograph a building from a plane, it looks tiny.",
+   "zh": "如果从飞机上拍一栋楼，它看起来很小。",
+   "src": "2025 河南模拟"
+  }
+ },
+ "in-the-middle-of": {
+  "tb": {
+   "en": "There is a big table in the middle of the classroom.",
+   "zh": "教室中间有一张大桌子。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "This ancient city is in the middle of Henan, with mountains and rivers all around.",
+   "zh": "这座古城位于河南中部，四周群山环绕、河流纵横。",
+   "src": "2026 洛阳仿真"
+  }
+ },
+ "across": {
+  "tb": {
+   "en": "The teachers' building is across from the school hall.",
+   "zh": "教师楼在礼堂对面。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The Silk Road became a busy highway for traders who carried things across deserts and mountains.",
+   "zh": "丝绸之路成了商人们翻越沙漠和高山运送货物的繁忙大道。",
+   "src": "2026 河南调研"
+  }
+ },
+ "across-from": {
+  "tb": {
+   "en": "There is a teachers' building across from the school hall.",
+   "zh": "礼堂对面有一栋教师楼。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The new library is across from the dining hall, so it's easy to find.",
+   "zh": "新图书馆在餐厅对面，很好找。",
+   "src": "拓展"
+  }
+ },
+ "centre": {
+  "tb": {
+   "en": "There is a student centre between the library and the gym.",
+   "zh": "图书馆和体育馆之间有一个学生中心。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Join the Summer Action at the Health Centre right now.",
+   "zh": "现在就来健康中心参加“夏日行动”吧。",
+   "src": "2025 洛阳二模"
+  }
+ },
+ "gym": {
+  "tb": {
+   "en": "There is a student centre between the library and the gym.",
+   "zh": "图书馆和体育馆之间有一个学生中心。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Pedal power can be seen in schools, gyms, and homes.",
+   "zh": "在学校、健身房和家里都能看到脚踏发电。",
+   "src": "2023年河南中考"
+  }
+ },
+ "field": {
+  "tb": {
+   "en": "There are some trees in front of the sports field.",
+   "zh": "运动场前面有一些树。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "That's a very interesting field too!",
+   "zh": "那也是一个非常有趣的领域！",
+   "src": "2023年河南中考"
+  }
+ },
+ "sports-field": {
+  "tb": {
+   "en": "There's a large sports field next to the teachers' building.",
+   "zh": "教师楼旁边有一个大运动场。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Every morning, students run around the sports field before class.",
+   "zh": "每天早上上课前，学生们绕着运动场跑步。",
+   "src": "拓展"
+  }
+ },
+ "office": {
+  "tb": {
+   "en": "Her office is in the teachers' building.",
+   "zh": "她的办公室在教师楼里。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "When I got to the nurse's office, I sat thinking.",
+   "zh": "我到了校医室，坐在那儿想事情。",
+   "src": "2025 河南模拟"
+  }
+ },
+ "large": {
+  "tb": {
+   "en": "There's a large sports field next to the teachers' building.",
+   "zh": "教师楼旁边有一个大运动场。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In the large yard stood thirteen trees of different sizes.",
+   "zh": "大院子里立着十三棵大小不一的树。",
+   "src": "2022年河南中考"
+  }
+ },
+ "special": {
+  "tb": {
+   "en": "It's a special way to start the week.",
+   "zh": "这是开始新一周的一种特别方式。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "How was Stephen's special ability shown at the beginning of the story?",
+   "zh": "故事开头是怎样展示斯蒂芬的特殊才能的？",
+   "src": "2025年河南中考"
+  }
+ },
+ "smart": {
+  "tb": {
+   "en": "In his classroom, the smart whiteboard is next to the blackboard.",
+   "zh": "在他的教室里，智能白板在黑板旁边。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "One smart way to fight back is to break big tasks into tiny pieces.",
+   "zh": "一个聪明的应对办法是把大任务拆成小块。",
+   "src": "2025年河南中考"
+  }
+ },
+ "whiteboard": {
+  "tb": {
+   "en": "Students put important notices on the smart whiteboard.",
+   "zh": "学生们把重要通知放在智能白板上。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The teacher wrote the new words on the whiteboard and asked us to read them aloud.",
+   "zh": "老师把新单词写在白板上，让我们大声朗读。",
+   "src": "拓展"
+  }
+ },
+ "put-up": {
+  "tb": {
+   "en": "Yes, we put up important notices there.",
+   "zh": "是的，我们在那里张贴重要通知。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The students put up posters to tell everyone about the school art festival.",
+   "zh": "学生们张贴海报，告诉大家学校艺术节的消息。",
+   "src": "拓展"
+  }
+ },
+ "important": {
+  "tb": {
+   "en": "It's important to get people's names right.",
+   "zh": "把别人的名字叫对很重要。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "But, of course, it's also important not to spread yourself too thin.",
+   "zh": "不过当然，不要同时做太多事、分散精力也很重要。",
+   "src": "2026 周口模拟"
+  }
+ },
+ "notice": {
+  "tb": {
+   "en": "Students put important notices on the smart whiteboard.",
+   "zh": "学生们把重要通知放在智能白板上。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Did you notice how nature sometimes repeats itself?",
+   "zh": "你有没有注意到，大自然有时会重复自己？",
+   "src": "2026年河南中考"
+  }
+ },
+ "locker": {
+  "tb": {
+   "en": "Are there any lockers in the classroom?",
+   "zh": "教室里有储物柜吗？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Each student has a locker to keep books and sports clothes.",
+   "zh": "每个学生都有一个储物柜，用来放书和运动服。",
+   "src": "拓展"
+  }
+ },
+ "drawer": {
+  "tb": {
+   "en": "We put our things in the desk drawers.",
+   "zh": "我们把东西放在课桌抽屉里。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "She opened the drawer and found an old letter from her grandfather.",
+   "zh": "她打开抽屉，发现了一封爷爷写的旧信。",
+   "src": "拓展"
+  }
+ },
+ "at-the-back": {
+  "tb": {
+   "en": "Peter sits at the back of the classroom.",
+   "zh": "彼得坐在教室后排。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "There is a small garden at the back of our school where students grow vegetables.",
+   "zh": "我们学校后面有个小菜园，学生们在那里种菜。",
+   "src": "拓展"
+  }
+ },
+ "corner": {
+  "tb": {
+   "en": "There is a reading corner in our classroom.",
+   "zh": "我们教室里有一个读书角。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "As their car disappeared around the corner, I realized I was all on my own.",
+   "zh": "当他们的车消失在拐角处时，我意识到只剩我一个人了。",
+   "src": "2026 驻马店二模"
+  }
+ },
+ "bookcase": {
+  "tb": {
+   "en": "Where are the bookcases?",
+   "zh": "书架在哪里？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The bookcase in the corner is full of storybooks donated by students.",
+   "zh": "角落里的书架上摆满了学生们捐的故事书。",
+   "src": "拓展"
+  }
+ },
+ "screen": {
+  "tb": {
+   "en": "There's a screen on the wall.",
+   "zh": "墙上有一块屏幕。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Many students are spending too much time in front of screens, especially during online classes.",
+   "zh": "很多学生在屏幕前花的时间太多了，上网课时尤其如此。",
+   "src": "2022年河南中考"
+  }
+ },
+ "at-school": {
+  "tb": {
+   "en": "Do you like to make new friends at school?",
+   "zh": "你喜欢在学校交新朋友吗？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It won first prize at school, then district, then national level!",
+   "zh": "它先在学校、然后在区里、最后在全国都拿了一等奖！",
+   "src": "2026年河南中考"
+  }
+ },
+ "different-from": {
+  "tb": {
+   "en": "How is your new school different from your old one?",
+   "zh": "你的新学校和以前的学校有什么不同？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In China, shaobing can be very different from place to place.",
+   "zh": "在中国，烧饼在不同地方可能很不一样。",
+   "src": "2026 商丘预测"
+  }
+ },
+ "modern": {
+  "tb": {
+   "en": "There are many modern buildings.",
+   "zh": "有许多现代化的建筑。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In modern society, too much light has started to influence the environment.",
+   "zh": "在现代社会，过多的灯光已经开始影响环境。",
+   "src": "2026 濮阳模拟卷"
+  }
+ },
+ "do-exercises": {
+  "tb": {
+   "en": "All the students go there and do exercises together in the morning.",
+   "zh": "早上全体学生都去那里一起做操。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Doing exercises for half an hour every day helps students stay healthy.",
+   "zh": "每天锻炼半小时有助于学生保持健康。",
+   "src": "拓展"
+  }
+ },
+ "amazing": {
+  "tb": {
+   "en": "Stay as amazing as you are, my dear friend.",
+   "zh": "亲爱的朋友，愿你一直这么棒。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "China's natural beauty is also amazing.",
+   "zh": "中国的自然风光也令人惊叹。",
+   "src": "2025 鹤壁一模"
+  }
+ },
+ "raise": {
+  "tb": {
+   "en": "Every Monday we raise the flag there.",
+   "zh": "每周一我们在那里升旗。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "They brainstormed ideas on how to raise awareness and gather more donations for the food bank.",
+   "zh": "他们集思广益，想办法提高人们的关注度，为食物银行募集更多捐赠。",
+   "src": "2025 郑州三模"
+  }
+ },
+ "flag": {
+  "tb": {
+   "en": "Every Monday we raise the flag there.",
+   "zh": "每周一我们在那里升旗。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Red is the color of the national flag of our country.",
+   "zh": "红色是我们国家国旗的颜色。",
+   "src": "2025 新乡三模"
+  }
+ },
+ "most": {
+  "tb": {
+   "en": "We spend most of the time in our classroom.",
+   "zh": "我们大部分时间待在教室里。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Which group of people is most likely to be interested in this text?",
+   "zh": "哪类人最有可能对这篇文章感兴趣？",
+   "src": "2025 洛阳模拟"
+  }
+ },
+ "change": {
+  "tb": {
+   "en": "Every week, we change seats.",
+   "zh": "我们每周换座位。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "With the help of the government, great changes have taken place in many old villages.",
+   "zh": "在政府的帮助下，许多老村庄发生了巨大的变化。",
+   "src": "2024年河南中考"
+  }
+ },
+ "seat": {
+  "tb": {
+   "en": "Every week, we change seats.",
+   "zh": "我们每周换座位。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Joey's father said he could help make a seat around the tree.",
+   "zh": "乔伊的爸爸说他可以帮忙在树周围做一圈座椅。",
+   "src": "2022年河南中考"
+  }
+ },
+ "delicious": {
+  "tb": {
+   "en": "They make delicious jiaozi.",
+   "zh": "他们包的饺子很好吃。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Here are three easy and delicious recipes for you.",
+   "zh": "这里有三个简单又美味的菜谱送给你。",
+   "src": "2026 河南调研"
+  }
+ },
+ "how-about": {
+  "tb": {
+   "en": "How about a surprise party for them?",
+   "zh": "给他们办个惊喜派对怎么样？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "—I don't know where to go. —How about my hometown?",
+   "zh": "——我不知道去哪儿。——去我的家乡怎么样？",
+   "src": "改编自2024年河南中考"
+  }
+ },
+ "yours": {
+  "tb": {
+   "en": "How is Peter's school similar to yours?",
+   "zh": "彼得的学校和你的学校有什么相似之处？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "My pen is broken. Can I use yours for a minute?",
+   "zh": "我的钢笔坏了。能借你的用一会儿吗？",
+   "src": "拓展"
+  }
+ },
+ "send": {
+  "tb": {
+   "en": "Thanks for your email.",
+   "zh": "谢谢你的邮件。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The writer sent the pecans to his neighbors.",
+   "zh": "作者把山核桃送给了邻居们。",
+   "src": "2023年河南中考"
+  }
+ },
+ "similar": {
+  "tb": {
+   "en": "How is Peter's school similar to yours?",
+   "zh": "彼得的学校和你的学校有什么相似之处？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "This means that close friends may have a similar sense of smell.",
+   "zh": "这意味着好朋友可能有相似的嗅觉。",
+   "src": "2025 濮阳模拟"
+  }
+ },
+ "similar-to": {
+  "tb": {
+   "en": "How is Peter's school similar to yours?",
+   "zh": "彼得的学校和你的学校有什么相似之处？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "My new school is similar to my old one, but it has a bigger library.",
+   "zh": "我的新学校和以前的学校很像，只是图书馆更大。",
+   "src": "拓展"
+  }
+ },
+ "sound": {
+  "tb": {
+   "en": "Your school sounds fun!",
+   "zh": "你们学校听起来很有趣！",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Keep a pen close by so you can mark any lines or words that sound difficult.",
+   "zh": "手边放一支笔，这样你可以标出听起来难懂的句子或词语。",
+   "src": "2022年河南中考"
+  }
+ },
+ "bye-for-now": {
+  "tb": {
+   "en": "Bye for now, Flora.",
+   "zh": "先聊到这里，弗洛拉，再见。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "That's all for my news. Write back soon. Bye for now!",
+   "zh": "我的近况就是这些。早点回信哦。先说到这儿，再见！",
+   "src": "拓展"
+  }
+ },
+ "biology": {
+  "tb": {
+   "en": "Biology is difficult but important.",
+   "zh": "生物很难，但很重要。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In biology class, we learn how plants grow and how animals live.",
+   "zh": "生物课上，我们学习植物如何生长、动物如何生活。",
+   "src": "拓展"
+  }
+ },
+ "it": {
+  "tb": {
+   "en": "This term, I have subjects like Chinese, history, maths, English, PE, and IT.",
+   "zh": "这学期我有语文、历史、数学、英语、体育和信息技术等科目。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In IT class, students learn how to use computers safely.",
+   "zh": "在信息技术课上，学生们学习如何安全地使用电脑。",
+   "src": "拓展"
+  }
+ },
+ "geography": {
+  "tb": {
+   "en": "I have art and geography today.",
+   "zh": "我今天有美术课和地理课。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "I like geography because it helps me understand the world.",
+   "zh": "我喜欢地理，因为它帮我了解这个世界。",
+   "src": "拓展"
+  }
+ },
+ "history": {
+  "tb": {
+   "en": "I have history on Tuesday mornings.",
+   "zh": "我周二上午有历史课。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "I'm really interested in Henan's history and culture.",
+   "zh": "我对河南的历史和文化非常感兴趣。",
+   "src": "2026年河南中考"
+  }
+ },
+ "boring": {
+  "tb": {
+   "en": "I love my drama club—it's never boring.",
+   "zh": "我喜欢我的戏剧社——它从来都不无聊。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "You may feel that math is difficult and boring.",
+   "zh": "你可能觉得数学又难又枯燥。",
+   "src": "2025 河南三模"
+  }
+ },
+ "useful": {
+  "tb": {
+   "en": "Maths is very useful in our life.",
+   "zh": "数学在我们的生活中非常有用。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Here is some useful information about planning a school visit to Kew Gardens.",
+   "zh": "这里有一些关于计划学校参观邱园的有用信息。",
+   "src": "2023年河南中考"
+  }
+ },
+ "exciting": {
+  "tb": {
+   "en": "Because it's exciting to learn about the past.",
+   "zh": "因为了解过去令人兴奋。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It offers exciting flashcards and activities to improve your children's vocabulary.",
+   "zh": "它提供有趣的单词卡和活动，帮助孩子扩大词汇量。",
+   "src": "2025 郑州一模"
+  }
+ },
+ "past": {
+  "tb": {
+   "en": "Because it's exciting to learn about the past.",
+   "zh": "因为了解过去令人兴奋。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In the past, many foreigners held some misunderstandings and wrong opinions of China.",
+   "zh": "过去，很多外国人对中国有一些误解和错误的看法。",
+   "src": "2025 鹤壁一模"
+  }
+ },
+ "good-with": {
+  "tb": {
+   "en": "I like it because I'm good with numbers.",
+   "zh": "我喜欢它，因为我擅长和数字打交道。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Are you good with your hands? Join our model club and make something cool!",
+   "zh": "你手巧吗？加入我们的模型社，做点酷东西吧！",
+   "src": "拓展"
+  }
+ },
+ "number": {
+  "tb": {
+   "en": "I like it because I'm good with numbers.",
+   "zh": "我喜欢它，因为我擅长和数字打交道。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Pay is based on the number of people who read your articles.",
+   "zh": "报酬根据读你文章的人数来定。",
+   "src": "2025 南阳三模"
+  }
+ },
+ "help-sb-with": {
+  "tb": {
+   "en": "He often helps me with my English.",
+   "zh": "他经常帮我学英语。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "My grandma lives alone and a robot could help her with housework.",
+   "zh": "我奶奶一个人住，机器人可以帮她做家务。",
+   "src": "2026 南阳预测"
+  }
+ },
+ "reason": {
+  "tb": {
+   "en": "Tell your partner the reason why you like the subject.",
+   "zh": "告诉你的搭档你喜欢这门课的原因。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "She told Joey to find the reason why it was sad.",
+   "zh": "她让乔伊去找出它难过的原因。",
+   "src": "2022年河南中考"
+  }
+ },
+ "good-at": {
+  "tb": {
+   "en": "I'm not good at science, but I like the class very much.",
+   "zh": "我不擅长科学，但我非常喜欢这门课。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "If your mom is good at sports, you might be too!",
+   "zh": "如果你妈妈擅长运动，你可能也会擅长！",
+   "src": "2025 鹤壁一模"
+  }
+ },
+ "remember": {
+  "tb": {
+   "en": "But remember, you have to be a good listener before you can ask good questions.",
+   "zh": "但记住，要先做个好的倾听者，才能问出好问题。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Remember, bullies only get away with it when we let them.",
+   "zh": "记住，只有我们纵容，欺负人的人才能得逞。",
+   "src": "2025 洛阳模拟"
+  }
+ },
+ "as": {
+  "tb": {
+   "en": "My father's name is the same as my grandfather's.",
+   "zh": "我父亲的名字和我祖父的一样。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "As long as a student pedals the bicycle, electricity moves through the generator.",
+   "zh": "只要学生踩动自行车，电流就会通过发电机。",
+   "src": "2023年河南中考"
+  }
+ },
+ "am": {
+  "tb": {
+   "en": "I usually get up at 6:30 a.m.",
+   "zh": "我通常早上 6:30 起床。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The museum opens at 9:00 a.m. and closes at 5:00 p.m. every day.",
+   "zh": "博物馆每天上午 9:00 开门，下午 5:00 关门。",
+   "src": "拓展"
+  }
+ },
+ "pm": {
+  "tb": {
+   "en": "He usually goes to bed at 9:30 p.m.",
+   "zh": "他通常晚上 9:30 睡觉。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The talk will start at 3:30 p.m. next Thursday in the school hall.",
+   "zh": "讲座将于下周四下午 3:30 在学校礼堂开始。",
+   "src": "拓展"
+  }
+ },
+ "french": {
+  "tb": {
+   "en": "I can't speak French, but I'd like to learn.",
+   "zh": "我不会说法语，但我想学。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "She can speak English, French and some Chinese, so she often helps foreign visitors.",
+   "zh": "她会说英语、法语和一些汉语，所以经常帮助外国游客。",
+   "src": "拓展"
+  }
+ },
+ "excellent": {
+  "tb": {
+   "en": "My music teacher is excellent.",
+   "zh": "我的音乐老师非常优秀。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The play was excellent, and it was over too quickly.",
+   "zh": "这出戏精彩极了，可惜结束得太快了。",
+   "src": "2026年河南中考"
+  }
+ },
+ "instrument": {
+  "tb": {
+   "en": "He lets us play all kinds of interesting instruments.",
+   "zh": "他让我们演奏各种有趣的乐器。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "They use scientific instruments to study weather conditions around the world.",
+   "zh": "他们使用科学仪器研究世界各地的天气状况。",
+   "src": "2024年河南中考"
+  }
+ },
+ "singer": {
+  "tb": {
+   "en": "I want to be a singer in the future.",
+   "zh": "我将来想当一名歌手。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "This is why singers sometimes put one hand on their ear when they sing.",
+   "zh": "这就是为什么歌手唱歌时有时会把一只手放在耳朵上。",
+   "src": "2026 平顶山调研"
+  }
+ },
+ "future": {
+  "tb": {
+   "en": "Maths is very useful in our life, and I want to be a scientist in the future.",
+   "zh": "数学在生活中很有用，我将来想当科学家。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "So have you ever wondered what future jobs might be wanted?",
+   "zh": "那么，你有没有想过未来可能需要什么样的工作？",
+   "src": "2024年河南中考"
+  }
+ },
+ "in-the-future": {
+  "tb": {
+   "en": "I want to be a singer in the future.",
+   "zh": "我将来想当一名歌手。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "What may the boy want to be in the future?",
+   "zh": "这个男孩将来可能想做什么？",
+   "src": "2026 南阳预测"
+  }
+ },
+ "term": {
+  "tb": {
+   "en": "This term, I have subjects like Chinese, history, maths, English, PE, and IT.",
+   "zh": "这学期我有语文、历史、数学、英语、体育和信息技术等科目。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "At the beginning of the new term, our class made a plan for reading more books.",
+   "zh": "新学期开始时，我们班制订了多读书的计划。",
+   "src": "拓展"
+  }
+ },
+ "work-out": {
+  "tb": {
+   "en": "We learn how to work out maths problems in class.",
+   "zh": "我们在课上学习如何解数学题。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "We don't have to concentrate to work out what's going on.",
+   "zh": "我们不需要集中注意力就能弄明白发生了什么。",
+   "src": "2025 郑州二模"
+  }
+ },
+ "problem": {
+  "tb": {
+   "en": "We learn how to work out maths problems in class.",
+   "zh": "我们在课上学习如何解数学题。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "How could he solve his problem according to the text?",
+   "zh": "根据短文，他怎样才能解决他的问题？",
+   "src": "2025年河南中考"
+  }
+ },
+ "in-class": {
+  "tb": {
+   "en": "We learn how to work out maths problems in class.",
+   "zh": "我们在课上学习如何解数学题。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "For students, it became much harder to focus in class.",
+   "zh": "对学生来说，在课堂上集中注意力变得难多了。",
+   "src": "2026 周口联考"
+  }
+ },
+ "magic": {
+  "tb": {
+   "en": "It feels like magic and is really fun.",
+   "zh": "这感觉像魔法一样，真的很有趣。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Why did Mark and Jenny decide to take the magic of Christmas home?",
+   "zh": "马克和珍妮为什么决定把圣诞节的魔力带回家？",
+   "src": "2025 郑州一模"
+  }
+ },
+ "life": {
+  "tb": {
+   "en": "Maths is very useful in our life.",
+   "zh": "数学在我们的生活中非常有用。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "A butterfly begins life as an egg.",
+   "zh": "蝴蝶的生命从一颗卵开始。",
+   "src": "2026年河南中考"
+  }
+ },
+ "scientist": {
+  "tb": {
+   "en": "Maths is very useful in our life, and I want to be a scientist in the future.",
+   "zh": "数学在生活中很有用，我将来想当科学家。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Scientists find that people usually don't like their recorded voices at first.",
+   "zh": "科学家发现，人们起初通常不喜欢自己被录下来的声音。",
+   "src": "2026 平顶山调研"
+  }
+ },
+ "both": {
+  "tb": {
+   "en": "What subjects do Mike and Binbin both have?",
+   "zh": "迈克和彬彬都有哪些科目？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Both sides were strong and fans believed their match must be very great.",
+   "zh": "双方实力都很强，球迷们相信这场比赛一定很精彩。",
+   "src": "2026 信阳模拟"
+  }
+ },
+ "canada": {
+  "tb": {
+   "en": "I'm from Canada.",
+   "zh": "我来自加拿大。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "How long has Brian been in Canada?",
+   "zh": "布赖恩在加拿大待了多久了？",
+   "src": "2025 焦作二模"
+  }
+ },
+ "club": {
+  "tb": {
+   "en": "I love my drama club—it's never boring.",
+   "zh": "我喜欢我的戏剧社——它从来都不无聊。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "While lining up, she noticed a colorful poster for several after-school clubs.",
+   "zh": "排队时，她注意到一张介绍几个课后社团的彩色海报。",
+   "src": "2026 驻马店二模"
+  }
+ },
+ "join": {
+  "tb": {
+   "en": "I want to join the chess club.",
+   "zh": "我想加入国际象棋社。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "When did the speaker join the study group?",
+   "zh": "说话人是什么时候加入学习小组的？",
+   "src": "2026年河南中考"
+  }
+ },
+ "choose": {
+  "tb": {
+   "en": "How do you choose a school club?",
+   "zh": "你怎样选择学校社团？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "You may choose a poetic form that you find easy.",
+   "zh": "你可以选择一种你觉得简单的诗歌形式。",
+   "src": "2022年河南中考"
+  }
+ },
+ "drama": {
+  "tb": {
+   "en": "My name is Lin Hua, and I want to join the drama club.",
+   "zh": "我叫林华，我想加入戏剧社。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Do you dream of being an actor or actress? Join our Drama Club!",
+   "zh": "你梦想成为一名演员吗？来加入我们的戏剧社吧！",
+   "src": "改编自2026 周口模拟"
+  }
+ },
+ "play-chinese-chess": {
+  "tb": {
+   "en": "Can you play Chinese chess?",
+   "zh": "你会下中国象棋吗？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Many old people play Chinese chess in the park after breakfast.",
+   "zh": "很多老人吃过早饭后在公园里下中国象棋。",
+   "src": "拓展"
+  }
+ },
+ "feeling": {
+  "tb": {
+   "en": "Can you read these words with feeling?",
+   "zh": "你能有感情地朗读这些词吗？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "You can also reach out to a friend who might be feeling sad.",
+   "zh": "你也可以主动去关心一个可能正感到难过的朋友。",
+   "src": "2026 驻马店二模"
+  }
+ },
+ "news": {
+  "tb": {
+   "en": "I often listen to the news or music.",
+   "zh": "我经常听新闻或音乐。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Joey ran inside to tell the good news to his family.",
+   "zh": "乔伊跑进屋里，把好消息告诉家人。",
+   "src": "2022年河南中考"
+  }
+ },
+ "musical": {
+  "tb": {
+   "en": "Emma can sing well, but she can't play any musical instruments.",
+   "zh": "埃玛唱歌很好，但她不会演奏任何乐器。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "What musical instrument can the girl play?",
+   "zh": "这个女孩会演奏什么乐器？",
+   "src": "2026年河南中考"
+  }
+ },
+ "musical-instrument": {
+  "tb": {
+   "en": "Emma can sing well, but she can't play any musical instruments.",
+   "zh": "埃玛唱歌很好，但她不会演奏任何乐器。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "What musical instrument can the girl play?",
+   "zh": "这个女孩会演奏什么乐器？",
+   "src": "2026年河南中考"
+  }
+ },
+ "exactly": {
+  "tb": {
+   "en": "—So you can play the guitar? —Exactly!",
+   "zh": "——那你会弹吉他吗？——没错！",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "As for what exactly he wanted us to do, we hardly paid attention.",
+   "zh": "至于他到底想让我们做什么，我们几乎没注意。",
+   "src": "2026 新乡模拟"
+  }
+ },
+ "violin": {
+  "tb": {
+   "en": "She can play the violin, right?",
+   "zh": "她会拉小提琴，对吧？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Every evening, my sister practises the violin for an hour.",
+   "zh": "每天晚上，我姐姐都练一小时小提琴。",
+   "src": "拓展"
+  }
+ },
+ "drum": {
+  "tb": {
+   "en": "I can play the drums.",
+   "zh": "我会打鼓。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The sound of the drums made the festival even more exciting.",
+   "zh": "鼓声让节日更加热闹了。",
+   "src": "拓展"
+  }
+ },
+ "ability": {
+  "tb": {
+   "en": "I can talk about people's abilities using can.",
+   "zh": "我能用 can 谈论人们的能力。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "If Tina wants to show her dancing ability, where should she go?",
+   "zh": "如果蒂娜想展示她的舞蹈才能，她应该去哪里？",
+   "src": "2024年河南中考"
+  }
+ },
+ "paint": {
+  "tb": {
+   "en": "I can paint, and I want to join the art club.",
+   "zh": "我会画画，我想加入美术社。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Besides landscapes, Wu also learned a lot in painting human figures.",
+   "zh": "除了山水画，吴道子在人物画方面也学到了很多。",
+   "src": "2025年河南中考"
+  }
+ },
+ "climb": {
+  "tb": {
+   "en": "A cat can climb trees.",
+   "zh": "猫会爬树。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "A moment later, the squirrel climbed down to the ground to pick another pecan.",
+   "zh": "过了一会儿，松鼠爬下树，又去捡了一颗山核桃。",
+   "src": "2023年河南中考"
+  }
+ },
+ "even": {
+  "tb": {
+   "en": "She can speak English, French, and even some Chinese.",
+   "zh": "她会说英语、法语，甚至还会说一些汉语。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Some insects even sleep under the leaf that will be their next meal.",
+   "zh": "有些昆虫甚至睡在将成为它们下一顿饭的叶子下面。",
+   "src": "2022年河南中考"
+  }
+ },
+ "more": {
+  "tb": {
+   "en": "As you listen, think of more questions to ask.",
+   "zh": "边听边想想还可以问哪些问题。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "When you are exposed to sunlight, your body will make more serotonin.",
+   "zh": "当你晒太阳时，身体会分泌更多的血清素。",
+   "src": "2025年河南中考"
+  }
+ },
+ "act": {
+  "tb": {
+   "en": "I often act out stories with my brother at home.",
+   "zh": "我经常在家和弟弟一起表演故事。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Our teachers will give you advice on how to improve your acting skills.",
+   "zh": "我们的老师会就如何提高表演技巧给你建议。",
+   "src": "2026 周口模拟"
+  }
+ },
+ "act-out": {
+  "tb": {
+   "en": "We act out stories, talk about books, and make new friends.",
+   "zh": "我们表演故事、谈论书籍、结交新朋友。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In English class, we often act out the dialogues in groups.",
+   "zh": "英语课上，我们经常分组表演对话。",
+   "src": "拓展"
+  }
+ },
+ "at-home": {
+  "tb": {
+   "en": "I often act out stories with my brother at home.",
+   "zh": "我经常在家和弟弟一起表演故事。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It is important for teenagers to do housework at home.",
+   "zh": "青少年在家做家务很重要。",
+   "src": "2026 河南联考"
+  }
+ },
+ "interested": {
+  "tb": {
+   "en": "I'm interested in nature.",
+   "zh": "我对大自然感兴趣。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Which group of people is most likely to be interested in this text?",
+   "zh": "哪类人最有可能对这篇文章感兴趣？",
+   "src": "2025 洛阳模拟"
+  }
+ },
+ "interested-in": {
+  "tb": {
+   "en": "I'm interested in nature.",
+   "zh": "我对大自然感兴趣。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "I'm really interested in Henan's history and culture.",
+   "zh": "我对河南的历史和文化非常感兴趣。",
+   "src": "2026年河南中考"
+  }
+ },
+ "nature": {
+  "tb": {
+   "en": "What do you want to do in a nature club?",
+   "zh": "你想在自然社团里做什么？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "If you are looking for some signs of the weather, pay attention to nature.",
+   "zh": "如果你想寻找天气变化的迹象，就多留意大自然。",
+   "src": "2024年河南中考"
+  }
+ },
+ "hike": {
+  "tb": {
+   "en": "I love hiking, and I can read maps.",
+   "zh": "我喜欢徒步，还会看地图。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Family members go hiking, fly kites and have a picnic in the parks.",
+   "zh": "家人们在公园里徒步、放风筝、野餐。",
+   "src": "2025 郑州三模"
+  }
+ },
+ "beef": {
+  "tb": {
+   "en": "My favourite food is beef noodles.",
+   "zh": "我最喜欢的食物是牛肉面。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Beef noodles are a popular breakfast in many cities in China.",
+   "zh": "牛肉面是中国很多城市流行的早餐。",
+   "src": "拓展"
+  }
+ },
+ "soon": {
+  "tb": {
+   "en": "It's Ella and Emma's birthday soon.",
+   "zh": "埃拉和埃玛的生日快到了。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It will soon come true for many people.",
+   "zh": "这对许多人来说很快就会实现。",
+   "src": "2024年河南中考"
+  }
+ },
+ "than": {
+  "tb": {
+   "en": "It's more than reading.",
+   "zh": "它不仅仅是读书。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The light in a house is usually less than that outside on a sunny day.",
+   "zh": "晴天时，室内的光线通常比室外少。",
+   "src": "2025年河南中考"
+  }
+ },
+ "more-than": {
+  "tb": {
+   "en": "It's more than reading.",
+   "zh": "它不仅仅是读书。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Always give more than you receive, and think more of others than of yourself.",
+   "zh": "付出永远要多于索取，多为别人着想，少为自己打算。",
+   "src": "2025 河南一模"
+  }
+ },
+ "mind": {
+  "tb": {
+   "en": "Books can open your mind and make you think.",
+   "zh": "书能开阔你的思路，让你思考。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "From then on, he was no longer afraid to speak out his mind.",
+   "zh": "从那以后，他不再害怕说出自己的想法。",
+   "src": "2026 河南调研"
+  }
+ },
+ "fall": {
+  "tb": {
+   "en": "Come to the library on Tuesdays after school and fall in love with books!",
+   "zh": "每周二放学后来图书馆，爱上读书吧！",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Falling air pressure may influence birds' ears, so they fly low.",
+   "zh": "气压下降可能会影响鸟的耳朵，所以它们飞得很低。",
+   "src": "2024年河南中考"
+  }
+ },
+ "fall-in-love-with": {
+  "tb": {
+   "en": "Come to the library on Tuesdays after school and fall in love with books!",
+   "zh": "每周二放学后来图书馆，爱上读书吧！",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "What made Dora fall in love with the guitar?",
+   "zh": "是什么让多拉爱上了吉他？",
+   "src": "2026 驻马店二模"
+  }
+ },
+ "take-photos": {
+  "tb": {
+   "en": "We watch birds, take photos, and collect plants and insects.",
+   "zh": "我们观鸟、拍照、采集植物和昆虫。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Now, I take photos of plants and small animals everywhere I go.",
+   "zh": "现在，我走到哪里就拍到哪里的植物和小动物。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "collect": {
+  "tb": {
+   "en": "We watch birds, take photos, and collect plants and insects.",
+   "zh": "我们观鸟、拍照、采集植物和昆虫。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Collect anything you haven't used for at least a year and sell it.",
+   "zh": "把至少一年没用过的东西收集起来卖掉。",
+   "src": "2025 南阳三模"
+  }
+ },
+ "insect": {
+  "tb": {
+   "en": "We watch birds, take photos, and collect plants and insects.",
+   "zh": "我们观鸟、拍照、采集植物和昆虫。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Some insects even sleep under the leaf that will be their next meal.",
+   "zh": "有些昆虫甚至睡在将成为它们下一顿饭的叶子下面。",
+   "src": "2022年河南中考"
+  }
+ },
+ "discover": {
+  "tb": {
+   "en": "Discover wildlife right under your nose!",
+   "zh": "发现就在你身边的野生动物！",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In fact, there is more science about sunlight for you to discover.",
+   "zh": "事实上，关于阳光还有更多科学等你去发现。",
+   "src": "2025年河南中考"
+  }
+ },
+ "wildlife": {
+  "tb": {
+   "en": "Discover wildlife right under your nose!",
+   "zh": "发现就在你身边的野生动物！",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Leo suggested that they do this every month and help protect wildlife.",
+   "zh": "利奥建议他们每个月都这样做，帮助保护野生动物。",
+   "src": "2026 河南模拟卷"
+  }
+ },
+ "make-use-of": {
+  "tb": {
+   "en": "How can you make good use of your time?",
+   "zh": "你怎样才能好好利用时间？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "We should make use of every minute in class to learn new things.",
+   "zh": "我们应该利用课堂上的每一分钟学习新知识。",
+   "src": "拓展"
+  }
+ },
+ "quarter": {
+  "tb": {
+   "en": "A quarter past six.",
+   "zh": "六点一刻。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "They eat both meat and plants, but nearly three-quarters of their food is plants.",
+   "zh": "它们既吃肉也吃植物，但近四分之三的食物是植物。",
+   "src": "2025 新乡三模"
+  }
+ },
+ "shower": {
+  "tb": {
+   "en": "Oh, I usually take a shower at night.",
+   "zh": "哦，我通常晚上洗澡。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "After the football match, the players took a shower and changed their clothes.",
+   "zh": "足球赛结束后，队员们洗了澡，换了衣服。",
+   "src": "拓展"
+  }
+ },
+ "take-a-shower": {
+  "tb": {
+   "en": "Before that, I brush my teeth and take a shower.",
+   "zh": "在那之前，我刷牙、洗澡。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Taking a shower before bed can help you sleep better.",
+   "zh": "睡前洗个澡能帮助你睡得更好。",
+   "src": "拓展"
+  }
+ },
+ "get-dressed": {
+  "tb": {
+   "en": "I get dressed and go to school at 7:00.",
+   "zh": "我七点穿好衣服去上学。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "It was so cold that the little boy got dressed in a hurry and ran to the kitchen.",
+   "zh": "天太冷了，小男孩匆忙穿好衣服跑进了厨房。",
+   "src": "拓展"
+  }
+ },
+ "brush": {
+  "tb": {
+   "en": "Before that, I brush my teeth and take a shower.",
+   "zh": "在那之前，我刷牙、洗澡。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Draw Lots things usually include books, pens, rulers, brushes, money and toys.",
+   "zh": "抓周的物品通常有书、笔、尺子、毛笔、钱和玩具。",
+   "src": "改编自2025 郑州三模"
+  }
+ },
+ "tooth": {
+  "tb": {
+   "en": "I can still brush my teeth.",
+   "zh": "我还能自己刷牙。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Brush your teeth twice a day to keep them healthy.",
+   "zh": "每天刷两次牙，保持牙齿健康。",
+   "src": "拓展"
+  }
+ },
+ "duty": {
+  "tb": {
+   "en": "I'm on duty today.",
+   "zh": "我今天值日。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It's our duty to pass them down.",
+   "zh": "把它们传承下去是我们的责任。",
+   "src": "2025 新乡三模"
+  }
+ },
+ "on-duty": {
+  "tb": {
+   "en": "But you're on duty today!",
+   "zh": "但你今天值日呀！",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The students on duty clean the classroom after school every day.",
+   "zh": "值日生每天放学后打扫教室。",
+   "src": "拓展"
+  }
+ },
+ "usually": {
+  "tb": {
+   "en": "They usually take showers in the morning.",
+   "zh": "他们通常早上洗澡。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "People with SAD usually go through bad experiences such as low energy and sadness.",
+   "zh": "患有季节性情绪失调的人通常会经历精力不足、情绪低落等不好的状况。",
+   "src": "2025年河南中考"
+  }
+ },
+ "get-up": {
+  "tb": {
+   "en": "What time do you usually get up?",
+   "zh": "你通常几点起床？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Some people wanted to sleep for longer and found it hard to get up in the morning.",
+   "zh": "有些人想多睡一会儿，早上起床很困难。",
+   "src": "2026 周口联考"
+  }
+ },
+ "reporter": {
+  "tb": {
+   "en": "I'm Lu Jiaqi, a school reporter.",
+   "zh": "我是陆佳琪，一名校园小记者。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "A young reporter interviewed the volunteers who helped clean the river.",
+   "zh": "一位年轻记者采访了帮助清理河道的志愿者。",
+   "src": "拓展"
+  }
+ },
+ "around": {
+  "tb": {
+   "en": "Let me show you around.",
+   "zh": "我带你四处看看吧。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "They use scientific instruments to study weather conditions around the world.",
+   "zh": "他们使用科学仪器研究世界各地的天气状况。",
+   "src": "2024年河南中考"
+  }
+ },
+ "homework": {
+  "tb": {
+   "en": "When does Lisa do her homework?",
+   "zh": "莉萨什么时候做作业？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "He often forgot his homework, his lunch, and sometimes even his own pencil case.",
+   "zh": "他常常忘带作业、午饭，有时甚至连铅笔盒都忘了。",
+   "src": "2026 平顶山调研"
+  }
+ },
+ "go-to-bed": {
+  "tb": {
+   "en": "When do you usually go to bed?",
+   "zh": "你通常什么时候睡觉？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "When does the boy usually go to bed?",
+   "zh": "这个男孩通常什么时候睡觉？",
+   "src": "2022年河南中考"
+  }
+ },
+ "saying": {
+  "tb": {
+   "en": "Well, you know the saying, \"Early to bed, early to rise!\"",
+   "zh": "嗯，你知道那句谚语：“早睡早起！”",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "As the saying goes, practice makes perfect.",
+   "zh": "俗话说，熟能生巧。",
+   "src": "拓展"
+  }
+ },
+ "rise": {
+  "tb": {
+   "en": "Well, you know the saying, \"Early to bed, early to rise!\"",
+   "zh": "嗯，你知道那句谚语：“早睡早起！”",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The sea has rising and falling tides every day.",
+   "zh": "大海每天都有涨潮和落潮。",
+   "src": "2026年河南中考"
+  }
+ },
+ "stay": {
+  "tb": {
+   "en": "How long does Tom stay at school?",
+   "zh": "汤姆在学校待多长时间？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "People who stay indoors a lot should get outside in the sunshine.",
+   "zh": "经常待在室内的人应该出去晒晒太阳。",
+   "src": "2025年河南中考"
+  }
+ },
+ "routine": {
+  "tb": {
+   "en": "I can ask about daily routines with what time and when.",
+   "zh": "我能用 what time 和 when 询问日常作息。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "A good morning routine helps you start the day in a good mood.",
+   "zh": "良好的晨间习惯能让你心情愉快地开始一天。",
+   "src": "拓展"
+  }
+ },
+ "restaurant": {
+  "tb": {
+   "en": "At about 6:30, he sometimes goes to a restaurant with his family for dinner.",
+   "zh": "大约六点半，他有时和家人去餐馆吃晚饭。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The city will include space for work and housing, along with restaurants and shops.",
+   "zh": "这座城市将包括工作和居住的空间，还有餐馆和商店。",
+   "src": "2026 河南联考"
+  }
+ },
+ "housework": {
+  "tb": {
+   "en": "On Sunday mornings, Sam often helps his mother with housework.",
+   "zh": "星期天上午，萨姆经常帮妈妈做家务。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "My grandma lives alone and a robot could help her with housework.",
+   "zh": "我奶奶一个人住，机器人可以帮她做家务。",
+   "src": "2026 南阳预测"
+  }
+ },
+ "while": {
+  "tb": {
+   "en": "After dinner, he watches TV for a while.",
+   "zh": "晚饭后，他看一会儿电视。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Putting some music on while cleaning is a way, too.",
+   "zh": "打扫时放点音乐也是一个办法。",
+   "src": "2026年河南中考"
+  }
+ },
+ "weekend": {
+  "tb": {
+   "en": "I play basketball every weekend with my brother and my friends.",
+   "zh": "我每个周末都和哥哥、朋友们打篮球。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Have you got any plans for the weekend?",
+   "zh": "你周末有什么计划吗？",
+   "src": "2023年河南中考"
+  }
+ },
+ "at-weekends": {
+  "tb": {
+   "en": "What time do you usually get up at weekends?",
+   "zh": "你周末通常几点起床？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "At weekends, many families in our city go to the countryside to pick fruit.",
+   "zh": "周末，我们城市的许多家庭会去乡下摘水果。",
+   "src": "拓展"
+  }
+ },
+ "daily": {
+  "tb": {
+   "en": "I can talk about people's daily routines.",
+   "zh": "我能谈论人们的日常作息。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "I'd seen her exhausting daily training and extra hours spent in the pool.",
+   "zh": "我见过她每天累人的训练，以及在泳池里额外付出的时间。",
+   "src": "2025 河南模拟卷"
+  }
+ },
+ "daily-routine": {
+  "tb": {
+   "en": "I can ask about daily routines with what time and when.",
+   "zh": "我能用 what time 和 when 询问日常作息。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "A healthy daily routine includes enough sleep, exercise and study time.",
+   "zh": "健康的日常作息包括充足的睡眠、锻炼和学习时间。",
+   "src": "拓展"
+  }
+ },
+ "only": {
+  "tb": {
+   "en": "It's only seven o'clock.",
+   "zh": "才七点钟。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Because it was the only tree in the yard.",
+   "zh": "因为它是院子里唯一的一棵树。",
+   "src": "2022年河南中考"
+  }
+ },
+ "break": {
+  "tb": {
+   "en": "Each lesson is 45 minutes long, and there's a break between lessons.",
+   "zh": "每节课 45 分钟，课间有休息。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "One smart way to fight back is to break big tasks into tiny pieces.",
+   "zh": "一个聪明的应对办法是把大任务拆成小块。",
+   "src": "2025年河南中考"
+  }
+ },
+ "finnish": {
+  "tb": {
+   "en": "I have one Finnish lesson and two home economics lessons in the morning.",
+   "zh": "我上午有一节芬兰语课和两节家政课。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Finnish students usually have a short break after every lesson.",
+   "zh": "芬兰学生通常每节课后都有一个短暂的休息。",
+   "src": "拓展"
+  }
+ },
+ "finish": {
+  "tb": {
+   "en": "The afternoon lessons begin at 12:30 and finish at 2:15.",
+   "zh": "下午的课 12:30 开始，2:15 结束。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "He sharpened what was left of the pencil and finished his work.",
+   "zh": "他把剩下的那截铅笔削好，完成了作业。",
+   "src": "2026 洛阳仿真"
+  }
+ },
+ "hockey": {
+  "tb": {
+   "en": "I play ice hockey after school.",
+   "zh": "我放学后打冰球。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Our school hockey team won the city match last term.",
+   "zh": "我们学校的曲棍球队上学期赢得了市里的比赛。",
+   "src": "拓展"
+  }
+ },
+ "ice-hockey": {
+  "tb": {
+   "en": "I play ice hockey after school.",
+   "zh": "我放学后打冰球。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Ice hockey is very popular in cold countries like Canada and Finland.",
+   "zh": "冰球在加拿大、芬兰这样的寒冷国家非常受欢迎。",
+   "src": "拓展"
+  }
+ },
+ "already": {
+  "tb": {
+   "en": "It's already dark outside.",
+   "zh": "外面天已经黑了。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "A red sky at sunrise usually means that the clear weather has already passed.",
+   "zh": "日出时天空发红，通常意味着晴天已经过去了。",
+   "src": "2024年河南中考"
+  }
+ },
+ "dark": {
+  "tb": {
+   "en": "It's already dark outside.",
+   "zh": "外面天已经黑了。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "There are places where it gets dark for a long time in the winter.",
+   "zh": "有些地方冬天会长时间天黑。",
+   "src": "2025年河南中考"
+  }
+ },
+ "outside": {
+  "tb": {
+   "en": "It's already dark outside.",
+   "zh": "外面天已经黑了。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "People who stay indoors a lot should get outside in the sunshine.",
+   "zh": "经常待在室内的人应该出去晒晒太阳。",
+   "src": "2025年河南中考"
+  }
+ },
+ "part": {
+  "tb": {
+   "en": "That's an important part of my everyday life.",
+   "zh": "那是我日常生活中重要的一部分。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In which part of a magazine can you read the text?",
+   "zh": "你可以在杂志的哪个部分读到这篇文章？",
+   "src": "2022年河南中考"
+  }
+ },
+ "everyday": {
+  "tb": {
+   "en": "That's an important part of my everyday life.",
+   "zh": "那是我日常生活中重要的一部分。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "By the Han Dynasty, lacquerware became part of everyday life.",
+   "zh": "到了汉代，漆器已经成为日常生活的一部分。",
+   "src": "2025 焦作一模"
+  }
+ },
+ "prepare": {
+  "tb": {
+   "en": "I prepare breakfast for my family on Sundays.",
+   "zh": "星期天我给家人准备早饭。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Come prepared with your love of sports!",
+   "zh": "带着你对运动的热爱，做好准备来吧！",
+   "src": "2026年河南中考"
+  }
+ },
+ "prepare-sth-for": {
+  "tb": {
+   "en": "I prepare breakfast for my family on Sundays.",
+   "zh": "星期天我给家人准备早饭。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "And she also had to prepare meals for the whole family as her mum did before.",
+   "zh": "她还得像妈妈以前那样，为全家人准备饭菜。",
+   "src": "2022年河南中考"
+  }
+ },
+ "helsinki": {
+  "tb": {
+   "en": "I live with my parents in Helsinki, Finland.",
+   "zh": "我和父母住在芬兰赫尔辛基。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Helsinki is the capital of Finland, and it is beautiful in summer.",
+   "zh": "赫尔辛基是芬兰的首都，夏天非常美。",
+   "src": "拓展"
+  }
+ },
+ "finland": {
+  "tb": {
+   "en": "I live with my parents in Helsinki, Finland.",
+   "zh": "我和父母住在芬兰赫尔辛基。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In Finland, it gets dark very early in winter.",
+   "zh": "在芬兰，冬天天黑得很早。",
+   "src": "拓展"
+  }
+ },
+ "home-economics": {
+  "tb": {
+   "en": "I have one Finnish lesson and two home economics lessons in the morning.",
+   "zh": "我上午有一节芬兰语课和两节家政课。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In home economics class, students learn how to cook and look after a home.",
+   "zh": "在家政课上，学生学习如何做饭和打理家务。",
+   "src": "拓展"
+  }
+ },
+ "celebrate": {
+  "tb": {
+   "en": "We also celebrate the birthdays of our family and friends.",
+   "zh": "我们也给家人和朋友过生日。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "This can be a fun way to celebrate the day.",
+   "zh": "这可以是庆祝这一天的一种有趣方式。",
+   "src": "2026 河南模拟卷"
+  }
+ },
+ "surprise": {
+  "tb": {
+   "en": "How about a surprise party for them?",
+   "zh": "给他们办个惊喜派对怎么样？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Then he did something that surprised me.",
+   "zh": "接着他做了一件让我很惊讶的事。",
+   "src": "2023年河南中考"
+  }
+ },
+ "something": {
+  "tb": {
+   "en": "Next time, I also want to do something different.",
+   "zh": "下次我也想做点不一样的事。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Putting things off is something a lot of students are troubled with.",
+   "zh": "拖延是很多学生都为之苦恼的事情。",
+   "src": "2025年河南中考"
+  }
+ },
+ "sale": {
+  "tb": {
+   "en": "We have a sale today.",
+   "zh": "我们今天有促销。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "What's the purpose of the school sale?",
+   "zh": "学校义卖的目的是什么？",
+   "src": "2025 南阳联考"
+  }
+ },
+ "kilo": {
+  "tb": {
+   "en": "How many kilos do you want?",
+   "zh": "你要多少公斤？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "A black bear can get up to twenty kilograms of weight every week during this time.",
+   "zh": "在这段时间里，黑熊每周能增重多达二十公斤。",
+   "src": "2025 新乡三模"
+  }
+ },
+ "yogurt": {
+  "tb": {
+   "en": "How much is the yogurt?",
+   "zh": "酸奶多少钱？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Drinking a cup of yogurt after breakfast is good for your health.",
+   "zh": "早饭后喝一杯酸奶对健康有好处。",
+   "src": "拓展"
+  }
+ },
+ "total": {
+  "tb": {
+   "en": "What's the total?",
+   "zh": "一共多少钱？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The total cost of the trip is 300 yuan, including tickets and lunch.",
+   "zh": "这次旅行的总费用是 300 元，包括门票和午饭。",
+   "src": "拓展"
+  }
+ },
+ "price": {
+  "tb": {
+   "en": "What's the price of the apples?",
+   "zh": "苹果多少钱？",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "The price of the tickets is lower for students on weekdays.",
+   "zh": "工作日学生票的价格更便宜。",
+   "src": "拓展"
+  }
+ },
+ "balloon": {
+  "tb": {
+   "en": "We can buy some balloons for the party.",
+   "zh": "我们可以为派对买些气球。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "The children tied colorful balloons to the trees to decorate the yard.",
+   "zh": "孩子们把彩色气球系在树上装饰院子。",
+   "src": "拓展"
+  }
+ },
+ "chocolate": {
+  "tb": {
+   "en": "My mother always makes my favourite chocolate cake.",
+   "zh": "我妈妈总是给我做我最爱吃的巧克力蛋糕。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "There would be no ice cream, no chocolate, no cake.",
+   "zh": "那样就没有冰淇淋，没有巧克力，也没有蛋糕了。",
+   "src": "2025年河南中考"
+  }
+ },
+ "pizza": {
+  "tb": {
+   "en": "After practice, we often have pizza.",
+   "zh": "训练结束后，我们经常吃比萨。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Make your own pizza with the vegetables that you pick in the forest by yourself.",
+   "zh": "用你自己在森林里采的蔬菜做一个属于你的比萨吧。",
+   "src": "2025 郑州调研"
+  }
+ },
+ "list": {
+  "tb": {
+   "en": "List your favourite places in your school.",
+   "zh": "列出你在学校最喜欢的地方。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "By listing the reasons for terrible weather.",
+   "zh": "通过列举恶劣天气的原因。",
+   "src": "2024年河南中考"
+  }
+ },
+ "own": {
+  "tb": {
+   "en": "We celebrate our own birthdays.",
+   "zh": "我们庆祝自己的生日。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Each living thing has its own pattern as it grows.",
+   "zh": "每种生物在生长中都有自己的规律。",
+   "src": "2026年河南中考"
+  }
+ },
+ "example": {
+  "tb": {
+   "en": "Here is an example.",
+   "zh": "这里有一个例子。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "For example, you've got to write a five-page paper.",
+   "zh": "比如，你得写一篇五页的论文。",
+   "src": "2025年河南中考"
+  }
+ },
+ "for-example": {
+  "tb": {
+   "en": "For example, we celebrate William Shakespeare's birthday, 23rd April, as English Language Day.",
+   "zh": "例如，我们把莎士比亚的生日 4 月 23 日作为英语语言日来庆祝。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "For example, listen to your favorite song, or watch an interesting TV program.",
+   "zh": "比如，听听你最喜欢的歌，或者看一个有趣的电视节目。",
+   "src": "2025年河南中考"
+  }
+ },
+ "language": {
+  "tb": {
+   "en": "We celebrate William Shakespeare's birthday as English Language Day.",
+   "zh": "我们把莎士比亚的生日作为英语语言日来庆祝。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Art, music and even language were shared along this ancient road.",
+   "zh": "艺术、音乐甚至语言都沿着这条古道传播开来。",
+   "src": "2026 河南调研"
+  }
+ },
+ "international": {
+  "tb": {
+   "en": "And we celebrate International Nurses Day on 12th May.",
+   "zh": "我们在 5 月 12 日庆祝国际护士节。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Dorsa continues to train and hopes to take part in more international games.",
+   "zh": "多萨继续训练，希望参加更多国际比赛。",
+   "src": "2026 南阳预测"
+  }
+ },
+ "mark": {
+  "tb": {
+   "en": "My father marks my height on the door every year.",
+   "zh": "我爸爸每年在门上标出我的身高。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Keep a pen close by so you can mark any lines or words that sound difficult.",
+   "zh": "手边放一支笔，这样你可以标出听起来难懂的句子或词语。",
+   "src": "2022年河南中考"
+  }
+ },
+ "national": {
+  "tb": {
+   "en": "When is China's National Day?",
+   "zh": "中国的国庆节是哪一天？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It won first prize at school, then district, then national level!",
+   "zh": "它先在学校、然后在区里、最后在全国都拿了一等奖！",
+   "src": "2026年河南中考"
+  }
+ },
+ "found": {
+  "tb": {
+   "en": "PLA Day marks the founding of the Chinese People's Liberation Army.",
+   "zh": "建军节纪念中国人民解放军的建立。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Our school was founded in 1952, and it has a long history.",
+   "zh": "我们学校建于 1952 年，历史悠久。",
+   "src": "拓展"
+  }
+ },
+ "meaningful": {
+  "tb": {
+   "en": "How do you make your birthday meaningful?",
+   "zh": "你怎样让生日过得有意义？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Join us for a meaningful summer with other teenagers.",
+   "zh": "和其他青少年一起，来度过一个有意义的夏天吧。",
+   "src": "2025 洛阳二模"
+  }
+ },
+ "make-a-wish": {
+  "tb": {
+   "en": "Everyone sings the \"Happy Birthday\" song, and then I make a wish and blow out the candles.",
+   "zh": "大家一起唱《生日快乐》，然后我许个愿，吹灭蜡烛。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Before she blew out the candles, the little girl closed her eyes and made a wish.",
+   "zh": "吹蜡烛之前，小女孩闭上眼睛许了个愿。",
+   "src": "拓展"
+  }
+ },
+ "celebration": {
+  "tb": {
+   "en": "Long noodles are a symbol of long life in birthday celebrations.",
+   "zh": "在生日庆祝中，长面条象征长寿。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "When can you enjoy the celebrations for the Year of the Snake held in Shanghai Disneyland?",
+   "zh": "你什么时候可以去上海迪士尼享受蛇年的庆祝活动？",
+   "src": "2025 鹤壁一模"
+  }
+ },
+ "post": {
+  "tb": {
+   "en": "Read the two students' posts.",
+   "zh": "读一读这两个学生发的帖子。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "People who post the most popular video on YouTube can make thousands of dollars.",
+   "zh": "在视频网站上发布最受欢迎视频的人能挣好几千美元。",
+   "src": "2026 河南调研"
+  }
+ },
+ "contact": {
+  "tb": {
+   "en": "Contact me at the email below.",
+   "zh": "通过下面的邮箱联系我。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "If you have any questions, please contact our teacher by phone or email.",
+   "zh": "如有任何问题，请通过电话或邮件联系我们的老师。",
+   "src": "拓展"
+  }
+ },
+ "symbol": {
+  "tb": {
+   "en": "Long noodles are a symbol of long life.",
+   "zh": "长面条是长寿的象征。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The Xiaolangdi Project is a symbol of human wisdom and hard work.",
+   "zh": "小浪底工程是人类智慧和辛勤劳动的象征。",
+   "src": "2025 新乡模拟"
+  }
+ },
+ "take-a-photo": {
+  "tb": {
+   "en": "Every year, my family and I take a photo together under the big tree in our village.",
+   "zh": "每年我和家人都在村里的大树下合影。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Let's take a photo together in front of the school gate on the last day.",
+   "zh": "最后一天，我们在校门口一起拍张照吧。",
+   "src": "拓展"
+  }
+ },
+ "village": {
+  "tb": {
+   "en": "Every year, my family and I take a photo together under the big tree in our village.",
+   "zh": "每年我和家人都在村里的大树下合影。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "With the help of the government, great changes have taken place in many old villages.",
+   "zh": "在政府的帮助下，许多老村庄发生了巨大的变化。",
+   "src": "2024年河南中考"
+  }
+ },
+ "grow": {
+  "tb": {
+   "en": "I want to be just like you when I grow up.",
+   "zh": "我长大后想成为像你一样的人。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Try to find out how living things grow around you.",
+   "zh": "试着去发现你身边的生物是怎样生长的。",
+   "src": "2026年河南中考"
+  }
+ },
+ "blow": {
+  "tb": {
+   "en": "I make a wish and blow out the candles.",
+   "zh": "我许个愿，吹灭蜡烛。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Parrotfish blow something from their mouths when they are ready to sleep.",
+   "zh": "鹦嘴鱼准备睡觉时会从嘴里吹出一些东西。",
+   "src": "2022年河南中考"
+  }
+ },
+ "blow-out": {
+  "tb": {
+   "en": "Everyone sings the \"Happy Birthday\" song, and then I make a wish and blow out the candles.",
+   "zh": "大家一起唱《生日快乐》，然后我许个愿，吹灭蜡烛。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The strong wind blew out all the candles on the table.",
+   "zh": "大风把桌上的蜡烛全都吹灭了。",
+   "src": "拓展"
+  }
+ },
+ "enjoy": {
+  "tb": {
+   "en": "Next, we enjoy the cake, and I open all my gifts.",
+   "zh": "接着我们享用蛋糕，我拆开所有的礼物。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "They can get some exercise, enjoy the fresh air and be happy, all at the same time.",
+   "zh": "他们可以同时锻炼身体、享受新鲜空气，还能心情愉快。",
+   "src": "2025年河南中考"
+  }
+ },
+ "height": {
+  "tb": {
+   "en": "My father marks my height on the door every year.",
+   "zh": "我爸爸每年在门上标出我的身高。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "BMI is only about your height and weight.",
+   "zh": "BMI 只和你的身高、体重有关。",
+   "src": "2025 许昌一模"
+  }
+ },
+ "later": {
+  "tb": {
+   "en": "It's fun to look at the marks later.",
+   "zh": "以后再看这些记号很有意思。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "A moment later, the squirrel climbed down to the ground to pick another pecan.",
+   "zh": "过了一会儿，松鼠爬下树，又去捡了一颗山核桃。",
+   "src": "2023年河南中考"
+  }
+ },
+ "next-time": {
+  "tb": {
+   "en": "Next time, I also want to do something different.",
+   "zh": "下次我也想做点不一样的事。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Next time you feel stressed, try taking a short walk outside.",
+   "zh": "下次你感到有压力时，试着出去散散步。",
+   "src": "拓展"
+  }
+ },
+ "whom": {
+  "tb": {
+   "en": "With whom do you celebrate your birthday?",
+   "zh": "你和谁一起过生日？",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Whom does the boy plan to travel with?",
+   "zh": "这个男孩打算和谁一起去旅行？",
+   "src": "2026 许昌一模"
+  }
+ },
+ "florence-nightingale": {
+  "tb": {
+   "en": "It marks the birthday of Florence Nightingale, a famous nurse.",
+   "zh": "它纪念的是著名护士南丁格尔的生日。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Florence Nightingale spent her life looking after sick people.",
+   "zh": "南丁格尔一生都在照顾病人。",
+   "src": "拓展"
+  }
+ },
+ "national-day": {
+  "tb": {
+   "en": "When is China's National Day?",
+   "zh": "中国的国庆节是哪一天？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "During the National Day holiday, many people travel to see the beautiful places in China.",
+   "zh": "国庆假期，很多人去游览中国的美丽风景。",
+   "src": "拓展"
+  }
+ },
+ "cpc-founding-day": {
+  "tb": {
+   "en": "CPC Founding Day is on 1st July.",
+   "zh": "建党节是 7 月 1 日。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "On CPC Founding Day, our school holds activities to learn about the history of the Party.",
+   "zh": "建党节那天，我们学校举办活动学习党的历史。",
+   "src": "拓展"
+  }
+ },
+ "pla-day": {
+  "tb": {
+   "en": "PLA Day is on 1st August.",
+   "zh": "建军节是 8 月 1 日。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "On PLA Day, students visited the soldiers and sang songs for them.",
+   "zh": "建军节那天，学生们去看望军人，为他们唱歌。",
+   "src": "拓展"
+  }
+ }
+}

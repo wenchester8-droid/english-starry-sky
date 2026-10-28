@@ -1,0 +1,378 @@
+# 补位图清单：词条id <tab> 表情1 <tab> 表情2（可空） <tab> 释义。表情写 - 就画中文释义文字卡。由 make_fill_pics.py 读取。
+take-care-of	👩‍🍼		照顾；处理
+luck	🍀		幸运；运气
+trunk	🐘		象鼻
+pick-up	🫳	🍎	拿起；举起 ；接载
+playful	🐬		爱嬉戏的；爱玩的
+swimmer	🏊		游泳者
+one-another	🧑‍🤝‍🧑		互相
+look-after	🧑‍🍼		照顾
+in-danger	⚠️	🐘	处于危险之中
+cut-down	🪓	🌲	砍伐；减少
+too-many	🍬	🍬	太多
+ivory	🐘	🦷	象牙
+made-of	🪵	🪑	由……制成的
+quite-a	👍		相当；非常
+not-at-all	🙅		一点也不；完全不
+thailand	🇹🇭		泰国
+late-for	⏰	🏃	迟到
+on-time	⏱️	✅	准时
+have-to	☝️		不得不
+of-course	👌		当然
+mobile-phone	📱		手机
+turn-off	📴		关掉（水、电或煤气）
+jump-the-queue	🚶	🚫	插队
+absent-from	🪑	❓	缺席；不在
+shh	🤫		嘘（用以让别人安静下来）
+put-on	🧥		戴上；穿上；增加
+dr	👨‍⚕️		博士；医生
+make-sbs-the-bed	🛏️		整理床铺；铺床
+hang-out	🛹	🧑‍🤝‍🧑	闲逛；常去某处
+focus-on	🎯		集中（注意力、精力等）于
+think-about	🤔		思考；考虑
+fit	💪		健康的；健壮的 v. 适合
+jump-rope	🪢		跳绳用的绳子；跳绳（运动）
+hardly-ever	🌗		几乎从不
+mine	🙋	🎒	我的（所有物）
+hers	👧	🎀	她的（所有物）
+well-used	👟		使用得多的
+double	🏸	2️⃣	双打（doubles）；两倍 adj
+sometime	📅		在某个时候
+ours	👨‍👩‍👧	🏠	我们的（所有物）
+a-few	🍎	🍎	少数；几个
+excuse-me	🙋		劳驾；请原谅
+over-there	👉		在那边
+belong-to	🏷️		属于（某人）
+working	💼		工作的
+working-day	🗓️	💼	工作日
+full-of	🧺	🍎	有许多；充满
+sit-up	🤸		仰卧起坐
+match	🏀	🏆	比赛；竞赛
+mutton	🐑	🍖	羊肉
+dumpling	🥟		饺子
+chip	🍟		炸薯条
+fish-and-chips	🐟	🍟	炸鱼薯条
+what-about	🧃	❓	……怎么样？
+go-with	🍚	🐟	搭配；相配
+too-much	🍰	🍰	太多
+fast-food	🍔	🍟	快餐
+hamburger	🍔		汉堡包
+balanced	🥗	⚖️	均衡的；平衡的
+too-to	📦	😩	太……以至于不能
+after-all	🍎		毕竟；终归
+soft-drink	🥤		软饮料（不含酒精）
+gongbao-chicken	🍗	🌶️	宫保鸡丁
+dongpo-pork	🍖	🥢	东坡肉
+right-now	⏰		现在；立刻
+at-the-moment	⌚		现在；此刻
+work-on	📝		做；从事
+dragon	🐉		龙
+hold-on	☎️	✋	别挂断电话；等一等
+race	🐎	🏁	比赛；竞赛
+darling	💗		亲爱的；宝贝
+could	🙏		能；可以
+take-a-message	📝	☎️	捎个口信
+leave-a-message	💬	☎️	留个口信
+call-back	📞	🔁	回电话
+wow	😮		哇；呀
+shuttlecock	🏸		羽毛球
+sight	🏯		名胜；风景；视力
+look-forward-to	🤩		盼望
+time-zone	🌍	🕐	时区
+around-the-world	🌏		世界各地
+in-a-hurry	🏃‍♀️	💨	匆忙
+brightly	✨		明亮地
+such-as	🍎	🍌	例如
+side-by-side	👫		并排；并肩地
+rush-hour	🚗	🚌	（上下班时的）交通高峰期
+take-part-in	🙋	🏅	参加
+dragon-boat-festival	🐉	🚣	端午节
+nairobi	🇰🇪		内罗毕（肯尼亚首都）
+new-york	🗽		纽约
+kenya	🇰🇪		肯尼亚
+usa	🇺🇸		美国
+central-park	🌳	🗽	中央公园
+rain-or-shine	🌧️	☀️	不论是雨或是晴；不管发生什么事
+lightning	⚡		闪电
+stay-in	🏠	📚	待在家里；没有外出
+lucky-you	🍀	😄	你真幸运
+sunbathe	🏖️	☀️	沐日光浴；晒太阳
+some-day	🌅		将来；有朝一日
+snowman	⛄		雪人
+beach-volleyball	🏐	🏖️	沙滩排球
+mount	🏔️		（在现代英语里仅用于地名）山；山峰
+feel-like	💭		感觉像
+magical	🪄		魔法的；神奇的
+rest-area	🪑	🌲	休息区
+make-progress	📈		取得进展
+in-high-spirits	😆		情绪高涨；兴高采烈
+because-of	🌫️	🚗	因为
+at-the-top	🧗	🚩	在顶部；在顶端
+at-the-start	🏁		开始；起初
+at-the-end	🔚		最后；在末尾
+run-after	🐕	⚽	追逐
+stockholm	🇸🇪		斯德哥尔摩（瑞典首都）
+mount-huangshan	🏔️	🌲	黄山
+bright-peak	🏔️	☀️	光明顶
+meet-up	🤝		碰头；相聚
+wastewater	💧	🏭	废水
+plant	🏭		工厂
+screen	🧺	💧	滤网；隔板；屏障
+germ	🦠		微生物；细菌
+used-to	🕰️		过去常常（做）
+go-on-a-trip	🧳	🚌	去旅行
+try-on	👕	🪞	试穿
+write-down	✍️		写下；记下
+from-to	🅰️	➡️	从……到……
+leaf	🍃		叶；叶子
+think-of	💡		考虑；想起
+entry	📔		（日记的）一则；入口
+agree-with	👍	🤝	赞成；同意
+once-upon-a-time	📖	🏰	从前；很久以前
+bite-through	🐭	🕸️	咬穿
+hunter	🏹		猎人；搜寻者
+long-ago	🏺		很久以前
+lie	🤥		撒谎 n. 谎言
+official	🎩		官员；高级职员
+at-first	1️⃣		起初；最初
+tell-the-truth	🗣️	✅	说实话
+make-money	💰		赚钱
+get-out	🚪	🏃	逃脱；离开
+all-over	🐎	🐎	到处；遍及
+duckling	🐥		小鸭子
+laugh-at	😂	🦆	嘲笑
+go-away	👋		走开
+search	🔍		寻找；搜寻
+search-for	🔍	🏠	寻找
+hen	🐔		母鸡
+purr	🐱	💤	（猫）发出呼噜声
+to-sbs-surprise	😲	🦢	出乎某人的意料
+only-if	🥚	🐔	只有
+come-out	🌸		出现；盛开
+genie	🧞		妖怪；鬼
+make-a-promise	🤞		许下诺言
+set	🍽️		使处于某种状况；使开始
+set-free	🕊️		释放
+instead-of	🔄		而不是；代替
+succeed-in-doing-sth	🏆		成功做成某事
+himself	🧍‍♂️	🪞	他自己；他本人
+in-the-end	🦢		最后；终究
+calligraphy	🖌️	📜	书法
+ice-skating	⛸️		滑冰；溜冰
+give-up	🏳️		放弃
+scared-of	😨	🌊	害怕；恐惧
+get-over	🧗		克服（困难）；解决（问题）
+stroke	🖌️		笔画；击球
+in-return	🎁	🎸	作为回报
+ice-skate	⛸️		滑冰；溜冰
+get-into	🎨		开始做某事；进入
+give-it-a-go	🚀		试一试某事
+kung-fu	🥋		功夫
+once-in-a-while	🎬		偶尔；间或
+outing	🧺	🌳	出外游玩；远足
+go-on-an-outing	🚲	🌳	出外游玩
+programmer	👩‍💻		程序设计员
+teenage	🧑‍🎓		青少年的
+dream-of	💭	🌟	梦想；希望
+inspiration	💡		鼓舞人心或启发灵感的人（或事物）；灵
+surprisingly	😯		出人意料地；惊人地
+so-far	🛤️		到目前为止
+stage	🎭		舞台；阶段
+importantly	❗		重要地
+india	🇮🇳		印度
+mogao-caves	🏜️	🖼️	莫高窟
+stomachache	🤢		胃痛；肚子疼
+backache	🧍	🩹	背痛；腰痛
+suffer-from	🤒		受苦；受折磨
+nosebleed	👃	🩸	鼻出血
+x-ray	🩻		X射线检查；X射线
+runny	🤧		流鼻涕的；流眼泪的
+bruised	🦵	🩹	受了瘀伤的
+take-a-seat	🪑		坐下
+take-sbs-temperature	🌡️		给某人量体温
+stop-from-doing	😷	🦠	防止……；阻止……
+whats-more	➕		更为重要的是
+catch-fire	🍳	🔥	着火
+themselves	👥		他（或她、它）们自己
+fry	🍳		油炸；油煎；油炒
+turn-on	🔛		接通（电流、煤气、水等）；打开
+no-way	🙅‍♂️		不可能；没门
+on-fire	🔥		着火；起火
+flame	🔥		火焰
+be-about-to	🚌	⏳	即将；正要（做某事）
+stop-short	🛑		突然停住
+extinguisher	🧯		灭火器
+eat-out	🍽️	🏪	上馆子吃饭；在外用餐
+check	🩺		检查；查明 n. 检查；调查
+nervously	😬		紧张不安地
+from-now-on	➡️	📅	从现在起
+deal-with	🛠️		处理；对付
+hurtful	💔		伤感情的
+in-future	🔮		今后；从今以后
+so-that	🗣️	💡	为了；因此
+clear-the-air	🤝	☀️	尽释前嫌
+present	🎁		礼物 /prɪˈzent/ v.展现
+award	🏆		奖；奖品
+look-on-the-bright-side	🌤️	😊	从好的方面想；抱乐观态度
+get-across	💬		解释清楚；传达
+on-purpose	🎯		故意；有意地
+cut-in-half	🔪	🍎	切成两半
+put-oneself-in-sbs-shoes	👟	🤝	设身处地；处于某人的境地
+shut-away	🚪	😔	把……关（藏）起来；隔离
+lastly	🔚		最后
+plenty-of	🍎	🍐	充足；大量
+feel-blue	😞	🌧️	感到忧郁
+on-top-of-the-world	🥳	🌍	欢天喜地
+all-smiles	😁		笑容满面
+in-low-spirits	😔		情绪低落；精神不振
+ring	🔔		响起铃声；给……打电话
+let-down	😞		使失望
+be-hard-on	😤		对……苛刻或过分严厉
+referee	🧑‍⚖️	🏀	裁判
+take-back	↩️	💬	撤回；收回
+proud-of	🥇	😊	为……感到骄傲
+as-well	➕		也；又
+a-bit	🤏		有点儿；稍微
+pull-together	🚣	🤝	齐心协力；通力合作
+even-though	🎣		即使；虽然
+go-wrong	❌		出现问题；发生故障；搞错
+thankful	🙏		感谢的；感激的
+bully	🚫	👊	霸凌；恐吓 n. 恶霸
+shout-at	😠	📢	冲……喊叫
+wake-up	⏰	😴	醒来
+relaxed	😌		放松的；镇定的
+from-time-to-time	🔁		不时；偶尔
+deep	🌊	🐋	深的；有……深的
+take-a-deep-breath	🌬️	😌	深呼吸
+pass-away	🕯️		去世（委婉说法）
+not-only-but-also	👩‍🏫	🤝	不但 …… 而且……
+square-kilometre	🗺️		平方千米
+sea-level	🌊	📏	海平面
+submersible	🛟	🌊	潜水艇
+at-all-costs	🛡️		不惜任何代价
+cubic-metre	🧊		立方米
+pool	💧		池塘；水坑
+climber	🧗		攀登者；登山者
+determined	✊		有决心的；坚决的
+teammate	🤜	🤛	同队队员；队友
+bit-by-bit	🪜		一点一点地；逐渐地
+successfully	✅		成功地；顺利地
+located	📍		位于；坐落在
+freshwater	💧	🐟	淡水的；淡水中生长的
+traveller	🧳		旅行者；游客
+underwater	🤿		水下的；用于水下的 adv. 在水下
+northeastern	🧭		东北的；东北方向的
+lifetime	⏳		一生；终身
+nile-river	🇪🇬	🌊	尼罗河
+angel-falls	🏞️	💦	安赫尔瀑布
+mount-qomolangma	🏔️	🚩	珠穆朗玛峰
+dead-sea	🌊	🧂	死海
+sahara-desert	🏜️	🐪	撒哈拉沙漠
+mariana-trench	🌊	🛟	马里亚纳海沟
+yangtze-river	🇨🇳	🌊	长江
+egypt	🇪🇬		埃及
+taklimakan-desert	🏜️		塔克拉玛干沙漠
+mount-kilimanjaro	🏔️	🦒	乞力马扎罗山
+inga-falls	🏞️	💦	英加瀑布
+east-african-rift-valley	🏞️	🦓	东非大裂谷
+victoria-falls	🌈	💦	维多利亚瀑布
+siberia	❄️	🌲	西伯利亚
+lake-baikal	🏞️	❄️	贝加尔湖
+belgium	🇧🇪		比利时
+great-barrier-reef	🪸	🐠	大堡礁
+wildfire	🔥	🌲	野火
+snowstorm	🌨️		雪暴；暴风雪
+do-chores	🧹		做家务
+tsunami	🌊		海啸
+slow-down	🐢		（使）慢下来；（使）减速
+come-off	🏚️	💨	（从某物上）脱落；掉落
+make-preparations	🎒	🔦	作准备
+power	🔌		电力供应；能量；力量
+soundly	😴		（睡觉）酣畅地；可靠地；完全彻底地
+beat	🥁		敲；打 n.敲击；跳动
+schoolgirl	👧	🎒	（学校的）女生
+froth	🫧	🌊	泡；泡沫
+security-guard	💂		保安人员
+thankfully	😮‍💨		幸亏；感激地
+thinking	🤔		思考；想法
+as-soon-as	⚡		一……就……
+floodwater	🌊	🏠	洪水
+manpower	👷		劳动力；人力
+heartbeat	💓		心跳（声）
+heatwave	🥵	🌡️	热浪
+southwestern	🧭		西南的；西南方向的
+alarm-clock	⏰		闹钟
+go-off	🚨		（警报器等）发出响声
+all-of-a-sudden	⚡		突然；猛地
+by-the-time	🚌	⏰	到……的时候
+out-of-breath	😮‍💨		上气不接下气
+rainstorm	⛈️		暴风雨
+as-a-result	➡️		因此
+phuket	🏝️		普吉岛
+indonesia	🇮🇩		印度尼西亚
+bow	🙇		鞠躬
+bump	🤕		碰；撞 n. 碰撞；（撞击造成的）肿
+fist	✊		拳头
+uncommon	🦄		罕见的；不寻常的
+palm	🤲		手掌
+namaste	🙏		有礼了（印度人行合十礼时口中所念之词
+table-manners	🍽️	🍴	餐桌礼仪
+confusing	😵‍💫		令人困惑的；难以理解的
+keep-off	🍽️	🚫	使不碰到；使避开
+chopstick	🥢		筷子
+serving-chopsticks	🥢	🍲	公筷
+be-used-to	🌅		习惯于
+hear-from	✉️		得到……消息
+nicely	👗		漂亮地；令人愉快地
+whether	🤷		是否
+merci	🇫🇷	🙏	谢谢（法语）
+go-a-long-way	💝		帮助很大
+au-revoir	🇫🇷	👋	再见（法语）
+get-along	🧑‍🤝‍🧑		相处融洽；进展
+unsafe	⚠️		不安全的；危险的
+improper	🙅		不合适的
+firstly	1️⃣		第一；首先
+thirdly	3️⃣		第三
+sign-off	✍️	✉️	（信件或广播的）结束语；收尾
+cheers	🥂		再见；干杯
+t-rkiye	🇹🇷		土耳其
+peru	🇵🇪		秘鲁
+paris	🗼		巴黎（法国首都）
+a-good-read	📖	⭐	好的读物；好书（或文章等）
+hear-of	👂		听说；得知
+idiom	📜		习语；成语
+get-lost	🧭	❓	迷路
+base	🏛️		以……为据点 n. 根基；基础；根据
+base-sth-on-sth	📖	🎬	以……为基础（或根据）
+spoiled	👑	😤	宠坏的；娇惯坏的
+lock-up	🔒		锁好（建筑物的）门
+unlock	🔓		开……的锁；发现；揭开
+state	🏚️		状态；国家；州 v. 陈述；说明
+since	📅		自……以后；从……以来 conj. 
+secretly	🤫		秘密地
+prove	📋	✅	证明；证实；显示是
+get-to-ones-feet	🧍		站起身来
+day-by-day	🌱		一天天；逐日
+in-time	🚑		及时；来得及
+make-a-difference	🌱	🤲	有作用；有影响
+the-elderly	👵	👴	老人；上了年纪的人
+can	🥫		（装食品或饮料的）金属罐；一罐（的量
+interviewer	🎤		面试官；采访者
+nursing-home	🏥	👵	养老院
+come-along	🏃		赶快；跟着来
+primary	🏫		小学教育的；首要的
+help-out	🤝		分担工作；帮忙做
+sign-up	📝		报名
+ever-since	📆		自从；自……以后
+life-saving	🛟		救命的；救生的
+most-of-all	⭐		最主要的是
+on-the-go	🏃‍♀️		在忙碌中
+in-need	🤲		需要帮助的；生活困难的
+pocket-money	💰		零花钱
+hand-out	🍱		分发
+familiar-with	🗺️		通晓；熟悉
+etc	➕		等等；以及诸如此类
+argentina	🇦🇷		阿根廷
+blue-sky-rescue	🚁		蓝天救援队
+philippines	🇵🇭		菲律宾
+8b/sit-up	🪑	🧍	坐直

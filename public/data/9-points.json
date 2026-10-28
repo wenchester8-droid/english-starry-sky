@@ -1,0 +1,1789 @@
+{
+  "book": "9",
+  "cats": [
+    {
+      "id": "grammar",
+      "name": "语法",
+      "desc": "现在完成时、used to、宾语从句、被动语态、定语从句、主谓一致……"
+    },
+    {
+      "id": "sentence",
+      "name": "句型与交际",
+      "desc": "谈变化、谈敬佩的人、谈学习方法、谈发明与太空、谈音乐和运动"
+    }
+  ],
+  "units": [
+    {
+      "unit": "unit-1",
+      "points": [
+        {
+          "id": "9-u1-present-perfect",
+          "cat": "grammar",
+          "kp": "现在完成时",
+          "title": "现在完成时：谈变化和经历",
+          "explain": "表示过去发生、对现在有影响的事，或从过去持续到现在的事。\n结构：have / has + 过去分词（主语第三人称单数用 has）\n常用词：already（已经，用于肯定句）、yet（用于否定句和疑问句，放句末）、just（刚刚）、ever、never、since + 时间点、for + 时间段\nOur village has just built a new hospital.\nThey haven't seen each other for ages.\nHave you been to the new library yet?\n注意：和明确的过去时间（yesterday, last Friday, ago）连用时要用一般过去时：It opened last Friday.",
+          "examples": [
+            {
+              "en": "Our village has just built a new hospital.",
+              "zh": "我们村刚建了一所新医院。"
+            },
+            {
+              "en": "We have planted many bushes and trees since then.",
+              "zh": "从那以后，我们种了许多灌木和树。"
+            },
+            {
+              "en": "It has also built many bridges and tunnels.",
+              "zh": "它还修建了许多桥梁和隧道。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— ______ you ______ to the new library yet?\n— No, I haven't.",
+              "o": [
+                "Did; go",
+                "Have; been",
+                "Do; go",
+                "Are; going"
+              ],
+              "a": 1,
+              "e": "yet 用于现在完成时的疑问句：Have you been to … yet?",
+              "s": "— Have you been to the new library yet?\n— No, I haven't."
+            },
+            {
+              "t": "choice",
+              "q": "My hometown ______ a lot in the past ten years.",
+              "o": [
+                "changes",
+                "changed",
+                "has changed",
+                "will change"
+              ],
+              "a": 2,
+              "e": "in the past ten years 表示从过去到现在，用现在完成时。",
+              "s": "My hometown has changed a lot in the past ten years."
+            },
+            {
+              "t": "choice",
+              "q": "The new library ______ last Friday.",
+              "o": [
+                "has opened",
+                "opened",
+                "opens",
+                "has been open"
+              ],
+              "a": 1,
+              "e": "last Friday 是明确的过去时间，用一般过去时。",
+              "s": "The new library opened last Friday."
+            },
+            {
+              "t": "choice",
+              "q": "We have lived here ______ 2015.",
+              "o": [
+                "for",
+                "since",
+                "in",
+                "ago"
+              ],
+              "a": 1,
+              "e": "since + 时间点（2015）。",
+              "s": "We have lived here since 2015."
+            },
+            {
+              "t": "choice",
+              "q": "They have known each other ______ ten years.",
+              "o": [
+                "since",
+                "for",
+                "ago",
+                "before"
+              ],
+              "a": 1,
+              "e": "for + 时间段（ten years）。",
+              "s": "They have known each other for ten years."
+            },
+            {
+              "t": "choice",
+              "q": "— Have you finished your homework?\n— Yes. I've ______ finished it.",
+              "o": [
+                "yet",
+                "already",
+                "ever",
+                "since"
+              ],
+              "a": 1,
+              "e": "肯定句里表示「已经」用 already。",
+              "s": "— Have you finished your homework?\n— Yes. I've already finished it."
+            },
+            {
+              "t": "fill",
+              "q": "The government ______ (build) thousands of kilometres of highways.",
+              "a": [
+                "has built"
+              ],
+              "e": "表示到现在为止的成果，用现在完成时 has built。",
+              "s": "The government has built thousands of kilometres of highways."
+            },
+            {
+              "t": "fill",
+              "q": "They ______ (not see) each other for ages.",
+              "a": [
+                "haven't seen",
+                "have not seen"
+              ],
+              "e": "for ages 表示持续，用现在完成时的否定 haven't seen。",
+              "s": "They haven't seen each other for ages."
+            }
+          ]
+        },
+        {
+          "id": "9-u1-used-to",
+          "cat": "grammar",
+          "kp": "used to",
+          "title": "used to do：过去常常",
+          "explain": "used to + 动词原形：过去常常做某事（现在不了）\nWe used to have to travel far to see a doctor.\n否定：didn't use to do / used not to do\n疑问：Did you use to …? — Yes, I did. / No, I didn't.\n句型 There used to be …：过去有……\n易混：be used to doing（习惯于做某事）；be used to do（被用来做某事）",
+          "examples": [
+            {
+              "en": "We used to have to travel far to see a doctor.",
+              "zh": "我们过去常常要走很远的路去看病。"
+            },
+            {
+              "en": "The road used to be narrow and dirty.",
+              "zh": "这条路以前又窄又脏。"
+            },
+            {
+              "en": "Many people used to work in big cities.",
+              "zh": "过去很多人在大城市打工。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "My grandpa ______ walk to school when he was young.",
+              "o": [
+                "used to",
+                "is used to",
+                "use to",
+                "was used to"
+              ],
+              "a": 0,
+              "e": "过去常常做某事：used to + 动词原形。",
+              "s": "My grandpa used to walk to school when he was young."
+            },
+            {
+              "t": "choice",
+              "q": "There ______ a river near my home, but now it's gone.",
+              "o": [
+                "used to have",
+                "used to be",
+                "is used to be",
+                "use to be"
+              ],
+              "a": 1,
+              "e": "过去有……：There used to be …",
+              "s": "There used to be a river near my home, but now it's gone."
+            },
+            {
+              "t": "choice",
+              "q": "— Did you use to be shy?\n— Yes, I ______.",
+              "o": [
+                "used",
+                "do",
+                "did",
+                "was"
+              ],
+              "a": 2,
+              "e": "Did you use to …? 用 did 回答。",
+              "s": "— Did you use to be shy?\n— Yes, I did."
+            },
+            {
+              "t": "choice",
+              "q": "He is used to ______ up early now.",
+              "o": [
+                "get",
+                "getting",
+                "got",
+                "gets"
+              ],
+              "a": 1,
+              "e": "be used to doing 习惯于做某事。",
+              "s": "He is used to getting up early now."
+            },
+            {
+              "t": "choice",
+              "q": "Bamboo can be used to ______ houses.",
+              "o": [
+                "building",
+                "build",
+                "built",
+                "builds"
+              ],
+              "a": 1,
+              "e": "be used to do 被用来做某事。",
+              "s": "Bamboo can be used to build houses."
+            },
+            {
+              "t": "fill",
+              "q": "I ______ (过去常常) play outside after school, but now I have more homework.",
+              "a": [
+                "used to"
+              ],
+              "e": "used to + 动词原形。",
+              "s": "I used to play outside after school, but now I have more homework."
+            },
+            {
+              "t": "order",
+              "w": [
+                "to",
+                "The",
+                "used",
+                "be",
+                "area",
+                "covered",
+                "with",
+                "sand"
+              ],
+              "a": "The area used to be covered with sand.",
+              "e": "used to be … 过去曾是……",
+              "s": "The area used to be covered with sand."
+            }
+          ]
+        },
+        {
+          "id": "9-u1-changes",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "谈家乡的变化",
+          "explain": "问变化：How has your hometown changed? / What changes have taken place?\n答：It used to be …, but now … / There are more … and fewer … / The environment is getting better.\ntake place 发生（无被动）　bring about 带来　greatly 大大地　as a result 结果",
+          "examples": [
+            {
+              "en": "What do you think brings about changes?",
+              "zh": "你认为是什么带来了变化？"
+            },
+            {
+              "en": "There are fewer sandstorms now and the environment is getting better.",
+              "zh": "现在沙尘暴少了，环境越来越好了。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "Great changes ______ in my hometown in the past few years.",
+              "o": [
+                "have taken place",
+                "have been taken place",
+                "take place",
+                "took place"
+              ],
+              "a": 0,
+              "e": "take place 没有被动语态；in the past few years 用现在完成时。",
+              "s": "Great changes have taken place in my hometown in the past few years."
+            },
+            {
+              "t": "choice",
+              "q": "There are ______ cars and ______ pollution than before.",
+              "o": [
+                "more; less",
+                "more; fewer",
+                "less; more",
+                "fewer; fewer"
+              ],
+              "a": 0,
+              "e": "cars 可数用 more；pollution 不可数，「更少」用 less。",
+              "s": "There are more cars and less pollution than before."
+            },
+            {
+              "t": "choice",
+              "q": "Mobile phones have ______ great changes to our lives.",
+              "o": [
+                "brought",
+                "taken",
+                "made up",
+                "given up"
+              ],
+              "a": 0,
+              "e": "bring changes to … 给……带来变化。",
+              "s": "Mobile phones have brought great changes to our lives."
+            },
+            {
+              "t": "fill",
+              "q": "The new railway has improved local lives ______ (大大地).",
+              "a": [
+                "greatly",
+                "a lot"
+              ],
+              "e": "greatly 大大地。",
+              "s": "The new railway has improved local lives greatly."
+            },
+            {
+              "t": "order",
+              "w": [
+                "has",
+                "your",
+                "How",
+                "changed",
+                "hometown"
+              ],
+              "a": "How has your hometown changed?",
+              "e": "How has … changed? ……有了怎样的变化？",
+              "s": "How has your hometown changed?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-2",
+      "points": [
+        {
+          "id": "9-u2-it-adj",
+          "cat": "grammar",
+          "kp": "It is + 形容词 + to do",
+          "title": "It is + 形容词 + of / for sb + to do",
+          "explain": "it 作形式主语，真正的主语是后面的 to do 或 that 从句。\n① It is + 形容词 + for sb + to do：形容词说的是这件事（easy, difficult, important, necessary）\nIt was difficult for him to brave the cold weather.\n② It is + 形容词 + of sb + to do：形容词说的是这个人的品质（kind, nice, brave, clever, great, wise）\nIt was great of him to develop a new kind of rice.\n③ It is + 形容词 + that 从句：It was amazing that he did scientific research …",
+          "examples": [
+            {
+              "en": "It was great of him to develop a new kind of rice and help reduce hunger.",
+              "zh": "他培育出一种新水稻，帮助减少了饥饿，真了不起。"
+            },
+            {
+              "en": "It's really very nice of him to support and encourage my exchange study here.",
+              "zh": "他支持并鼓励我来这里交换学习，真是太好了。"
+            },
+            {
+              "en": "It was very difficult for him to brave the cold weather and great heights.",
+              "zh": "对他来说，顶着严寒、登上高处非常艰难。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "It's very kind ______ you to help me.",
+              "o": [
+                "for",
+                "of",
+                "to",
+                "with"
+              ],
+              "a": 1,
+              "e": "kind 说的是人的品质，用 of。",
+              "s": "It's very kind of you to help me."
+            },
+            {
+              "t": "choice",
+              "q": "It's important ______ us to learn about great people.",
+              "o": [
+                "of",
+                "for",
+                "to",
+                "with"
+              ],
+              "a": 1,
+              "e": "important 说的是这件事，用 for。",
+              "s": "It's important for us to learn about great people."
+            },
+            {
+              "t": "choice",
+              "q": "It is necessary ______ enough sleep every day.",
+              "o": [
+                "get",
+                "got",
+                "to get",
+                "getting"
+              ],
+              "a": 2,
+              "e": "It is + 形容词 + to do。",
+              "s": "It is necessary to get enough sleep every day."
+            },
+            {
+              "t": "choice",
+              "q": "It was brave ______ Zhang Qian to travel to the Western Regions.",
+              "o": [
+                "of",
+                "for",
+                "to",
+                "at"
+              ],
+              "a": 0,
+              "e": "brave 勇敢的，说人的品质，用 of。",
+              "s": "It was brave of Zhang Qian to travel to the Western Regions."
+            },
+            {
+              "t": "choice",
+              "q": "______ is amazing that tall trees can grow from tiny seeds.",
+              "o": [
+                "This",
+                "That",
+                "It",
+                "What"
+              ],
+              "a": 2,
+              "e": "it 作形式主语，代替后面的 that 从句。",
+              "s": "It is amazing that tall trees can grow from tiny seeds."
+            },
+            {
+              "t": "fill",
+              "q": "It is difficult ______ me to learn physics well.",
+              "a": [
+                "for"
+              ],
+              "e": "difficult 说的是这件事，用 for。",
+              "s": "It is difficult for me to learn physics well."
+            },
+            {
+              "t": "fill",
+              "q": "It was clever ______ you to think of that idea.",
+              "a": [
+                "of"
+              ],
+              "e": "clever 说的是人，用 of。",
+              "s": "It was clever of you to think of that idea."
+            },
+            {
+              "t": "order",
+              "w": [
+                "is",
+                "It",
+                "to",
+                "important",
+                "read",
+                "every",
+                "day"
+              ],
+              "a": "It is important to read every day.",
+              "e": "It is + 形容词 + to do。",
+              "s": "It is important to read every day."
+            }
+          ]
+        },
+        {
+          "id": "9-u2-admire",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "谈论敬佩的人",
+          "explain": "问：Who do you admire / look up to? Why? / Who inspires you?\n答：I admire … because he / she is … / My biggest inspiration is …\n描述品质：brave, creative, full of courage and wisdom, never give up, dream big\nadmire sb for sth 因某事钦佩某人　look up to sb 敬仰某人　be full of 充满",
+          "examples": [
+            {
+              "en": "Can you talk about who you admire and explain why?",
+              "zh": "你能谈谈你钦佩的人并说明原因吗？"
+            },
+            {
+              "en": "She is full of courage and wisdom.",
+              "zh": "她充满勇气和智慧。"
+            },
+            {
+              "en": "Who do you look up to?",
+              "zh": "你敬佩谁？"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— Who do you look up ______?\n— Yuan Longping.",
+              "o": [
+                "at",
+                "to",
+                "for",
+                "after"
+              ],
+              "a": 1,
+              "e": "look up to sb 敬仰某人。",
+              "s": "— Who do you look up to?\n— Yuan Longping."
+            },
+            {
+              "t": "choice",
+              "q": "Wang Yaping is full ______ courage and wisdom.",
+              "o": [
+                "with",
+                "of",
+                "in",
+                "for"
+              ],
+              "a": 1,
+              "e": "be full of 充满。",
+              "s": "Wang Yaping is full of courage and wisdom."
+            },
+            {
+              "t": "choice",
+              "q": "I admire him ______ his hard work.",
+              "o": [
+                "for",
+                "of",
+                "to",
+                "with"
+              ],
+              "a": 0,
+              "e": "admire sb for sth 因某事钦佩某人。",
+              "s": "I admire him for his hard work."
+            },
+            {
+              "t": "fill",
+              "q": "My biggest ______ (鼓舞人心的人或事) is my father.",
+              "a": [
+                "inspiration"
+              ],
+              "e": "inspiration 鼓舞人心的人或事。",
+              "s": "My biggest inspiration is my father."
+            },
+            {
+              "t": "order",
+              "w": [
+                "you",
+                "Who",
+                "admire",
+                "do",
+                "most",
+                "the"
+              ],
+              "a": "Who do you admire the most?",
+              "e": "Who do you admire the most? 你最钦佩谁？",
+              "s": "Who do you admire the most?"
+            }
+          ]
+        },
+        {
+          "id": "9-u2-word-forms",
+          "cat": "grammar",
+          "kp": "构词法",
+          "title": "构词：人、学科与品质",
+          "explain": "学科 → 人：history → historian，chemistry → chemist，physics → physicist，biology → biologist，science → scientist，music → musician\n动词 → 人：invent → inventor，think → thinker，learn → learner\n形容词 → 名词：kind → kindness，sad → sadness，happy → happiness\n动词 → 形容词：admire → admirable，inspire → inspiring",
+          "examples": [
+            {
+              "en": "Many famous physicists also started doing experiments when they were young.",
+              "zh": "许多著名的物理学家也是从小就开始做实验的。"
+            },
+            {
+              "en": "But in fact, above all, he was a great thinker.",
+              "zh": "但事实上，最重要的是，他是一位伟大的思想家。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "My favourite school subject is ______.",
+              "o": [
+                "chemist",
+                "chemistry",
+                "chemical",
+                "chemists"
+              ],
+              "a": 1,
+              "e": "学科「化学」是 chemistry；chemist 是化学家。",
+              "s": "My favourite school subject is chemistry."
+            },
+            {
+              "t": "choice",
+              "q": "Teng Fei likes physics very much, and he wants to be a ______.",
+              "o": [
+                "physics",
+                "physical",
+                "physicist",
+                "physically"
+              ],
+              "a": 2,
+              "e": "物理学家是 physicist。",
+              "s": "Teng Fei likes physics very much, and he wants to be a physicist."
+            },
+            {
+              "t": "fill",
+              "q": "Sima Qian was a great ______ (history).",
+              "a": [
+                "historian"
+              ],
+              "e": "历史学家 historian。",
+              "s": "Sima Qian was a great historian."
+            },
+            {
+              "t": "fill",
+              "q": "Edison was a famous ______ (invent).",
+              "a": [
+                "inventor"
+              ],
+              "e": "发明家 inventor。",
+              "s": "Edison was a famous inventor."
+            },
+            {
+              "t": "fill",
+              "q": "His ______ (kind) touched everyone.",
+              "a": [
+                "kindness"
+              ],
+              "e": "形容词 kind 加 -ness 变名词。",
+              "s": "His kindness touched everyone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-3",
+      "points": [
+        {
+          "id": "9-u3-object-that-if",
+          "cat": "grammar",
+          "kp": "宾语从句",
+          "title": "宾语从句（一）：that / if / whether",
+          "explain": "宾语从句用陈述句语序（主语在前、谓语在后）。\n① 陈述句 → that（口语中常省略）：I think (that) reading is important.\n② 一般疑问句 → if / whether（是否）：I wonder if / whether it will be easy.\n③ 时态：主句是现在时，从句按实际需要；主句是过去时，从句用相应的过去时态（客观真理除外）。\n④ 否定前移：I don't think it's easy.（不说 I think it isn't easy.）",
+          "examples": [
+            {
+              "en": "I believe reading is important for learning in general.",
+              "zh": "我认为总的来说，阅读对学习很重要。"
+            },
+            {
+              "en": "I believe that reading has helped me a lot with my schoolwork.",
+              "zh": "我相信阅读对我的学业帮助很大。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "I don't know ______ he will come to the party tomorrow.",
+              "o": [
+                "that",
+                "if",
+                "what",
+                "which"
+              ],
+              "a": 1,
+              "e": "不知道「是否」会来，用 if / whether。",
+              "s": "I don't know if he will come to the party tomorrow."
+            },
+            {
+              "t": "choice",
+              "q": "I think ______ flashcards are very useful.",
+              "o": [
+                "that",
+                "if",
+                "whether",
+                "what"
+              ],
+              "a": 0,
+              "e": "陈述句作宾语，用 that（可省略）。",
+              "s": "I think that flashcards are very useful."
+            },
+            {
+              "t": "choice",
+              "q": "Could you tell me ______?",
+              "o": [
+                "where is the library",
+                "where the library is",
+                "where was the library",
+                "the library is where"
+              ],
+              "a": 1,
+              "e": "宾语从句用陈述句语序：where the library is。",
+              "s": "Could you tell me where the library is?"
+            },
+            {
+              "t": "choice",
+              "q": "I ______ it's a good idea to study late at night.",
+              "o": [
+                "think",
+                "don't think",
+                "not think",
+                "doesn't think"
+              ],
+              "a": 1,
+              "e": "否定前移：I don't think …",
+              "s": "I don't think it's a good idea to study late at night."
+            },
+            {
+              "t": "choice",
+              "q": "The teacher said that the earth ______ around the sun.",
+              "o": [
+                "moved",
+                "moves",
+                "will move",
+                "is moving"
+              ],
+              "a": 1,
+              "e": "客观真理，从句仍用一般现在时。",
+              "s": "The teacher said that the earth moves around the sun."
+            },
+            {
+              "t": "fill",
+              "q": "Terry wonders ______ it will be easy to study AI courses.",
+              "a": [
+                "if",
+                "whether"
+              ],
+              "e": "wonder if / whether 想知道是否……",
+              "s": "Terry wonders if it will be easy to study AI courses."
+            },
+            {
+              "t": "order",
+              "w": [
+                "I",
+                "is",
+                "think",
+                "English",
+                "useful",
+                "learning"
+              ],
+              "a": "I think learning English is useful.",
+              "e": "I think + 宾语从句（陈述句语序）。",
+              "s": "I think learning English is useful."
+            }
+          ]
+        },
+        {
+          "id": "9-u3-learning",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "谈学习方法",
+          "explain": "问：How do you learn …? / What's the best way to …?\n答：By doing … / I learn by … / You should …\n提建议：Why don't you …? / How about doing …? / You'd better …\nby + doing 通过……方式　in general 总的来说　step by step 一步一步地　take advantage of 利用",
+          "examples": [
+            {
+              "en": "I like to learn new words by using flashcards.",
+              "zh": "我喜欢用单词卡学新单词。"
+            },
+            {
+              "en": "By doing hands-on experiments, I can see that connection.",
+              "zh": "通过动手做实验，我能看到其中的联系。"
+            },
+            {
+              "en": "Take each thing step by step.",
+              "zh": "每件事都要一步一步来。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— How do you learn English?\n— ______ watching English films.",
+              "o": [
+                "By",
+                "With",
+                "In",
+                "On"
+              ],
+              "a": 0,
+              "e": "by + doing 表示方式。",
+              "s": "— How do you learn English?\n— By watching English films."
+            },
+            {
+              "t": "choice",
+              "q": "We should take advantage ______ every chance to practise English.",
+              "o": [
+                "for",
+                "of",
+                "to",
+                "in"
+              ],
+              "a": 1,
+              "e": "take advantage of 利用。",
+              "s": "We should take advantage of every chance to practise English."
+            },
+            {
+              "t": "choice",
+              "q": "— I can't remember new words.\n— ______ use flashcards?",
+              "o": [
+                "Why not",
+                "Why don't",
+                "How about",
+                "What about"
+              ],
+              "a": 0,
+              "e": "Why not + 动词原形？提建议。",
+              "s": "— I can't remember new words.\n— Why not use flashcards?"
+            },
+            {
+              "t": "fill",
+              "q": "You should learn ______ by step.",
+              "a": [
+                "step"
+              ],
+              "e": "step by step 一步一步地。",
+              "s": "You should learn step by step."
+            },
+            {
+              "t": "fill",
+              "q": "In ______ (总的来说), I prefer print books.",
+              "a": [
+                "general"
+              ],
+              "e": "in general 总的来说。",
+              "s": "In general, I prefer print books."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-4",
+      "points": [
+        {
+          "id": "9-u4-object-wh",
+          "cat": "grammar",
+          "kp": "宾语从句",
+          "title": "宾语从句（二）：特殊疑问词引导",
+          "explain": "特殊疑问句作宾语时，保留疑问词（what, where, when, why, how, who），后面用陈述句语序。\nWhere did she put the ticket? → I don't remember where she put the ticket.\nWhat happened to his mother? → He wondered what happened to his mother.（what 作主语时，语序本来就是陈述句语序）\n注意时态呼应：主句过去时，从句用过去的某种时态。",
+          "examples": [
+            {
+              "en": "Instead of what he forgets, I keep in mind what he remembers.",
+              "zh": "我记住的不是他忘了什么，而是他还记得什么。"
+            },
+            {
+              "en": "He wondered what happened to his mother, but he was too afraid to look back.",
+              "zh": "他想知道妈妈怎么样了，但他太害怕了，不敢回头看。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "Can you tell me ______?",
+              "o": [
+                "when does the lecture start",
+                "when the lecture starts",
+                "when did the lecture start",
+                "the lecture starts when"
+              ],
+              "a": 1,
+              "e": "宾语从句用陈述句语序。",
+              "s": "Can you tell me when the lecture starts?"
+            },
+            {
+              "t": "choice",
+              "q": "I don't remember ______ I put my keys.",
+              "o": [
+                "where",
+                "what",
+                "who",
+                "which"
+              ],
+              "a": 0,
+              "e": "放在「哪里」，用 where。",
+              "s": "I don't remember where I put my keys."
+            },
+            {
+              "t": "choice",
+              "q": "She asked me ______ I was late.",
+              "o": [
+                "why",
+                "what",
+                "that",
+                "whether"
+              ],
+              "a": 0,
+              "e": "问「为什么」迟到，用 why。",
+              "s": "She asked me why I was late."
+            },
+            {
+              "t": "choice",
+              "q": "He asked me what I ______ the day before.",
+              "o": [
+                "do",
+                "did",
+                "will do",
+                "am doing"
+              ],
+              "a": 1,
+              "e": "主句过去时，从句用过去时。",
+              "s": "He asked me what I did the day before."
+            },
+            {
+              "t": "choice",
+              "q": "Do you know ______ the new teacher is?",
+              "o": [
+                "who",
+                "whose",
+                "which",
+                "what time"
+              ],
+              "a": 0,
+              "e": "问新老师「是谁」，用 who。",
+              "s": "Do you know who the new teacher is?"
+            },
+            {
+              "t": "fill",
+              "q": "I wonder ______ we can improve our memory.",
+              "a": [
+                "how"
+              ],
+              "e": "「怎样」提高记忆，用 how。",
+              "s": "I wonder how we can improve our memory."
+            },
+            {
+              "t": "order",
+              "w": [
+                "she",
+                "know",
+                "I",
+                "lives",
+                "don't",
+                "where"
+              ],
+              "a": "I don't know where she lives.",
+              "e": "疑问词 + 陈述句语序。",
+              "s": "I don't know where she lives."
+            }
+          ]
+        },
+        {
+          "id": "9-u4-memory",
+          "cat": "sentence",
+          "kp": "动词短语",
+          "title": "谈记忆：常用短语",
+          "explain": "mix up 混淆　keep … in mind 记住　run out of 用完　wear out 使疲乏；磨损\nto start with 首先　in sb's case 就某人而言　happen to sb 某人发生了……　put … to good use 好好利用\nshort-term / long-term memory 短期 / 长期记忆",
+          "examples": [
+            {
+              "en": "Professor, I often get some words mixed up, like \"kitchen\" and \"chicken\".",
+              "zh": "教授，我经常把一些单词弄混，比如“kitchen”和“chicken”。"
+            },
+            {
+              "en": "To start with, it is important to understand how memory works.",
+              "zh": "首先，了解记忆是怎样运作的很重要。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "Don't mix ______ \"quite\" and \"quiet\".",
+              "o": [
+                "up",
+                "out",
+                "off",
+                "with"
+              ],
+              "a": 0,
+              "e": "mix up 混淆。",
+              "s": "Don't mix up \"quite\" and \"quiet\"."
+            },
+            {
+              "t": "choice",
+              "q": "What happened ______ your grandma?",
+              "o": [
+                "with",
+                "to",
+                "for",
+                "on"
+              ],
+              "a": 1,
+              "e": "happen to sb 某人发生了……",
+              "s": "What happened to your grandma?"
+            },
+            {
+              "t": "choice",
+              "q": "We've run out ______ milk. Let's buy some.",
+              "o": [
+                "of",
+                "with",
+                "from",
+                "off"
+              ],
+              "a": 0,
+              "e": "run out of 用完。",
+              "s": "We've run out of milk. Let's buy some."
+            },
+            {
+              "t": "fill",
+              "q": "Please keep my words ______ mind.",
+              "a": [
+                "in"
+              ],
+              "e": "keep … in mind 记住。",
+              "s": "Please keep my words in mind."
+            },
+            {
+              "t": "fill",
+              "q": "Don't study too late, or you will ______ out your brain.",
+              "a": [
+                "wear"
+              ],
+              "e": "wear out 使疲乏。",
+              "s": "Don't study too late, or you will wear out your brain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-5",
+      "points": [
+        {
+          "id": "9-u5-passive",
+          "cat": "grammar",
+          "kp": "被动语态",
+          "title": "被动语态：一般现在时和一般过去时",
+          "explain": "主语是动作的承受者时用被动语态：be + 过去分词（by + 动作执行者）\n一般现在时：am / is / are + done　The oil and salt are added by the machine.\n一般过去时：was / were + done　The telephone was invented by Alexander Bell in 1876.\n含情态动词：can / must / should + be + done　Houses can be made by the 3D printer.\n否定：be 后加 not；疑问：把 be 提前。",
+          "examples": [
+            {
+              "en": "A mini-camera is connected to the front of the glasses.",
+              "zh": "眼镜前面连着一个微型摄像头。"
+            },
+            {
+              "en": "A radio message was sent across the Atlantic Ocean for the first time in 1901.",
+              "zh": "1901年，无线电信号第一次越过大西洋。"
+            },
+            {
+              "en": "Toys, chairs, tables, and even houses can all be made by the 3D printer.",
+              "zh": "玩具、椅子、桌子，甚至房子，都可以用3D打印机制造。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "Paper ______ by Cai Lun in the Eastern Han Dynasty.",
+              "o": [
+                "improves",
+                "improved",
+                "was improved",
+                "is improved"
+              ],
+              "a": 2,
+              "e": "纸「被」改进，发生在过去：was improved。",
+              "s": "Paper was improved by Cai Lun in the Eastern Han Dynasty."
+            },
+            {
+              "t": "choice",
+              "q": "English ______ by many people around the world.",
+              "o": [
+                "speaks",
+                "is spoken",
+                "spoke",
+                "was speaking"
+              ],
+              "a": 1,
+              "e": "英语「被」说，一般现在时被动：is spoken。",
+              "s": "English is spoken by many people around the world."
+            },
+            {
+              "t": "choice",
+              "q": "Trees should ______ every year.",
+              "o": [
+                "plant",
+                "be planted",
+                "planted",
+                "be plant"
+              ],
+              "a": 1,
+              "e": "情态动词 + be + 过去分词。",
+              "s": "Trees should be planted every year."
+            },
+            {
+              "t": "choice",
+              "q": "— When ______ the radio ______?\n— In the 1890s.",
+              "o": [
+                "did; invent",
+                "was; invented",
+                "is; invented",
+                "does; invent"
+              ],
+              "a": 1,
+              "e": "收音机「被」发明，过去：was … invented。",
+              "s": "— When was the radio invented?\n— In the 1890s."
+            },
+            {
+              "t": "choice",
+              "q": "Sticky notes ______ widely ______ all over the world now.",
+              "o": [
+                "are; used",
+                "were; used",
+                "is; use",
+                "are; using"
+              ],
+              "a": 0,
+              "e": "现在被广泛使用：are used。",
+              "s": "Sticky notes are widely used all over the world now."
+            },
+            {
+              "t": "fill",
+              "q": "The telephone ______ (invent) by Alexander Bell in 1876.",
+              "a": [
+                "was invented"
+              ],
+              "e": "过去被发明：was invented。",
+              "s": "The telephone was invented by Alexander Bell in 1876."
+            },
+            {
+              "t": "fill",
+              "q": "People all over the world ______ (connect) to each other through the internet.",
+              "a": [
+                "are connected"
+              ],
+              "e": "一般现在时被动：are connected。",
+              "s": "People all over the world are connected to each other through the internet."
+            },
+            {
+              "t": "order",
+              "w": [
+                "is",
+                "made",
+                "of",
+                "This",
+                "bamboo",
+                "chair"
+              ],
+              "a": "This chair is made of bamboo.",
+              "e": "be made of 由……制成。",
+              "s": "This chair is made of bamboo."
+            }
+          ]
+        },
+        {
+          "id": "9-u5-inventions",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "介绍发明：用途与过程",
+          "explain": "问用途：What is it used for? — It is used for doing / to do …\nbe used for doing / be used to do 被用来做……\n描述过程：First, … is put into … Next, … Then, … Finally, …\nbe made of（看得出原材料）/ be made from（看不出原材料）\nresult in / lead to 导致　be responsible for 是……的原因",
+          "examples": [
+            {
+              "en": "Finally, this fibre was dried and pressed to form paper.",
+              "zh": "最后，把这些纤维晾干、压平，就成了纸。"
+            },
+            {
+              "en": "Then discuss how an invention like sticky notes is turned into reality.",
+              "zh": "然后讨论像便利贴这样的发明是怎样变成现实的。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— What is a 3D printer used ______?\n— It is used to make things.",
+              "o": [
+                "to",
+                "for",
+                "by",
+                "as"
+              ],
+              "a": 1,
+              "e": "be used for 被用于……",
+              "s": "— What is a 3D printer used for?\n— It is used to make things."
+            },
+            {
+              "t": "choice",
+              "q": "Paper is made ______ wood.",
+              "o": [
+                "of",
+                "from",
+                "in",
+                "by"
+              ],
+              "a": 1,
+              "e": "纸看不出木头的样子，用 be made from。",
+              "s": "Paper is made from wood."
+            },
+            {
+              "t": "choice",
+              "q": "This invention ______ a new birth of knowledge.",
+              "o": [
+                "resulted in",
+                "resulted from",
+                "looked for",
+                "took part in"
+              ],
+              "a": 0,
+              "e": "result in 导致、造成。",
+              "s": "This invention resulted in a new birth of knowledge."
+            },
+            {
+              "t": "fill",
+              "q": "Paper was responsible ______ the rapid spread of information.",
+              "a": [
+                "for"
+              ],
+              "e": "be responsible for 是……的原因。",
+              "s": "Paper was responsible for the rapid spread of information."
+            },
+            {
+              "t": "fill",
+              "q": "Bamboo is used ______ (build) houses.",
+              "a": [
+                "to build",
+                "for building"
+              ],
+              "e": "be used to do / for doing 被用来做……",
+              "s": "Bamboo is used to build houses."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-6",
+      "points": [
+        {
+          "id": "9-u6-passive-future",
+          "cat": "grammar",
+          "kp": "被动语态",
+          "title": "被动语态：一般将来时与 It is believed that …",
+          "explain": "一般将来时被动：will be + 过去分词\nMore astronauts will be sent there.\nExploration of the planet Mars will be continued.\n疑问：Will you be visited by other astronauts?\nIt is believed / said / hoped that … 人们认为 / 据说 / 人们希望……\nIt is hoped that a manned mission to the moon will follow.",
+          "examples": [
+            {
+              "en": "More astronauts will be sent there.",
+              "zh": "将会有更多航天员被送到那里。"
+            },
+            {
+              "en": "A new home for us human beings will be needed.",
+              "zh": "我们人类将需要一个新家园。"
+            },
+            {
+              "en": "It is believed that our understanding of the moon and the universe will be greatly improved.",
+              "zh": "人们相信，我们对月球和宇宙的了解将大大提高。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "A new space station ______ in the future.",
+              "o": [
+                "will build",
+                "will be built",
+                "is building",
+                "built"
+              ],
+              "a": 1,
+              "e": "将来「被」建造：will be built。",
+              "s": "A new space station will be built in the future."
+            },
+            {
+              "t": "choice",
+              "q": "______ that the trip will be cancelled because of the bad weather.",
+              "o": [
+                "It is said",
+                "It says",
+                "It said",
+                "It is saying"
+              ],
+              "a": 0,
+              "e": "It is said that … 据说……",
+              "s": "It is said that the trip will be cancelled because of the bad weather."
+            },
+            {
+              "t": "choice",
+              "q": "— Will the rocket be launched next month?\n— Yes, it ______.",
+              "o": [
+                "will",
+                "is",
+                "does",
+                "can"
+              ],
+              "a": 0,
+              "e": "Will …? 用 will 回答。",
+              "s": "— Will the rocket be launched next month?\n— Yes, it will."
+            },
+            {
+              "t": "choice",
+              "q": "The article ______ in the magazine next week.",
+              "o": [
+                "will publish",
+                "will be published",
+                "publishes",
+                "is publishing"
+              ],
+              "a": 1,
+              "e": "文章「被」刊登，将来：will be published。",
+              "s": "The article will be published in the magazine next week."
+            },
+            {
+              "t": "fill",
+              "q": "Exploration of Mars and the moon ______ (continue) in the future.",
+              "a": [
+                "will be continued"
+              ],
+              "e": "将来被继续：will be continued。",
+              "s": "Exploration of Mars and the moon will be continued in the future."
+            },
+            {
+              "t": "fill",
+              "q": "It is ______ (hope) that a manned mission to the moon will follow.",
+              "a": [
+                "hoped"
+              ],
+              "e": "It is hoped that … 人们希望……",
+              "s": "It is hoped that a manned mission to the moon will follow."
+            },
+            {
+              "t": "order",
+              "w": [
+                "will",
+                "sent",
+                "be",
+                "astronauts",
+                "More",
+                "there"
+              ],
+              "a": "More astronauts will be sent there.",
+              "e": "will be + 过去分词。",
+              "s": "More astronauts will be sent there."
+            }
+          ]
+        },
+        {
+          "id": "9-u6-space",
+          "cat": "sentence",
+          "kp": "动词短语",
+          "title": "谈太空：常用短语",
+          "explain": "set foot on 踏上　fall asleep 入睡　on board 在（飞船、飞机）上　in case 以防万一\ncooperate with 与……合作　in time 及时；最终　run out of 用完\nIt might take hundreds of thousands of years to get there.",
+          "examples": [
+            {
+              "en": "Humans have photographed other galaxies, set foot on the moon, and even successfully landed rovers on Mars.",
+              "zh": "人类已经拍摄到其他星系，登上了月球，甚至成功让探测车登陆火星。"
+            },
+            {
+              "en": "Well, it's a little hard to fall asleep.",
+              "zh": "嗯，入睡有点难。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "Take an umbrella ______ it rains.",
+              "o": [
+                "in case",
+                "in time",
+                "in fact",
+                "in order"
+              ],
+              "a": 0,
+              "e": "in case 以防万一。",
+              "s": "Take an umbrella in case it rains."
+            },
+            {
+              "t": "choice",
+              "q": "Humans have set foot ______ the moon.",
+              "o": [
+                "in",
+                "on",
+                "at",
+                "to"
+              ],
+              "a": 1,
+              "e": "set foot on 踏上（某地）。",
+              "s": "Humans have set foot on the moon."
+            },
+            {
+              "t": "choice",
+              "q": "There were about 300 people ______ board the plane.",
+              "o": [
+                "in",
+                "on",
+                "at",
+                "by"
+              ],
+              "a": 1,
+              "e": "on board 在飞机（船）上。",
+              "s": "There were about 300 people on board the plane."
+            },
+            {
+              "t": "fill",
+              "q": "Astronauts can't fall ______ easily in space.",
+              "a": [
+                "asleep"
+              ],
+              "e": "fall asleep 入睡。",
+              "s": "Astronauts can't fall asleep easily in space."
+            },
+            {
+              "t": "fill",
+              "q": "China ______ (合作) with many countries on space research.",
+              "a": [
+                "cooperates"
+              ],
+              "e": "cooperate with 与……合作；主语 China 用三单。",
+              "s": "China cooperates with many countries on space research."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-7",
+      "points": [
+        {
+          "id": "9-u7-relative",
+          "cat": "grammar",
+          "kp": "定语从句",
+          "title": "定语从句：that / which / who",
+          "explain": "定语从句修饰前面的名词（先行词），放在名词后面。\n先行词是人：who / that　I prefer musicians who can write their own songs.\n先行词是物：which / that　I like music that has beautiful lyrics.\n关系词在从句中作宾语时可以省略：He is listening to the music (which) he downloaded.\n从句的谓语和先行词保持一致：music that has …，musicians who write …",
+          "examples": [
+            {
+              "en": "I prefer music that I can sing along to, so it's pop for me.",
+              "zh": "我更喜欢能跟着唱的音乐，所以我喜欢流行乐。"
+            },
+            {
+              "en": "I love traditional music that tells a story, for example, folk music.",
+              "zh": "我喜欢讲故事的传统音乐，比如民间音乐。"
+            },
+            {
+              "en": "He was also a gifted composer who left behind more than 200 musical works.",
+              "zh": "他还是一位有天赋的作曲家，留下了200多部音乐作品。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "I like music ______ I can dance to.",
+              "o": [
+                "who",
+                "that",
+                "what",
+                "where"
+              ],
+              "a": 1,
+              "e": "先行词 music 是物，用 that / which。",
+              "s": "I like music that I can dance to."
+            },
+            {
+              "t": "choice",
+              "q": "The girl ______ is singing on the stage is my sister.",
+              "o": [
+                "which",
+                "who",
+                "what",
+                "whose"
+              ],
+              "a": 1,
+              "e": "先行词 the girl 是人，用 who。",
+              "s": "The girl who is singing on the stage is my sister."
+            },
+            {
+              "t": "choice",
+              "q": "I prefer singers who ______ their own songs.",
+              "o": [
+                "write",
+                "writes",
+                "writing",
+                "to write"
+              ],
+              "a": 0,
+              "e": "从句谓语和先行词 singers（复数）一致：write。",
+              "s": "I prefer singers who write their own songs."
+            },
+            {
+              "t": "choice",
+              "q": "This is the book ______ I bought yesterday.",
+              "o": [
+                "who",
+                "where",
+                "which",
+                "what"
+              ],
+              "a": 2,
+              "e": "先行词 the book 是物，用 which / that（也可省略）。",
+              "s": "This is the book which I bought yesterday."
+            },
+            {
+              "t": "choice",
+              "q": "I like music that ______ beautiful lyrics.",
+              "o": [
+                "have",
+                "has",
+                "having",
+                "to have"
+              ],
+              "a": 1,
+              "e": "先行词 music 不可数，从句谓语用 has。",
+              "s": "I like music that has beautiful lyrics."
+            },
+            {
+              "t": "fill",
+              "q": "Chopin was a pianist ______ was loved by people young and old.",
+              "a": [
+                "who",
+                "that"
+              ],
+              "e": "先行词是人，用 who / that。",
+              "s": "Chopin was a pianist who was loved by people young and old."
+            },
+            {
+              "t": "order",
+              "w": [
+                "I",
+                "has",
+                "like",
+                "music",
+                "that",
+                "a",
+                "strong",
+                "rhythm"
+              ],
+              "a": "I like music that has a strong rhythm.",
+              "e": "名词 + that 从句。",
+              "s": "I like music that has a strong rhythm."
+            }
+          ]
+        },
+        {
+          "id": "9-u7-music",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "谈论音乐喜好",
+          "explain": "问：What kind of music do you like? / What do you think of …?\n答：I like / prefer music that … / I'm not that into … / I can't stand …\nprefer A to B 比起 B 更喜欢 A　sing along to 跟着唱　dance to 随着……跳舞\nlook down on 看不起　hats off to sb 向某人致敬",
+          "examples": [
+            {
+              "en": "I'm not that into rap.",
+              "zh": "我不太喜欢说唱。"
+            },
+            {
+              "en": "I like music that I can dance to.",
+              "zh": "我喜欢能跟着跳舞的音乐。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "I prefer folk music ______ rock music.",
+              "o": [
+                "than",
+                "to",
+                "for",
+                "with"
+              ],
+              "a": 1,
+              "e": "prefer A to B 比起 B 更喜欢 A。",
+              "s": "I prefer folk music to rock music."
+            },
+            {
+              "t": "choice",
+              "q": "We should never look down ______ others.",
+              "o": [
+                "at",
+                "on",
+                "to",
+                "for"
+              ],
+              "a": 1,
+              "e": "look down on 看不起。",
+              "s": "We should never look down on others."
+            },
+            {
+              "t": "choice",
+              "q": "— What kind of music do you like?\n— ______",
+              "o": [
+                "I like music that is quiet.",
+                "Yes, I do.",
+                "It's in the music room.",
+                "I'm a musician."
+              ],
+              "a": 0,
+              "e": "问喜欢哪种音乐，用 I like music that … 回答。",
+              "s": "— What kind of music do you like?\n— I like music that is quiet."
+            },
+            {
+              "t": "fill",
+              "q": "Everyone sang ______ to the song at the party.",
+              "a": [
+                "along"
+              ],
+              "e": "sing along to 跟着唱。",
+              "s": "Everyone sang along to the song at the party."
+            },
+            {
+              "t": "fill",
+              "q": "The music was so lively that we all danced ______ it.",
+              "a": [
+                "to"
+              ],
+              "e": "dance to 随着……跳舞。",
+              "s": "The music was so lively that we all danced to it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-8",
+      "points": [
+        {
+          "id": "9-u8-agreement",
+          "cat": "grammar",
+          "kp": "主谓一致",
+          "title": "主谓一致",
+          "explain": "① both … and … 作主语，谓语用复数：Both kung fu and boxing are popular.\n② either … or … / neither … nor … / not only … but also …：谓语和靠近的那个主语一致（就近原则）。\n③ each, everyone, everybody, nobody, every + 名词 作主语，谓语用单数：Everyone looks forward to the opening ceremony.\n④ 动名词、不定式、学科名（physics）、运动项目（tennis）作主语，谓语用单数。\n⑤ 表示时间、金钱、距离的复数名词作整体时用单数：Ten years is a long time.",
+          "examples": [
+            {
+              "en": "Both kung fu and boxing are popular sports among young people.",
+              "zh": "功夫和拳击都是年轻人中流行的运动。"
+            },
+            {
+              "en": "Neither winning nor losing is everything in the Olympics. It's about doing your best.",
+              "zh": "在奥运会上，输赢都不是一切。重要的是尽力而为。"
+            },
+            {
+              "en": "Tennis requires strength and skill.",
+              "zh": "网球需要力量和技巧。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "Both my father and my mother ______ watching the Olympics.",
+              "o": [
+                "like",
+                "likes",
+                "liking",
+                "is liking"
+              ],
+              "a": 0,
+              "e": "both … and … 作主语，谓语用复数。",
+              "s": "Both my father and my mother like watching the Olympics."
+            },
+            {
+              "t": "choice",
+              "q": "Neither Tom nor his friends ______ good at swimming.",
+              "o": [
+                "is",
+                "are",
+                "am",
+                "be"
+              ],
+              "a": 1,
+              "e": "neither … nor … 就近原则：靠近 friends，用 are。",
+              "s": "Neither Tom nor his friends are good at swimming."
+            },
+            {
+              "t": "choice",
+              "q": "Everyone ______ looking forward to Sports Day.",
+              "o": [
+                "are",
+                "is",
+                "were",
+                "be"
+              ],
+              "a": 1,
+              "e": "everyone 作主语，谓语用单数。",
+              "s": "Everyone is looking forward to Sports Day."
+            },
+            {
+              "t": "choice",
+              "q": "Each of the athletes ______ a unique story.",
+              "o": [
+                "have",
+                "has",
+                "having",
+                "are having"
+              ],
+              "a": 1,
+              "e": "each of … 作主语，谓语用单数。",
+              "s": "Each of the athletes has a unique story."
+            },
+            {
+              "t": "choice",
+              "q": "Either you or I ______ going to run the relay.",
+              "o": [
+                "is",
+                "are",
+                "am",
+                "be"
+              ],
+              "a": 2,
+              "e": "either … or … 就近原则：靠近 I，用 am。",
+              "s": "Either you or I am going to run the relay."
+            },
+            {
+              "t": "choice",
+              "q": "Running every day ______ good for your health.",
+              "o": [
+                "is",
+                "are",
+                "be",
+                "were"
+              ],
+              "a": 0,
+              "e": "动名词作主语，谓语用单数。",
+              "s": "Running every day is good for your health."
+            },
+            {
+              "t": "fill",
+              "q": "Tennis ______ (require) strength and skill.",
+              "a": [
+                "requires"
+              ],
+              "e": "运动项目作主语，谓语用单数。",
+              "s": "Tennis requires strength and skill."
+            },
+            {
+              "t": "fill",
+              "q": "Not only the students but also the teacher ______ (be) excited.",
+              "a": [
+                "is"
+              ],
+              "e": "not only … but also … 就近原则：靠近 the teacher，用 is。",
+              "s": "Not only the students but also the teacher is excited."
+            }
+          ]
+        },
+        {
+          "id": "9-u8-sports",
+          "cat": "sentence",
+          "kp": "动词短语",
+          "title": "谈运动和比赛",
+          "explain": "sign up for 报名参加　try out for 参加……的选拔　take the lead 领先\ncatch up with 赶上　make up ground on 逼近　compete against 与……比赛\nset a record 创造纪录　cheer for 为……加油　take place 举行",
+          "examples": [
+            {
+              "en": "When is the last day to sign up for the tryouts?",
+              "zh": "选拔赛报名的最后一天是哪天？"
+            },
+            {
+              "en": "Li Lei for Class 5 takes the lead now.",
+              "zh": "五班的李雷现在领先。"
+            },
+            {
+              "en": "Teng Fei didn't catch up with Xie Tao.",
+              "zh": "滕飞没有追上谢涛。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "We need to sign ______ for the tryouts by Friday.",
+              "o": [
+                "up",
+                "in",
+                "out",
+                "off"
+              ],
+              "a": 0,
+              "e": "sign up for 报名参加。",
+              "s": "We need to sign up for the tryouts by Friday."
+            },
+            {
+              "t": "choice",
+              "q": "He ran fast and soon caught up ______ the others.",
+              "o": [
+                "to",
+                "with",
+                "for",
+                "on"
+              ],
+              "a": 1,
+              "e": "catch up with 赶上。",
+              "s": "He ran fast and soon caught up with the others."
+            },
+            {
+              "t": "choice",
+              "q": "The 2022 Winter Olympics ______ in Beijing.",
+              "o": [
+                "took place",
+                "was taken place",
+                "happened to",
+                "took part"
+              ],
+              "a": 0,
+              "e": "take place 举行，没有被动语态。",
+              "s": "The 2022 Winter Olympics took place in Beijing."
+            },
+            {
+              "t": "fill",
+              "q": "Usain Bolt ______ a new world record in the 100 metres.",
+              "a": [
+                "set"
+              ],
+              "e": "set a record 创造纪录（set 的过去式还是 set）。",
+              "s": "Usain Bolt set a new world record in the 100 metres."
+            },
+            {
+              "t": "fill",
+              "q": "All the students cheered ______ their class team.",
+              "a": [
+                "for"
+              ],
+              "e": "cheer for 为……加油。",
+              "s": "All the students cheered for their class team."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

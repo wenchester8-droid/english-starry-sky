@@ -1,0 +1,5450 @@
+{
+ "bring-about": {
+  "tb": {
+   "en": "What do you think brings about changes?",
+   "zh": "你认为是什么带来了变化？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "New technology has brought about great changes in our life.",
+   "zh": "新技术给我们的生活带来了巨大的变化。",
+   "src": "拓展"
+  }
+ },
+ "rough": {
+  "tb": {
+   "en": "When I was a child, the bus took nearly 40 minutes over rough roads to get to school.",
+   "zh": "我小时候，公交车要在崎岖的路上开将近40分钟才能到学校。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The road to the village used to be rough and narrow.",
+   "zh": "通往村子的路以前又崎岖又狭窄。",
+   "src": "拓展"
+  }
+ },
+ "be-covered-with": {
+  "tb": {
+   "en": "The area used to be covered with sand.",
+   "zh": "这个地区过去被沙子覆盖。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In winter, the mountains are covered with snow.",
+   "zh": "冬天，群山被白雪覆盖。",
+   "src": "拓展"
+  }
+ },
+ "sandstorm": {
+  "tb": {
+   "en": "There are fewer sandstorms now and the environment is getting better.",
+   "zh": "现在沙尘暴少了，环境越来越好了。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Planting trees can help stop sandstorms.",
+   "zh": "植树有助于阻挡沙尘暴。",
+   "src": "拓展"
+  }
+ },
+ "shortage": {
+  "tb": {
+   "en": "The village had a water shortage in the past.",
+   "zh": "这个村子过去缺水。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "There is a shortage of doctors in some areas.",
+   "zh": "一些地区缺少医生。",
+   "src": "拓展"
+  }
+ },
+ "farmland": {
+  "tb": {
+   "en": "Although he is more than 70 years old, he still spends most of his days working in the sun on the farmland.",
+   "zh": "虽然他已经七十多岁了，但他大部分时间仍在田地里顶着太阳劳作。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "By holding back water, it protects millions of people and a lot of farmland.",
+   "zh": "通过拦蓄洪水，它保护了数百万人和大片农田。",
+   "src": "2026 新乡模拟"
+  }
+ },
+ "lack": {
+  "tb": {
+   "en": "A lack of sleep makes it hard to study well.",
+   "zh": "睡眠不足会让人很难好好学习。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Some students lack confidence because of being overweight or underweight.",
+   "zh": "一些学生因为太胖或太瘦而缺乏自信。",
+   "src": "改编"
+  }
+ },
+ "bush": {
+  "tb": {
+   "en": "We have planted many bushes and trees since then.",
+   "zh": "从那以后，我们种了许多灌木和树。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "I took a leaf from a nearby bush and carefully placed it over the water.",
+   "zh": "我从旁边的灌木上摘下一片叶子，小心地放在水面上。",
+   "src": "改编"
+  }
+ },
+ "root": {
+  "tb": {
+   "en": "It had long roots that could hold the soil together.",
+   "zh": "它有长长的根，能把土壤固定住。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Plants use their roots to take in water.",
+   "zh": "植物用根吸收水分。",
+   "src": "拓展"
+  }
+ },
+ "soil": {
+  "tb": {
+   "en": "It had long roots that could hold the soil together.",
+   "zh": "它有长长的根，能把土壤固定住。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Plants usually help keep the soil in place.",
+   "zh": "植物通常有助于固定土壤。",
+   "src": "2025 许昌模拟"
+  }
+ },
+ "sandy": {
+  "tb": {
+   "en": "We began planting it in sandy areas.",
+   "zh": "我们开始在沙地上种植它。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Few plants can grow on sandy land.",
+   "zh": "很少有植物能在沙地上生长。",
+   "src": "拓展"
+  }
+ },
+ "government": {
+  "tb": {
+   "en": "A government worker said, \"I'm very happy with the new railway built by our Chinese friends.\"",
+   "zh": "一位政府工作人员说：“我对中国朋友修建的新铁路非常满意。”",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "When they finally finished, they sent the letter to the government.",
+   "zh": "他们终于写完后，把信寄给了政府。",
+   "src": "2026 周口模拟"
+  }
+ },
+ "support": {
+  "tb": {
+   "en": "As a youth, Hua Luogeng left high school to support his family.",
+   "zh": "年轻时，华罗庚离开高中去养家。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "With her support, Leo organized a clean-up activity at the local park.",
+   "zh": "在她的支持下，利奥在当地公园组织了一次清洁活动。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "corn": {
+  "tb": {
+   "en": "Have you seen the corn fields outside of the town yet?",
+   "zh": "你看过镇子外面的玉米地了吗？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Henan grows a lot of wheat and corn.",
+   "zh": "河南种植了大量小麦和玉米。",
+   "src": "拓展"
+  }
+ },
+ "high-tech": {
+  "tb": {
+   "en": "Now, I have large, high-tech greenhouses.",
+   "zh": "现在，我有了大型高科技温室。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The popularity of Chinese high-tech products is growing in other places.",
+   "zh": "中国高科技产品在其他地方越来越受欢迎。",
+   "src": "改编"
+  }
+ },
+ "greenhouse": {
+  "tb": {
+   "en": "Now, I have large, high-tech greenhouses.",
+   "zh": "现在，我有了大型高科技温室。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It has a dancing room, a football field, a greenhouse and so on.",
+   "zh": "那里有舞蹈室、足球场、温室等等。",
+   "src": "改编"
+  }
+ },
+ "highway": {
+  "tb": {
+   "en": "Wow, the new highway and railway must have helped a lot!",
+   "zh": "哇，新修的公路和铁路一定帮了大忙！",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The Silk Road became a busy highway for traders who carried things across deserts and mountains.",
+   "zh": "丝绸之路成了一条繁忙的大道，商人们带着货物穿越沙漠和高山。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "railway": {
+  "tb": {
+   "en": "Wow, the new highway and railway must have helped a lot!",
+   "zh": "哇，新修的公路和铁路一定帮了大忙！",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The high-speed railway makes it easy to travel between cities.",
+   "zh": "高铁让城市之间的往来变得很方便。",
+   "src": "拓展"
+  }
+ },
+ "attraction": {
+  "tb": {
+   "en": "Our village has become a tourist attraction.",
+   "zh": "我们村已经成了一个旅游景点。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It acts like a personal guide, giving details on the historical stories, cultural meanings and special features behind the attractions.",
+   "zh": "它就像一位私人导游，详细介绍景点背后的历史故事、文化含义和特色。",
+   "src": "2026 洛阳模拟"
+  }
+ },
+ "product": {
+  "tb": {
+   "en": "We can now sell local products to tourists.",
+   "zh": "我们现在可以把当地产品卖给游客了。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In recent years, agricultural product processing companies in Henan have grown strongly.",
+   "zh": "近年来，河南的农产品加工企业发展强劲。",
+   "src": "2025 新乡模拟"
+  }
+ },
+ "greatly": {
+  "tb": {
+   "en": "The invention of the plane has greatly changed the world.",
+   "zh": "飞机的发明极大地改变了世界。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Firstly, I find that my spoken English has greatly improved through reading.",
+   "zh": "首先，我发现通过阅读，我的英语口语有了很大提高。",
+   "src": "2022年河南中考"
+  }
+ },
+ "socialist": {
+  "tb": {
+   "en": "Together you are building a new socialist village.",
+   "zh": "你们正在一起建设社会主义新农村。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "China is a socialist country.",
+   "zh": "中国是社会主义国家。",
+   "src": "拓展"
+  }
+ },
+ "e-payment": {
+  "tb": {
+   "en": "E-payment is very popular in China now.",
+   "zh": "电子支付现在在中国非常普遍。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "With e-payment, people don't need to carry much cash.",
+   "zh": "有了电子支付，人们不需要带很多现金。",
+   "src": "拓展"
+  }
+ },
+ "housing": {
+  "tb": {
+   "en": "Housing in the village has improved a lot.",
+   "zh": "村里的住房条件改善了很多。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "The city will include space for work and housing, along with restaurants and shops.",
+   "zh": "这座城市将包括工作和居住的空间，还有餐馆和商店。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "digital": {
+  "tb": {
+   "en": "I also read some digital books on the computer.",
+   "zh": "我还在电脑上读了一些电子书。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Now I know China's digital life is not just high technology.",
+   "zh": "现在我知道中国的数字生活不仅仅是高科技。",
+   "src": "2026 信阳模拟"
+  }
+ },
+ "audio": {
+  "tb": {
+   "en": "My grandpa listens to some audio books because he can't see well.",
+   "zh": "我爷爷听一些有声书，因为他看不太清楚。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "You can listen to the audio guide in the museum.",
+   "zh": "你可以在博物馆里听语音导览。",
+   "src": "拓展"
+  }
+ },
+ "dirt": {
+  "tb": {
+   "en": "In many places, most roads were just dirt tracks.",
+   "zh": "在许多地方，大多数路都只是土路。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "It was a dirt trail that went into the forest.",
+   "zh": "那是一条通往森林的土路。",
+   "src": "2025 洛阳模拟"
+  }
+ },
+ "track": {
+  "tb": {
+   "en": "Their use of the keyboard and erhu made me imagine horses running down a track.",
+   "zh": "他们用键盘和二胡演奏，让我想象出骏马在小路上奔跑的样子。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Runners are training on the track.",
+   "zh": "运动员们正在跑道上训练。",
+   "src": "拓展"
+  }
+ },
+ "wide": {
+  "tb": {
+   "en": "He wears a wide hat, and his skin is brown from the sun.",
+   "zh": "他戴着一顶宽檐帽，皮肤被太阳晒成了棕色。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Garth stood outside his house with a wide smile.",
+   "zh": "加思站在家门外，笑得合不拢嘴。",
+   "src": "2023年河南中考"
+  }
+ },
+ "tunnel": {
+  "tb": {
+   "en": "It has also built many bridges and tunnels.",
+   "zh": "它还修建了许多桥梁和隧道。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The train went through a long tunnel.",
+   "zh": "火车穿过了一条长长的隧道。",
+   "src": "拓展"
+  }
+ },
+ "link": {
+  "tb": {
+   "en": "The more links you create, the more you remember.",
+   "zh": "你建立的联系越多，记住的就越多。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Linking a new English word to a familiar scene makes it easier to remember.",
+   "zh": "把新的英语单词和熟悉的场景联系起来，会更容易记住。",
+   "src": "改编"
+  }
+ },
+ "port": {
+  "tb": {
+   "en": "Shanghai is a busy port city.",
+   "zh": "上海是一座繁忙的港口城市。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Ships from all over the world come to this port.",
+   "zh": "来自世界各地的船只驶入这个港口。",
+   "src": "拓展"
+  }
+ },
+ "capital": {
+  "tb": {
+   "en": "Nairobi is the capital of Kenya.",
+   "zh": "内罗毕是肯尼亚的首都。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "What makes Yichang known as the global capital of hydropower?",
+   "zh": "是什么让宜昌被称为“世界水电之都”？",
+   "src": "2026 驻马店模拟"
+  }
+ },
+ "complete": {
+  "tb": {
+   "en": "The Qinghai-Xizang Railway was completed in 2006.",
+   "zh": "青藏铁路于2006年建成。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Once you have completed a poem, you should read it aloud to yourself.",
+   "zh": "一首诗写完后，你应该自己大声读一读。",
+   "src": "改编"
+  }
+ },
+ "kenyan": {
+  "tb": {
+   "en": "Local Kenyans have benefited a lot from the new railway.",
+   "zh": "当地肯尼亚人从新铁路中受益良多。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The Kenyan runner won the race.",
+   "zh": "那位肯尼亚选手赢得了比赛。",
+   "src": "拓展"
+  }
+ },
+ "convenient": {
+  "tb": {
+   "en": "It is very convenient and doesn't cost much money.",
+   "zh": "这非常方便，而且花不了多少钱。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "They can't stop praising how convenient it is for daily shopping.",
+   "zh": "他们不停地称赞日常购物有多方便。",
+   "src": "2025 鹤壁模拟"
+  }
+ },
+ "business": {
+  "tb": {
+   "en": "After graduating from university, Hui decided to return to her hometown and start her own flower business.",
+   "zh": "大学毕业后，慧决定回到家乡，创办自己的鲜花生意。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "What college classes did you find helpful for starting a business?",
+   "zh": "你觉得哪些大学课程对创业有帮助？",
+   "src": "改编"
+  }
+ },
+ "ease": {
+  "tb": {
+   "en": "She answered all the questions with ease.",
+   "zh": "她轻松地回答了所有问题。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "The new bridge helps people cross the river with ease.",
+   "zh": "新桥让人们能轻松过河。",
+   "src": "拓展"
+  }
+ },
+ "with-ease": {
+  "tb": {
+   "en": "She answered all the questions with ease.",
+   "zh": "她轻松地回答了所有问题。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "With the new railway, people can travel with ease.",
+   "zh": "有了新铁路，人们可以轻松出行。",
+   "src": "拓展"
+  }
+ },
+ "lorry": {
+  "tb": {
+   "en": "Lorries carry goods from the port to the city.",
+   "zh": "卡车把货物从港口运到城里。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "A big lorry was parked outside the shop.",
+   "zh": "一辆大卡车停在商店外面。",
+   "src": "拓展"
+  }
+ },
+ "manager": {
+  "tb": {
+   "en": "He is the manager of a big hotel.",
+   "zh": "他是一家大酒店的经理。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "\"We treat every customer as a family member,\" said Manager Wang.",
+   "zh": "“我们把每位顾客都当作家人。”王经理说。",
+   "src": "改编"
+  }
+ },
+ "comment": {
+  "tb": {
+   "en": "Pay attention to how the host keeps the interview going with questions and comments.",
+   "zh": "注意主持人是怎样用提问和评论让采访继续下去的。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Thank you for your kind comments on my writing.",
+   "zh": "谢谢你对我的作文的好评。",
+   "src": "拓展"
+  }
+ },
+ "conclusion": {
+  "tb": {
+   "en": "Write a conclusion at the end of your report.",
+   "zh": "在报告的结尾写一段总结。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "In conclusion, reading is good for us.",
+   "zh": "总之，阅读对我们有好处。",
+   "src": "拓展"
+  }
+ },
+ "rail": {
+  "tb": {
+   "en": "Travelling by rail is fast and comfortable.",
+   "zh": "乘火车出行既快又舒适。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "The rail line links the two cities.",
+   "zh": "这条铁路线把两座城市连接起来。",
+   "src": "拓展"
+  }
+ },
+ "narrow": {
+  "tb": {
+   "en": "The road used to be narrow and dirty.",
+   "zh": "这条路以前又窄又脏。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "With the country's narrow streets and heavy traffic, many people ride on the sidewalk.",
+   "zh": "由于这个国家街道狭窄、交通拥堵，许多人在人行道上骑车。",
+   "src": "改编"
+  }
+ },
+ "villager": {
+  "tb": {
+   "en": "She also helped other villagers and taught them how to sell agricultural products online.",
+   "zh": "她还帮助其他村民，教他们如何在网上销售农产品。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The villagers agreed to continue their efforts to protect the forest.",
+   "zh": "村民们同意继续努力保护森林。",
+   "src": "改编"
+  }
+ },
+ "the-olympics": {
+  "tb": {
+   "en": "Neither winning nor losing is everything in the Olympics.",
+   "zh": "在奥运会上，输赢都不是一切。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Beijing hosted the Olympics in 2008 and 2022.",
+   "zh": "北京在2008年和2022年举办了奥运会。",
+   "src": "拓展"
+  }
+ },
+ "lead": {
+  "tb": {
+   "en": "Li Lei for Class 5 takes the lead now.",
+   "zh": "五班的李雷现在领先。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "King Wu of Zhou was a wise, kind and great leader.",
+   "zh": "周武王是一位睿智、仁慈而伟大的领袖。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "man-made": {
+  "tb": {
+   "en": "The beep came from the world's first man-made satellite, Sputnik 1.",
+   "zh": "那“哔哔”声来自世界上第一颗人造卫星“斯普特尼克1号”。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Studies show that man-made light is changing ocean ecosystems.",
+   "zh": "研究表明，人造光正在改变海洋生态系统。",
+   "src": "2026 濮阳模拟"
+  }
+ },
+ "miracle": {
+  "tb": {
+   "en": "Today, Saihanba is known as \"the green miracle\".",
+   "zh": "如今，塞罕坝被称为“绿色奇迹”。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It was a miracle that nobody was hurt in the accident.",
+   "zh": "这次事故中没有人受伤，真是个奇迹。",
+   "src": "拓展"
+  }
+ },
+ "junior": {
+  "tb": {
+   "en": "Now my junior high school is farther from home.",
+   "zh": "现在我的初中离家更远了。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In a peaceful small town, there was a junior high school called Sunny Middle School.",
+   "zh": "在一个宁静的小镇上，有一所叫阳光中学的初中。",
+   "src": "2025 洛阳模拟"
+  }
+ },
+ "flat": {
+  "tb": {
+   "en": "My family used to live in a small flat, but now we have moved to a much larger one.",
+   "zh": "我家以前住在一套小公寓里，现在搬进了大得多的房子。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "They live in a flat on the fifth floor.",
+   "zh": "他们住在五楼的一套公寓里。",
+   "src": "拓展"
+  }
+ },
+ "discussion": {
+  "tb": {
+   "en": "I have become more confident in my studies and often attend group discussions.",
+   "zh": "我在学习上更自信了，经常参加小组讨论。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Through discussion, we can share different ideas and get to know more about each other.",
+   "zh": "通过讨论，我们可以分享不同的想法，更加了解彼此。",
+   "src": "2024年河南中考"
+  }
+ },
+ "aspect": {
+  "tb": {
+   "en": "What other aspects about him do you want to share?",
+   "zh": "关于他，你还想分享哪些方面？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Reading helps us in many aspects of life.",
+   "zh": "阅读在生活的许多方面帮助我们。",
+   "src": "拓展"
+  }
+ },
+ "mombasa": {
+  "tb": {
+   "en": "It took 10 hours to get to Nairobi from Mombasa by train.",
+   "zh": "过去从蒙巴萨坐火车到内罗毕要10个小时。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Mombasa is a port city in Kenya.",
+   "zh": "蒙巴萨是肯尼亚的一座港口城市。",
+   "src": "拓展"
+  }
+ },
+ "inspiring": {
+  "tb": {
+   "en": "In what ways do you find Zhang Qian inspiring?",
+   "zh": "你觉得张骞在哪些方面鼓舞人心？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "I've heard the teaching there focuses on inspiring students' creativity.",
+   "zh": "我听说那里的教学注重激发学生的创造力。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "admire": {
+  "tb": {
+   "en": "Who is the athlete you admire the most?",
+   "zh": "你最钦佩的运动员是谁？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Mark once enjoyed driving around to admire Christmas lights.",
+   "zh": "马克曾经喜欢开车四处欣赏圣诞彩灯。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "historian": {
+  "tb": {
+   "en": "Sima Qian was a great historian of the Han Dynasty.",
+   "zh": "司马迁是汉代一位伟大的历史学家。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "The historian wrote a book about the history of Henan.",
+   "zh": "这位历史学家写了一本关于河南历史的书。",
+   "src": "拓展"
+  }
+ },
+ "chemist": {
+  "tb": {
+   "en": "Marie Curie was a famous chemist and physicist.",
+   "zh": "玛丽·居里是著名的化学家和物理学家。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "The chemist did many experiments in her lab.",
+   "zh": "这位化学家在实验室里做了很多实验。",
+   "src": "拓展"
+  }
+ },
+ "physicist": {
+  "tb": {
+   "en": "Many famous physicists also started doing experiments when they were young.",
+   "zh": "许多著名的物理学家也是从小就开始做实验的。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Newton was one of the greatest physicists in history.",
+   "zh": "牛顿是历史上最伟大的物理学家之一。",
+   "src": "拓展"
+  }
+ },
+ "hunger": {
+  "tb": {
+   "en": "It was great of him to develop a new kind of rice and help reduce hunger.",
+   "zh": "他培育出一种新水稻，帮助减少了饥饿，真了不起。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Yuan Longping helped millions of people out of hunger.",
+   "zh": "袁隆平帮助数百万人摆脱了饥饿。",
+   "src": "拓展"
+  }
+ },
+ "chemistry": {
+  "tb": {
+   "en": "She made many important discoveries in physics and chemistry.",
+   "zh": "她在物理和化学领域有许多重要发现。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Laughing can actually change the chemistry in your body.",
+   "zh": "笑实际上能改变你身体里的化学物质。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "drop-out": {
+  "tb": {
+   "en": "Michael Faraday dropped out of school at an early age, but he found every chance to study and became a great scientist.",
+   "zh": "迈克尔·法拉第很小就辍学了，但他抓住一切机会学习，成了一位伟大的科学家。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "He dropped out of the race because he hurt his leg.",
+   "zh": "他因为腿受伤退出了比赛。",
+   "src": "拓展"
+  }
+ },
+ "calendar": {
+  "tb": {
+   "en": "He also played a big part in reviewing the Chinese calendar at that time.",
+   "zh": "他还在修订当时的中国历法中发挥了重要作用。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Once you've made sure, add the trip date to your calendars.",
+   "zh": "确定之后，就把出行日期记到你的日历上。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "discovery": {
+  "tb": {
+   "en": "She made many important discoveries in physics and chemistry.",
+   "zh": "她在物理和化学领域有许多重要发现。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It's a place where every activity is full of fun and discovery for families!",
+   "zh": "在这个地方，每项活动都让全家人充满乐趣和发现！",
+   "src": "2025 河南模拟"
+  }
+ },
+ "century": {
+  "tb": {
+   "en": "In the 21st century, this means using new technology and resources, not just textbooks.",
+   "zh": "在21世纪，这意味着要使用新技术和新资源，而不只是课本。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "For centuries, people have been dreaming of building lifelike machines.",
+   "zh": "几个世纪以来，人们一直梦想着制造栩栩如生的机器。",
+   "src": "2026年河南中考"
+  }
+ },
+ "wounded": {
+  "tb": {
+   "en": "Florence Nightingale took care of wounded soldiers.",
+   "zh": "弗洛伦斯·南丁格尔照顾受伤的士兵。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "The wounded soldiers were taken to the hospital.",
+   "zh": "受伤的士兵被送到了医院。",
+   "src": "拓展"
+  }
+ },
+ "british": {
+  "tb": {
+   "en": "He built the first British railways and many other important things, such as bridges, ships, and tunnels.",
+   "zh": "他修建了英国第一批铁路，还有许多其他重要的东西，比如桥梁、轮船和隧道。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "There are many children's books by British writers.",
+   "zh": "有许多英国作家写的儿童读物。",
+   "src": "2023年河南中考"
+  }
+ },
+ "airport": {
+  "tb": {
+   "en": "Pardon me, where can I get a bus to the airport?",
+   "zh": "打扰一下，我在哪里能坐上去机场的公交车？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "My story in China started with a little fear at Chengdu Airport.",
+   "zh": "我在中国的故事是从成都机场的一点点害怕开始的。",
+   "src": "2026 信阳模拟"
+  }
+ },
+ "nation": {
+  "tb": {
+   "en": "All these helped the UK develop into a modern nation.",
+   "zh": "所有这些帮助英国发展成为一个现代国家。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Tuvalu is an island nation made up of nine islands.",
+   "zh": "图瓦卢是一个由九个岛屿组成的岛国。",
+   "src": "改编"
+  }
+ },
+ "spread": {
+  "tb": {
+   "en": "Suddenly, news could be spread around the world in seconds.",
+   "zh": "突然之间，新闻可以在几秒钟内传遍全世界。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The strong Santa Ana wind made the fire spread very quickly.",
+   "zh": "强劲的圣安娜风使大火蔓延得非常快。",
+   "src": "2025 许昌模拟"
+  }
+ },
+ "disease": {
+  "tb": {
+   "en": "Smallpox used to be one of the worst global diseases.",
+   "zh": "天花曾是全球最严重的疾病之一。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "When he was young, many people lost their lives because of diseases.",
+   "zh": "他年轻时，许多人因疾病失去了生命。",
+   "src": "改编"
+  }
+ },
+ "pioneer": {
+  "tb": {
+   "en": "Recently, I read about Zhang Qian, the pioneer of the famous Silk Road.",
+   "zh": "最近，我读到了张骞的故事，他是著名的丝绸之路的开拓者。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Qian Xuesen was a pioneer of China's space science.",
+   "zh": "钱学森是中国航天科学的先驱。",
+   "src": "拓展"
+  }
+ },
+ "admirable": {
+  "tb": {
+   "en": "What makes Zhong Yang admirable?",
+   "zh": "钟扬有哪些地方令人钦佩？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Her hard work is admirable.",
+   "zh": "她的勤奋令人钦佩。",
+   "src": "拓展"
+  }
+ },
+ "pyramid": {
+  "tb": {
+   "en": "Did he design the glass pyramid at the Louvre Museum?",
+   "zh": "卢浮宫博物馆的玻璃金字塔是他设计的吗？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Through virtual reality glasses, you can even \"visit\" their pyramids.",
+   "zh": "通过虚拟现实眼镜，你甚至可以“参观”他们的金字塔。",
+   "src": "改编"
+  }
+ },
+ "balance": {
+  "tb": {
+   "en": "He created a beautiful balance between the East and the West.",
+   "zh": "他在东方与西方之间创造了一种美妙的平衡。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In a word, we're supposed to find a balance.",
+   "zh": "总之，我们应该找到一个平衡点。",
+   "src": "2026 新乡模拟"
+  }
+ },
+ "courage": {
+  "tb": {
+   "en": "She is full of courage and wisdom.",
+   "zh": "她充满勇气和智慧。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "On the outside, life may knock you down, but inside you have courage, ideas, and strength.",
+   "zh": "表面上，生活可能把你击倒，但你内心有勇气、想法和力量。",
+   "src": "2026 洛阳模拟"
+  }
+ },
+ "wisdom": {
+  "tb": {
+   "en": "She is full of courage and wisdom.",
+   "zh": "她充满勇气和智慧。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The Xiaolangdi Project is a symbol of human wisdom and hard work.",
+   "zh": "小浪底工程是人类智慧和辛勤劳动的象征。",
+   "src": "2026 新乡模拟"
+  }
+ },
+ "live": {
+  "tb": {
+   "en": "I have always wanted to see traditional Chinese music performed live.",
+   "zh": "我一直想看中国传统音乐的现场表演。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "We watched the live show of the Spring Festival Gala on TV.",
+   "zh": "我们在电视上看了春节联欢晚会的直播。",
+   "src": "拓展"
+  }
+ },
+ "look-up-to-sb": {
+  "tb": {
+   "en": "Who do you look up to?",
+   "zh": "你敬佩谁？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "While everyone else was looking up to popular sports stars, actors and musicians, my mom was my hero.",
+   "zh": "当其他人都在仰慕体育明星、演员和音乐家时，我妈妈是我的英雄。",
+   "src": "2026 周口模拟"
+  }
+ },
+ "brave": {
+  "tb": {
+   "en": "It was very difficult for him to brave the cold weather and great heights.",
+   "zh": "对他来说，顶着严寒、登上高处非常艰难。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "He decided to be brave enough to express his own thoughts.",
+   "zh": "他决定勇敢地表达自己的想法。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "necessary": {
+  "tb": {
+   "en": "Why is taking a break necessary for your brain?",
+   "zh": "为什么休息一下对你的大脑是必要的？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Experience is not necessary—just a heart to learn and try new things!",
+   "zh": "不需要经验——只要有一颗愿意学习和尝试新事物的心！",
+   "src": "改编"
+  }
+ },
+ "seed": {
+  "tb": {
+   "en": "Zhong Yang left behind more than just a huge collection of seeds.",
+   "zh": "钟扬留下的不只是大量的种子收藏。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Animals eat fruits and drop the seeds in other places later.",
+   "zh": "动物吃了果实，后来把种子留在别的地方。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "childhood": {
+  "tb": {
+   "en": "Jenner did not have an easy childhood.",
+   "zh": "詹纳的童年并不轻松。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Ethan's grandfather told him a story of his childhood.",
+   "zh": "伊森的爷爷给他讲了一个自己童年的故事。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "dynasty": {
+  "tb": {
+   "en": "Paper was improved by Cai Lun in the Eastern Han Dynasty.",
+   "zh": "纸在东汉时期由蔡伦改进。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "By the Han Dynasty, lacquerware became part of everyday life.",
+   "zh": "到了汉代，漆器已成为日常生活的一部分。",
+   "src": "2025 焦作模拟"
+  }
+ },
+ "western": {
+  "tb": {
+   "en": "We watched flying gray clouds in the western sky.",
+   "zh": "我们看着西边天空中飘动的灰色云朵。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Chinese technology has been important in Western life.",
+   "zh": "中国的技术在西方生活中一直很重要。",
+   "src": "改编"
+  }
+ },
+ "region": {
+  "tb": {
+   "en": "Xinjiang is a region in the northwest of China.",
+   "zh": "新疆是中国西北部的一个地区。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "People in different regions have different customs.",
+   "zh": "不同地区的人有不同的风俗。",
+   "src": "拓展"
+  }
+ },
+ "scientific": {
+  "tb": {
+   "en": "It was amazing that he did scientific research in physics and chemistry even though he didn't receive a formal education.",
+   "zh": "令人惊叹的是，尽管没有受过正规教育，他仍在物理和化学领域进行了科学研究。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "They use scientific instruments to study weather conditions around the world and make forecasts.",
+   "zh": "他们用科学仪器研究世界各地的天气状况并作出预报。",
+   "src": "2024年河南中考"
+  }
+ },
+ "biologist": {
+  "tb": {
+   "en": "The well-respected biologist had spent his whole life researching plants and seeds.",
+   "zh": "这位备受尊敬的生物学家一生都在研究植物和种子。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The biologist studies how animals live in the forest.",
+   "zh": "这位生物学家研究动物在森林里怎样生活。",
+   "src": "拓展"
+  }
+ },
+ "whole": {
+  "tb": {
+   "en": "The well-respected biologist had spent his whole life researching plants and seeds.",
+   "zh": "这位备受尊敬的生物学家一生都在研究植物和种子。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "This pressure difference pushes the wing upward, lifting the whole plane!",
+   "zh": "这种压力差把机翼往上推，从而托起整架飞机！",
+   "src": "2025 河南模拟"
+  }
+ },
+ "bank": {
+  "tb": {
+   "en": "Over the years, he collected many important seeds for China's seed banks.",
+   "zh": "多年来，他为中国的种子库收集了许多重要的种子。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "When he opened his eyes, he was on the grassy bank of a beautiful lake.",
+   "zh": "他睁开眼睛时，发现自己躺在一个美丽湖泊长满青草的岸边。",
+   "src": "2025 鹤壁模拟"
+  }
+ },
+ "forever": {
+  "tb": {
+   "en": "I will remember this day forever.",
+   "zh": "我会永远记住这一天。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Our friendship will last forever.",
+   "zh": "我们的友谊会天长地久。",
+   "src": "拓展"
+  }
+ },
+ "radio": {
+  "tb": {
+   "en": "There, he studied radio engineering and later became interested in plants.",
+   "zh": "他在那里学习无线电工程，后来对植物产生了兴趣。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Millions of people sat round their radios just listening for this beep.",
+   "zh": "数百万人围坐在收音机旁，就为了听这一声“哔”。",
+   "src": "课本"
+  }
+ },
+ "leave-behind": {
+  "tb": {
+   "en": "Zhong Yang left behind more than just a huge collection of seeds.",
+   "zh": "钟扬留下的不只是大量的种子收藏。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Don't leave anything behind when you get off the bus.",
+   "zh": "下车时别落下任何东西。",
+   "src": "拓展"
+  }
+ },
+ "collection": {
+  "tb": {
+   "en": "Zhong Yang left behind more than just a huge collection of seeds.",
+   "zh": "钟扬留下的不只是大量的种子收藏。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The museum has a large collection of ancient art.",
+   "zh": "这家博物馆收藏了大量古代艺术品。",
+   "src": "拓展"
+  }
+ },
+ "live-on": {
+  "tb": {
+   "en": "Though Mozi lived more than 2,000 years ago, his ideas live on.",
+   "zh": "虽然墨子生活在两千多年前，但他的思想流传至今。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Silent as the deep sea, his heroic spirit will live on.",
+   "zh": "他的英雄精神如深海般沉默，却将永存。",
+   "src": "2025 开封模拟"
+  }
+ },
+ "exploration": {
+  "tb": {
+   "en": "Exploration of the planet Mars and the moon will be continued.",
+   "zh": "对火星和月球的探索将继续进行。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "China has made great progress in space exploration.",
+   "zh": "中国在太空探索方面取得了巨大进步。",
+   "src": "拓展"
+  }
+ },
+ "universe": {
+  "tb": {
+   "en": "For a long time, scientists have known that the universe is filled with stars.",
+   "zh": "长期以来，科学家们知道宇宙中充满了星星。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "There are still many mysteries in the universe.",
+   "zh": "宇宙中仍有许多奥秘。",
+   "src": "2026 周口模拟"
+  }
+ },
+ "socialism": {
+  "tb": {
+   "en": "The historian wrote a book about the successful development of socialism in China.",
+   "zh": "这位历史学家写了一本关于社会主义在中国成功发展的书。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "China is building socialism with Chinese characteristics.",
+   "zh": "中国正在建设中国特色社会主义。",
+   "src": "拓展"
+  }
+ },
+ "hole": {
+  "tb": {
+   "en": "Scientists have learned more about black holes.",
+   "zh": "科学家们对黑洞有了更多的了解。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Some desert frogs dig underground holes during the hot, dry season.",
+   "zh": "一些沙漠蛙在炎热干燥的季节会在地下挖洞。",
+   "src": "2022年河南中考"
+  }
+ },
+ "daughter": {
+  "tb": {
+   "en": "Marie Curie's daughter Irène was also a scientist.",
+   "zh": "玛丽·居里的女儿艾琳也是一位科学家。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "The parents would put their son or daughter in the Draw Lots place.",
+   "zh": "父母会把儿子或女儿带到抽签的地方。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "herself": {
+  "tb": {
+   "en": "Her parents supported her and encouraged her to be herself.",
+   "zh": "她的父母支持她，鼓励她做真实的自己。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "\"I need special shoes for ice,\" she said to herself.",
+   "zh": "“我需要一双能在冰上穿的特别的鞋。”她自言自语道。",
+   "src": "2026 郑州模拟"
+  }
+ },
+ "flight": {
+  "tb": {
+   "en": "Then, in December 1903, the world's first plane flights were made.",
+   "zh": "后来，在1903年12月，世界上第一次飞机飞行完成了。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The key to flight lies in four forces: lift, weight, thrust, and drag.",
+   "zh": "飞行的关键在于四种力：升力、重力、推力和阻力。",
+   "src": "2025 河南模拟"
+  }
+ },
+ "woodwork": {
+  "tb": {
+   "en": "It is said that Mozi was a soldier, good at woodwork, and was the inventor of the kite.",
+   "zh": "据说墨子当过兵，擅长木工，还是风筝的发明者。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "My grandpa is good at woodwork and made me a little chair.",
+   "zh": "我爷爷擅长木工，给我做了一把小椅子。",
+   "src": "拓展"
+  }
+ },
+ "inventor": {
+  "tb": {
+   "en": "What qualities do you think a great inventor has?",
+   "zh": "你认为一个伟大的发明家有哪些品质？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Throughout history, there have been many kid inventors like Benjamin Franklin.",
+   "zh": "历史上有很多像本杰明·富兰克林那样的少年发明家。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "above-all": {
+  "tb": {
+   "en": "But in fact, above all, he was a great thinker.",
+   "zh": "但事实上，最重要的是，他是一位伟大的思想家。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Above all, you should believe in yourself.",
+   "zh": "最重要的是，你要相信自己。",
+   "src": "拓展"
+  }
+ },
+ "thinker": {
+  "tb": {
+   "en": "But in fact, above all, he was a great thinker.",
+   "zh": "但事实上，最重要的是，他是一位伟大的思想家。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "He was not only a great thinker but also a wise teacher.",
+   "zh": "他不仅是一位伟大的思想家，也是一位睿智的老师。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "period": {
+  "tb": {
+   "en": "Mozi lived during the Warring States Period.",
+   "zh": "墨子生活在战国时期。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "During this period, it is very important to learn about yourself and manage your feelings.",
+   "zh": "在这个时期，了解自己、管理好情绪非常重要。",
+   "src": "2026 许昌模拟"
+  }
+ },
+ "kindness": {
+  "tb": {
+   "en": "It was important to him that everyone should show the same kindness and care to everyone else.",
+   "zh": "对他来说，每个人都应该对所有人一样友善、关爱，这一点很重要。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "That summer, I learned that kindness can break down any wall.",
+   "zh": "那个夏天，我懂得了善良能打破任何隔阂。",
+   "src": "2026 驻马店模拟"
+  }
+ },
+ "mankind": {
+  "tb": {
+   "en": "The invention of paper was a great gift to mankind.",
+   "zh": "纸的发明是送给人类的一份伟大礼物。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Space exploration is important for all mankind.",
+   "zh": "太空探索对全人类都很重要。",
+   "src": "拓展"
+  }
+ },
+ "belief": {
+  "tb": {
+   "en": "He never gave up his belief in peace.",
+   "zh": "他从未放弃对和平的信念。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Language faithfully shows the history, the beliefs and the biases of an area.",
+   "zh": "语言忠实地反映了一个地区的历史、信仰和偏见。",
+   "src": "改编"
+  }
+ },
+ "nobel-prize": {
+  "tb": {
+   "en": "Marie Curie won the Nobel Prize twice.",
+   "zh": "玛丽·居里两次获得诺贝尔奖。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "The Feynman learning method was developed by Richard Feynman, a Nobel Prize winner.",
+   "zh": "费曼学习法是由诺贝尔奖得主理查德·费曼提出的。",
+   "src": "2025 洛阳模拟"
+  }
+ },
+ "louvre-museum": {
+  "tb": {
+   "en": "Did he design the glass pyramid at the Louvre Museum?",
+   "zh": "卢浮宫博物馆的玻璃金字塔是他设计的吗？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The Louvre Museum in Paris is one of the most famous museums in the world.",
+   "zh": "巴黎的卢浮宫博物馆是世界上最著名的博物馆之一。",
+   "src": "拓展"
+  }
+ },
+ "the-silk-road": {
+  "tb": {
+   "en": "Recently, I read about Zhang Qian, the pioneer of the famous Silk Road.",
+   "zh": "最近，我读到了张骞的故事，他是著名的丝绸之路的开拓者。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Most importantly, the Silk Road helped different cultures learn from each other.",
+   "zh": "最重要的是，丝绸之路帮助不同的文化互相学习。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "the-western-regions": {
+  "tb": {
+   "en": "Zhang Qian travelled to the Western Regions over 2,000 years ago.",
+   "zh": "两千多年前，张骞出使西域。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "The Silk Road linked China with the Western Regions.",
+   "zh": "丝绸之路把中国和西域连接起来。",
+   "src": "拓展"
+  }
+ },
+ "atlantic-ocean": {
+  "tb": {
+   "en": "A radio message was sent across the Atlantic Ocean for the first time in 1901.",
+   "zh": "1901年，无线电信号第一次越过大西洋。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The Atlantic Ocean is the second largest ocean in the world.",
+   "zh": "大西洋是世界第二大洋。",
+   "src": "拓展"
+  }
+ },
+ "bce": {
+  "tb": {
+   "en": "Confucius was born in 551 BCE.",
+   "zh": "孔子出生于公元前551年。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "In 45 BCE, Julius Caesar asked an expert to create a new sun-based calendar.",
+   "zh": "公元前45年，尤利乌斯·恺撒请一位专家制定新的太阳历。",
+   "src": "2026 鹤壁模拟"
+  }
+ },
+ "the-warring-states-period": {
+  "tb": {
+   "en": "Mozi lived during the Warring States Period.",
+   "zh": "墨子生活在战国时期。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The famous thinker Zhuang Zi took care of a lacquer tree garden during the Warring States Period.",
+   "zh": "战国时期，著名思想家庄子曾管理过一片漆树园。",
+   "src": "2025 焦作模拟"
+  }
+ },
+ "learner": {
+  "tb": {
+   "en": "Successful learners also use the best learning materials they can find.",
+   "zh": "成功的学习者也会使用他们能找到的最好的学习材料。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "A good learner is never afraid to ask questions.",
+   "zh": "好的学习者从不害怕提问。",
+   "src": "拓展"
+  }
+ },
+ "flashcard": {
+  "tb": {
+   "en": "I like to learn new words by using flashcards.",
+   "zh": "我喜欢用单词卡学新单词。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It offers exciting flashcards and activities to improve your children's vocabulary and pronunciation skills.",
+   "zh": "它提供有趣的单词卡和活动，提高孩子的词汇量和发音能力。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "project": {
+  "tb": {
+   "en": "Cathy often puts off working on projects until the last day.",
+   "zh": "凯茜常常把做课题拖到最后一天。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Please tell me what you are going to talk about in your project.",
+   "zh": "请告诉我你打算在你的课题中讲些什么。",
+   "src": "2022年河南中考"
+  }
+ },
+ "website": {
+  "tb": {
+   "en": "You can find more information on our school website.",
+   "zh": "你可以在我们学校网站上找到更多信息。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "One evening, feeling upset, Lily shared her story on the school website.",
+   "zh": "一天晚上，莉莉心情低落，在学校网站上分享了她的故事。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "hands-on": {
+  "tb": {
+   "en": "By doing hands-on experiments, I can see that connection.",
+   "zh": "通过动手做实验，我能看到其中的联系。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "And these hands-on activities can amaze you and show you the wonders of the scientific world.",
+   "zh": "这些动手活动会让你惊叹，并向你展示科学世界的奇妙。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "experiment": {
+  "tb": {
+   "en": "Many famous physicists also started doing experiments when they were young.",
+   "zh": "许多著名的物理学家也是从小就开始做实验的。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "For five years, Professor Yuan watched my experiments carefully and asked about every step.",
+   "zh": "五年来，袁教授仔细观察我的实验，过问每一个步骤。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "look-up": {
+  "tb": {
+   "en": "If you don't know a word, look it up in the dictionary.",
+   "zh": "如果你不认识某个词，就查查词典。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "You can look up new words on your phone.",
+   "zh": "你可以用手机查生词。",
+   "src": "拓展"
+  }
+ },
+ "dictionary": {
+  "tb": {
+   "en": "I always use a dictionary when I read English books.",
+   "zh": "我读英文书时总是查词典。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "The book is Xinhua Dictionary.",
+   "zh": "这本书是《新华字典》。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "aloud": {
+  "tb": {
+   "en": "Reading aloud helps me remember new words.",
+   "zh": "大声朗读帮助我记住新单词。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Once you have completed a poem, you should read it aloud to yourself.",
+   "zh": "一首诗写完后，你应该自己大声读一读。",
+   "src": "改编"
+  }
+ },
+ "dialogue": {
+  "tb": {
+   "en": "I repeat the dialogues from the films I like.",
+   "zh": "我会跟读我喜欢的电影里的对白。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Where does this dialogue probably take place?",
+   "zh": "这段对话可能发生在哪里？",
+   "src": "2025 南阳模拟"
+  }
+ },
+ "general": {
+  "tb": {
+   "en": "In general, I prefer print books, but sometimes I read e-books.",
+   "zh": "总的来说，我更喜欢纸质书，但有时也读电子书。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It was the horse of Lü Bu, a general from the Three Kingdoms period.",
+   "zh": "那是三国时期的将军吕布的马。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "in-general": {
+  "tb": {
+   "en": "I believe reading is important for learning in general.",
+   "zh": "我认为总的来说，阅读对学习很重要。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In general, students in our class like PE best.",
+   "zh": "总的来说，我们班的学生最喜欢体育课。",
+   "src": "拓展"
+  }
+ },
+ "suit": {
+  "tb": {
+   "en": "You should read books that suit your English level.",
+   "zh": "你应该读适合你英语水平的书。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Everyone can see the ingredients and change it to suit their taste.",
+   "zh": "每个人都能看到食材，并根据自己的口味做调整。",
+   "src": "2026 郑州模拟"
+  }
+ },
+ "speed": {
+  "tb": {
+   "en": "Like you, my family watch sports together, especially speed skating.",
+   "zh": "和你一样，我们全家人也一起看体育比赛，尤其是速度滑冰。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "How long will it take the man to get to Henan by high-speed train?",
+   "zh": "这个人坐高铁到河南要多长时间？",
+   "src": "2025 许昌模拟"
+  }
+ },
+ "grammar": {
+  "tb": {
+   "en": "I can't use grammar rules correctly.",
+   "zh": "我不能正确运用语法规则。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "When you read, you can learn new words and grammar structures naturally.",
+   "zh": "阅读时，你可以自然而然地学到新单词和语法结构。",
+   "src": "2026 驻马店模拟"
+  }
+ },
+ "podcast": {
+  "tb": {
+   "en": "Hi, this is Ella's podcast.",
+   "zh": "大家好，这里是埃拉的播客。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "I listen to an English podcast on my way to school.",
+   "zh": "我在上学路上听英语播客。",
+   "src": "拓展"
+  }
+ },
+ "zero": {
+  "tb": {
+   "en": "The temperature dropped below zero last night.",
+   "zh": "昨晚气温降到了零度以下。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "He started learning English from zero.",
+   "zh": "他是从零开始学英语的。",
+   "src": "拓展"
+  }
+ },
+ "come-across": {
+  "tb": {
+   "en": "If you come across a new word, try to guess its meaning.",
+   "zh": "如果你遇到生词，试着猜猜它的意思。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "I came across an old friend in the bookshop yesterday.",
+   "zh": "昨天我在书店偶然遇到了一位老朋友。",
+   "src": "拓展"
+  }
+ },
+ "step-by-step": {
+  "tb": {
+   "en": "Take each thing step by step.",
+   "zh": "每件事都要一步一步来。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Review your notes step by step and ask questions if you don't understand something.",
+   "zh": "一步一步地复习笔记，有不懂的地方就提问。",
+   "src": "2026 平顶山模拟"
+  }
+ },
+ "build-up": {
+  "tb": {
+   "en": "These little actions will soon build up your creativity and confidence.",
+   "zh": "这些小行动很快会增强你的创造力和自信。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "They even sold clothes and went hungry to build up a big library.",
+   "zh": "他们甚至卖掉衣服、饿着肚子，建起了一座大图书馆。",
+   "src": "2025 洛阳模拟"
+  }
+ },
+ "actively": {
+  "tb": {
+   "en": "She actively answers questions in class.",
+   "zh": "她在课堂上积极回答问题。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Actively learn from the best around you.",
+   "zh": "积极向身边最优秀的人学习。",
+   "src": "2026 郑州模拟"
+  }
+ },
+ "enjoyable": {
+  "tb": {
+   "en": "Learning English with songs is enjoyable.",
+   "zh": "用歌曲学英语很有乐趣。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "It makes learning lifelong skills both easy and enjoyable.",
+   "zh": "它让学习终身技能既轻松又有趣。",
+   "src": "2026 新乡模拟"
+  }
+ },
+ "strategy": {
+  "tb": {
+   "en": "What learning strategies work best for you?",
+   "zh": "哪些学习策略对你最有效？",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Making a plan is a good strategy for learning.",
+   "zh": "制订计划是一个很好的学习策略。",
+   "src": "拓展"
+  }
+ },
+ "suggest": {
+  "tb": {
+   "en": "If I want to become an astronaut, what would you suggest?",
+   "zh": "如果我想成为一名航天员，你有什么建议？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Joey suggested making a seat under the sad tree.",
+   "zh": "乔伊建议在那棵伤心的树下做一个座位。",
+   "src": "2022年河南中考"
+  }
+ },
+ "method": {
+  "tb": {
+   "en": "Luogeng later introduced a reading and learning method to young learners.",
+   "zh": "华罗庚后来向年轻的学习者介绍了一种读书学习的方法。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Issar and his friend decided to solve the problem using a fun method.",
+   "zh": "伊萨尔和他的朋友决定用一种有趣的方法来解决这个问题。",
+   "src": "改编"
+  }
+ },
+ "summarize": {
+  "tb": {
+   "en": "Sometimes you need to summarize them based on key words.",
+   "zh": "有时你需要根据关键词把它们概括出来。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Can you summarize the story in one sentence?",
+   "zh": "你能用一句话概括这个故事吗？",
+   "src": "拓展"
+  }
+ },
+ "growth": {
+  "tb": {
+   "en": "What is important to encourage learner growth?",
+   "zh": "要促进学习者的成长，什么是重要的？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Some students said joining the club brings them happiness and growth.",
+   "zh": "一些学生说，加入社团给他们带来了快乐和成长。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "mindset": {
+  "tb": {
+   "en": "Studies show that the first key to becoming a successful learner is to have a growth mindset.",
+   "zh": "研究表明，成为成功学习者的第一个关键是拥有成长型思维。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "This mindset helps them keep going, even when learning is hard work.",
+   "zh": "这种思维方式帮助他们坚持下去，即使学习很辛苦。",
+   "src": "2025 南阳模拟"
+  }
+ },
+ "material": {
+  "tb": {
+   "en": "Successful learners also use the best learning materials they can find.",
+   "zh": "成功的学习者也会使用他们能找到的最好的学习材料。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It is a material that will grow back again and again.",
+   "zh": "它是一种可以一次又一次再生的材料。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "in-part": {
+  "tb": {
+   "en": "This means, in part, believing in yourself.",
+   "zh": "这在某种程度上意味着相信你自己。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "His success was in part due to his hard work.",
+   "zh": "他的成功在一定程度上归功于他的努力。",
+   "src": "拓展"
+  }
+ },
+ "guidance": {
+  "tb": {
+   "en": "Sometimes it is also important to get guidance from a teacher or a coach.",
+   "zh": "有时得到老师或教练的指导也很重要。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "With the teacher's guidance, we finished the project well.",
+   "zh": "在老师的指导下，我们顺利完成了课题。",
+   "src": "拓展"
+  }
+ },
+ "feedback": {
+  "tb": {
+   "en": "They can show us the right way to practise and give us important feedback and advice.",
+   "zh": "他们能告诉我们正确的练习方法，并给我们重要的反馈和建议。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Thank you for your feedback on my writing.",
+   "zh": "谢谢你对我作文的反馈意见。",
+   "src": "拓展"
+  }
+ },
+ "addition": {
+  "tb": {
+   "en": "In addition, make use of your other senses.",
+   "zh": "此外，还要利用你的其他感官。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "We learned addition and subtraction in primary school.",
+   "zh": "我们在小学学了加法和减法。",
+   "src": "拓展"
+  }
+ },
+ "in-addition": {
+  "tb": {
+   "en": "In addition, make use of your other senses.",
+   "zh": "此外，还要利用你的其他感官。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In addition, reading helps me develop a good habit of learning English.",
+   "zh": "此外，阅读帮助我养成学英语的好习惯。",
+   "src": "改编"
+  }
+ },
+ "resource": {
+  "tb": {
+   "en": "Take advantage of the best tools and resources to learn wisely and efficiently.",
+   "zh": "利用最好的工具和资源，明智而高效地学习。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It runs through China and brings many cities rich resources and beautiful sights.",
+   "zh": "它流经中国，给许多城市带来了丰富的资源和美丽的风景。",
+   "src": "2026 驻马店模拟"
+  }
+ },
+ "textbook": {
+  "tb": {
+   "en": "In the 21st century, this means using new technology and resources, not just textbooks.",
+   "zh": "在21世纪，这意味着要使用新技术和新资源，而不只是课本。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "We can still find some of these poems in our textbooks.",
+   "zh": "我们仍然能在课本中找到其中一些诗。",
+   "src": "2026年河南中考"
+  }
+ },
+ "advantage": {
+  "tb": {
+   "en": "Take advantage of the best tools and resources to learn wisely and efficiently.",
+   "zh": "利用最好的工具和资源，明智而高效地学习。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "What is an advantage of a trip to Jiaozuo, Henan?",
+   "zh": "去河南焦作旅行有什么好处？",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "take-advantage-of": {
+  "tb": {
+   "en": "Take advantage of the best tools and resources to learn wisely and efficiently.",
+   "zh": "利用最好的工具和资源，明智而高效地学习。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "But a good man should never take advantage of someone else's hard work, even the squirrel's.",
+   "zh": "但一个好人永远不应该占别人辛苦劳动的便宜，哪怕是松鼠的。",
+   "src": "2023年河南中考"
+  }
+ },
+ "efficiently": {
+  "tb": {
+   "en": "Take advantage of the best tools and resources to learn wisely and efficiently.",
+   "zh": "利用最好的工具和资源，明智而高效地学习。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Making a plan helps you use your time efficiently.",
+   "zh": "制订计划有助于你高效利用时间。",
+   "src": "拓展"
+  }
+ },
+ "valley": {
+  "tb": {
+   "en": "The road ahead of you may be long and may have many mountains and valleys, but it also has great treasure.",
+   "zh": "你前面的路可能很长，可能有许多高山和深谷，但也有巨大的宝藏。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "There is a small river in the valley.",
+   "zh": "山谷里有一条小河。",
+   "src": "拓展"
+  }
+ },
+ "pronunciation": {
+  "tb": {
+   "en": "Listening to the radio helps improve my pronunciation.",
+   "zh": "听广播有助于改善我的发音。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "It offers exciting flashcards and activities to improve your children's vocabulary and pronunciation skills.",
+   "zh": "它提供有趣的单词卡和活动，提高孩子的词汇量和发音能力。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "click": {
+  "tb": {
+   "en": "Click the button to play the video.",
+   "zh": "点击按钮播放视频。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Please click the link to know more about the labor courses.",
+   "zh": "请点击链接，了解更多劳动课程的信息。",
+   "src": "改编"
+  }
+ },
+ "newspaper": {
+  "tb": {
+   "en": "I started reading other books, newspapers, and magazines.",
+   "zh": "我开始读其他书、报纸和杂志。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In which part of the newspaper can this passage be found?",
+   "zh": "这篇文章可以在报纸的哪个版块找到？",
+   "src": "2026 河南模拟"
+  }
+ },
+ "magazine": {
+  "tb": {
+   "en": "Can you imagine a world without books, newspapers, or magazines?",
+   "zh": "你能想象一个没有书、报纸和杂志的世界吗？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In which part of a magazine can you read the text?",
+   "zh": "你可以在杂志的哪个部分读到这篇文章？",
+   "src": "2022年河南中考"
+  }
+ },
+ "shelf": {
+  "tb": {
+   "en": "After dinner, I would just pick a book from the shelf to read in my room.",
+   "zh": "晚饭后，我会从书架上挑一本书到房间里读。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "He chose an adventure novel from the shelf.",
+   "zh": "他从书架上挑了一本冒险小说。",
+   "src": "改编"
+  }
+ },
+ "open-up": {
+  "tb": {
+   "en": "Reading opened up new worlds and allowed me to discover new things for myself.",
+   "zh": "阅读为我打开了新的世界，让我能自己去发现新事物。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The new railway opened up the area to tourists.",
+   "zh": "新铁路让这个地区向游客开放。",
+   "src": "拓展"
+  }
+ },
+ "print": {
+  "tb": {
+   "en": "In general, I prefer print books, but sometimes I read e-books.",
+   "zh": "总的来说，我更喜欢纸质书，但有时也读电子书。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Winners will get their articles printed in the school magazine English World.",
+   "zh": "获胜者的文章将刊登在校刊《英语世界》上。",
+   "src": "2026 信阳模拟"
+  }
+ },
+ "e-book": {
+  "tb": {
+   "en": "In general, I prefer print books, but sometimes I read e-books.",
+   "zh": "总的来说，我更喜欢纸质书，但有时也读电子书。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Many people read e-books on their phones.",
+   "zh": "很多人用手机读电子书。",
+   "src": "拓展"
+  }
+ },
+ "schoolwork": {
+  "tb": {
+   "en": "I believe that reading has helped me a lot with my schoolwork and made me more confident about my future.",
+   "zh": "我相信阅读对我的学业帮助很大，也让我对未来更有信心。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Finally, you finish all your schoolwork and sit back in your chair.",
+   "zh": "终于，你完成了所有作业，靠在椅子上。",
+   "src": "2022年河南中考"
+  }
+ },
+ "recent": {
+  "tb": {
+   "en": "The most recent was the 2022 Winter Olympics.",
+   "zh": "最近的一次是2022年冬奥会。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Luckily, people have saved and developed this special skill in recent years.",
+   "zh": "幸运的是，近年来人们保护并发展了这项特殊技艺。",
+   "src": "2026 信阳模拟"
+  }
+ },
+ "position": {
+  "tb": {
+   "en": "Scientists will position more satellites in space.",
+   "zh": "科学家们将在太空中部署更多卫星。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Position it on the left or right.",
+   "zh": "把它放在左边或右边。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "sadness": {
+  "tb": {
+   "en": "I could see the sadness in her eyes.",
+   "zh": "我能从她的眼里看到悲伤。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "He didn't seem to feel any fear or sadness.",
+   "zh": "他似乎没有感到任何恐惧或悲伤。",
+   "src": "2026 周口模拟"
+  }
+ },
+ "run-out": {
+  "tb": {
+   "en": "It might sound crazy, but our Earth may run out of resources.",
+   "zh": "这听起来可能很疯狂，但我们的地球可能会耗尽资源。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "All these forms of green energy will hardly run out because they come from nature.",
+   "zh": "所有这些绿色能源几乎不会用完，因为它们来自大自然。",
+   "src": "改编"
+  }
+ },
+ "lecture": {
+  "tb": {
+   "en": "Oh, Billy, you really should go to that lecture on time!",
+   "zh": "哦，比利，你真该准时去听那场讲座！",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "We listened to a lecture on how to protect the environment.",
+   "zh": "我们听了一场关于怎样保护环境的讲座。",
+   "src": "拓展"
+  }
+ },
+ "react": {
+  "tb": {
+   "en": "How did Fu Xing react when Billy said sorry to her?",
+   "zh": "当比利向付星道歉时，她是什么反应？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "So if your bedtime and wake-up time change very often, your body doesn't know how to react.",
+   "zh": "所以如果你的睡觉和起床时间经常变化，你的身体就不知道该如何反应。",
+   "src": "2026 周口模拟"
+  }
+ },
+ "mix-up": {
+  "tb": {
+   "en": "Professor, I often get some words mixed up, like \"kitchen\" and \"chicken\".",
+   "zh": "教授，我经常把一些单词弄混，比如“kitchen”和“chicken”。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Don't mix up the two words. They look similar.",
+   "zh": "别把这两个单词弄混了，它们看起来很像。",
+   "src": "拓展"
+  }
+ },
+ "put-sth-to-good-use": {
+  "tb": {
+   "en": "How can we put our brain to good use?",
+   "zh": "我们怎样才能好好利用我们的大脑？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Put your free time to good use and read more books.",
+   "zh": "好好利用你的空闲时间，多读些书。",
+   "src": "拓展"
+  }
+ },
+ "brain": {
+  "tb": {
+   "en": "Healthy food and drink will help your brain work much better.",
+   "zh": "健康的饮食会帮助你的大脑运转得更好。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Like building muscles through exercise, you can strengthen your brain by learning.",
+   "zh": "就像通过锻炼增强肌肉一样，你可以通过学习让大脑更强大。",
+   "src": "2025 南阳模拟"
+  }
+ },
+ "chain": {
+  "tb": {
+   "en": "Well, knowledge is like a chain, and new knowledge is best remembered by linking it with old knowledge.",
+   "zh": "嗯，知识就像一条链子，把新知识和旧知识联系起来才记得最牢。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It used a chain to make the back wheel turn, just like today's bikes do.",
+   "zh": "它用一条链条带动后轮转动，就像今天的自行车一样。",
+   "src": "改编"
+  }
+ },
+ "stable": {
+  "tb": {
+   "en": "The memory of how to ride a bike is probably stored in a more stable area of our brain.",
+   "zh": "骑自行车的记忆很可能储存在我们大脑中一个更稳定的区域。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Make sure the ladder is stable before you climb up.",
+   "zh": "爬上去之前，要确保梯子是稳的。",
+   "src": "拓展"
+  }
+ },
+ "retell": {
+  "tb": {
+   "en": "Then retell the process of making paper in your own words.",
+   "zh": "然后用你自己的话复述造纸的过程。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Can you retell the story to your partner?",
+   "zh": "你能把这个故事复述给你的搭档听吗？",
+   "src": "拓展"
+  }
+ },
+ "memorize": {
+  "tb": {
+   "en": "How many words can you memorize in 15 minutes?",
+   "zh": "你15分钟能记住多少个单词？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "If you are learning English, don't try to memorize 50 words in one day.",
+   "zh": "如果你在学英语，不要试图一天记住50个单词。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "tick": {
+  "tb": {
+   "en": "Tick the things you did last weekend.",
+   "zh": "在你上周末做过的事情前面打钩。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Put a tick next to the correct answer.",
+   "zh": "在正确答案旁边打个钩。",
+   "src": "拓展"
+  }
+ },
+ "grandson": {
+  "tb": {
+   "en": "The old man often goes to the park with his grandson.",
+   "zh": "这位老人经常和孙子一起去公园。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "My grandma is proud of her grandson.",
+   "zh": "我奶奶为她的孙子感到骄傲。",
+   "src": "拓展"
+  }
+ },
+ "go-through": {
+  "tb": {
+   "en": "I don't understand what she's going through.",
+   "zh": "我不明白她正在经历什么。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Many questions go through our heads.",
+   "zh": "许多问题在我们脑海中闪过。",
+   "src": "2026 郑州模拟"
+  }
+ },
+ "happen-to": {
+  "tb": {
+   "en": "What happened to it in the end?",
+   "zh": "它最后怎么样了？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "What happened to Ada at the beginning of the story?",
+   "zh": "故事开头埃达发生了什么事？",
+   "src": "2026 郑州模拟"
+  }
+ },
+ "keep-in-mind": {
+  "tb": {
+   "en": "Keep in mind that practice makes perfect.",
+   "zh": "要记住，熟能生巧。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Now, my brother and I keep in mind what our grandfather and father have taught us.",
+   "zh": "现在，我和哥哥都记得爷爷和爸爸教给我们的东西。",
+   "src": "改编"
+  }
+ },
+ "case": {
+  "tb": {
+   "en": "In your case, your grandma still remembers that you love cookies!",
+   "zh": "就你的情况来说，你奶奶还记得你爱吃饼干！",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In many cases, the team doesn't directly connect with the families.",
+   "zh": "在很多情况下，这个团队并不直接和这些家庭联系。",
+   "src": "2026 驻马店模拟"
+  }
+ },
+ "in-sbs-case": {
+  "tb": {
+   "en": "In your case, your grandma still remembers that you love cookies!",
+   "zh": "就你的情况来说，你奶奶还记得你爱吃饼干！",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In my case, I learn best by writing things down.",
+   "zh": "就我而言，把东西写下来是我最好的学习方法。",
+   "src": "拓展"
+  }
+ },
+ "opera": {
+  "tb": {
+   "en": "Where did she put the opera ticket?",
+   "zh": "她把歌剧票放在哪里了？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "This type of opera is famous for its clear and beautiful singing.",
+   "zh": "这种戏曲以清亮优美的唱腔而闻名。",
+   "src": "改编"
+  }
+ },
+ "picnic": {
+  "tb": {
+   "en": "Why didn't you invite him to the picnic?",
+   "zh": "你为什么没邀请他去野餐？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Where will the speakers have a picnic?",
+   "zh": "说话人将在哪里野餐？",
+   "src": "2022年河南中考"
+  }
+ },
+ "pardon": {
+  "tb": {
+   "en": "Pardon me, where can I get a bus to the airport?",
+   "zh": "打扰一下，我在哪里能坐上去机场的公交车？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Pardon? Could you say that again?",
+   "zh": "对不起，你能再说一遍吗？",
+   "src": "拓展"
+  }
+ },
+ "gunshot": {
+  "tb": {
+   "en": "He also heard gunshots!",
+   "zh": "他还听到了枪声！",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The animals ran away when they heard the gunshot.",
+   "zh": "动物们听到枪声就跑开了。",
+   "src": "拓展"
+  }
+ },
+ "grown-up": {
+  "tb": {
+   "en": "Many years later, the grown-up fox returned home.",
+   "zh": "许多年后，长大的狐狸回到了家。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Why did she have to be the grown-up?",
+   "zh": "为什么她必须做那个大人？",
+   "src": "2022年河南中考"
+  }
+ },
+ "recall": {
+  "tb": {
+   "en": "I practised the first section until I could fully recall it.",
+   "zh": "我练习第一部分，直到能完全记住为止。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "What does the underlined word \"recall\" in Paragraph 3 mean?",
+   "zh": "第三段画线词“recall”是什么意思？",
+   "src": "2026 河南模拟"
+  }
+ },
+ "grapevine": {
+  "tb": {
+   "en": "Then he saw a grapevine nearby.",
+   "zh": "然后他看到附近有一棵葡萄藤。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "There are lots of grapes on the grapevine.",
+   "zh": "葡萄藤上结满了葡萄。",
+   "src": "拓展"
+  }
+ },
+ "boost": {
+  "tb": {
+   "en": "Last but not least, boost your memory by staying healthy.",
+   "zh": "最后但同样重要的是，保持健康来增强记忆力。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Reading every day can boost your English.",
+   "zh": "每天阅读可以提高你的英语。",
+   "src": "拓展"
+  }
+ },
+ "to-start-with": {
+  "tb": {
+   "en": "To start with, it is important to understand how memory works.",
+   "zh": "首先，了解记忆是怎样运作的很重要。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "To start with, let's review the new words.",
+   "zh": "首先，我们来复习一下生词。",
+   "src": "拓展"
+  }
+ },
+ "short-term": {
+  "tb": {
+   "en": "There are two main kinds of memory: short-term memory and long-term memory.",
+   "zh": "记忆主要有两种：短期记忆和长期记忆。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Some activities, like playing video games, may bring short-term joy.",
+   "zh": "有些活动，比如玩电子游戏，可能只带来短暂的快乐。",
+   "src": "2025 新乡模拟"
+  }
+ },
+ "long-term": {
+  "tb": {
+   "en": "How do you make sure what you learn enters your long-term memory?",
+   "zh": "你怎样确保学到的东西进入长期记忆？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Which paragraph talks about how long-term memory is formed?",
+   "zh": "哪一段讲的是长期记忆是怎样形成的？",
+   "src": "2026 洛阳模拟"
+  }
+ },
+ "technique": {
+  "tb": {
+   "en": "Many more memory techniques can be found in books or online.",
+   "zh": "在书上或网上还能找到更多记忆技巧。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Lacquer techniques mixed with building and furniture making.",
+   "zh": "漆艺技术和建筑、家具制作融合在了一起。",
+   "src": "2025 焦作模拟"
+  }
+ },
+ "passage": {
+  "tb": {
+   "en": "After all, it is easier to remember a summary than every word in a passage.",
+   "zh": "毕竟，记住一段话的概要比记住其中每个字容易。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "What might you experience on the farm according to the passage?",
+   "zh": "根据这篇文章，你在农场可能会体验到什么？",
+   "src": "2025 开封模拟"
+  }
+ },
+ "likely": {
+  "tb": {
+   "en": "It seems likely that one day we will reach the stars.",
+   "zh": "看起来我们有一天很可能会到达星星那里。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Once that trust has gone, then a friendship is likely to break.",
+   "zh": "一旦失去信任，友谊就可能破裂。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "wear-out": {
+  "tb": {
+   "en": "However, you should not wear out your brain.",
+   "zh": "然而，你不应该让大脑过度疲劳。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "My shoes are worn out. I need a new pair.",
+   "zh": "我的鞋子穿坏了，我需要一双新的。",
+   "src": "拓展"
+  }
+ },
+ "discuss": {
+  "tb": {
+   "en": "Then discuss whether you would like to try the learning method suggested.",
+   "zh": "然后讨论你是否愿意尝试所建议的学习方法。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "We also discuss cooking skills and watch cooking shows at the meetings.",
+   "zh": "我们在聚会上还讨论烹饪技巧、看烹饪节目。",
+   "src": "2026 周口模拟"
+  }
+ },
+ "image": {
+  "tb": {
+   "en": "Create images by using tables, graphs, and mind maps to organize information.",
+   "zh": "用表格、图表和思维导图来整理信息，形成图像。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "A restored image can be produced in just a few minutes.",
+   "zh": "只需几分钟就能生成一张修复好的图像。",
+   "src": "2026 驻马店模拟"
+  }
+ },
+ "graph": {
+  "tb": {
+   "en": "Create images by using tables, graphs, and mind maps to organize information.",
+   "zh": "用表格、图表和思维导图来整理信息，形成图像。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The graph shows how many students like sports.",
+   "zh": "这张图表显示了有多少学生喜欢运动。",
+   "src": "拓展"
+  }
+ },
+ "organize": {
+  "tb": {
+   "en": "While you sleep, your brain organizes your memories.",
+   "zh": "在你睡觉的时候，你的大脑会整理你的记忆。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "She also organized community events to bring the village's people together.",
+   "zh": "她还组织社区活动，把村里的人团结在一起。",
+   "src": "2026 周口模拟"
+  }
+ },
+ "view": {
+  "tb": {
+   "en": "What are your views on finding life on another planet?",
+   "zh": "你对在另一个星球上发现生命有什么看法？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "And the view from the top shows how modern Zhengzhou has grown!",
+   "zh": "从顶上看到的景色展现出郑州变得多么现代化！",
+   "src": "改编"
+  }
+ },
+ "effective": {
+  "tb": {
+   "en": "For example, listening to recorded information can be very effective.",
+   "zh": "例如，听录下来的信息会非常有效。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "There is no doubt that effective planning is a key driver of success.",
+   "zh": "毫无疑问，有效的计划是成功的关键动力。",
+   "src": "2025 洛阳模拟"
+  }
+ },
+ "engine": {
+  "tb": {
+   "en": "After they solved these problems, they added an engine to the glider.",
+   "zh": "解决了这些问题后，他们给滑翔机装上了发动机。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The car engine makes a strange noise.",
+   "zh": "汽车发动机发出奇怪的声音。",
+   "src": "拓展"
+  }
+ },
+ "fuel": {
+  "tb": {
+   "en": "Your brain needs food like an engine needs fuel.",
+   "zh": "你的大脑需要食物，就像发动机需要燃料一样。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Cars need fuel to run.",
+   "zh": "汽车需要燃料才能行驶。",
+   "src": "拓展"
+  }
+ },
+ "anxiety": {
+  "tb": {
+   "en": "Exercise can also reduce stress and anxiety.",
+   "zh": "锻炼也能减轻压力和焦虑。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "One way to manage test anxiety is to prepare early.",
+   "zh": "应对考试焦虑的一个办法是早做准备。",
+   "src": "2026 濮阳模拟"
+  }
+ },
+ "address": {
+  "tb": {
+   "en": "You need to remember an address until you find a piece of paper to write it down.",
+   "zh": "你需要记住一个地址，直到找到一张纸把它写下来。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "They also share a website address for visitors to leave a message of hope.",
+   "zh": "他们还分享了一个网址，供访客留下充满希望的留言。",
+   "src": "改编"
+  }
+ },
+ "password": {
+  "tb": {
+   "en": "You need to remember the password to your online bank account.",
+   "zh": "你需要记住你网上银行账户的密码。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Don't tell anyone your password.",
+   "zh": "不要把你的密码告诉任何人。",
+   "src": "拓展"
+  }
+ },
+ "account": {
+  "tb": {
+   "en": "You need to remember the password to your online bank account.",
+   "zh": "你需要记住你网上银行账户的密码。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "My mum opened a bank account for me.",
+   "zh": "妈妈给我开了一个银行账户。",
+   "src": "拓展"
+  }
+ },
+ "increase": {
+  "tb": {
+   "en": "When the use of paper and printing came together in later centuries, it led to a rapid increase in the number of books.",
+   "zh": "在后来的几个世纪里，纸和印刷术结合起来，使书的数量迅速增加。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Start with 3 classes every week, and then increase slowly.",
+   "zh": "从每周3节课开始，然后慢慢增加。",
+   "src": "2026 新乡模拟"
+  }
+ },
+ "blood": {
+  "tb": {
+   "en": "The man has lost a lot of blood.",
+   "zh": "那个人失了很多血。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "For your blood, you need B12 to make healthy red blood cells.",
+   "zh": "为了你的血液，你需要维生素B12来生成健康的红细胞。",
+   "src": "2026 新乡模拟"
+  }
+ },
+ "wound": {
+  "tb": {
+   "en": "He is likely to die from his wounds if not treated at once.",
+   "zh": "如果不立即治疗，他很可能会因伤势过重而死。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "The nurse cleaned the wound on his leg.",
+   "zh": "护士清洗了他腿上的伤口。",
+   "src": "拓展"
+  }
+ },
+ "mall": {
+  "tb": {
+   "en": "Our hotel is near the central mall.",
+   "zh": "我们的酒店在中心商场附近。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "On Saturday afternoon, Mom took me to the shopping mall to get a gift for my brother's birthday.",
+   "zh": "星期六下午，妈妈带我去商场给弟弟买生日礼物。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "notebook": {
+  "tb": {
+   "en": "I write new words in my notebook every day.",
+   "zh": "我每天把生词写在笔记本上。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Which of the following mistakes might NOT be found in a \"mistake notebook\"?",
+   "zh": "下面哪种错误可能不会出现在“错题本”里？",
+   "src": "2025 许昌模拟"
+  }
+ },
+ "squirrel": {
+  "tb": {
+   "en": "When squirrels look for food, they go straight to the place where they hid nuts.",
+   "zh": "松鼠找食物时，会直接去它们藏坚果的地方。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "\"That squirrel worked very hard to collect his winter food,\" he said.",
+   "zh": "“那只松鼠很努力地收集过冬的食物。”他说。",
+   "src": "2023年河南中考"
+  }
+ },
+ "nut": {
+  "tb": {
+   "en": "When squirrels look for food, they go straight to the place where they hid nuts.",
+   "zh": "松鼠找食物时，会直接去它们藏坚果的地方。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Nuts are good for our health.",
+   "zh": "坚果对我们的健康有好处。",
+   "src": "拓展"
+  }
+ },
+ "wild": {
+  "tb": {
+   "en": "Every autumn, wild geese fly thousands of kilometres south for the winter.",
+   "zh": "每年秋天，大雁向南飞几千公里去过冬。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "You can also learn about wild animals and plants at the same time.",
+   "zh": "同时你还能了解野生动植物。",
+   "src": "2026 郑州模拟"
+  }
+ },
+ "dolphin": {
+  "tb": {
+   "en": "Dolphins are clever animals.",
+   "zh": "海豚是聪明的动物。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Researchers say that each dolphin has its own special whistle.",
+   "zh": "研究人员说，每只海豚都有自己独特的哨声。",
+   "src": "2025 开封模拟"
+  }
+ },
+ "recognize": {
+  "tb": {
+   "en": "The most common Chinese instruments that I recognized were the erhu, pipa, guzheng, and dizi.",
+   "zh": "我认出的最常见的中国乐器有二胡、琵琶、古筝和笛子。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Or how you quickly recognize a friend's face in a crowded photo?",
+   "zh": "或者你是怎样在一张人很多的照片里迅速认出朋友的脸的？",
+   "src": "2026 洛阳模拟"
+  }
+ },
+ "outline": {
+  "tb": {
+   "en": "I learnt how to create a speech outline.",
+   "zh": "我学会了怎样写演讲提纲。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Make an outline before you write.",
+   "zh": "写作之前先列个提纲。",
+   "src": "拓展"
+  }
+ },
+ "divide": {
+  "tb": {
+   "en": "Another method is to divide the speech into short sections.",
+   "zh": "另一个方法是把演讲稿分成几个小部分。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The book is divided into easy-to-understand parts, making it great for teenagers.",
+   "zh": "这本书分成了几个容易理解的部分，非常适合青少年。",
+   "src": "2026 新乡模拟"
+  }
+ },
+ "divide-sth-into": {
+  "tb": {
+   "en": "Another method is to divide the speech into short sections.",
+   "zh": "另一个方法是把演讲稿分成几个小部分。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "\"Let's divide the fruit into two parts first,\" said Wolf.",
+   "zh": "“我们先把水果分成两份吧。”狼说。",
+   "src": "改编"
+  }
+ },
+ "fully": {
+  "tb": {
+   "en": "I practised the first section until I could fully recall it.",
+   "zh": "我练习第一部分，直到能完全记住为止。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Now I can fully enjoy the joy of washing dishes, finding peace in the ordinary moments of life.",
+   "zh": "现在我能完全享受洗碗的乐趣，在平凡的生活中找到宁静。",
+   "src": "2026 郑州模拟"
+  }
+ },
+ "one-size-fits-all": {
+  "tb": {
+   "en": "There is no one-size-fits-all way to learn English.",
+   "zh": "学英语没有适合所有人的统一方法。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "A one-size-fits-all plan doesn't work for every student.",
+   "zh": "一刀切的计划并不适合每个学生。",
+   "src": "拓展"
+  }
+ },
+ "invention": {
+  "tb": {
+   "en": "Yes, some amazing inventions were shown from all over the world.",
+   "zh": "是的，展出了来自世界各地的一些令人惊叹的发明。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Your invention needs to be created by yourself or your team.",
+   "zh": "你的发明必须由你自己或你的团队创造。",
+   "src": "2025 焦作模拟"
+  }
+ },
+ "camera": {
+  "tb": {
+   "en": "A mini-camera is connected to the front of the glasses.",
+   "zh": "眼镜前面连着一个微型摄像头。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "At the age of 12, Yassin got his first camera.",
+   "zh": "12岁时，亚辛拥有了他的第一台相机。",
+   "src": "2025 南阳模拟"
+  }
+ },
+ "laptop": {
+  "tb": {
+   "en": "I use my laptop to search for information.",
+   "zh": "我用笔记本电脑查找资料。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "A laptop is easy to carry around.",
+   "zh": "笔记本电脑便于随身携带。",
+   "src": "拓展"
+  }
+ },
+ "high-speed-train": {
+  "tb": {
+   "en": "It takes about two hours to get to Beijing by high-speed train.",
+   "zh": "坐高铁到北京大约需要两个小时。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "How long will it take the man to get to Henan by high-speed train?",
+   "zh": "这个人坐高铁到河南要多长时间？",
+   "src": "2025 许昌模拟"
+  }
+ },
+ "super": {
+  "tb": {
+   "en": "The new phone has a super camera.",
+   "zh": "这款新手机有一个超棒的摄像头。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "They also use super computers to deal with the information collected by satellites rapidly.",
+   "zh": "他们还用超级计算机快速处理卫星收集的信息。",
+   "src": "2025 南阳模拟"
+  }
+ },
+ "sunglasses": {
+  "tb": {
+   "en": "They look like sunglasses.",
+   "zh": "它们看起来像墨镜。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Wear sunglasses to protect your eyes in summer.",
+   "zh": "夏天戴上墨镜保护眼睛。",
+   "src": "拓展"
+  }
+ },
+ "button": {
+  "tb": {
+   "en": "Then press this button.",
+   "zh": "然后按这个按钮。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "After that, press the start button and the machine begins to work.",
+   "zh": "之后，按下启动按钮，机器就开始工作了。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "itself": {
+  "tb": {
+   "en": "The oil and salt are also added by the machine itself.",
+   "zh": "油和盐也是机器自己加的。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Did you notice how nature sometimes repeats itself?",
+   "zh": "你有没有注意到大自然有时会重复它自己？",
+   "src": "2026年河南中考"
+  }
+ },
+ "hundreds": {
+  "tb": {
+   "en": "It might take hundreds of thousands of years to get there!",
+   "zh": "到那里可能需要几十万年！",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Their tools include hundreds of weather satellites above the Earth.",
+   "zh": "他们的工具包括地球上空数百颗气象卫星。",
+   "src": "2025 南阳模拟"
+  }
+ },
+ "printer": {
+  "tb": {
+   "en": "Why was the 3D printer Han Lin's favourite invention?",
+   "zh": "为什么3D打印机是韩林最喜欢的发明？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The printer in our classroom is out of paper.",
+   "zh": "我们教室里的打印机没纸了。",
+   "src": "拓展"
+  }
+ },
+ "produce": {
+  "tb": {
+   "en": "The 3D printer reads the file, and after that, the object is produced by building up plastic.",
+   "zh": "3D打印机读取文件，然后一层层堆叠塑料，把物体制造出来。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Tea is mainly produced in Asian countries like China and India.",
+   "zh": "茶叶主要产自中国和印度等亚洲国家。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "file": {
+  "tb": {
+   "en": "The 3D printer reads the file.",
+   "zh": "3D打印机读取文件。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Please save the file before you close the computer.",
+   "zh": "关电脑之前请保存文件。",
+   "src": "拓展"
+  }
+ },
+ "plastic": {
+  "tb": {
+   "en": "Is only plastic used?",
+   "zh": "只用塑料吗？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "However, only about 9% of the plastic we use is recycled.",
+   "zh": "然而，我们使用的塑料只有大约9%被回收利用。",
+   "src": "2026 南阳模拟"
+  }
+ },
+ "invent": {
+  "tb": {
+   "en": "Before the radio was invented, information travelled very slowly.",
+   "zh": "在收音机发明之前，信息传播得非常慢。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "A Chinese man called Cai Lun invented paper almost 2,000 years ago.",
+   "zh": "大约两千年前，一位名叫蔡伦的中国人发明了纸。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "telephone": {
+  "tb": {
+   "en": "The telephone was invented by Alexander Bell in 1876.",
+   "zh": "电话是亚历山大·贝尔于1876年发明的。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Some also use modern things like a telephone.",
+   "zh": "有些人还会用电话这样的现代工具。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "suppose": {
+  "tb": {
+   "en": "It wasn't supposed to make such a loud noise when the button was pressed to start the machine.",
+   "zh": "按下按钮启动机器时，本不应该发出这么大的噪声。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Schools are supposed to be safe places for children all the time.",
+   "zh": "学校应该始终是孩子们安全的地方。",
+   "src": "2026 濮阳模拟"
+  }
+ },
+ "be-supposed-to-do-be-sth": {
+  "tb": {
+   "en": "It wasn't supposed to make such a loud noise when the button was pressed to start the machine.",
+   "zh": "按下按钮启动机器时，本不应该发出这么大的噪声。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "In a word, we're supposed to find a balance.",
+   "zh": "总之，我们应该找到一个平衡点。",
+   "src": "2026 新乡模拟"
+  }
+ },
+ "wheel": {
+  "tb": {
+   "en": "It is believed that the world's oldest wheel was found in Eastern Europe.",
+   "zh": "人们认为世界上最古老的轮子是在东欧发现的。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "When a student pedals the bike, the back wheel spins.",
+   "zh": "学生蹬自行车时，后轮就会转动。",
+   "src": "2023年河南中考"
+  }
+ },
+ "eastern": {
+  "tb": {
+   "en": "It is believed that the world's oldest wheel was found in Eastern Europe.",
+   "zh": "人们认为世界上最古老的轮子是在东欧发现的。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Zhang Zhongjing was a famous Chinese doctor in the Eastern Han Dynasty.",
+   "zh": "张仲景是东汉时期一位著名的中国医生。",
+   "src": "改编"
+  }
+ },
+ "layer": {
+  "tb": {
+   "en": "In summer, the top layer of the frozen ground would melt and become too soft to build on.",
+   "zh": "夏天，冻土的表层会融化，变得太软，无法在上面施工。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "There is a thin layer of snow on the ground.",
+   "zh": "地上有一层薄薄的雪。",
+   "src": "拓展"
+  }
+ },
+ "frozen": {
+  "tb": {
+   "en": "In summer, the top layer of the frozen ground would melt and become too soft to build on.",
+   "zh": "夏天，冻土的表层会融化，变得太软，无法在上面施工。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The lake is frozen in winter.",
+   "zh": "冬天湖面结冰了。",
+   "src": "拓展"
+  }
+ },
+ "melt": {
+  "tb": {
+   "en": "In summer, the top layer of the frozen ground would melt and become too soft to build on.",
+   "zh": "夏天，冻土的表层会融化，变得太软，无法在上面施工。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Melt the butter in a frying pan.",
+   "zh": "在煎锅里把黄油化开。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "pipe": {
+  "tb": {
+   "en": "Pipes were used to keep the ground hard.",
+   "zh": "人们用管道来让地面保持坚硬。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "The water pipe in the kitchen is broken.",
+   "zh": "厨房的水管坏了。",
+   "src": "拓展"
+  }
+ },
+ "tourism": {
+  "tb": {
+   "en": "The railway has increased tourism and economic development in the area.",
+   "zh": "这条铁路促进了当地的旅游业和经济发展。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Tourism is important for Henan's development.",
+   "zh": "旅游业对河南的发展很重要。",
+   "src": "拓展"
+  }
+ },
+ "economic": {
+  "tb": {
+   "en": "The railway has increased tourism and economic development in the area.",
+   "zh": "这条铁路促进了当地的旅游业和经济发展。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Kites are helping to push the economic development in Weifang, East China's Shandong Province.",
+   "zh": "风筝正在推动中国东部山东省潍坊市的经济发展。",
+   "src": "2025 南阳模拟"
+  }
+ },
+ "gain": {
+  "tb": {
+   "en": "China's great achievements have gained worldwide attention.",
+   "zh": "中国的伟大成就赢得了全世界的关注。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "By sharing, he hadn't lost anything—instead, he'd gained a friend who loved music as much as he did.",
+   "zh": "通过分享，他没有失去任何东西——相反，他得到了一个和他一样热爱音乐的朋友。",
+   "src": "改编"
+  }
+ },
+ "reality": {
+  "tb": {
+   "en": "How do we turn ideas into reality?",
+   "zh": "我们怎样把想法变成现实？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Thanks to artificial intelligence, this dream is becoming a reality in history classes around the world.",
+   "zh": "多亏了人工智能，这个梦想正在世界各地的历史课上成为现实。",
+   "src": "改编"
+  }
+ },
+ "papermaking": {
+  "tb": {
+   "en": "All of these things depend on one invention—papermaking.",
+   "zh": "所有这些东西都依赖于一项发明——造纸术。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Chinese inventions like papermaking were spread to the West.",
+   "zh": "造纸术等中国发明传到了西方。",
+   "src": "改编"
+  }
+ },
+ "responsible": {
+  "tb": {
+   "en": "It, more than any other invention, was responsible for the rapid spread of information that shaped our modern world.",
+   "zh": "它比其他任何发明都更能促成信息的迅速传播，塑造了我们的现代世界。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "\"I'll be responsible for the cat.\"",
+   "zh": "“我来负责照顾这只猫。”",
+   "src": "2026 新乡模拟"
+  }
+ },
+ "responsible-for-sth": {
+  "tb": {
+   "en": "It, more than any other invention, was responsible for the rapid spread of information that shaped our modern world.",
+   "zh": "它比其他任何发明都更能促成信息的迅速传播，塑造了我们的现代世界。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Bad weather was responsible for the delay of the train.",
+   "zh": "恶劣的天气导致火车晚点。",
+   "src": "拓展"
+  }
+ },
+ "rapid": {
+  "tb": {
+   "en": "When the use of paper and printing came together in later centuries, it led to a rapid increase in the number of books.",
+   "zh": "在后来的几个世纪里，纸和印刷术结合起来，使书的数量迅速增加。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It shows the world the rapid rise of China's humanoid robots.",
+   "zh": "它向世界展示了中国人形机器人的迅速崛起。",
+   "src": "改编"
+  }
+ },
+ "shape": {
+  "tb": {
+   "en": "Blind people would run their fingers over the letters and guess their shapes.",
+   "zh": "盲人会用手指摸这些字母，猜出它们的形状。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In a bee's honeycomb, the six-sided shape is repeated many times.",
+   "zh": "在蜂巢中，六边形重复出现了很多次。",
+   "src": "2026年河南中考"
+  }
+ },
+ "bronze": {
+  "tb": {
+   "en": "In ancient China, many different materials were used to write on, such as animal bones, bronze ware, stones, wood, bamboo, and even silk.",
+   "zh": "在古代中国，人们在许多不同的材料上写字，比如兽骨、青铜器、石头、木头、竹子，甚至丝绸。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "\"I've always loved history, especially stories about the Bronze Age,\" he said.",
+   "zh": "“我一直很喜欢历史，尤其是青铜时代的故事。”他说。",
+   "src": "2026 濮阳模拟"
+  }
+ },
+ "ware": {
+  "tb": {
+   "en": "In ancient China, many different materials were used to write on, such as animal bones, bronze ware, stones, wood, bamboo, and even silk.",
+   "zh": "在古代中国，人们在许多不同的材料上写字，比如兽骨、青铜器、石头、木头、竹子，甚至丝绸。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "When you use lacquer for painting, it can stop wares from going bad.",
+   "zh": "用漆来绘制时，它能防止器物损坏。",
+   "src": "2025 焦作模拟"
+  }
+ },
+ "stone": {
+  "tb": {
+   "en": "In ancient China, many different materials were used to write on, such as animal bones, bronze ware, stones, wood, bamboo, and even silk.",
+   "zh": "在古代中国，人们在许多不同的材料上写字，比如兽骨、青铜器、石头、木头、竹子，甚至丝绸。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Carol had a smooth gray stone from her garden.",
+   "zh": "卡罗尔有一块从花园里捡来的光滑的灰色石头。",
+   "src": "2026 平顶山模拟"
+  }
+ },
+ "jute": {
+  "tb": {
+   "en": "There was also a very early form of paper made from jute—a fibre that comes from plants.",
+   "zh": "还有一种非常早期的纸，是用黄麻做的——黄麻是一种来自植物的纤维。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Jute can be used to make bags and ropes.",
+   "zh": "黄麻可以用来做袋子和绳子。",
+   "src": "拓展"
+  }
+ },
+ "fibre": {
+  "tb": {
+   "en": "Finally, this fibre was dried and pressed to form paper.",
+   "zh": "最后，把这些纤维晾干、压平，就成了纸。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Fruit and vegetables are rich in fibre.",
+   "zh": "水果和蔬菜富含纤维。",
+   "src": "拓展"
+  }
+ },
+ "expensive": {
+  "tb": {
+   "en": "However, all of these materials were either difficult to use and store, or very expensive.",
+   "zh": "然而，所有这些材料要么难以使用和保存，要么非常昂贵。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "I had no expensive toys, only a bike, a basketball and a football.",
+   "zh": "我没有昂贵的玩具，只有一辆自行车、一个篮球和一个足球。",
+   "src": "2026 南阳模拟"
+  }
+ },
+ "officer": {
+  "tb": {
+   "en": "Cai Lun was the head officer of the palace workshop for the emperor in the Eastern Han Dynasty.",
+   "zh": "蔡伦是东汉时期为皇帝掌管宫廷作坊的长官。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Later that afternoon, they met Officer Ben near the city park.",
+   "zh": "那天下午晚些时候，他们在城市公园附近遇到了本警官。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "workshop": {
+  "tb": {
+   "en": "Cai Lun was the head officer of the palace workshop for the emperor in the Eastern Han Dynasty.",
+   "zh": "蔡伦是东汉时期为皇帝掌管宫廷作坊的长官。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "On Friday, the team organized a workshop to teach younger students about recycling.",
+   "zh": "星期五，团队组织了一次讲习活动，教低年级学生关于回收利用的知识。",
+   "src": "2025 濮阳模拟"
+  }
+ },
+ "none": {
+  "tb": {
+   "en": "Different methods for creating something to write on were tried, but none were ideal.",
+   "zh": "人们尝试了各种方法来制造可以写字的东西，但都不理想。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "However, none of the 23 were the same as the teacher's.",
+   "zh": "然而，这23个当中没有一个和老师的一样。",
+   "src": "2025 南阳模拟"
+  }
+ },
+ "ideal": {
+  "tb": {
+   "en": "Different methods for creating something to write on were tried, but none were ideal.",
+   "zh": "人们尝试了各种方法来制造可以写字的东西，但都不理想。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Spring is the ideal time for planting trees.",
+   "zh": "春天是植树的理想时节。",
+   "src": "拓展"
+  }
+ },
+ "bark": {
+  "tb": {
+   "en": "In his time, some kinds of bark—the outer part of trees—were used to make clothes.",
+   "zh": "在他那个时代，有些树皮——也就是树的外层——被用来做衣服。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Dogs bark, the rain falls and the wind blows.",
+   "zh": "狗在叫，雨在下，风在吹。",
+   "src": "2026年河南中考"
+  }
+ },
+ "certain": {
+  "tb": {
+   "en": "Cai Lun got the idea that bark, certain plants, and old clothes could be used to make a special material suitable to write on.",
+   "zh": "蔡伦想到，树皮、某些植物和旧衣服可以用来制作一种适合写字的特殊材料。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "This causes the fruit to turn a certain color.",
+   "zh": "这会让果实变成某种颜色。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "suitable": {
+  "tb": {
+   "en": "Neither is really suitable for me.",
+   "zh": "两个都不太适合我。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "GWN Dragon Boat Camps are suitable for all ages and levels.",
+   "zh": "GWN龙舟营适合所有年龄和水平的人。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "liquid": {
+  "tb": {
+   "en": "Next, the liquid was poured over a bamboo screen, leaving just the fibre.",
+   "zh": "接着，把液体倒在竹帘上，只留下纤维。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Water is a liquid.",
+   "zh": "水是一种液体。",
+   "src": "拓展"
+  }
+ },
+ "cheap": {
+  "tb": {
+   "en": "To everyone's surprise, this paper was soft, light, easy to make and use, and most importantly, cheap.",
+   "zh": "让所有人惊讶的是，这种纸又软又轻，容易制作和使用，最重要的是很便宜。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Later, people began to use paper, which was cheaper than silk.",
+   "zh": "后来，人们开始用纸，纸比丝绸便宜。",
+   "src": "2025 洛阳模拟"
+  }
+ },
+ "creation": {
+  "tb": {
+   "en": "In 105 CE, Cai Lun showed his creation to the emperor.",
+   "zh": "公元105年，蔡伦把他的发明献给了皇帝。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "This painting is the artist's latest creation.",
+   "zh": "这幅画是这位画家的最新作品。",
+   "src": "拓展"
+  }
+ },
+ "later-on": {
+  "tb": {
+   "en": "I'll tell you more about it later on.",
+   "zh": "我稍后再给你多讲讲。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "He knew working with wet wood could cause problems later on.",
+   "zh": "他知道用湿木头干活以后可能会出问题。",
+   "src": "2025 河南模拟"
+  }
+ },
+ "speed-up": {
+  "tb": {
+   "en": "The high-speed railway has sped up travel between cities.",
+   "zh": "高铁加快了城市间的出行速度。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "The car sped up when the light turned green.",
+   "zh": "绿灯一亮，汽车就加速了。",
+   "src": "拓展"
+  }
+ },
+ "arab": {
+  "tb": {
+   "en": "It first spread to China's neighbouring countries and finally reached Europe through Arab countries in the 12th century.",
+   "zh": "它先传到中国的邻国，最后在12世纪经阿拉伯国家传到欧洲。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Arab traders came to China along the Silk Road.",
+   "zh": "阿拉伯商人沿着丝绸之路来到中国。",
+   "src": "拓展"
+  }
+ },
+ "result-in": {
+  "tb": {
+   "en": "This resulted in a new birth of knowledge, creating the world we have today.",
+   "zh": "这带来了知识的新生，创造了我们今天的世界。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Not getting enough sleep can result in poor grades.",
+   "zh": "睡眠不足会导致成绩差。",
+   "src": "拓展"
+  }
+ },
+ "lead-to": {
+  "tb": {
+   "en": "Hard work leads to success.",
+   "zh": "努力带来成功。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Unhealthy diets, short of exercise and long hours of study lead to obesity.",
+   "zh": "不健康的饮食、缺乏锻炼和长时间学习会导致肥胖。",
+   "src": "2026 新乡模拟"
+  }
+ },
+ "birth": {
+  "tb": {
+   "en": "This resulted in a new birth of knowledge, creating the world we have today.",
+   "zh": "这带来了知识的新生，创造了我们今天的世界。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "A research shows IQ isn't fixed at birth.",
+   "zh": "一项研究表明，智商并不是一出生就固定不变的。",
+   "src": "2025 南阳模拟"
+  }
+ },
+ "rapidly": {
+  "tb": {
+   "en": "News could travel much more rapidly with inventions like the radio and the television.",
+   "zh": "有了收音机和电视这样的发明，新闻可以传播得快得多。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "This shows China's robot control technology is developing rapidly.",
+   "zh": "这表明中国的机器人控制技术正在迅速发展。",
+   "src": "改编"
+  }
+ },
+ "afford": {
+  "tb": {
+   "en": "Many people could not afford to buy enough clothes.",
+   "zh": "很多人买不起足够的衣服。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "I can't afford such an expensive bike.",
+   "zh": "我买不起这么贵的自行车。",
+   "src": "拓展"
+  }
+ },
+ "company": {
+  "tb": {
+   "en": "A film was produced by a film company to tell us about what robots could do for people's lives in the future.",
+   "zh": "一家电影公司制作了一部电影，告诉我们机器人将来能为人们的生活做些什么。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "In recent years, agricultural product processing companies in Henan have grown strongly.",
+   "zh": "近年来，河南的农产品加工企业发展强劲。",
+   "src": "2025 新乡模拟"
+  }
+ },
+ "sticky": {
+  "tb": {
+   "en": "Then discuss how an invention like sticky notes is turned into reality.",
+   "zh": "然后讨论像便利贴这样的发明是怎样变成现实的。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "People believe that having sticky food helps students \"stick\" to success and pass their tests.",
+   "zh": "人们相信吃黏性的食物能帮助学生“粘住”成功，通过考试。",
+   "src": "改编"
+  }
+ },
+ "songbook": {
+  "tb": {
+   "en": "With the glue, the paper stayed in the songbook, but it could later be removed.",
+   "zh": "有了这种胶，纸条能粘在歌本上，之后还可以撕下来。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "He wrote notes in his songbook.",
+   "zh": "他在歌本上写了笔记。",
+   "src": "拓展"
+  }
+ },
+ "production": {
+  "tb": {
+   "en": "Fry's idea led to the production of sticky notes of many sizes and colours.",
+   "zh": "弗赖伊的想法促成了各种大小和颜色的便利贴的生产。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Production of melatonin is stopped by light.",
+   "zh": "光会让褪黑素停止分泌。",
+   "src": "改编"
+  }
+ },
+ "gradually": {
+  "tb": {
+   "en": "Gradually, her online shop became more popular.",
+   "zh": "渐渐地，她的网店越来越受欢迎。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In this way, I will gradually develop a good learning habit.",
+   "zh": "这样，我会逐渐养成良好的学习习惯。",
+   "src": "2024年河南中考"
+  }
+ },
+ "widely": {
+  "tb": {
+   "en": "They gradually became popular and now are widely used all over the world.",
+   "zh": "它们逐渐流行起来，如今在世界各地被广泛使用。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "They are widely used in our daily lives.",
+   "zh": "它们在我们的日常生活中被广泛使用。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "be-looking-to-do-sth": {
+  "tb": {
+   "en": "Its inventors, Orville Wright and Wilbur Wright, were not looking to change the world at all.",
+   "zh": "它的发明者奥维尔·赖特和威尔伯·赖特根本没想过要改变世界。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Many companies are looking to use AI in their work.",
+   "zh": "许多公司都在设法把人工智能用到工作中。",
+   "src": "拓展"
+  }
+ },
+ "glider": {
+  "tb": {
+   "en": "After they solved these problems, they added an engine to the glider.",
+   "zh": "解决了这些问题后，他们给滑翔机装上了发动机。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The glider flew slowly over the hill.",
+   "zh": "滑翔机缓缓飞过山丘。",
+   "src": "拓展"
+  }
+ },
+ "3d": {
+  "tb": {
+   "en": "Why was the 3D printer Han Lin's favourite invention?",
+   "zh": "为什么3D打印机是韩林最喜欢的发明？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It could also be used in 3D printing and to make common products like medical tools.",
+   "zh": "它还可以用于3D打印，制作医疗工具等常见产品。",
+   "src": "改编"
+  }
+ },
+ "europe": {
+  "tb": {
+   "en": "It first spread to China's neighbouring countries and finally reached Europe through Arab countries in the 12th century.",
+   "zh": "它先传到中国的邻国，最后在12世纪经阿拉伯国家传到欧洲。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Tea wasn't introduced into Europe until the early 17th century came.",
+   "zh": "直到17世纪初，茶叶才被传入欧洲。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "lhasa": {
+  "tb": {
+   "en": "The Qinghai-Xizang Railway connects Xining to Lhasa.",
+   "zh": "青藏铁路连接西宁和拉萨。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Lhasa is a beautiful city in Xizang.",
+   "zh": "拉萨是西藏一座美丽的城市。",
+   "src": "拓展"
+  }
+ },
+ "tanggula-pass": {
+  "tb": {
+   "en": "The railway reaches 5,072 metres above sea level at Tanggula Pass.",
+   "zh": "这条铁路在唐古拉山口海拔达到5072米。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Tanggula Pass is very high and cold.",
+   "zh": "唐古拉山口又高又冷。",
+   "src": "拓展"
+  }
+ },
+ "ce": {
+  "tb": {
+   "en": "In 105 CE, Cai Lun showed his creation to the emperor.",
+   "zh": "公元105年，蔡伦把他的发明献给了皇帝。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The Tang Dynasty began in 618 CE.",
+   "zh": "唐朝始于公元618年。",
+   "src": "拓展"
+  }
+ },
+ "oakland": {
+  "tb": {
+   "en": "In January 1911, Feng Ru carried out a public test flight in Oakland City.",
+   "zh": "1911年1月，冯如在奥克兰市进行了一次公开试飞。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Oakland is a city in the US.",
+   "zh": "奥克兰是美国的一座城市。",
+   "src": "拓展"
+  }
+ },
+ "beyond": {
+  "tb": {
+   "en": "Humans want to explore the space beyond Earth.",
+   "zh": "人类想探索地球以外的太空。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "The beauty of the mountains is beyond words.",
+   "zh": "群山之美难以用语言形容。",
+   "src": "拓展"
+  }
+ },
+ "mission": {
+  "tb": {
+   "en": "It is hoped that a manned mission to the moon will follow.",
+   "zh": "人们希望接下来能实现载人登月任务。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Chang'e-6 successfully completed its mission on the far side of the moon.",
+   "zh": "嫦娥六号成功完成了月球背面的任务。",
+   "src": "拓展"
+  }
+ },
+ "telescope": {
+  "tb": {
+   "en": "We can see the stars clearly with a telescope.",
+   "zh": "用望远镜我们能清楚地看到星星。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "The China Space Station Telescope will help us learn more about the universe.",
+   "zh": "中国空间站望远镜将帮助我们更多地了解宇宙。",
+   "src": "拓展"
+  }
+ },
+ "rover": {
+  "tb": {
+   "en": "Zhurong rover successfully landed on Mars.",
+   "zh": "祝融号火星车成功登陆火星。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The rover sent back many photos of the moon.",
+   "zh": "月球车传回了许多月球照片。",
+   "src": "拓展"
+  }
+ },
+ "manned": {
+  "tb": {
+   "en": "It is hoped that a manned mission to the moon will follow.",
+   "zh": "人们希望接下来能实现载人登月任务。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "China's manned spaceships have sent many astronauts into space.",
+   "zh": "中国的载人飞船已把多名航天员送入太空。",
+   "src": "拓展"
+  }
+ },
+ "launch": {
+  "tb": {
+   "en": "The launch of Sputnik 1 also began the age of satellites.",
+   "zh": "“斯普特尼克1号”的发射也开启了卫星时代。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Will the space centre launch a new rocket next month?",
+   "zh": "航天中心下个月会发射一枚新火箭吗？",
+   "src": "课本"
+  }
+ },
+ "weightless": {
+  "tb": {
+   "en": "How does it feel to be weightless?",
+   "zh": "失重是什么感觉？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Astronauts are weightless in space.",
+   "zh": "航天员在太空中处于失重状态。",
+   "src": "拓展"
+  }
+ },
+ "movement": {
+  "tb": {
+   "en": "The motto for the Olympic movement is \"Faster, Higher, Stronger—Together\".",
+   "zh": "奥林匹克运动的格言是“更快、更高、更强——更团结”。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "There is a worldwide movement to reduce light pollution, and everyone can help.",
+   "zh": "全世界正在开展减少光污染的运动，每个人都可以出一份力。",
+   "src": "2026 濮阳模拟"
+  }
+ },
+ "asleep": {
+  "tb": {
+   "en": "Well, it's a little hard to fall asleep.",
+   "zh": "嗯，入睡有点难。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "There's nothing quite like falling sound asleep after a full day of work.",
+   "zh": "忙了一整天后酣然入睡，那种感觉无可比拟。",
+   "src": "2022年河南中考"
+  }
+ },
+ "fall-asleep": {
+  "tb": {
+   "en": "Well, it's a little hard to fall asleep.",
+   "zh": "嗯，入睡有点难。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "There is much to do before black bears fall asleep.",
+   "zh": "黑熊冬眠之前有很多事要做。",
+   "src": "2025 新乡模拟"
+  }
+ },
+ "tie": {
+  "tb": {
+   "en": "We have to be tied down so we don't fly away!",
+   "zh": "我们得被绑住，才不会飘走！",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "He crossed high mountains and built ties with faraway lands like Dayuan.",
+   "zh": "他翻越高山，与大宛等遥远的地方建立了联系。",
+   "src": "2026 周口模拟"
+  }
+ },
+ "geology": {
+  "tb": {
+   "en": "The study of other planets helps us better understand Earth's geology, history, and relationship with other planets.",
+   "zh": "研究其他星球有助于我们更好地了解地球的地质、历史以及它与其他星球的关系。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "My brother is studying geology at university.",
+   "zh": "我哥哥在大学学地质学。",
+   "src": "拓展"
+  }
+ },
+ "satellite": {
+  "tb": {
+   "en": "The launch of Sputnik 1 also began the age of satellites.",
+   "zh": "“斯普特尼克1号”的发射也开启了卫星时代。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Today's weather satellites help meteorologists forecast the weather in two ways.",
+   "zh": "如今的气象卫星从两个方面帮助气象学家预报天气。",
+   "src": "2025 南阳模拟"
+  }
+ },
+ "crazy": {
+  "tb": {
+   "en": "It might sound crazy, but our Earth may run out of resources.",
+   "zh": "这听起来可能很疯狂，但我们的地球可能会耗尽资源。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "I am crazy about playing ping-pong.",
+   "zh": "我特别喜欢打乒乓球。",
+   "src": "改编"
+  }
+ },
+ "human-being": {
+  "tb": {
+   "en": "In that case, a new home for us human beings will be needed.",
+   "zh": "那样的话，我们人类就需要一个新家园。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "All human beings need clean water and fresh air.",
+   "zh": "所有人都需要干净的水和清新的空气。",
+   "src": "拓展"
+  }
+ },
+ "require": {
+  "tb": {
+   "en": "This project will require students to do research on space exploration.",
+   "zh": "这个课题要求学生研究太空探索。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It required measuring, noticing details, and showing the basic nature of something.",
+   "zh": "这需要测量、留意细节，并展现事物的本质。",
+   "src": "2026 郑州模拟"
+  }
+ },
+ "cancel": {
+  "tb": {
+   "en": "Because of the bad weather, they will cancel the trip to the space museum.",
+   "zh": "由于天气不好，他们将取消去航天博物馆的行程。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "We are unable to exchange tickets or give money back unless the film is canceled.",
+   "zh": "除非电影取消，否则我们不能换票或退款。",
+   "src": "2025 洛阳模拟"
+  }
+ },
+ "publish": {
+  "tb": {
+   "en": "The magazine will publish an article about future space travel next month.",
+   "zh": "这本杂志下个月将刊登一篇关于未来太空旅行的文章。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Alice's Adventures in Wonderland is an English novel published in 1865.",
+   "zh": "《爱丽丝漫游奇境》是一部于1865年出版的英国小说。",
+   "src": "改编"
+  }
+ },
+ "rocket": {
+  "tb": {
+   "en": "Will the space centre launch a new rocket next month?",
+   "zh": "航天中心下个月会发射一枚新火箭吗？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "I watched a rocket show and enjoyed many hand-made space works.",
+   "zh": "我看了一场火箭表演，欣赏了许多手工制作的航天作品。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "exoplanet": {
+  "tb": {
+   "en": "Some exoplanets are similar to Earth.",
+   "zh": "有些系外行星和地球很相似。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Scientists have found more than 5,000 exoplanets.",
+   "zh": "科学家已经发现了5000多颗系外行星。",
+   "src": "拓展"
+  }
+ },
+ "solar": {
+  "tb": {
+   "en": "These are planets that move around stars—just like in our own solar system.",
+   "zh": "这些行星绕着恒星运转——就像在我们自己的太阳系里一样。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Solar panels don't work at night, and cloudy days reduce their power.",
+   "zh": "太阳能电池板在夜间不能工作，阴天也会降低发电量。",
+   "src": "2026 新乡模拟"
+  }
+ },
+ "god": {
+  "tb": {
+   "en": "Many ancient cultures believed that these points of light were from gods or other mysterious worlds.",
+   "zh": "许多古代文化认为，这些光点来自神灵或其他神秘的世界。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Mars is named after the Roman god of war.",
+   "zh": "火星是以罗马战神的名字命名的。",
+   "src": "改编"
+  }
+ },
+ "mysterious": {
+  "tb": {
+   "en": "Many ancient cultures believed that these points of light were from gods or other mysterious worlds.",
+   "zh": "许多古代文化认为，这些光点来自神灵或其他神秘的世界。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The deep sea is still mysterious to us.",
+   "zh": "深海对我们来说仍然很神秘。",
+   "src": "拓展"
+  }
+ },
+ "spacecraft": {
+  "tb": {
+   "en": "No spacecraft has travelled close to a star.",
+   "zh": "还没有宇宙飞船飞到过恒星附近。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Another is to develop much faster spacecraft.",
+   "zh": "另一个办法是研制快得多的宇宙飞船。",
+   "src": "课本"
+  }
+ },
+ "in-case": {
+  "tb": {
+   "en": "In case Voyager 1 is found by alien life, a special record with sounds and pictures from Earth is carried on board.",
+   "zh": "为防“旅行者1号”被外星生命发现，它上面载有一张记录着地球声音和图片的特殊唱片。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "\"I brought two—just in case.\"",
+   "zh": "“我带了两个——以防万一。”",
+   "src": "2026 平顶山模拟"
+  }
+ },
+ "board": {
+  "tb": {
+   "en": "What is carried on board by Voyager 1?",
+   "zh": "“旅行者1号”上载着什么？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In 1988, he boarded the submarine himself for a deep-diving test.",
+   "zh": "1988年，他亲自登上潜艇进行深潜试验。",
+   "src": "2025 开封模拟"
+  }
+ },
+ "on-board": {
+  "tb": {
+   "en": "What is carried on board by Voyager 1?",
+   "zh": "“旅行者1号”上载着什么？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "There were about 300 people on board the plane.",
+   "zh": "飞机上大约有300人。",
+   "src": "拓展"
+  }
+ },
+ "billion": {
+  "tb": {
+   "en": "By 2025, Voyager 1 was over 25 billion kilometres from Earth.",
+   "zh": "到2025年，“旅行者1号”距离地球已超过250亿千米。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The stars have been shining for billions of years, and I'm just beginning to understand things.",
+   "zh": "星星已经闪耀了几十亿年，而我才刚刚开始懂事。",
+   "src": "2026 新乡模拟"
+  }
+ },
+ "trillion": {
+  "tb": {
+   "en": "That star is 4.2 light years away—about 40 trillion kilometres!",
+   "zh": "那颗恒星在4.2光年之外——大约40万亿千米！",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "China's economy has grown to more than 100 trillion yuan.",
+   "zh": "中国经济总量已超过100万亿元。",
+   "src": "拓展"
+  }
+ },
+ "cooperate": {
+  "tb": {
+   "en": "First, it will be a good place for scientists to cooperate and do space research together.",
+   "zh": "首先，它将是科学家们合作开展太空研究的好地方。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Students should learn to cooperate in group work.",
+   "zh": "学生们应该学会在小组活动中合作。",
+   "src": "拓展"
+  }
+ },
+ "cooperate-with": {
+  "tb": {
+   "en": "China cooperates with many countries on space research.",
+   "zh": "中国在太空研究方面与许多国家合作。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "You should cooperate with your partner to finish the task.",
+   "zh": "你应该和搭档合作完成任务。",
+   "src": "拓展"
+  }
+ },
+ "galaxy": {
+  "tb": {
+   "en": "Humans have photographed other galaxies, set foot on the moon, and even successfully landed rovers on Mars.",
+   "zh": "人类已经拍摄到其他星系，登上了月球，甚至成功让探测车登陆火星。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "There are billions of stars in our galaxy.",
+   "zh": "我们的银河系里有数十亿颗恒星。",
+   "src": "拓展"
+  }
+ },
+ "set-foot-on": {
+  "tb": {
+   "en": "Humans have photographed other galaxies, set foot on the moon, and even successfully landed rovers on Mars.",
+   "zh": "人类已经拍摄到其他星系，登上了月球，甚至成功让探测车登陆火星。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "I hope to set foot on the Great Wall one day.",
+   "zh": "我希望有一天能登上长城。",
+   "src": "拓展"
+  }
+ },
+ "imagination": {
+  "tb": {
+   "en": "The only real limit to their use is our own imagination.",
+   "zh": "它们用途的唯一真正限制是我们自己的想象力。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Whether the inventors succeed or not, they show their bravery and imagination.",
+   "zh": "无论发明者成功与否，他们都展现了勇气和想象力。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "expectation": {
+  "tb": {
+   "en": "The result was beyond our expectation.",
+   "zh": "结果超出了我们的预期。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Understanding these stages can help you manage your expectations.",
+   "zh": "了解这些阶段可以帮助你调整自己的期望。",
+   "src": "2026 周口模拟"
+  }
+ },
+ "craft": {
+  "tb": {
+   "en": "How fast do you think a spacecraft can travel?",
+   "zh": "你认为宇宙飞船能飞多快？",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Two weeks later in the art room, the Craft Club held its first meeting.",
+   "zh": "两周后，手工社在美术室举行了第一次活动。",
+   "src": "2026 驻马店模拟"
+  }
+ },
+ "spaceship": {
+  "tb": {
+   "en": "Do you hope to travel by spaceship to other planets one day?",
+   "zh": "你希望有一天乘宇宙飞船去其他星球旅行吗？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It takes a spaceship about eight months to reach Mars from Earth.",
+   "zh": "宇宙飞船从地球飞到火星大约需要八个月。",
+   "src": "改编"
+  }
+ },
+ "survey": {
+  "tb": {
+   "en": "We need to do a survey of our family members about their most admired people.",
+   "zh": "我们需要对家人做一个调查，了解他们最钦佩的人。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Our school did a survey about what most improves our learning efficiency at home.",
+   "zh": "我们学校做了一项调查，看什么最能提高我们在家的学习效率。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "crowded": {
+  "tb": {
+   "en": "Yeah, it will be very crowded.",
+   "zh": "是啊，那里会非常拥挤。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The school bus was very crowded and hot.",
+   "zh": "校车里又挤又热。",
+   "src": "2025 南阳模拟"
+  }
+ },
+ "operate": {
+  "tb": {
+   "en": "New technologies can be developed, tested, and operated there.",
+   "zh": "新技术可以在那里研发、测试和运行。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The machine is easy to operate.",
+   "zh": "这台机器很容易操作。",
+   "src": "拓展"
+  }
+ },
+ "mars": {
+  "tb": {
+   "en": "Exploration of the planet Mars and the moon will be continued.",
+   "zh": "对火星和月球的探索将继续进行。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "So a 90-kilogram person on Earth is only 36 kilos on Mars.",
+   "zh": "所以在地球上90千克重的人，在火星上只有36千克。",
+   "src": "2026 濮阳模拟"
+  }
+ },
+ "voyager-1": {
+  "tb": {
+   "en": "What is carried on board by Voyager 1?",
+   "zh": "“旅行者1号”上载着什么？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Voyager 1 is now very far away from Earth.",
+   "zh": "“旅行者1号”现在离地球非常遥远。",
+   "src": "拓展"
+  }
+ },
+ "proxima-centauri": {
+  "tb": {
+   "en": "That is still a long way from Earth's second-closest star, Proxima Centauri.",
+   "zh": "那里离地球第二近的恒星比邻星仍然很遥远。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Proxima Centauri is 4.2 light years away from Earth.",
+   "zh": "比邻星距离地球4.2光年。",
+   "src": "拓展"
+  }
+ },
+ "rhythm": {
+  "tb": {
+   "en": "Well, I need something that has a strong rhythm, like rap.",
+   "zh": "嗯，我需要节奏感强的音乐，比如说唱。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Clap your hands to the rhythm of the music.",
+   "zh": "跟着音乐的节奏拍手。",
+   "src": "拓展"
+  }
+ },
+ "folk": {
+  "tb": {
+   "en": "I love traditional music that tells a story, for example, folk music.",
+   "zh": "我喜欢讲故事的传统音乐，比如民间音乐。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "They spend their after-school time learning calligraphy, paper-cutting, Chinese traditional painting and folk music.",
+   "zh": "他们课后学习书法、剪纸、中国传统绘画和民间音乐。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "classical": {
+  "tb": {
+   "en": "My father likes classical music.",
+   "zh": "我爸爸喜欢古典音乐。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Besides the bridges, the classical gardens in Tongli are also worth visiting.",
+   "zh": "除了桥，同里的古典园林也值得一游。",
+   "src": "改编"
+  }
+ },
+ "pop": {
+  "tb": {
+   "en": "I prefer music that I can sing along to, so it's pop for me.",
+   "zh": "我更喜欢能跟着唱的音乐，所以我喜欢流行乐。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Many teenagers like pop music.",
+   "zh": "很多青少年喜欢流行音乐。",
+   "src": "拓展"
+  }
+ },
+ "jazz": {
+  "tb": {
+   "en": "Jazz music started in the US.",
+   "zh": "爵士乐起源于美国。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "My uncle plays the piano in a jazz band.",
+   "zh": "我叔叔在一支爵士乐队里弹钢琴。",
+   "src": "拓展"
+  }
+ },
+ "rap": {
+  "tb": {
+   "en": "I'm not that into rap.",
+   "zh": "我不太喜欢说唱。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "He likes to write his own rap songs.",
+   "zh": "他喜欢自己写说唱歌曲。",
+   "src": "拓展"
+  }
+ },
+ "traditional": {
+  "tb": {
+   "en": "I have always wanted to see traditional Chinese music performed live.",
+   "zh": "我一直想看中国传统音乐的现场表演。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It attracts over 80 middle school students who love traditional culture.",
+   "zh": "它吸引了80多名热爱传统文化的中学生。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "dance-to": {
+  "tb": {
+   "en": "I like music that I can dance to.",
+   "zh": "我喜欢能跟着跳舞的音乐。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The children danced to the music happily.",
+   "zh": "孩子们开心地随着音乐跳舞。",
+   "src": "拓展"
+  }
+ },
+ "sing-along-to": {
+  "tb": {
+   "en": "I prefer music that I can sing along to, so it's pop for me.",
+   "zh": "我更喜欢能跟着唱的音乐，所以我喜欢流行乐。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Everyone sang along to the song at the party.",
+   "zh": "聚会上大家都跟着这首歌一起唱。",
+   "src": "拓展"
+  }
+ },
+ "lyric": {
+  "tb": {
+   "en": "I like music that has beautiful lyrics.",
+   "zh": "我喜欢歌词优美的音乐。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The lyrics of this song are easy to remember.",
+   "zh": "这首歌的歌词很容易记住。",
+   "src": "拓展"
+  }
+ },
+ "electric": {
+  "tb": {
+   "en": "It's amazing to hear the erhu and pipa being played together with the keyboard and electric guitar.",
+   "zh": "听二胡、琵琶和电子琴、电吉他一起演奏，真是太棒了。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "They take in sunlight and turn light energy into electric power.",
+   "zh": "它们吸收阳光，把光能转化为电能。",
+   "src": "2026年河南中考"
+  }
+ },
+ "electric-guitar": {
+  "tb": {
+   "en": "It's amazing to hear the erhu and pipa being played together with the keyboard and electric guitar.",
+   "zh": "听二胡、琵琶和电子琴、电吉他一起演奏，真是太棒了。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "My brother is learning to play the electric guitar.",
+   "zh": "我哥哥正在学弹电吉他。",
+   "src": "拓展"
+  }
+ },
+ "keyboard": {
+  "tb": {
+   "en": "Their use of the keyboard and erhu made me imagine horses running down a track.",
+   "zh": "他们用电子琴和二胡演奏，让我想象出骏马在小路上奔跑的样子。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "I type on the keyboard every day.",
+   "zh": "我每天在键盘上打字。",
+   "src": "拓展"
+  }
+ },
+ "trumpet": {
+  "tb": {
+   "en": "He plays the trumpet in the school band.",
+   "zh": "他在学校乐队里吹小号。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "The sound of the trumpet is loud and bright.",
+   "zh": "小号的声音响亮而明快。",
+   "src": "拓展"
+  }
+ },
+ "style": {
+  "tb": {
+   "en": "I like the fact that they mix rock, pop, and traditional Chinese music to make a new style.",
+   "zh": "我喜欢他们把摇滚、流行和中国传统音乐融合成一种新风格。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "He studied many styles and created his own way of painting.",
+   "zh": "他研究了多种风格，创造了自己的绘画方式。",
+   "src": "2026 平顶山模拟"
+  }
+ },
+ "piece": {
+  "tb": {
+   "en": "One day, Boya played a piece of music about mountains.",
+   "zh": "一天，伯牙弹了一首关于高山的曲子。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Both the Huanglan and Yongle Dadian included important pieces of writing.",
+   "zh": "《皇览》和《永乐大典》都收录了重要的文章。",
+   "src": "2026 驻马店模拟"
+  }
+ },
+ "performance": {
+  "tb": {
+   "en": "My favourite performance was the erhu solo of \"Erquan Yingyue\".",
+   "zh": "我最喜欢的表演是二胡独奏《二泉映月》。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "She makes good use of her time in order to improve her performance.",
+   "zh": "她充分利用时间来提高自己的成绩。",
+   "src": "2026 商丘模拟"
+  }
+ },
+ "golden": {
+  "tb": {
+   "en": "I really like music which is full of joy and celebration, such as \"Dance of the Golden Snake\".",
+   "zh": "我很喜欢充满欢乐和喜庆的音乐，比如《金蛇狂舞》。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "People can see lots of little pieces of bright and golden lights fly around when it's dark outside.",
+   "zh": "天黑的时候，人们能看到许多明亮的金色光点四处飞舞。",
+   "src": "2026 信阳模拟"
+  }
+ },
+ "lover": {
+  "tb": {
+   "en": "The use of the erhu, pipa, and drums was exciting, but I prefer music that touches me—that's why I liked \"Butterfly Lovers\" more.",
+   "zh": "二胡、琵琶和鼓的演奏很激动人心，但我更喜欢能打动我的音乐——所以我更喜欢《梁祝》。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "As a lifelong nature lover, she liked swimming in ponds.",
+   "zh": "作为一个终生热爱大自然的人，她喜欢在池塘里游泳。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "romantic": {
+  "tb": {
+   "en": "The music tells a sad and romantic story.",
+   "zh": "这首曲子讲了一个悲伤而浪漫的故事。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It is a romantic story about two butterflies.",
+   "zh": "这是一个关于两只蝴蝶的浪漫故事。",
+   "src": "拓展"
+  }
+ },
+ "performer": {
+  "tb": {
+   "en": "The gifted performer was so expressive that I almost cried along with it as I listened.",
+   "zh": "这位有天赋的演奏者表现力极强，我听着听着差点跟着哭了。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Performers use special tools to throw liquid iron against cold walls.",
+   "zh": "表演者用特殊的工具把铁水泼向冰冷的墙。",
+   "src": "改编"
+  }
+ },
+ "purple": {
+  "tb": {
+   "en": "The girl in purple is a gifted poet.",
+   "zh": "穿紫衣服的女孩是一位有天赋的诗人。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Blue and purple fruits mostly grow in warm places.",
+   "zh": "蓝色和紫色的水果大多生长在温暖的地方。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "gifted": {
+  "tb": {
+   "en": "He was also a gifted composer who left behind more than 200 musical works.",
+   "zh": "他还是一位有天赋的作曲家，留下了200多部音乐作品。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The gifted girl began to play the piano at the age of four.",
+   "zh": "这个有天赋的女孩四岁就开始弹钢琴了。",
+   "src": "拓展"
+  }
+ },
+ "poet": {
+  "tb": {
+   "en": "The girl in purple is a gifted poet.",
+   "zh": "穿紫衣服的女孩是一位有天赋的诗人。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Geoffrey Chaucer was a famous poet in the 1300s.",
+   "zh": "杰弗里·乔叟是14世纪一位著名的诗人。",
+   "src": "2023年河南中考"
+  }
+ },
+ "policewoman": {
+  "tb": {
+   "en": "The policewoman will help you.",
+   "zh": "这位女警察会帮助你。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The policewoman helped the lost child find his parents.",
+   "zh": "女警察帮迷路的孩子找到了父母。",
+   "src": "拓展"
+  }
+ },
+ "deaf": {
+  "tb": {
+   "en": "It was written by a deaf composer.",
+   "zh": "它是一位失聪的作曲家写的。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Beethoven kept writing music after he became deaf.",
+   "zh": "贝多芬失聪后仍坚持作曲。",
+   "src": "拓展"
+  }
+ },
+ "composer": {
+  "tb": {
+   "en": "He was also a gifted composer who left behind more than 200 musical works.",
+   "zh": "他还是一位有天赋的作曲家，留下了200多部音乐作品。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The composer wrote this song for the Spring Festival.",
+   "zh": "这位作曲家为春节写了这首歌。",
+   "src": "拓展"
+  }
+ },
+ "electronic": {
+  "tb": {
+   "en": "George is listening to some electronic music.",
+   "zh": "乔治正在听电子音乐。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It is found in cell phones, other electronic devices and LEDs.",
+   "zh": "它存在于手机、其他电子设备和LED灯中。",
+   "src": "2026 濮阳模拟"
+  }
+ },
+ "download": {
+  "tb": {
+   "en": "He downloaded it last night.",
+   "zh": "他昨晚下载的。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "You can download it on the Internet.",
+   "zh": "你可以在网上下载。",
+   "src": "2025 鹤壁模拟"
+  }
+ },
+ "rating": {
+  "tb": {
+   "en": "Give each kind of music a rating from 0 to 3.",
+   "zh": "给每种音乐打个分，从0分到3分。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "The film got a high rating online.",
+   "zh": "这部电影在网上评分很高。",
+   "src": "拓展"
+  }
+ },
+ "hats-off": {
+  "tb": {
+   "en": "When the great composer Robert Schumann first heard a work which was written by young Chopin, he said, \"Hats off, gentlemen! A genius!\"",
+   "zh": "伟大的作曲家罗伯特·舒曼第一次听到年轻的肖邦写的作品时说：“先生们，脱帽致敬吧！这是一位天才！”",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Hats off to the doctors and nurses for their hard work!",
+   "zh": "向辛勤工作的医生和护士致敬！",
+   "src": "拓展"
+  }
+ },
+ "genius": {
+  "tb": {
+   "en": "He said, \"Hats off, gentlemen! A genius!\"",
+   "zh": "他说：“先生们，脱帽致敬吧！这是一位天才！”",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Einstein was a genius in physics.",
+   "zh": "爱因斯坦是一位物理天才。",
+   "src": "拓展"
+  }
+ },
+ "pianist": {
+  "tb": {
+   "en": "Chopin was not only a great pianist, but also a respected piano teacher.",
+   "zh": "肖邦不仅是一位伟大的钢琴家，还是一位受人尊敬的钢琴老师。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Lang Lang is a world-famous pianist.",
+   "zh": "郎朗是一位世界著名的钢琴家。",
+   "src": "拓展"
+  }
+ },
+ "outdo": {
+  "tb": {
+   "en": "He didn't attend music school until he was 16, but soon outdid his teachers.",
+   "zh": "他16岁才上音乐学校，但很快就超过了他的老师。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "She tried hard to outdo her last score.",
+   "zh": "她努力超越自己上次的成绩。",
+   "src": "拓展"
+  }
+ },
+ "widen": {
+  "tb": {
+   "en": "His parents sent him to Vienna in 1829 to widen his musical experience.",
+   "zh": "1829年，他的父母送他去维也纳开阔音乐眼界。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Reading can widen your knowledge.",
+   "zh": "阅读可以拓宽你的知识面。",
+   "src": "拓展"
+  }
+ },
+ "soul": {
+  "tb": {
+   "en": "He often told his students, \"Put all your soul into it!\"",
+   "zh": "他常常对学生说：“把你全部的情感投入进去！”",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "People believed that washing in rivers on this day could clean their bodies and souls.",
+   "zh": "人们相信这一天在河里沐浴能洁净身心。",
+   "src": "改编"
+  }
+ },
+ "look-down-on": {
+  "tb": {
+   "en": "Polish folk music was a kind of music that some people looked down on at the time.",
+   "zh": "波兰民间音乐在当时是一种被一些人看不起的音乐。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Therefore, never look down on your own cracks.",
+   "zh": "所以，永远不要看不起自己的缺点。",
+   "src": "2026 南阳模拟"
+  }
+ },
+ "polish": {
+  "tb": {
+   "en": "Chopin's use of Polish folk music made people value it more.",
+   "zh": "肖邦对波兰民间音乐的运用让人们更加重视它。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "She can speak Polish and English.",
+   "zh": "她会说波兰语和英语。",
+   "src": "拓展"
+  }
+ },
+ "characteristic": {
+  "tb": {
+   "en": "But it became an important characteristic of Chopin's music.",
+   "zh": "但它成了肖邦音乐的一个重要特点。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Being friendly is one of her best characteristics.",
+   "zh": "友好是她最好的品质之一。",
+   "src": "拓展"
+  }
+ },
+ "proudly": {
+  "tb": {
+   "en": "Today, the Polish people proudly think of Poland as the country of Chopin.",
+   "zh": "如今，波兰人民自豪地把波兰看作肖邦之国。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "\"I did it, Dad!\" he said proudly.",
+   "zh": "“爸爸，我做到了！”他自豪地说。",
+   "src": "改编"
+  }
+ },
+ "funeral": {
+  "tb": {
+   "en": "Only a few close friends attended Chopin's funeral.",
+   "zh": "只有几个亲密的朋友参加了肖邦的葬礼。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Many people went to the funeral to say goodbye to the great scientist.",
+   "zh": "许多人参加葬礼，送别这位伟大的科学家。",
+   "src": "拓展"
+  }
+ },
+ "young-and-old": {
+  "tb": {
+   "en": "It is studied in music schools, played by pianists, heard in films and on TV, and loved by listeners young and old.",
+   "zh": "音乐学校研究它，钢琴家演奏它，电影和电视里能听到它，男女老少的听众都喜爱它。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The Spring Festival is loved by young and old.",
+   "zh": "春节受到老老少少的喜爱。",
+   "src": "拓展"
+  }
+ },
+ "profession": {
+  "tb": {
+   "en": "With a deep love for their hometown, people of different ages and professions are contributing to its development and growing along with it.",
+   "zh": "怀着对家乡的深爱，不同年龄、不同职业的人都在为家乡的发展出力，并与家乡一同成长。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Teaching is a great profession.",
+   "zh": "教师是一个伟大的职业。",
+   "src": "拓展"
+  }
+ },
+ "contribution": {
+  "tb": {
+   "en": "Yuan Longping made great contributions to the world.",
+   "zh": "袁隆平为世界作出了巨大贡献。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "Everyone can make a contribution to protecting the environment.",
+   "zh": "每个人都能为保护环境作出贡献。",
+   "src": "拓展"
+  }
+ },
+ "cartoon": {
+  "tb": {
+   "en": "The cartoon character is loved by everyone.",
+   "zh": "这个卡通人物受到大家的喜爱。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "There are cartoon movies, action movies, history movies and so on.",
+   "zh": "有动画片、动作片、历史片等等。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "fair": {
+  "tb": {
+   "en": "You won the match fair and square.",
+   "zh": "你赢得比赛光明正大。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Are you coming to the school book fair tomorrow?",
+   "zh": "你明天来参加学校书展吗？",
+   "src": "改编"
+  }
+ },
+ "fair-and-square": {
+  "tb": {
+   "en": "You won the match fair and square.",
+   "zh": "你赢得比赛光明正大。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "We should win the game fair and square.",
+   "zh": "我们应该光明正大地赢得比赛。",
+   "src": "拓展"
+  }
+ },
+ "tape": {
+  "tb": {
+   "en": "When the tape started playing, Ella began to tap her feet to the rhythm.",
+   "zh": "磁带一开始播放，埃拉就随着节奏用脚打起了拍子。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "My grandpa still keeps some old tapes.",
+   "zh": "我爷爷还保存着一些旧磁带。",
+   "src": "拓展"
+  }
+ },
+ "tap": {
+  "tb": {
+   "en": "When the tape started playing, Ella began to tap her feet to the rhythm.",
+   "zh": "磁带一开始播放，埃拉就随着节奏用脚打起了拍子。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Turn off the tap when you brush your teeth.",
+   "zh": "刷牙时要关上水龙头。",
+   "src": "拓展"
+  }
+ },
+ "tap-ones-feet": {
+  "tb": {
+   "en": "When the tape started playing, Ella began to tap her feet to the rhythm.",
+   "zh": "磁带一开始播放，埃拉就随着节奏用脚打起了拍子。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "He tapped his feet to the music.",
+   "zh": "他随着音乐用脚打拍子。",
+   "src": "拓展"
+  }
+ },
+ "champion": {
+  "tb": {
+   "en": "Like the Olympics, the Paralympics have also produced many great heroes and champions.",
+   "zh": "和奥运会一样，残奥会也产生了许多伟大的英雄和冠军。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "I realized we only see champions' medals, not their pressure.",
+   "zh": "我意识到，我们只看到了冠军的奖牌，却没看到他们的压力。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "flowing": {
+  "tb": {
+   "en": "Ziqi said, \"It sounds like flowing water!\"",
+   "zh": "子期说：“听起来像流水一样！”",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "A feature of Tongli is its small bridges, flowing water and local households.",
+   "zh": "同里的一个特色是小桥、流水和人家。",
+   "src": "改编"
+  }
+ },
+ "finger": {
+  "tb": {
+   "en": "I went to my room and practised until my fingers hurt.",
+   "zh": "我回到房间，一直练到手指疼。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "For example, older people tap one finger to thank younger people.",
+   "zh": "例如，长辈会用一根手指轻敲桌面向晚辈致谢。",
+   "src": "2026 新乡模拟"
+  }
+ },
+ "schoolmate": {
+  "tb": {
+   "en": "Some of my schoolmates invited me to join their band.",
+   "zh": "我的一些同学邀请我加入他们的乐队。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Jack joined a band formed by his schoolmates.",
+   "zh": "杰克加入了他的同学组建的乐队。",
+   "src": "课本"
+  }
+ },
+ "nowadays": {
+  "tb": {
+   "en": "Nowadays, our band is getting more and more popular.",
+   "zh": "如今，我们的乐队越来越受欢迎了。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Nowadays, more and more families choose road trips for their vacation.",
+   "zh": "如今，越来越多的家庭选择自驾游度假。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "poland": {
+  "tb": {
+   "en": "Chopin was born in a village in Poland.",
+   "zh": "肖邦出生在波兰的一个村庄。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Poland is a country in Europe.",
+   "zh": "波兰是欧洲的一个国家。",
+   "src": "拓展"
+  }
+ },
+ "vienna": {
+  "tb": {
+   "en": "His parents sent him to Vienna in 1829 to widen his musical experience.",
+   "zh": "1829年，他的父母送他去维也纳开阔音乐眼界。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Vienna is famous for its music.",
+   "zh": "维也纳以音乐闻名。",
+   "src": "拓展"
+  }
+ },
+ "pull-up": {
+  "tb": {
+   "en": "Hmm, the 4 × 100 m relay and the team pull-up competition.",
+   "zh": "嗯，4×100米接力和团体引体向上比赛。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "He can do ten pull-ups in a row.",
+   "zh": "他能连续做十个引体向上。",
+   "src": "拓展"
+  }
+ },
+ "relay": {
+  "tb": {
+   "en": "Four runners make up a team for the relay race.",
+   "zh": "四名运动员组成一支接力队。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Our class won first place in the relay race.",
+   "zh": "我们班在接力赛中获得了第一名。",
+   "src": "拓展"
+  }
+ },
+ "shot-put": {
+  "tb": {
+   "en": "Junior high students need to take shot-put classes as part of their physical education.",
+   "zh": "初中生的体育课需要上推铅球课。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Shot-put is one of the events in the PE test.",
+   "zh": "推铅球是体育考试的项目之一。",
+   "src": "拓展"
+  }
+ },
+ "boxing": {
+  "tb": {
+   "en": "Though he was defeated, he had competed to the best of his ability in the boxing match.",
+   "zh": "虽然他输了，但他在拳击比赛中已经尽了全力。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The Unitree G1 robots can do many movements, such as drunken boxing and nunchucks.",
+   "zh": "宇树G1机器人能做许多动作，比如醉拳和双节棍。",
+   "src": "改编"
+  }
+ },
+ "competition": {
+  "tb": {
+   "en": "Hmm, the 4 × 100 m relay and the team pull-up competition.",
+   "zh": "嗯，4×100米接力和团体引体向上比赛。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "That's why I decide to take part in the competition.",
+   "zh": "这就是我决定参加比赛的原因。",
+   "src": "2025 新乡模拟"
+  }
+ },
+ "tryout": {
+  "tb": {
+   "en": "When is the last day to sign up for the tryouts?",
+   "zh": "选拔赛报名的最后一天是哪天？",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "\"Derick, why aren't you at the cheerleader tryouts?\" my friend Minnie asked.",
+   "zh": "“德里克，你怎么没去啦啦队选拔？”我的朋友明妮问。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "handoff": {
+  "tb": {
+   "en": "Peter performed a smooth handoff to Han Lin.",
+   "zh": "彼得把接力棒顺利地交给了韩林。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Here comes the final handoff.",
+   "zh": "最后一次交接棒来了。",
+   "src": "课本"
+  }
+ },
+ "baton": {
+  "tb": {
+   "en": "Li Lei passes the baton to Xie Tao.",
+   "zh": "李雷把接力棒交给谢涛。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Don't drop the baton in the relay race.",
+   "zh": "接力赛中不要把接力棒掉了。",
+   "src": "拓展"
+  }
+ },
+ "judge": {
+  "tb": {
+   "en": "The judges are reviewing the video to decide who the winner is.",
+   "zh": "裁判们正在回看录像，以决定谁是获胜者。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "We should not judge events too quickly—life's turns often have unexpected outcomes.",
+   "zh": "我们不应过早地评判事情——生活的转折常常出人意料。",
+   "src": "2025 南阳模拟"
+  }
+ },
+ "runner": {
+  "tb": {
+   "en": "Four runners make up a team for the relay race.",
+   "zh": "四名运动员组成一支接力队。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "By his halfway mark, most runners had already crossed the finish line.",
+   "zh": "他才跑到一半时，大多数选手已经冲过了终点线。",
+   "src": "改编"
+  }
+ },
+ "take-the-lead": {
+  "tb": {
+   "en": "Wang Yaming for Class 1 takes the lead.",
+   "zh": "一班的王亚明领先了。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Our team took the lead in the second half.",
+   "zh": "我们队在下半场取得了领先。",
+   "src": "拓展"
+  }
+ },
+ "smooth": {
+  "tb": {
+   "en": "Peter performed a smooth handoff to Han Lin.",
+   "zh": "彼得把接力棒顺利地交给了韩林。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Carol had a smooth gray stone from her garden.",
+   "zh": "卡罗尔有一块从花园里捡来的光滑的灰色石头。",
+   "src": "2026 平顶山模拟"
+  }
+ },
+ "make-up-ground-on-sb-sth": {
+  "tb": {
+   "en": "Han Lin is making up ground on Li Lei.",
+   "zh": "韩林正在逼近李雷。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The runner from Class 3 is making up ground on the leader.",
+   "zh": "三班的选手正在逼近领先者。",
+   "src": "拓展"
+  }
+ },
+ "catch-up-with": {
+  "tb": {
+   "en": "Teng Fei didn't catch up with Xie Tao.",
+   "zh": "滕飞没有追上谢涛。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "I have to work hard to catch up with my classmates.",
+   "zh": "我得努力学习，赶上我的同学们。",
+   "src": "拓展"
+  }
+ },
+ "figure": {
+  "tb": {
+   "en": "My parents and I also enjoy watching figure skating.",
+   "zh": "我和爸爸妈妈也喜欢看花样滑冰。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Public figures know that nothing projects likeability like a good hug.",
+   "zh": "公众人物知道，没有什么比一个好的拥抱更能展现亲和力。",
+   "src": "2026 郑州模拟"
+  }
+ },
+ "figure-skating": {
+  "tb": {
+   "en": "Nearly the whole world watched the fantastic figure skating and ski jumping competitions.",
+   "zh": "几乎全世界都观看了精彩的花样滑冰和跳台滑雪比赛。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Figure skating is both a sport and an art.",
+   "zh": "花样滑冰既是一项运动，也是一门艺术。",
+   "src": "拓展"
+  }
+ },
+ "amaze": {
+  "tb": {
+   "en": "I'm always amazed by their strength and technique.",
+   "zh": "他们的力量和技术总是让我惊叹。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "I tried a VR class last week and it was amazing!",
+   "zh": "上周我上了一节虚拟现实课，太神奇了！",
+   "src": "改编"
+  }
+ },
+ "truly": {
+  "tb": {
+   "en": "Like you, my family watch sports together, especially speed skating. It's truly amazing.",
+   "zh": "和你一样，我们全家人也一起看体育比赛，尤其是速度滑冰。真的太精彩了。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Have you ever thought about what makes a pencil truly useful?",
+   "zh": "你有没有想过是什么让铅笔真正有用？",
+   "src": "改编"
+  }
+ },
+ "swimming": {
+  "tb": {
+   "en": "For me, the swimming events are so exciting because swimmers often win by just 0.01 seconds.",
+   "zh": "对我来说，游泳比赛非常激动人心，因为选手们常常只以0.01秒的优势获胜。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Finally, find a sport you enjoy, like basketball or swimming.",
+   "zh": "最后，找一项你喜欢的运动，比如篮球或游泳。",
+   "src": "改编"
+  }
+ },
+ "anyway": {
+  "tb": {
+   "en": "Not really, but I love watching it anyway.",
+   "zh": "不太会，但不管怎样我都喜欢看。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Anyway, I'm just trying to find ways to make things easier.",
+   "zh": "不管怎样，我只是想找办法让事情变得简单些。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "ceremony": {
+  "tb": {
+   "en": "Oh, don't forget to watch the opening ceremony.",
+   "zh": "哦，别忘了看开幕式。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The week ended with a ceremony.",
+   "zh": "这一周以一场典礼结束。",
+   "src": "2025 濮阳模拟"
+  }
+ },
+ "neither": {
+  "tb": {
+   "en": "Neither is really suitable for me.",
+   "zh": "两个都不太适合我。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "\"I didn't know you could play the guitar, Steve!\" \"Neither did I,\" Steve said with a laugh.",
+   "zh": "“史蒂夫，我都不知道你会弹吉他！”“我也不知道。”史蒂夫笑着说。",
+   "src": "改编"
+  }
+ },
+ "nor": {
+  "tb": {
+   "en": "There were neither team sports nor water sports.",
+   "zh": "那时既没有团体项目，也没有水上项目。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "It neither flies nor sings.",
+   "zh": "它既不会飞，也不会唱歌。",
+   "src": "2026 洛阳模拟"
+  }
+ },
+ "neither-nor": {
+  "tb": {
+   "en": "Neither winning nor losing is everything in the Olympics. It's about doing your best.",
+   "zh": "在奥运会上，输赢都不是一切。重要的是尽力而为。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "It neither flies nor sings.",
+   "zh": "它既不会飞，也不会唱歌。",
+   "src": "2026 洛阳模拟"
+  }
+ },
+ "try-out": {
+  "tb": {
+   "en": "Athletes train for years to try out for the Olympics.",
+   "zh": "运动员们训练多年，就为了参加奥运会选拔。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "This cultural exchange has led to a wave of people trying out many kinds of Chinese lifestyles online.",
+   "zh": "这种文化交流掀起了一股人们在网上体验多种中国生活方式的热潮。",
+   "src": "改编"
+  }
+ },
+ "unique": {
+  "tb": {
+   "en": "Athletes train for years to try out for the Olympics, and each has a unique story.",
+   "zh": "运动员们训练多年参加奥运会选拔，每个人都有独特的故事。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Each kind has its unique joys and wisdom.",
+   "zh": "每一种都有它独特的乐趣和智慧。",
+   "src": "2025 郑州模拟"
+  }
+ },
+ "bouldering": {
+  "tb": {
+   "en": "It is divided into three different types: speed climbing, bouldering, and lead climbing.",
+   "zh": "它分为三种类型：速度攀岩、抱石和难度攀岩。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Bouldering is a kind of rock climbing without ropes.",
+   "zh": "抱石是一种不用绳索的攀岩运动。",
+   "src": "拓展"
+  }
+ },
+ "compete": {
+  "tb": {
+   "en": "Generally, athletes at the Paralympics only compete against others with the same kind of disability.",
+   "zh": "一般来说，残奥会的运动员只和有相同类型残疾的人比赛。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "You'll also have the chance to compete in different kinds of events.",
+   "zh": "你还将有机会参加不同类型的比赛。",
+   "src": "2026 周口模拟"
+  }
+ },
+ "compete-against": {
+  "tb": {
+   "en": "Generally, athletes at the Paralympics only compete against others with the same kind of disability.",
+   "zh": "一般来说，残奥会的运动员只和有相同类型残疾的人比赛。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "In speed climbing, climbers have to compete against the clock.",
+   "zh": "在速度攀岩中，攀岩者要和时间赛跑。",
+   "src": "改编"
+  }
+ },
+ "mascot": {
+  "tb": {
+   "en": "I also became a huge fan of the mascot, Bing Dwen Dwen.",
+   "zh": "我还成了吉祥物冰墩墩的超级粉丝。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The mascot of our school sports meeting is a little tiger.",
+   "zh": "我们学校运动会的吉祥物是一只小老虎。",
+   "src": "拓展"
+  }
+ },
+ "motto": {
+  "tb": {
+   "en": "The motto for the Olympic movement is \"Faster, Higher, Stronger—Together\".",
+   "zh": "奥林匹克运动的格言是“更快、更高、更强——更团结”。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "These mottos touch my heart quite deeply, as I'm sure they touch yours.",
+   "zh": "这些格言深深打动了我，我相信也打动了你。",
+   "src": "课本"
+  }
+ },
+ "dramatic": {
+  "tb": {
+   "en": "Both were dramatic come-from-behind victories.",
+   "zh": "两场都是激动人心的逆转胜利。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The ending of the film was very dramatic.",
+   "zh": "这部电影的结局非常出人意料。",
+   "src": "拓展"
+  }
+ },
+ "freestyle": {
+  "tb": {
+   "en": "Eric swam in the 100-metre freestyle at the 2000 Sydney Olympics.",
+   "zh": "埃里克参加了2000年悉尼奥运会的100米自由泳比赛。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "China's amazing freestyle swimmer, Pan Zhanle, celebrated his 20th birthday by taking the Olympic pool by storm at the Paris 2024 Olympics!",
+   "zh": "中国出色的自由泳选手潘展乐在2024年巴黎奥运会上横扫泳池，以此庆祝了自己的20岁生日！",
+   "src": "2025 焦作模拟"
+  }
+ },
+ "talented": {
+  "tb": {
+   "en": "I watched the freestyle skiing, and like everyone else, I fell in love with those brave and talented athletes.",
+   "zh": "我看了自由式滑雪，和其他人一样，我爱上了那些勇敢而有天赋的运动员。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "She is a talented young singer.",
+   "zh": "她是一位有才华的年轻歌手。",
+   "src": "拓展"
+  }
+ },
+ "in-wonder": {
+  "tb": {
+   "en": "I watched in wonder as Usain Bolt smiled his way across the finish line in the 100 metres, setting a new world record.",
+   "zh": "我惊奇地看着尤塞恩·博尔特面带微笑冲过百米终点线，创造了新的世界纪录。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The children looked up at the night sky in wonder.",
+   "zh": "孩子们惊奇地仰望夜空。",
+   "src": "拓展"
+  }
+ },
+ "set-a-record": {
+  "tb": {
+   "en": "Usain Bolt smiled his way across the finish line in the 100 metres, setting a new world record.",
+   "zh": "尤塞恩·博尔特面带微笑冲过百米终点线，创造了新的世界纪录。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "She set a new school record in the long jump.",
+   "zh": "她在跳远比赛中创造了新的校纪录。",
+   "src": "拓展"
+  }
+ },
+ "gold": {
+  "tb": {
+   "en": "Cuiqing has won four gold medals with her guide, Xu Donglin.",
+   "zh": "翠青和她的领跑员徐冬林一起获得了四枚金牌。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Why did the writer believe Amy would win the gold medal this time?",
+   "zh": "为什么作者相信埃米这次会赢得金牌？",
+   "src": "2026 河南模拟"
+  }
+ },
+ "medal": {
+  "tb": {
+   "en": "Cuiqing has won four gold medals with her guide, Xu Donglin.",
+   "zh": "翠青和她的领跑员徐冬林一起获得了四枚金牌。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "I realized we only see champions' medals, not their pressure.",
+   "zh": "我意识到，我们只看到了冠军的奖牌，却没看到他们的压力。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "reform": {
+  "tb": {
+   "en": "China has achieved great success through reform.",
+   "zh": "中国通过改革取得了巨大成功。",
+   "src": "拓展"
+  },
+  "zk": {
+   "en": "The school is carrying out a reform of homework.",
+   "zh": "学校正在进行作业改革。",
+   "src": "拓展"
+  }
+ },
+ "reform-and-opening-up": {
+  "tb": {
+   "en": "The Games showed China's success in its reform and opening-up on the world stage.",
+   "zh": "这届奥运会在世界舞台上展示了中国改革开放的成就。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Great changes have taken place in China since the reform and opening-up.",
+   "zh": "改革开放以来，中国发生了巨大变化。",
+   "src": "拓展"
+  }
+ },
+ "worldwide": {
+  "tb": {
+   "en": "China's great achievements have gained worldwide attention.",
+   "zh": "中国的伟大成就赢得了全世界的关注。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "There is a worldwide movement to reduce light pollution, and everyone can help.",
+   "zh": "全世界正在开展减少光污染的运动，每个人都可以出一份力。",
+   "src": "2026 濮阳模拟"
+  }
+ },
+ "citizen": {
+  "tb": {
+   "en": "In both events, many volunteers and citizens helped out.",
+   "zh": "在这两次盛会中，许多志愿者和市民都出了力。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Join us for an exciting experience in citizen science!",
+   "zh": "加入我们，一起体验激动人心的公民科学活动吧！",
+   "src": "2025 河南模拟"
+  }
+ },
+ "pride": {
+  "tb": {
+   "en": "They worked with pride to make sure that people from around the world had a pleasant stay.",
+   "zh": "他们满怀自豪地工作，确保来自世界各地的人们过得愉快。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "After the clean-up, everyone felt a sense of pride.",
+   "zh": "打扫完后，每个人都感到很自豪。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "harmony": {
+  "tb": {
+   "en": "The purpose of the Olympics is to bring people together for peace and harmony.",
+   "zh": "奥运会的目的是把人们团结在一起，共享和平与和谐。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "He said that peace and harmony is the first thing for our Chinese nation.",
+   "zh": "他说，和平与和谐对我们中华民族来说是第一位的。",
+   "src": "2025 驻马店模拟"
+  }
+ },
+ "deeply": {
+  "tb": {
+   "en": "These mottos touch my heart quite deeply, as I'm sure they touch yours.",
+   "zh": "这些格言深深打动了我，我相信也打动了你。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "She was deeply attracted by a tennis match.",
+   "zh": "她被一场网球比赛深深吸引了。",
+   "src": "2025 南阳模拟"
+  }
+ },
+ "master": {
+  "tb": {
+   "en": "The master explained that kung fu, also known as wushu, was a fighting skill.",
+   "zh": "师父解释说，功夫也叫武术，是一种格斗技能。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "This way, you can finally master the whole subject.",
+   "zh": "这样，你最终就能掌握整个学科。",
+   "src": "2025 洛阳模拟"
+  }
+ },
+ "satisfy": {
+  "tb": {
+   "en": "The figure skater tried out some new moves, but they did not satisfy the coach.",
+   "zh": "这位花样滑冰运动员尝试了一些新动作，但教练并不满意。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "\"But we still feel satisfied, and we are happy for them,\" Sheng said.",
+   "zh": "“但我们仍然感到满意，也为他们高兴。”盛说。",
+   "src": "改编"
+  }
+ },
+ "greek": {
+  "tb": {
+   "en": "Greeks from different cities around the country came together to compete in the events.",
+   "zh": "来自全国各城市的希腊人聚在一起参加比赛。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "The earliest known encyclopaedias in Europe were written by the Greeks in the 4th century BCE.",
+   "zh": "欧洲已知最早的百科全书是希腊人在公元前4世纪编写的。",
+   "src": "2026 驻马店模拟"
+  }
+ },
+ "roman": {
+  "tb": {
+   "en": "The Games were held every four years until the Roman emperor stopped them.",
+   "zh": "运动会每四年举行一次，直到罗马皇帝下令停办。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The Romans didn't give names to what is now January and February.",
+   "zh": "罗马人没有给如今的一月和二月起名字。",
+   "src": "2026 鹤壁模拟"
+  }
+ },
+ "drown": {
+  "tb": {
+   "en": "In fact, it looked like he was going to drown!",
+   "zh": "事实上，他看起来快要淹死了！",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Never swim alone, or you may drown.",
+   "zh": "千万不要独自游泳，否则可能会溺水。",
+   "src": "拓展"
+  }
+ },
+ "cheer": {
+  "tb": {
+   "en": "But he tried hard and finished the race, winning loud cheers from the crowd.",
+   "zh": "但他努力坚持完成了比赛，赢得了观众的热烈欢呼。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "When he finally reached the last place, everyone cheered loudly.",
+   "zh": "当他终于到达最后一站时，大家大声欢呼。",
+   "src": "改编"
+  }
+ },
+ "crowd": {
+  "tb": {
+   "en": "But he tried hard and finished the race, winning loud cheers from the crowd.",
+   "zh": "但他努力坚持完成了比赛，赢得了观众的热烈欢呼。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The crowd watched in surprise as a beautiful picture took shape.",
+   "zh": "人群惊讶地看着一幅美丽的画逐渐成形。",
+   "src": "2026 河南模拟"
+  }
+ },
+ "bing-dwen-dwen": {
+  "tb": {
+   "en": "I also became a huge fan of the mascot, Bing Dwen Dwen.",
+   "zh": "我还成了吉祥物冰墩墩的超级粉丝。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "Bing Dwen Dwen is a cute panda in an ice suit.",
+   "zh": "冰墩墩是一只穿着冰晶外壳的可爱熊猫。",
+   "src": "拓展"
+  }
+ },
+ "greece": {
+  "tb": {
+   "en": "In 1896, the first modern Olympics were held in Greece.",
+   "zh": "1896年，第一届现代奥运会在希腊举行。",
+   "src": "课本"
+  },
+  "zk": {
+   "en": "The Olympic flame is lit in Greece.",
+   "zh": "奥运圣火在希腊点燃。",
+   "src": "拓展"
+  }
+ },
+ "equatorial-guinea": {
+  "tb": {
+   "en": "Eric Moussambani was the first Olympic swimmer from Equatorial Guinea.",
+   "zh": "埃里克·穆桑巴尼是赤道几内亚第一位参加奥运会的游泳运动员。",
+   "src": "改编"
+  },
+  "zk": {
+   "en": "Equatorial Guinea is a small country in Africa.",
+   "zh": "赤道几内亚是非洲的一个小国。",
+   "src": "拓展"
+  }
+ }
+}

@@ -1,0 +1,18 @@
+{
+  "envId": "your-env-id",
+  "functionRoot": "./cloud/functions",
+  "functions": [
+    {
+      "name": "api",
+      "timeout": 20,
+      "runtime": "Nodejs18.15",
+      "memorySize": 256,
+      "installDependency": true,
+      "handler": "index.main",
+      "envVariables": {
+        "TEACHER_PASS": "",
+        "CLOUDBASE_APIKEY": ""
+      }
+    }
+  ]
+}

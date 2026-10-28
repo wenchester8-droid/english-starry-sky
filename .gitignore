@@ -1,0 +1,12 @@
+node_modules
+dist
+.wrangler
+.env*
+!.env.example
+cloudbaserc.json
+*.tsbuildinfo
+__pycache__
+.DS_Store
+scripts/build/
+pipeline/build/*
+!pipeline/build/*.py

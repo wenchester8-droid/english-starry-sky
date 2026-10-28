@@ -1,0 +1,1745 @@
+{
+  "book": "8b",
+  "cats": [
+    {
+      "id": "grammar",
+      "name": "语法",
+      "desc": "动词不定式、should / could、反身代词、although / until / so that、比较级与最高级、大数字、过去进行时、so … that / unless / as soon as、现在完成时……"
+    },
+    {
+      "id": "sentence",
+      "name": "句型与交际",
+      "desc": "谈爱好、看病、谈烦恼、介绍自然奇观、谈灾害经历、谈习俗、谈读书、谈志愿服务等课本重点句型"
+    }
+  ],
+  "units": [
+    {
+      "unit": "unit-1",
+      "points": [
+        {
+          "id": "8b-u1-infinitive",
+          "cat": "grammar",
+          "kp": "动词不定式",
+          "title": "动词不定式作目的状语和宾语补足语",
+          "explain": "① 作目的状语，说明「为了做某事」：I started swimming to get over my fear.\n② 作宾语补足语：ask / tell / want / encourage / allow sb to do sth\nMy parents told me not to push myself too hard.（否定在 to 前加 not）\n③ 注意：make / let / help 后面常跟不带 to 的不定式：Painting helps me (to) express how I feel. / My mum lets me play games on Saturdays.",
+          "examples": [
+            {
+              "en": "I started swimming to get over my fear.",
+              "zh": "我开始游泳是为了克服我的恐惧。"
+            },
+            {
+              "en": "She told me not to give up so easily.",
+              "zh": "她告诉我不要这么轻易放弃。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "I got up early ______ the first bus.",
+              "o": [
+                "catch",
+                "to catch",
+                "catching",
+                "caught"
+              ],
+              "a": 1,
+              "e": "表示目的「为了赶第一班车」，用不定式 to catch。",
+              "s": "I got up early to catch the first bus."
+            },
+            {
+              "t": "choice",
+              "q": "My coach encourages me ______ hard every day.",
+              "o": [
+                "practise",
+                "practising",
+                "to practise",
+                "practised"
+              ],
+              "a": 2,
+              "e": "encourage sb to do sth。",
+              "s": "My coach encourages me to practise hard every day."
+            },
+            {
+              "t": "choice",
+              "q": "The doctor told him ______ too many sweets.",
+              "o": [
+                "not eat",
+                "not to eat",
+                "to not eat",
+                "don't eat"
+              ],
+              "a": 1,
+              "e": "tell sb not to do sth，not 放在 to 前。",
+              "s": "The doctor told him not to eat too many sweets."
+            },
+            {
+              "t": "choice",
+              "q": "My parents let me ______ out with friends on Saturdays.",
+              "o": [
+                "hang",
+                "to hang",
+                "hanging",
+                "hung"
+              ],
+              "a": 0,
+              "e": "let sb do sth，不带 to。",
+              "s": "My parents let me hang out with friends on Saturdays."
+            },
+            {
+              "t": "choice",
+              "q": "I go to the park every morning ______ yoga.",
+              "o": [
+                "do",
+                "doing",
+                "to do",
+                "did"
+              ],
+              "a": 2,
+              "e": "表示目的，用 to do。",
+              "s": "I go to the park every morning to do yoga."
+            },
+            {
+              "t": "fill",
+              "q": "My teacher asked us ______ (write) about our hobbies.",
+              "a": [
+                "to write"
+              ],
+              "e": "ask sb to do sth。",
+              "s": "My teacher asked us to write about our hobbies."
+            },
+            {
+              "t": "order",
+              "w": [
+                "to",
+                "relax",
+                "I",
+                "listen",
+                "music",
+                "to"
+              ],
+              "a": "I listen to music to relax.",
+              "e": "listen to music 后面加 to relax 表示目的。",
+              "s": "I listen to music to relax."
+            }
+          ]
+        },
+        {
+          "id": "8b-u1-hobby",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "谈爱好及其好处",
+          "explain": "问爱好：What do you do in your free time? / How did you get into it?\n说开始：I took up … last year. / I decided to give it a go.\n说好处：It helps me relax / reduce stress / make friends. / It gives me a sense of achievement.",
+          "examples": [
+            {
+              "en": "How did you get into painting?",
+              "zh": "你是怎么开始画画的？"
+            },
+            {
+              "en": "I decided to give it a go too!",
+              "zh": "我决定也试一试！"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— What do you usually do in your ______ time?\n— I play the guitar.",
+              "o": [
+                "free",
+                "busy",
+                "full",
+                "long"
+              ],
+              "a": 0,
+              "e": "free time 空闲时间。",
+              "s": "— What do you usually do in your free time?\n— I play the guitar."
+            },
+            {
+              "t": "choice",
+              "q": "Hanging out with friends can ______ stress.",
+              "o": [
+                "reduce",
+                "raise",
+                "add",
+                "build"
+              ],
+              "a": 0,
+              "e": "reduce stress 减轻压力。",
+              "s": "Hanging out with friends can reduce stress."
+            },
+            {
+              "t": "choice",
+              "q": "— Have you tried kung fu?\n— Not yet, but I'd like to give it a ______.",
+              "o": [
+                "go",
+                "try",
+                "chance",
+                "way"
+              ],
+              "a": 0,
+              "e": "give it a go 试一试。",
+              "s": "— Have you tried kung fu?\n— Not yet, but I'd like to give it a go."
+            },
+            {
+              "t": "fill",
+              "q": "Painting helps me ______ (表达) how I feel.",
+              "a": [
+                "express"
+              ],
+              "e": "help sb (to) do sth，express 表达。",
+              "s": "Painting helps me express how I feel."
+            },
+            {
+              "t": "order",
+              "w": [
+                "get",
+                "into",
+                "how",
+                "you",
+                "did",
+                "it",
+                "?"
+              ],
+              "a": "How did you get into it?",
+              "e": "get into 开始做（某事）。",
+              "s": "How did you get into it?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-2",
+      "points": [
+        {
+          "id": "8b-u2-should",
+          "cat": "grammar",
+          "kp": "情态动词后接动词原形",
+          "title": "should / could 给建议",
+          "explain": "should 应该（建议性强）：You should see a dentist. / You shouldn't eat too much.\ncould 可以（语气委婉，提供可能的办法）：You could take some medicine.\n问建议：What should I do? / What's the matter? — I have a headache.\n情态动词后接动词原形。",
+          "examples": [
+            {
+              "en": "You should see a dentist.",
+              "zh": "你应该去看牙医。"
+            },
+            {
+              "en": "You should take some medicine and drink enough water.",
+              "zh": "你应该吃点药，多喝水。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— I have a sore throat.\n— You ______ drink some warm water with honey.",
+              "o": [
+                "should",
+                "shouldn't",
+                "mustn't",
+                "can't"
+              ],
+              "a": 0,
+              "e": "给建议「应该喝温蜂蜜水」，用 should。",
+              "s": "— I have a sore throat.\n— You should drink some warm water with honey."
+            },
+            {
+              "t": "choice",
+              "q": "You ______ play computer games for so long. It's bad for your eyes.",
+              "o": [
+                "should",
+                "shouldn't",
+                "could",
+                "must"
+              ],
+              "a": 1,
+              "e": "对眼睛不好，所以不应该：shouldn't。",
+              "s": "You shouldn't play computer games for so long. It's bad for your eyes."
+            },
+            {
+              "t": "choice",
+              "q": "— What's the ______ with you?\n— I have a fever.",
+              "o": [
+                "wrong",
+                "trouble",
+                "matter",
+                "problem with"
+              ],
+              "a": 2,
+              "e": "What's the matter with you? 你怎么了？",
+              "s": "— What's the matter with you?\n— I have a fever."
+            },
+            {
+              "t": "choice",
+              "q": "You could ______ a rest at home.",
+              "o": [
+                "take",
+                "to take",
+                "taking",
+                "takes"
+              ],
+              "a": 0,
+              "e": "could 后接动词原形。",
+              "s": "You could take a rest at home."
+            },
+            {
+              "t": "fill",
+              "q": "You ______ (应该) go to bed early.",
+              "a": [
+                "should"
+              ],
+              "e": "表示建议用 should。",
+              "s": "You should go to bed early."
+            },
+            {
+              "t": "order",
+              "w": [
+                "see",
+                "should",
+                "you",
+                "dentist",
+                "a"
+              ],
+              "a": "You should see a dentist.",
+              "e": "should + 动词原形。",
+              "s": "You should see a dentist."
+            }
+          ]
+        },
+        {
+          "id": "8b-u2-reflexive",
+          "cat": "grammar",
+          "kp": "反身代词",
+          "title": "反身代词",
+          "explain": "myself, yourself, himself, herself, itself, ourselves, yourselves, themselves\n① 动作作用于自己：He hurt himself. / Take care of yourself.\n② 固定搭配：enjoy oneself 玩得开心，teach oneself 自学，help yourself to … 随便吃，by oneself 独自",
+          "examples": [
+            {
+              "en": "If we are not careful, we can easily hurt ourselves.",
+              "zh": "如果我们不小心，很容易伤到自己。"
+            },
+            {
+              "en": "Lastly, remember to take care of yourself.",
+              "zh": "最后，记得照顾好自己。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "Be careful with the knife, Tom. Don't cut ______.",
+              "o": [
+                "you",
+                "yourself",
+                "yourselves",
+                "himself"
+              ],
+              "a": 1,
+              "e": "对 Tom 一个人说，用 yourself。",
+              "s": "Be careful with the knife, Tom. Don't cut yourself."
+            },
+            {
+              "t": "choice",
+              "q": "The children enjoyed ______ at the party.",
+              "o": [
+                "them",
+                "themself",
+                "themselves",
+                "theirs"
+              ],
+              "a": 2,
+              "e": "enjoy oneself 玩得开心，主语复数用 themselves。",
+              "s": "The children enjoyed themselves at the party."
+            },
+            {
+              "t": "choice",
+              "q": "She taught ______ to play the guitar.",
+              "o": [
+                "her",
+                "herself",
+                "hers",
+                "she"
+              ],
+              "a": 1,
+              "e": "teach oneself 自学。",
+              "s": "She taught herself to play the guitar."
+            },
+            {
+              "t": "choice",
+              "q": "— Help ______ to some fish, boys and girls.\n— Thank you.",
+              "o": [
+                "yourself",
+                "yourselves",
+                "ourselves",
+                "themselves"
+              ],
+              "a": 1,
+              "e": "对多人说「随便吃」，用 yourselves。",
+              "s": "— Help yourselves to some fish, boys and girls.\n— Thank you."
+            },
+            {
+              "t": "fill",
+              "q": "I fell off my bike and hurt ______ (我自己).",
+              "a": [
+                "myself"
+              ],
+              "e": "hurt oneself 伤到自己。",
+              "s": "I fell off my bike and hurt myself."
+            },
+            {
+              "t": "fill",
+              "q": "We should look after ______ (我们自己).",
+              "a": [
+                "ourselves"
+              ],
+              "e": "主语 We，用 ourselves。",
+              "s": "We should look after ourselves."
+            }
+          ]
+        },
+        {
+          "id": "8b-u2-doctor",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "看病用语",
+          "explain": "医生：What's the matter? / How long have you been like this? / Let me take your temperature.\n病人：I have a cold / fever / headache / stomachache / toothache. / I hurt my arm.\n建议：Take some medicine. / Drink more water. / Have a good rest.",
+          "examples": [
+            {
+              "en": "I have a runny nose and a fever.",
+              "zh": "我流鼻涕，还发烧。"
+            },
+            {
+              "en": "Let me take your temperature.",
+              "zh": "我来给你量一下体温。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— What's the matter?\n— I ______ a stomachache.",
+              "o": [
+                "am",
+                "have",
+                "feel",
+                "get to"
+              ],
+              "a": 1,
+              "e": "have a stomachache 胃痛。",
+              "s": "— What's the matter?\n— I have a stomachache."
+            },
+            {
+              "t": "choice",
+              "q": "I ate too much last night, so I have a ______ now.",
+              "o": [
+                "toothache",
+                "stomachache",
+                "backache",
+                "headache"
+              ],
+              "a": 1,
+              "e": "吃太多会胃痛。",
+              "s": "I ate too much last night, so I have a stomachache now."
+            },
+            {
+              "t": "choice",
+              "q": "The nurse took my ______ and said I had a fever.",
+              "o": [
+                "temperature",
+                "medicine",
+                "seat",
+                "message"
+              ],
+              "a": 0,
+              "e": "take one's temperature 量体温。",
+              "s": "The nurse took my temperature and said I had a fever."
+            },
+            {
+              "t": "fill",
+              "q": "You'd better lie down and have a ______ (休息).",
+              "a": [
+                "rest"
+              ],
+              "e": "have a rest 休息一下。",
+              "s": "You'd better lie down and have a rest."
+            },
+            {
+              "t": "order",
+              "w": [
+                "the",
+                "matter",
+                "what's",
+                "you",
+                "with",
+                "?"
+              ],
+              "a": "What's the matter with you?",
+              "e": "询问病情：What's the matter with you?",
+              "s": "What's the matter with you?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-3",
+      "points": [
+        {
+          "id": "8b-u3-conj",
+          "cat": "grammar",
+          "kp": "连词",
+          "title": "连词 although / until / so that",
+          "explain": "although 虽然（不能和 but 连用）：Although he was tired, he kept working.\nuntil 直到：I waited until he came. / not … until 直到……才：I didn't go to bed until 11.\nso that 以便、为了：We should talk so that we can clear the air.",
+          "examples": [
+            {
+              "en": "We should talk so that we can clear the air.",
+              "zh": "我们应该谈一谈，以便消除误会。"
+            },
+            {
+              "en": "I couldn't talk about my feelings to anybody until you sat with me during lunch that day.",
+              "zh": "直到那天午饭时你坐到我身边，我才能跟别人说出自己的感受。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "______ it was raining, they still played football.",
+              "o": [
+                "Because",
+                "Although",
+                "So",
+                "Until"
+              ],
+              "a": 1,
+              "e": "前后是让步关系「虽然下雨，仍然踢球」。",
+              "s": "Although it was raining, they still played football."
+            },
+            {
+              "t": "choice",
+              "q": "Although he is young, ______ he knows a lot.",
+              "o": [
+                "but",
+                "so",
+                "and",
+                "/"
+              ],
+              "a": 3,
+              "e": "although 和 but 不能同时使用。",
+              "s": "Although he is young, he knows a lot."
+            },
+            {
+              "t": "choice",
+              "q": "I didn't go to sleep ______ my mum came home.",
+              "o": [
+                "when",
+                "until",
+                "because",
+                "so that"
+              ],
+              "a": 1,
+              "e": "not … until 直到……才。",
+              "s": "I didn't go to sleep until my mum came home."
+            },
+            {
+              "t": "choice",
+              "q": "Speak louder ______ everyone can hear you.",
+              "o": [
+                "so that",
+                "although",
+                "until",
+                "because"
+              ],
+              "a": 0,
+              "e": "so that 以便，表示目的。",
+              "s": "Speak louder so that everyone can hear you."
+            },
+            {
+              "t": "choice",
+              "q": "Wait here ______ I come back.",
+              "o": [
+                "although",
+                "so that",
+                "until",
+                "because"
+              ],
+              "a": 2,
+              "e": "until 直到……为止。",
+              "s": "Wait here until I come back."
+            },
+            {
+              "t": "fill",
+              "q": "She got up early so ______ she could catch the first bus.",
+              "a": [
+                "that"
+              ],
+              "e": "so that 以便，引导目的状语从句。",
+              "s": "She got up early so that she could catch the first bus."
+            },
+            {
+              "t": "order",
+              "w": [
+                "kept",
+                "although",
+                "tired",
+                "she",
+                "was",
+                "she",
+                "working"
+              ],
+              "a": "She kept working although she was tired.",
+              "e": "although 引导让步状语从句，主句不用 but。",
+              "s": "She kept working although she was tired."
+            }
+          ]
+        },
+        {
+          "id": "8b-u3-feelings",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "谈烦恼与给建议",
+          "explain": "说烦恼：I'm upset / angry / stressed because … / I feel blue.\n给建议：Why don't you …? / You could … / How about …? / Try to look on the bright side.\n安慰：Don't be too hard on yourself. / Everyone makes mistakes.",
+          "examples": [
+            {
+              "en": "Don't be too hard on yourself!",
+              "zh": "别对自己太苛刻了！"
+            },
+            {
+              "en": "But look on the bright side.",
+              "zh": "但要往好的方面想。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— I failed the test.\n— Don't be too hard ______ yourself.",
+              "o": [
+                "with",
+                "on",
+                "to",
+                "at"
+              ],
+              "a": 1,
+              "e": "be hard on sb 对某人苛刻。",
+              "s": "— I failed the test.\n— Don't be too hard on yourself."
+            },
+            {
+              "t": "choice",
+              "q": "— I had a fight with my best friend.\n— ______ write him a letter?",
+              "o": [
+                "Why don't you",
+                "Why not you",
+                "What about",
+                "Would you"
+              ],
+              "a": 0,
+              "e": "Why don't you + 动词原形？给建议。",
+              "s": "— I had a fight with my best friend.\n— Why don't you write him a letter?"
+            },
+            {
+              "t": "choice",
+              "q": "Peter couldn't control his ______ and shouted at Harry.",
+              "o": [
+                "anger",
+                "angry",
+                "angrily",
+                "happy"
+              ],
+              "a": 0,
+              "e": "control one's anger 控制怒火，需要名词。",
+              "s": "Peter couldn't control his anger and shouted at Harry."
+            },
+            {
+              "t": "fill",
+              "q": "How about ______ (talk) to your parents?",
+              "a": [
+                "talking"
+              ],
+              "e": "How about + doing？",
+              "s": "How about talking to your parents?"
+            },
+            {
+              "t": "order",
+              "w": [
+                "the",
+                "look",
+                "on",
+                "side",
+                "bright"
+              ],
+              "a": "Look on the bright side.",
+              "e": "look on the bright side 往好的方面想。",
+              "s": "Look on the bright side."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-4",
+      "points": [
+        {
+          "id": "8b-u4-compare",
+          "cat": "grammar",
+          "kp": "形容词最高级",
+          "title": "比较级和最高级（复习）",
+          "explain": "两者比较用比较级 + than：The Yangtze River is longer than the Yellow River.\n三者及以上用 the + 最高级 + in / of：Mount Qomolangma is the highest mountain in the world.\n副词也有比较级、最高级：He runs faster than me.\n不规则：good / well → better → best，bad → worse → worst，many / much → more → most\nWhich is … , A or B? / one of the + 最高级 + 名词复数",
+          "examples": [
+            {
+              "en": "No, the Yangtze River is the longest river in China.",
+              "zh": "不，长江是中国最长的河。"
+            },
+            {
+              "en": "It is the biggest coral reef in the world.",
+              "zh": "它是世界上最大的珊瑚礁。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "The Nile is ______ river in the world.",
+              "o": [
+                "long",
+                "longer",
+                "the longest",
+                "longest"
+              ],
+              "a": 2,
+              "e": "「世界上最长的」，用 the + 最高级。",
+              "s": "The Nile is the longest river in the world."
+            },
+            {
+              "t": "choice",
+              "q": "Lake Baikal is ______ than any other lake in the world.",
+              "o": [
+                "deep",
+                "deeper",
+                "the deepest",
+                "deepest"
+              ],
+              "a": 1,
+              "e": "than any other + 单数名词，用比较级。",
+              "s": "Lake Baikal is deeper than any other lake in the world."
+            },
+            {
+              "t": "choice",
+              "q": "The Great Wall is one of the ______ wonders in the world.",
+              "o": [
+                "great",
+                "greater",
+                "greatest",
+                "most great"
+              ],
+              "a": 2,
+              "e": "one of the + 最高级 + 复数名词。",
+              "s": "The Great Wall is one of the greatest wonders in the world."
+            },
+            {
+              "t": "choice",
+              "q": "Tom runs ______ than his brother.",
+              "o": [
+                "fast",
+                "faster",
+                "fastest",
+                "more fast"
+              ],
+              "a": 1,
+              "e": "两者比较，副词用比较级 faster。",
+              "s": "Tom runs faster than his brother."
+            },
+            {
+              "t": "fill",
+              "q": "This is the ______ (bad) weather I have ever seen.",
+              "a": [
+                "worst"
+              ],
+              "e": "bad 的最高级是 worst。",
+              "s": "This is the worst weather I have ever seen."
+            },
+            {
+              "t": "fill",
+              "q": "The Sahara is ______ (hot) than the Taklimakan Desert.",
+              "a": [
+                "hotter"
+              ],
+              "e": "hot 双写 t 加 -er。",
+              "s": "The Sahara is hotter than the Taklimakan Desert."
+            },
+            {
+              "t": "order",
+              "w": [
+                "the",
+                "is",
+                "highest",
+                "Qomolangma",
+                "mountain",
+                "Mount",
+                "world",
+                "the",
+                "in"
+              ],
+              "a": "Mount Qomolangma is the highest mountain in the world.",
+              "e": "the + 最高级 + 名词 + in the world。",
+              "s": "Mount Qomolangma is the highest mountain in the world."
+            }
+          ]
+        },
+        {
+          "id": "8b-u4-numbers",
+          "cat": "grammar",
+          "kp": "数词",
+          "title": "大数字与 How + 形容词",
+          "explain": "大数字从右往左每三位一个逗号：thousand（千）、million（百万）、billion（十亿）\n8,849 → eight thousand, eight hundred and forty-nine\n具体数字前 hundred / thousand / million 不加 -s：two million people；表示「成千上万」时加 -s 和 of：thousands of tourists\n问高度、长度、深度：How high / long / deep / big is …?",
+          "examples": [
+            {
+              "en": "Mount Qomolangma is one of the greatest wonders of the world, and it is still growing taller.",
+              "zh": "珠穆朗玛峰是世界上最伟大的奇观之一，而且它还在长高。"
+            },
+            {
+              "en": "That is bigger than the country of Belgium!",
+              "zh": "那比比利时这个国家还要大！"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "There are about five ______ people in the city.",
+              "o": [
+                "million",
+                "millions",
+                "millions of",
+                "million of"
+              ],
+              "a": 0,
+              "e": "具体数字 + million，不加 -s 和 of。",
+              "s": "There are about five million people in the city."
+            },
+            {
+              "t": "choice",
+              "q": "______ tourists visit the Great Wall every year.",
+              "o": [
+                "Thousand of",
+                "Thousands of",
+                "Thousands",
+                "Thousand"
+              ],
+              "a": 1,
+              "e": "表示「成千上万的」：thousands of。",
+              "s": "Thousands of tourists visit the Great Wall every year."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ is the Yangtze River?\n— It's about 6,300 kilometres long.",
+              "o": [
+                "How high",
+                "How long",
+                "How deep",
+                "How big"
+              ],
+              "a": 1,
+              "e": "问长度用 How long。",
+              "s": "— How long is the Yangtze River?\n— It's about 6,300 kilometres long."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ is Lake Baikal?\n— It's about 1,642 metres deep.",
+              "o": [
+                "How long",
+                "How deep",
+                "How far",
+                "How wide"
+              ],
+              "a": 1,
+              "e": "问深度用 How deep。",
+              "s": "— How deep is Lake Baikal?\n— It's about 1,642 metres deep."
+            },
+            {
+              "t": "fill",
+              "q": "The mountain is 8,849 metres ______ (高).",
+              "a": [
+                "high",
+                "tall"
+              ],
+              "e": "数字 + metres high 有……高。",
+              "s": "The mountain is 8,849 metres high."
+            },
+            {
+              "t": "fill",
+              "q": "Two ______ (hundred) students took part in the race.",
+              "a": [
+                "hundred"
+              ],
+              "e": "具体数字后 hundred 不加 -s。",
+              "s": "Two hundred students took part in the race."
+            }
+          ]
+        },
+        {
+          "id": "8b-u4-nature",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "介绍自然奇观",
+          "explain": "描述位置：It is located in … / It lies in the north of …\n描述特点：It is … metres high / long / deep. / It is famous for …\n发出号召：Come and visit … / We should protect it at all costs.",
+          "examples": [
+            {
+              "en": "Located on the northeastern coast of Australia, the Great Barrier Reef is one of the most amazing places to visit.",
+              "zh": "大堡礁位于澳大利亚东北海岸，是最令人惊叹的旅游胜地之一。"
+            },
+            {
+              "en": "We should protect them at all costs.",
+              "zh": "我们应该不惜一切代价保护它们。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "Qinghai Lake is ______ in the northeast of the Qinghai-Tibet Plateau.",
+              "o": [
+                "locate",
+                "located",
+                "locating",
+                "location"
+              ],
+              "a": 1,
+              "e": "be located in 位于。",
+              "s": "Qinghai Lake is located in the northeast of the Qinghai-Tibet Plateau."
+            },
+            {
+              "t": "choice",
+              "q": "Huangshan is famous ______ its beautiful pine trees.",
+              "o": [
+                "as",
+                "for",
+                "with",
+                "to"
+              ],
+              "a": 1,
+              "e": "be famous for 因……而著名。",
+              "s": "Huangshan is famous for its beautiful pine trees."
+            },
+            {
+              "t": "choice",
+              "q": "We should protect nature ______ all costs.",
+              "o": [
+                "in",
+                "on",
+                "at",
+                "for"
+              ],
+              "a": 2,
+              "e": "at all costs 不惜一切代价。",
+              "s": "We should protect nature at all costs."
+            },
+            {
+              "t": "fill",
+              "q": "The lake still ______ (吸引) many curious travellers.",
+              "a": [
+                "attracts"
+              ],
+              "e": "主语三单，attract 加 -s。",
+              "s": "The lake still attracts many curious travellers."
+            },
+            {
+              "t": "order",
+              "w": [
+                "famous",
+                "is",
+                "its",
+                "for",
+                "Guilin",
+                "scenery"
+              ],
+              "a": "Guilin is famous for its scenery.",
+              "e": "be famous for 因……而著名。",
+              "s": "Guilin is famous for its scenery."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-5",
+      "points": [
+        {
+          "id": "8b-u5-past-continuous",
+          "cat": "grammar",
+          "kp": "过去进行时",
+          "title": "过去进行时：when / while",
+          "explain": "表示过去某一时刻或某段时间正在进行的动作：was / were + 动词-ing。\n常和 at 8 p.m. yesterday, at that time, this time yesterday 连用：What were you doing at 8 o'clock last night?\nwhen：后面常接短暂动作（一般过去时），主句用过去进行时：I was reading when the earthquake happened.\nwhile：后面常接持续动作（过去进行时）：While I was waiting for the bus, it started to rain.",
+          "examples": [
+            {
+              "en": "When the typhoon hit, my family were having dinner at home.",
+              "zh": "台风来袭时，我家正在吃晚饭。"
+            },
+            {
+              "en": "I was doing my homework when the building shook all of a sudden.",
+              "zh": "我正在写作业，突然楼晃了起来。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— What ______ you doing at 9 o'clock last night?\n— I was reading a book.",
+              "o": [
+                "are",
+                "were",
+                "did",
+                "was"
+              ],
+              "a": 1,
+              "e": "答语是过去进行时，问句用 were you doing。",
+              "s": "— What were you doing at 9 o'clock last night?\n— I was reading a book."
+            },
+            {
+              "t": "choice",
+              "q": "I ______ a shower when the phone rang.",
+              "o": [
+                "take",
+                "took",
+                "was taking",
+                "am taking"
+              ],
+              "a": 2,
+              "e": "电话响时我「正在」洗澡，用过去进行时。",
+              "s": "I was taking a shower when the phone rang."
+            },
+            {
+              "t": "choice",
+              "q": "______ my mum was cooking, I was cleaning the room.",
+              "o": [
+                "While",
+                "Until",
+                "Because",
+                "Although"
+              ],
+              "a": 0,
+              "e": "两个动作同时持续进行，用 while。",
+              "s": "While my mum was cooking, I was cleaning the room."
+            },
+            {
+              "t": "choice",
+              "q": "They were playing football ______ it began to rain.",
+              "o": [
+                "while",
+                "when",
+                "until",
+                "so that"
+              ],
+              "a": 1,
+              "e": "began to rain 是短暂动作，用 when。",
+              "s": "They were playing football when it began to rain."
+            },
+            {
+              "t": "choice",
+              "q": "— Did you see the earthquake news?\n— Yes. I ______ TV at that time.",
+              "o": [
+                "watch",
+                "watched",
+                "was watching",
+                "am watching"
+              ],
+              "a": 2,
+              "e": "at that time「那时正在」，用过去进行时。",
+              "s": "— Did you see the earthquake news?\n— Yes. I was watching TV at that time."
+            },
+            {
+              "t": "fill",
+              "q": "This time yesterday, we ______ (climb) the mountain.",
+              "a": [
+                "were climbing"
+              ],
+              "e": "this time yesterday 昨天这个时候，主语 we 用 were climbing。",
+              "s": "This time yesterday, we were climbing the mountain."
+            },
+            {
+              "t": "order",
+              "w": [
+                "was",
+                "she",
+                "when",
+                "sleeping",
+                "arrived",
+                "I"
+              ],
+              "a": "She was sleeping when I arrived.",
+              "e": "主句过去进行时 + when + 一般过去时。",
+              "s": "She was sleeping when I arrived."
+            }
+          ]
+        },
+        {
+          "id": "8b-u5-disaster",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "谈自然灾害经历",
+          "explain": "问经历：What were you doing when the typhoon hit? / Did your family have any trouble?\n描述：The wind was blowing hard. / The rain was beating against the window.\n准备：We should prepare food, water, and a torch. / Stay away from windows.",
+          "examples": [
+            {
+              "en": "Did your family have any trouble during the typhoon?",
+              "zh": "台风期间你家遇到什么麻烦了吗？"
+            },
+            {
+              "en": "We were so thankful that they found us!",
+              "zh": "他们找到了我们，我们真是太感激了！"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— What were you doing ______ the rainstorm came?\n— I was walking home.",
+              "o": [
+                "while",
+                "when",
+                "after",
+                "until"
+              ],
+              "a": 1,
+              "e": "the rainstorm came 是短暂动作，用 when。",
+              "s": "— What were you doing when the rainstorm came?\n— I was walking home."
+            },
+            {
+              "t": "choice",
+              "q": "All ______ a sudden, thunder rolled across the sky.",
+              "o": [
+                "at",
+                "in",
+                "of",
+                "on"
+              ],
+              "a": 2,
+              "e": "all of a sudden 突然。",
+              "s": "All of a sudden, thunder rolled across the sky."
+            },
+            {
+              "t": "choice",
+              "q": "By the time the bus came, I ______ cold and wet.",
+              "o": [
+                "am",
+                "was",
+                "were",
+                "be"
+              ],
+              "a": 1,
+              "e": "讲过去的事，主语 I 用 was。",
+              "s": "By the time the bus came, I was cold and wet."
+            },
+            {
+              "t": "fill",
+              "q": "When we finally got home, we were out of ______ (呼吸).",
+              "a": [
+                "breath"
+              ],
+              "e": "out of breath 上气不接下气。",
+              "s": "When we finally got home, we were out of breath."
+            },
+            {
+              "t": "order",
+              "w": [
+                "did",
+                "trouble",
+                "have",
+                "any",
+                "you",
+                "?"
+              ],
+              "a": "Did you have any trouble?",
+              "e": "一般疑问句里用 any。",
+              "s": "Did you have any trouble?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-6",
+      "points": [
+        {
+          "id": "8b-u6-so-that",
+          "cat": "grammar",
+          "kp": "连词",
+          "title": "so … that / unless / as soon as",
+          "explain": "so + 形容词 / 副词 + that：如此……以至于：The tea was so hot that I couldn't drink it.\nunless 除非、如果不（= if … not）：You'll be late unless you hurry.\nas soon as 一……就……：In Japan, we bow as soon as we meet a teacher.\nunless 和 as soon as 引导的从句里，用一般现在时表示将来（主将从现）。",
+          "examples": [
+            {
+              "en": "But English table manners are so confusing that I'm a little worried.",
+              "zh": "但英国的餐桌礼仪太令人困惑了，我有点担心。"
+            },
+            {
+              "en": "In Japan, we bow as soon as we meet a teacher.",
+              "zh": "在日本，我们一见到老师就鞠躬。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "The box is ______ heavy ______ I can't carry it.",
+              "o": [
+                "too; to",
+                "so; that",
+                "such; that",
+                "very; that"
+              ],
+              "a": 1,
+              "e": "so + 形容词 + that 如此……以至于。",
+              "s": "The box is so heavy that I can't carry it."
+            },
+            {
+              "t": "choice",
+              "q": "You won't pass the exam ______ you work harder.",
+              "o": [
+                "if",
+                "unless",
+                "because",
+                "so that"
+              ],
+              "a": 1,
+              "e": "「除非你更努力，否则考不过」，用 unless。",
+              "s": "You won't pass the exam unless you work harder."
+            },
+            {
+              "t": "choice",
+              "q": "I'll call you as soon as I ______ in Paris.",
+              "o": [
+                "arrive",
+                "will arrive",
+                "arrived",
+                "arriving"
+              ],
+              "a": 0,
+              "e": "as soon as 引导的从句用一般现在时表将来。",
+              "s": "I'll call you as soon as I arrive in Paris."
+            },
+            {
+              "t": "choice",
+              "q": "Don't take photos ______ people say it's OK.",
+              "o": [
+                "unless",
+                "so that",
+                "because",
+                "although"
+              ],
+              "a": 0,
+              "e": "「除非别人同意，否则别拍照」。",
+              "s": "Don't take photos unless people say it's OK."
+            },
+            {
+              "t": "choice",
+              "q": "She spoke so fast ______ nobody understood her.",
+              "o": [
+                "that",
+                "so",
+                "as",
+                "when"
+              ],
+              "a": 0,
+              "e": "so … that 结构。",
+              "s": "She spoke so fast that nobody understood her."
+            },
+            {
+              "t": "fill",
+              "q": "I'll tell her the news as ______ as she comes back.",
+              "a": [
+                "soon"
+              ],
+              "e": "as soon as 一……就……",
+              "s": "I'll tell her the news as soon as she comes back."
+            },
+            {
+              "t": "order",
+              "w": [
+                "was",
+                "so",
+                "it",
+                "that",
+                "we",
+                "cold",
+                "stayed",
+                "in"
+              ],
+              "a": "It was so cold that we stayed in.",
+              "e": "so + 形容词 + that + 句子。",
+              "s": "It was so cold that we stayed in."
+            }
+          ]
+        },
+        {
+          "id": "8b-u6-manners",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "谈习俗与礼仪",
+          "explain": "问习俗：What should I do when …? / Is it polite to …? / What are the table manners in …?\n说规矩：You're supposed to … / It's rude to … / You shouldn't …\n回应：Thanks for the advice. / That's so different from …",
+          "examples": [
+            {
+              "en": "Could you give me some advice on table manners?",
+              "zh": "你能给我一些关于餐桌礼仪的建议吗？"
+            },
+            {
+              "en": "It's also rude to talk while your mouth is full.",
+              "zh": "嘴里塞满东西说话也是不礼貌的。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "In China, it's ______ to stick your chopsticks into your rice.",
+              "o": [
+                "polite",
+                "rude",
+                "kind",
+                "proper"
+              ],
+              "a": 1,
+              "e": "把筷子插在饭里是不礼貌的。",
+              "s": "In China, it's rude to stick your chopsticks into your rice."
+            },
+            {
+              "t": "choice",
+              "q": "In the US, people usually shake ______ when they meet.",
+              "o": [
+                "hand",
+                "hands",
+                "head",
+                "heads"
+              ],
+              "a": 1,
+              "e": "shake hands 握手。",
+              "s": "In the US, people usually shake hands when they meet."
+            },
+            {
+              "t": "choice",
+              "q": "Keep your elbows ______ the table.",
+              "o": [
+                "on",
+                "off",
+                "in",
+                "at"
+              ],
+              "a": 1,
+              "e": "keep … off 使避开。",
+              "s": "Keep your elbows off the table."
+            },
+            {
+              "t": "fill",
+              "q": "In many places, it's important to dress for the ______ (场合).",
+              "a": [
+                "occasion"
+              ],
+              "e": "dress for the occasion 根据场合穿着。",
+              "s": "In many places, it's important to dress for the occasion."
+            },
+            {
+              "t": "order",
+              "w": [
+                "to",
+                "it's",
+                "talk",
+                "rude",
+                "loudly"
+              ],
+              "a": "It's rude to talk loudly.",
+              "e": "It's + 形容词 + to do。",
+              "s": "It's rude to talk loudly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-7",
+      "points": [
+        {
+          "id": "8b-u7-present-perfect",
+          "cat": "grammar",
+          "kp": "现在完成时",
+          "title": "现在完成时（一）：already / yet / ever / never / just",
+          "explain": "have / has + 过去分词，表示过去发生的动作对现在有影响，或到现在为止的经历。\nalready 已经（肯定句）：I have already finished the book.\nyet 还、已经（否定句和疑问句，放句末）：Have you read it yet? / I haven't read it yet.\never 曾经（疑问句）、never 从未：Have you ever read Treasure Island? — No, I've never read it.\njust 刚刚：He has just come back.",
+          "examples": [
+            {
+              "en": "I've just finished Alice's Adventures in Wonderland by Lewis Carroll.",
+              "zh": "我刚读完刘易斯·卡罗尔的《爱丽丝梦游仙境》。"
+            },
+            {
+              "en": "Have you decided on a book for your report?",
+              "zh": "你决定好读书报告写哪本书了吗？"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— Have you ever ______ The Little Prince?\n— Yes, I have.",
+              "o": [
+                "read",
+                "reading",
+                "reads",
+                "to read"
+              ],
+              "a": 0,
+              "e": "现在完成时 have + 过去分词，read 的过去分词还是 read。",
+              "s": "— Have you ever read The Little Prince?\n— Yes, I have."
+            },
+            {
+              "t": "choice",
+              "q": "I haven't finished my homework ______.",
+              "o": [
+                "already",
+                "yet",
+                "ever",
+                "just"
+              ],
+              "a": 1,
+              "e": "否定句末用 yet。",
+              "s": "I haven't finished my homework yet."
+            },
+            {
+              "t": "choice",
+              "q": "She ______ been to Beijing. She wants to go there one day.",
+              "o": [
+                "has",
+                "has never",
+                "had",
+                "is never"
+              ],
+              "a": 1,
+              "e": "「想有一天去」，说明从没去过：has never been。",
+              "s": "She has never been to Beijing. She wants to go there one day."
+            },
+            {
+              "t": "choice",
+              "q": "— Have you cleaned your room yet?\n— Yes, I've ______ cleaned it.",
+              "o": [
+                "yet",
+                "ever",
+                "already",
+                "never"
+              ],
+              "a": 2,
+              "e": "肯定句用 already。",
+              "s": "— Have you cleaned your room yet?\n— Yes, I've already cleaned it."
+            },
+            {
+              "t": "choice",
+              "q": "Tom ______ the book three times.",
+              "o": [
+                "reads",
+                "has read",
+                "is reading",
+                "have read"
+              ],
+              "a": 1,
+              "e": "到现在为止读过三遍，用现在完成时，主语三单 has。",
+              "s": "Tom has read the book three times."
+            },
+            {
+              "t": "fill",
+              "q": "He has just ______ (come) back from the library.",
+              "a": [
+                "come"
+              ],
+              "e": "come 的过去分词是 come。",
+              "s": "He has just come back from the library."
+            },
+            {
+              "t": "fill",
+              "q": "Have you ______ (see) the film Ne Zha?",
+              "a": [
+                "seen"
+              ],
+              "e": "see 的过去分词是 seen。",
+              "s": "Have you seen the film Ne Zha?"
+            },
+            {
+              "t": "order",
+              "w": [
+                "you",
+                "have",
+                "read",
+                "ever",
+                "Oliver Twist",
+                "?"
+              ],
+              "a": "Have you ever read Oliver Twist?",
+              "e": "Have you ever + 过去分词？",
+              "s": "Have you ever read Oliver Twist?"
+            }
+          ]
+        },
+        {
+          "id": "8b-u7-books",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "谈论读过的书",
+          "explain": "问书：What have you read recently? / What's it about? / Who wrote it?\n说内容：It's a fantasy / mystery / adventure story about … / The main character is …\n说感受：It taught me not to give up. / I highly recommend it.",
+          "examples": [
+            {
+              "en": "What have you read recently?",
+              "zh": "你最近读了什么书？"
+            },
+            {
+              "en": "This book has taught me not to give up or doubt myself.",
+              "zh": "这本书教会了我不要放弃，也不要怀疑自己。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— What's the book ______?\n— It's about a boy and his adventures.",
+              "o": [
+                "for",
+                "about",
+                "with",
+                "of"
+              ],
+              "a": 1,
+              "e": "What's it about? 问内容。",
+              "s": "— What's the book about?\n— It's about a boy and his adventures."
+            },
+            {
+              "t": "choice",
+              "q": "— Who ______ Journey to the West?\n— Wu Cheng'en.",
+              "o": [
+                "writes",
+                "wrote",
+                "has written",
+                "write"
+              ],
+              "a": 1,
+              "e": "问过去写的书，用一般过去时 wrote。",
+              "s": "— Who wrote Journey to the West?\n— Wu Cheng'en."
+            },
+            {
+              "t": "choice",
+              "q": "Sherlock Holmes is a famous ______.",
+              "o": [
+                "detective",
+                "scientist",
+                "soldier",
+                "farmer"
+              ],
+              "a": 0,
+              "e": "福尔摩斯是著名侦探。",
+              "s": "Sherlock Holmes is a famous detective."
+            },
+            {
+              "t": "fill",
+              "q": "I highly ______ (推荐) this book to you.",
+              "a": [
+                "recommend"
+              ],
+              "e": "recommend 推荐。",
+              "s": "I highly recommend this book to you."
+            },
+            {
+              "t": "order",
+              "w": [
+                "main",
+                "the",
+                "a",
+                "character",
+                "is",
+                "fisherman"
+              ],
+              "a": "The main character is a fisherman.",
+              "e": "the main character 主人公。",
+              "s": "The main character is a fisherman."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-8",
+      "points": [
+        {
+          "id": "8b-u8-since-for",
+          "cat": "grammar",
+          "kp": "现在完成时",
+          "title": "现在完成时（二）：since / for",
+          "explain": "表示从过去开始、一直持续到现在的动作或状态。\nfor + 一段时间：for three years, for a long time\nsince + 过去的时间点 / 从句：since 2020, since last August, since I was ten\n问「多久了」用 How long：How long have you been a volunteer? — For two years.\n短暂动词（buy, join, die…）不能和一段时间连用，要换成延续性的：join → be in / be a member of，buy → have，die → be dead",
+          "examples": [
+            {
+              "en": "I have been a volunteer here for a few months.",
+              "zh": "我在这里做志愿者已经几个月了。"
+            },
+            {
+              "en": "She has been a volunteer at a nursing home since last August.",
+              "zh": "从去年八月起，她一直在一家养老院做志愿者。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "I have lived in Zhengzhou ______ 2018.",
+              "o": [
+                "for",
+                "since",
+                "in",
+                "ago"
+              ],
+              "a": 1,
+              "e": "2018 是时间点，用 since。",
+              "s": "I have lived in Zhengzhou since 2018."
+            },
+            {
+              "t": "choice",
+              "q": "He has been a volunteer ______ two years.",
+              "o": [
+                "for",
+                "since",
+                "ago",
+                "before"
+              ],
+              "a": 0,
+              "e": "two years 是一段时间，用 for。",
+              "s": "He has been a volunteer for two years."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ have you had this bike?\n— For three years.",
+              "o": [
+                "How often",
+                "How long",
+                "How much",
+                "When"
+              ],
+              "a": 1,
+              "e": "问持续多久用 How long。",
+              "s": "— How long have you had this bike?\n— For three years."
+            },
+            {
+              "t": "choice",
+              "q": "My grandpa ______ the club since he retired.",
+              "o": [
+                "joined",
+                "has joined",
+                "has been in",
+                "was in"
+              ],
+              "a": 2,
+              "e": "join 是短暂动词，不能和 since 连用，改为 has been in。",
+              "s": "My grandpa has been in the club since he retired."
+            },
+            {
+              "t": "choice",
+              "q": "She ______ English since she was six.",
+              "o": [
+                "learns",
+                "learned",
+                "has learned",
+                "is learning"
+              ],
+              "a": 2,
+              "e": "since + 过去时间，主句用现在完成时。",
+              "s": "She has learned English since she was six."
+            },
+            {
+              "t": "fill",
+              "q": "They have known each other ______ ten years.",
+              "a": [
+                "for"
+              ],
+              "e": "ten years 是一段时间，用 for。",
+              "s": "They have known each other for ten years."
+            },
+            {
+              "t": "fill",
+              "q": "I have ______ (be) a member of the club since last term.",
+              "a": [
+                "been"
+              ],
+              "e": "be 的过去分词是 been。",
+              "s": "I have been a member of the club since last term."
+            },
+            {
+              "t": "order",
+              "w": [
+                "long",
+                "how",
+                "you",
+                "have",
+                "volunteered",
+                "?"
+              ],
+              "a": "How long have you volunteered?",
+              "e": "How long + have + 主语 + 过去分词？",
+              "s": "How long have you volunteered?"
+            }
+          ]
+        },
+        {
+          "id": "8b-u8-volunteer",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "谈志愿服务",
+          "explain": "问经历：How long have you been a volunteer? / What do you do there? / What inspired you to volunteer?\n说做法：I help out at … / I read to the elderly / I clean the cages.\n说收获：It has taught me … / It makes me feel useful. / It's worth it.",
+          "examples": [
+            {
+              "en": "Most of all, being a volunteer has taught me the value of every life.",
+              "zh": "最重要的是，做志愿者让我懂得了每个生命的价值。"
+            },
+            {
+              "en": "And that makes everything we do worth it.",
+              "zh": "这让我们做的一切都值得。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "What ______ you to volunteer at the animal shelter?",
+              "o": [
+                "inspired",
+                "inspiring",
+                "inspire",
+                "to inspire"
+              ],
+              "a": 0,
+              "e": "过去激励了你，用 inspired。",
+              "s": "What inspired you to volunteer at the animal shelter?"
+            },
+            {
+              "t": "choice",
+              "q": "I often help ______ at the nursing home on weekends.",
+              "o": [
+                "up",
+                "out",
+                "off",
+                "on"
+              ],
+              "a": 1,
+              "e": "help out 帮忙。",
+              "s": "I often help out at the nursing home on weekends."
+            },
+            {
+              "t": "choice",
+              "q": "We should help people ______ need.",
+              "o": [
+                "at",
+                "on",
+                "in",
+                "with"
+              ],
+              "a": 2,
+              "e": "people in need 需要帮助的人。",
+              "s": "We should help people in need."
+            },
+            {
+              "t": "fill",
+              "q": "Hard work is ______ (值得) it.",
+              "a": [
+                "worth"
+              ],
+              "e": "be worth it 值得。",
+              "s": "Hard work is worth it."
+            },
+            {
+              "t": "order",
+              "w": [
+                "has",
+                "volunteering",
+                "taught",
+                "lot",
+                "me",
+                "a"
+              ],
+              "a": "Volunteering has taught me a lot.",
+              "e": "现在完成时：has taught。",
+              "s": "Volunteering has taught me a lot."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

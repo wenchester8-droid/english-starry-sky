@@ -1,0 +1,2429 @@
+{
+  "book": "8a",
+  "cats": [
+    {
+      "id": "grammar",
+      "name": "语法",
+      "desc": "不定代词、一般过去时、比较级、最高级、感叹句、be going to、一般将来时、if 条件句……"
+    },
+    {
+      "id": "sentence",
+      "name": "句型与交际",
+      "desc": "谈假期、礼貌请求、做菜步骤、谈理想、预测未来等课本重点句型"
+    }
+  ],
+  "units": [
+    {
+      "unit": "unit-1",
+      "points": [
+        {
+          "id": "8a-u1-indefinite",
+          "cat": "grammar",
+          "kp": "不定代词",
+          "title": "不定代词 something / anything / nothing …",
+          "explain": "some- 用于肯定句：someone, something, somewhere\nany- 用于否定句和疑问句：anyone, anything, anywhere\nno- 表示「没有」：no one, nothing, nowhere（本身是否定，句子不再用 not）\nevery- 表示「每个、所有」：everyone, everything, everywhere\n① 不定代词作主语，谓语动词用单数：Everyone is here.\n② 形容词放在不定代词后面：something interesting, nothing special\n③ 表示请求、希望对方肯定回答的疑问句里用 some-：Would you like something to drink?",
+          "examples": [
+            {
+              "en": "Did you go anywhere interesting?",
+              "zh": "你去了什么有趣的地方吗？"
+            },
+            {
+              "en": "Like everyone else, I was ready to go on a holiday somewhere.",
+              "zh": "和其他人一样，我也准备去某个地方度假。"
+            },
+            {
+              "en": "They do nothing but relax, sleep, or watch TV.",
+              "zh": "他们只是放松、睡觉或者看电视。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— Did you go ______ interesting last summer?\n— Yes, I went to Mount Huangshan.",
+              "o": [
+                "anywhere",
+                "somewhere",
+                "nowhere",
+                "everywhere"
+              ],
+              "a": 0,
+              "e": "一般疑问句里表示「某个地方」用 anywhere。",
+              "s": "— Did you go anywhere interesting last summer?\n— Yes, I went to Mount Huangshan."
+            },
+            {
+              "t": "choice",
+              "q": "I was hungry, but there was ______ in the fridge.",
+              "o": [
+                "something",
+                "anything",
+                "nothing",
+                "everything"
+              ],
+              "a": 2,
+              "e": "「冰箱里什么也没有」，句中没有 not，用 nothing。",
+              "s": "I was hungry, but there was nothing in the fridge."
+            },
+            {
+              "t": "choice",
+              "q": "______ in our class likes the new English teacher.",
+              "o": [
+                "Everyone",
+                "No one",
+                "Anyone",
+                "Nothing"
+              ],
+              "a": 0,
+              "e": "「我们班每个人都喜欢新英语老师」，everyone 作主语，谓语用单数 likes。",
+              "s": "Everyone in our class likes the new English teacher."
+            },
+            {
+              "t": "choice",
+              "q": "— Is there ______ in today's newspaper?\n— No, nothing much.",
+              "o": [
+                "something new",
+                "anything new",
+                "new something",
+                "new anything"
+              ],
+              "a": 1,
+              "e": "疑问句用 anything；形容词修饰不定代词要后置：anything new。",
+              "s": "— Is there anything new in today's newspaper?\n— No, nothing much."
+            },
+            {
+              "t": "choice",
+              "q": "— Would you like ______ to drink?\n— Yes, a cup of tea, please.",
+              "o": [
+                "anything",
+                "nothing",
+                "something",
+                "everything"
+              ],
+              "a": 2,
+              "e": "表示请求、希望对方回答 yes 的疑问句里用 something。",
+              "s": "— Would you like something to drink?\n— Yes, a cup of tea, please."
+            },
+            {
+              "t": "choice",
+              "q": "The room was very quiet. There was ______ in it.",
+              "o": [
+                "someone",
+                "no one",
+                "everyone",
+                "anyone"
+              ],
+              "a": 1,
+              "e": "房间很安静，里面「没有人」，用 no one。",
+              "s": "The room was very quiet. There was no one in it."
+            },
+            {
+              "t": "fill",
+              "q": "I looked for my key ______ (到处), but I couldn't find it.",
+              "a": [
+                "everywhere"
+              ],
+              "e": "everywhere 到处、所有地方。",
+              "s": "I looked for my key everywhere, but I couldn't find it."
+            },
+            {
+              "t": "order",
+              "w": [
+                "special",
+                "didn't",
+                "I",
+                "anything",
+                "do"
+              ],
+              "a": "I didn't do anything special.",
+              "e": "否定句用 anything；形容词 special 放在 anything 后面。",
+              "s": "I didn't do anything special."
+            }
+          ]
+        },
+        {
+          "id": "8a-u1-past",
+          "cat": "grammar",
+          "kp": "一般过去时",
+          "title": "一般过去时：谈论假期经历",
+          "explain": "表示过去发生的动作或状态，常和 yesterday, last week, ago, in 2025 等连用。\n① be 动词：am / is → was，are → were\n② 规则动词加 -ed：visit → visited，stay → stayed，study → studied，stop → stopped\n③ 不规则动词要单独记：go → went，see → saw，take → took，eat → ate，buy → bought，feel → felt\n④ 否定句和疑问句借助 did，后面动词用原形：I didn't go anywhere. / Did you go anywhere?\n问经历：How was your holiday? — It was fantastic!",
+          "examples": [
+            {
+              "en": "How was your vacation?",
+              "zh": "你的假期过得怎么样？"
+            },
+            {
+              "en": "We stayed in the old town for a few days.",
+              "zh": "我们在古城住了几天。"
+            },
+            {
+              "en": "Did you go anywhere interesting?",
+              "zh": "你去了什么有趣的地方吗？"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— Where ______ you go on vacation?\n— I went to Lijiang with my family.",
+              "o": [
+                "do",
+                "did",
+                "are",
+                "were"
+              ],
+              "a": 1,
+              "e": "答句 went 是过去时，问句用 did 提问。",
+              "s": "— Where did you go on vacation?\n— I went to Lijiang with my family."
+            },
+            {
+              "t": "choice",
+              "q": "— How ______ your trip to Hangzhou?\n— It was fantastic!",
+              "o": [
+                "is",
+                "was",
+                "were",
+                "did"
+              ],
+              "a": 1,
+              "e": "问过去的旅行怎么样：How was …? 主语 your trip 是单数，用 was。",
+              "s": "— How was your trip to Hangzhou?\n— It was fantastic!"
+            },
+            {
+              "t": "choice",
+              "q": "We ______ the Palace Museum last Sunday.",
+              "o": [
+                "visit",
+                "visits",
+                "visited",
+                "are visiting"
+              ],
+              "a": 2,
+              "e": "last Sunday 是过去的时间，用过去式 visited。",
+              "s": "We visited the Palace Museum last Sunday."
+            },
+            {
+              "t": "choice",
+              "q": "— Did you buy anything for your parents?\n— ______. I bought a silk scarf for my mum.",
+              "o": [
+                "Yes, I do",
+                "No, I didn't",
+                "Yes, I did",
+                "No, I don't"
+              ],
+              "a": 2,
+              "e": "Did 开头的问句用 did 回答；后面说买了丝巾，所以是肯定回答。",
+              "s": "— Did you buy anything for your parents?\n— Yes, I did. I bought a silk scarf for my mum."
+            },
+            {
+              "t": "fill",
+              "q": "I ______ (feel) sick after walking in the rain for too long.",
+              "a": [
+                "felt"
+              ],
+              "e": "feel 的过去式是不规则的 felt。",
+              "s": "I felt sick after walking in the rain for too long."
+            },
+            {
+              "t": "fill",
+              "q": "My uncle ______ (tell) us some jokes during the dinner.",
+              "a": [
+                "told"
+              ],
+              "e": "tell 的过去式是 told。",
+              "s": "My uncle told us some jokes during the dinner."
+            },
+            {
+              "t": "fill",
+              "q": "They ______ (not go) anywhere because of the heavy rain.",
+              "a": [
+                "didn't go",
+                "did not go"
+              ],
+              "e": "过去时的否定：didn't + 动词原形。",
+              "s": "They didn't go anywhere because of the heavy rain."
+            },
+            {
+              "t": "order",
+              "w": [
+                "your",
+                "How",
+                "was",
+                "holiday"
+              ],
+              "a": "How was your holiday?",
+              "e": "How was …? 用来问过去的事情怎么样。",
+              "s": "How was your holiday?"
+            }
+          ]
+        },
+        {
+          "id": "8a-u1-feelings",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "谈论假期感受",
+          "explain": "问感受：How was …? / How did you like …? / How did you feel?\n说感受：It was fantastic / amazing / relaxing / boring.\nI felt bored / surprised / excited.\n-ed 形容词说人的感受（I was bored.），-ing 形容词说事物的特点（The trip was boring.）。\n夸景色：It just took my breath away. / The scenery was so beautiful.",
+          "examples": [
+            {
+              "en": "I'm on vacation in Hangzhou and everything is fantastic.",
+              "zh": "我正在杭州度假，一切都棒极了。"
+            },
+            {
+              "en": "It just took my breath away.",
+              "zh": "它真是令我惊叹。"
+            },
+            {
+              "en": "I turned around and was surprised to see a deer.",
+              "zh": "我转过身，惊讶地看到一只鹿。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "I stayed at home all day and felt ______.",
+              "o": [
+                "bored",
+                "boring",
+                "relaxing",
+                "interest"
+              ],
+              "a": 0,
+              "e": "说人的感受用 -ed 形容词：felt bored。",
+              "s": "I stayed at home all day and felt bored."
+            },
+            {
+              "t": "choice",
+              "q": "The film was so ______ that I fell asleep.",
+              "o": [
+                "bored",
+                "boring",
+                "excited",
+                "surprised"
+              ],
+              "a": 1,
+              "e": "说事物的特点用 -ing 形容词：The film was boring.",
+              "s": "The film was so boring that I fell asleep."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ was your trip to Yunnan?\n— It was great. Everything tasted good.",
+              "o": [
+                "What",
+                "Where",
+                "How",
+                "When"
+              ],
+              "a": 2,
+              "e": "问旅行怎么样用 How。",
+              "s": "— How was your trip to Yunnan?\n— It was great. Everything tasted good."
+            },
+            {
+              "t": "choice",
+              "q": "— I went to Mount Tai and saw the sunrise.\n— ______",
+              "o": [
+                "That's too bad.",
+                "Sounds great!",
+                "You're welcome.",
+                "Never mind."
+              ],
+              "a": 1,
+              "e": "对方说了美好的经历，回应 Sounds great!",
+              "s": "— I went to Mount Tai and saw the sunrise.\n— Sounds great!"
+            },
+            {
+              "t": "fill",
+              "q": "We were ______ (surprise) to see so many deer in the park.",
+              "a": [
+                "surprised"
+              ],
+              "e": "be surprised to do sth 惊讶地做某事，说人用 -ed。",
+              "s": "We were surprised to see so many deer in the park."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-2",
+      "points": [
+        {
+          "id": "8a-u2-requests",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "礼貌地提出请求",
+          "explain": "请别人做事：Could you please + 动词原形 …? / Can you …?\n肯定回答：Sure. / Of course. / No problem.\n否定回答（说明理由）：Sorry, I can't. I have to … / I'm afraid I can't …\nCould 比 Can 更礼貌，回答时用 can，不用 could。\nCould you please not … ? 请你别……好吗？",
+          "examples": [
+            {
+              "en": "Now, could you please help me hang up the photos?",
+              "zh": "现在，你能帮我把照片挂起来吗？"
+            },
+            {
+              "en": "Dad, could you please give me a lift to the shop this afternoon?",
+              "zh": "爸爸，今天下午你能开车顺路送我去商店吗？"
+            },
+            {
+              "en": "Can you sort your things into those boxes?",
+              "zh": "你能把你的东西分类放进那些箱子里吗？"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— Could you please ______ the dishes?\n— Sure, Mum.",
+              "o": [
+                "do",
+                "to do",
+                "doing",
+                "does"
+              ],
+              "a": 0,
+              "e": "Could you please 后面接动词原形。",
+              "s": "— Could you please do the dishes?\n— Sure, Mum."
+            },
+            {
+              "t": "choice",
+              "q": "— Could you please clean your room?\n— ______ I'm going to do it right now.",
+              "o": [
+                "Sorry, I can't.",
+                "No problem.",
+                "Yes, I could.",
+                "I don't think so."
+              ],
+              "a": 1,
+              "e": "后面说马上去做，是同意：No problem.",
+              "s": "— Could you please clean your room?\n— No problem. I'm going to do it right now."
+            },
+            {
+              "t": "choice",
+              "q": "— Could you take out the rubbish?\n— ______. I have to finish my homework first.",
+              "o": [
+                "Sure",
+                "Of course",
+                "Sorry, I can't",
+                "Yes, please"
+              ],
+              "a": 2,
+              "e": "后面说要先完成作业，是拒绝并说明理由。",
+              "s": "— Could you take out the rubbish?\n— Sorry, I can't. I have to finish my homework first."
+            },
+            {
+              "t": "choice",
+              "q": "— Could you help me with my English?\n— Yes, I ______.",
+              "o": [
+                "could",
+                "can",
+                "do",
+                "will"
+              ],
+              "a": 1,
+              "e": "Could you …? 的肯定回答用 can，不用 could。",
+              "s": "— Could you help me with my English?\n— Yes, I can."
+            },
+            {
+              "t": "choice",
+              "q": "Could you please ______ play the music so loud? I'm studying.",
+              "o": [
+                "don't",
+                "not",
+                "no",
+                "not to"
+              ],
+              "a": 1,
+              "e": "Could you please not + 动词原形：请你别……好吗？",
+              "s": "Could you please not play the music so loud? I'm studying."
+            },
+            {
+              "t": "order",
+              "w": [
+                "Could",
+                "please",
+                "you",
+                "photos",
+                "hang",
+                "the",
+                "up"
+              ],
+              "a": "Could you please hang up the photos?",
+              "e": "Could you please + 动词原形 …?",
+              "s": "Could you please hang up the photos?"
+            }
+          ]
+        },
+        {
+          "id": "8a-u2-permission",
+          "cat": "grammar",
+          "kp": "情态动词后接动词原形",
+          "title": "请求许可：Can / Could I … ?",
+          "explain": "征求许可：Can I / Could I + 动词原形 …?（Could 更礼貌）\n同意：Yes, you can. / Sure. / Of course.\n不同意：No, you can't. / Sorry, you can't. + 理由\n情态动词 can / could / must / should 后面都接动词原形。\nhave to 不得不：I have to do some work now.（第三人称单数 has to）",
+          "examples": [
+            {
+              "en": "Mum, can I invite my friends to our new house?",
+              "zh": "妈妈，我可以邀请朋友们来我们的新家吗？"
+            },
+            {
+              "en": "Helen, can I borrow your chess set?",
+              "zh": "海伦，我能借用你的那副象棋吗？"
+            },
+            {
+              "en": "Can I go to the movies?",
+              "zh": "我可以去看电影吗？"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— Could I ______ your computer?\n— Yes, if you are careful with it.",
+              "o": [
+                "use",
+                "to use",
+                "using",
+                "used"
+              ],
+              "a": 0,
+              "e": "Could I 后面接动词原形 use。",
+              "s": "— Could I use your computer?\n— Yes, if you are careful with it."
+            },
+            {
+              "t": "choice",
+              "q": "— Can I stay out until eleven?\n— ______. You have a basketball game tomorrow.",
+              "o": [
+                "Yes, you can",
+                "Sure",
+                "No, you can't",
+                "Of course"
+              ],
+              "a": 2,
+              "e": "后面说明天有比赛，是不同意。",
+              "s": "— Can I stay out until eleven?\n— No, you can't. You have a basketball game tomorrow."
+            },
+            {
+              "t": "choice",
+              "q": "— Can I watch TV now?\n— No. You ______ finish your homework first.",
+              "o": [
+                "have to",
+                "has to",
+                "having to",
+                "had to"
+              ],
+              "a": 0,
+              "e": "主语 You，用 have to + 动词原形。",
+              "s": "— Can I watch TV now?\n— No. You have to finish your homework first."
+            },
+            {
+              "t": "choice",
+              "q": "My sister ______ clean her room every weekend.",
+              "o": [
+                "have to",
+                "has to",
+                "have",
+                "must to"
+              ],
+              "a": 1,
+              "e": "主语是第三人称单数 My sister，用 has to。",
+              "s": "My sister has to clean her room every weekend."
+            },
+            {
+              "t": "fill",
+              "q": "— Mum, ______ I go shopping with Lucy?\n— Sure. Be back before six.",
+              "a": [
+                "can",
+                "could",
+                "may"
+              ],
+              "e": "征求许可：Can / Could I …?",
+              "s": "— Mum, can I go shopping with Lucy?\n— Sure. Be back before six."
+            },
+            {
+              "t": "order",
+              "w": [
+                "your",
+                "borrow",
+                "I",
+                "Could",
+                "dictionary"
+              ],
+              "a": "Could I borrow your dictionary?",
+              "e": "Could I + 动词原形 …? 请求许可。",
+              "s": "Could I borrow your dictionary?"
+            }
+          ]
+        },
+        {
+          "id": "8a-u2-chores",
+          "cat": "sentence",
+          "kp": "动词短语",
+          "title": "家务活与常用动词短语",
+          "explain": "do the dishes 洗碗　take out the rubbish 倒垃圾　clean the bathroom 打扫卫生间\nmake the bed 铺床　sweep the floor 扫地　fold the clothes 叠衣服\npack up 收拾　hang up 挂起；挂电话　clean up 打扫\ngive sb a lift 开车送某人　take notes 记笔记　share sth with sb 和某人分享\n动词 + 副词的短语，宾语是代词时要放中间：hang them up，不能说 hang up them。",
+          "examples": [
+            {
+              "en": "Sorry, Jim, but you have to pack up your things first.",
+              "zh": "抱歉，吉姆，你得先把你的东西收拾好。"
+            },
+            {
+              "en": "I'll clean the bathroom.",
+              "zh": "我来打扫卫生间。"
+            },
+            {
+              "en": "You and your classmates want to help clean up the community.",
+              "zh": "你和同学们想帮忙打扫社区。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "These photos are nice. Let's ______.",
+              "o": [
+                "hang up them",
+                "hang them up",
+                "hang it up",
+                "hang up it"
+              ],
+              "a": 1,
+              "e": "宾语是代词 them 时，要放在 hang 和 up 中间。",
+              "s": "These photos are nice. Let's hang them up."
+            },
+            {
+              "t": "choice",
+              "q": "Mum is cooking. Could you please ______ the rubbish?",
+              "o": [
+                "take out",
+                "take off",
+                "take up",
+                "take after"
+              ],
+              "a": 0,
+              "e": "take out the rubbish 倒垃圾。",
+              "s": "Mum is cooking. Could you please take out the rubbish?"
+            },
+            {
+              "t": "choice",
+              "q": "It's raining. Let me give you a ______ to school.",
+              "o": [
+                "hand",
+                "lift",
+                "light",
+                "help"
+              ],
+              "a": 1,
+              "e": "give sb a lift 开车送某人一程。",
+              "s": "It's raining. Let me give you a lift to school."
+            },
+            {
+              "t": "fill",
+              "q": "I want to ______ (分享) my snacks with my friends.",
+              "a": [
+                "share"
+              ],
+              "e": "share sth with sb 和某人分享某物。",
+              "s": "I want to share my snacks with my friends."
+            },
+            {
+              "t": "fill",
+              "q": "Please ______ (收拾) your things before we move.",
+              "a": [
+                "pack up"
+              ],
+              "e": "pack up 收拾、打包。",
+              "s": "Please pack up your things before we move."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-3",
+      "points": [
+        {
+          "id": "8a-u3-comparative",
+          "cat": "grammar",
+          "kp": "形容词比较级",
+          "title": "比较级：-er / more … than",
+          "explain": "两者比较用「比较级 + than」。\n① 一般加 -er：tall → taller，loud → louder\n② 以 e 结尾加 -r：nice → nicer\n③ 辅音 + y 结尾，变 y 为 i 加 -er：lazy → lazier，funny → funnier\n④ 重读闭音节、末尾只有一个辅音，双写再加 -er：big → bigger，thin → thinner\n⑤ 多音节词前加 more：more outgoing，more serious\n⑥ 不规则：good / well → better，bad → worse，many / much → more，little → less\n修饰比较级用 much, a little, even：much taller\nthan 后面的人称代词常用宾格：He is taller than me.",
+          "examples": [
+            {
+              "en": "Many people say I'm lazier than Emma, but that's not true!",
+              "zh": "很多人说我比埃玛懒，但那不是真的！"
+            },
+            {
+              "en": "Ella dances better than Emma, but Emma sings louder than her.",
+              "zh": "埃拉跳舞比埃玛跳得好，但埃玛唱歌比她声音大。"
+            },
+            {
+              "en": "Thanks to her, I am becoming more outgoing.",
+              "zh": "多亏了她，我变得更外向了。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "Tom is ______ than his brother.",
+              "o": [
+                "tall",
+                "taller",
+                "tallest",
+                "more tall"
+              ],
+              "a": 1,
+              "e": "有 than，用比较级 taller。",
+              "s": "Tom is taller than his brother."
+            },
+            {
+              "t": "choice",
+              "q": "I think English is ______ than maths.",
+              "o": [
+                "interesting",
+                "more interesting",
+                "interestinger",
+                "most interesting"
+              ],
+              "a": 1,
+              "e": "多音节词 interesting 的比较级是 more interesting。",
+              "s": "I think English is more interesting than maths."
+            },
+            {
+              "t": "choice",
+              "q": "My sister sings ______ than me.",
+              "o": [
+                "good",
+                "well",
+                "better",
+                "best"
+              ],
+              "a": 2,
+              "e": "well 的比较级是 better。",
+              "s": "My sister sings better than me."
+            },
+            {
+              "t": "choice",
+              "q": "This box is ______ heavier than that one.",
+              "o": [
+                "very",
+                "much",
+                "more",
+                "too"
+              ],
+              "a": 1,
+              "e": "修饰比较级用 much，不用 very。",
+              "s": "This box is much heavier than that one."
+            },
+            {
+              "t": "choice",
+              "q": "Lucy is more outgoing than ______.",
+              "o": [
+                "I",
+                "me",
+                "my",
+                "mine"
+              ],
+              "a": 1,
+              "e": "than 后面的人称代词常用宾格 me。",
+              "s": "Lucy is more outgoing than me."
+            },
+            {
+              "t": "fill",
+              "q": "My cat is ______ (fat) than yours.",
+              "a": [
+                "fatter"
+              ],
+              "e": "fat 是重读闭音节，双写 t 再加 -er：fatter。",
+              "s": "My cat is fatter than yours."
+            },
+            {
+              "t": "fill",
+              "q": "Jim is ______ (funny) than his brother.",
+              "a": [
+                "funnier"
+              ],
+              "e": "辅音 + y 结尾，变 y 为 i 加 -er：funnier。",
+              "s": "Jim is funnier than his brother."
+            },
+            {
+              "t": "fill",
+              "q": "The weather today is ______ (bad) than yesterday.",
+              "a": [
+                "worse"
+              ],
+              "e": "bad 的比较级是不规则的 worse。",
+              "s": "The weather today is worse than yesterday."
+            }
+          ]
+        },
+        {
+          "id": "8a-u3-as-as",
+          "cat": "grammar",
+          "kp": "形容词比较级",
+          "title": "as … as 与同级比较",
+          "explain": "A 和 B 一样……：as + 形容词 / 副词原级 + as\nShe is as slim as me.\n否定：not as / so + 原级 + as = 不如……：I am not as tall as you.\n疑问：Are you as tall as your brother?\nthe same as 和……一样；be different from 和……不同；be similar to 和……相似。",
+          "examples": [
+            {
+              "en": "She is as slim as me.",
+              "zh": "她和我一样苗条。"
+            },
+            {
+              "en": "I'm as hard-working as you, but you read more than me.",
+              "zh": "我和你一样勤奋，但你读的书比我多。"
+            },
+            {
+              "en": "He is as serious as me.",
+              "zh": "他和我一样严肃。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "Sam is as ______ as Tom. They both like telling jokes.",
+              "o": [
+                "funny",
+                "funnier",
+                "funniest",
+                "more funny"
+              ],
+              "a": 0,
+              "e": "as … as 中间用原级。",
+              "s": "Sam is as funny as Tom. They both like telling jokes."
+            },
+            {
+              "t": "choice",
+              "q": "Jack swims as ______ as Sally.",
+              "o": [
+                "fast",
+                "faster",
+                "fastest",
+                "more fast"
+              ],
+              "a": 0,
+              "e": "as … as 中间用原级 fast。",
+              "s": "Jack swims as fast as Sally."
+            },
+            {
+              "t": "choice",
+              "q": "I am not ______ tall ______ my father.",
+              "o": [
+                "as; than",
+                "so; as",
+                "more; than",
+                "as; to"
+              ],
+              "a": 1,
+              "e": "not as / so … as 不如……",
+              "s": "I am not so tall as my father."
+            },
+            {
+              "t": "choice",
+              "q": "My hobbies are different ______ my best friend's.",
+              "o": [
+                "to",
+                "with",
+                "from",
+                "as"
+              ],
+              "a": 2,
+              "e": "be different from 和……不同。",
+              "s": "My hobbies are different from my best friend's."
+            },
+            {
+              "t": "fill",
+              "q": "Lily is 1.6 metres tall. Lucy is 1.6 metres tall too. Lily is ______ tall as Lucy.",
+              "a": [
+                "as"
+              ],
+              "e": "两人一样高：as tall as。",
+              "s": "Lily is 1.6 metres tall. Lucy is 1.6 metres tall too. Lily is as tall as Lucy."
+            },
+            {
+              "t": "order",
+              "w": [
+                "as",
+                "outgoing",
+                "is",
+                "as",
+                "She",
+                "me"
+              ],
+              "a": "She is as outgoing as me.",
+              "e": "as + 原级 + as。",
+              "s": "She is as outgoing as me."
+            }
+          ]
+        },
+        {
+          "id": "8a-u3-friends",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "描述朋友与比较异同",
+          "explain": "描述外表：tall / short / slim / have long hair\n描述性格：outgoing 外向的　shy 害羞的　serious 严肃的　hard-working 勤奋的　honest 诚实的\n谈共同点：We have a lot in common. / We both like …\n谈不同点：Unlike me, she is … / I'm quieter than him.\n祝贺：Congratulations on + 名词 / 动名词！",
+          "examples": [
+            {
+              "en": "For example, I am kind of shy, but my best friend, Yuan Lei, is outgoing.",
+              "zh": "比如，我有点害羞，但我最好的朋友袁磊很外向。"
+            },
+            {
+              "en": "What do Emma and Ella have in common?",
+              "zh": "埃玛和埃拉有什么共同之处？"
+            },
+            {
+              "en": "Congratulations on winning the prize at the school music festival!",
+              "zh": "祝贺你在学校音乐节上获奖！"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— I won first prize in the singing competition.\n— ______",
+              "o": [
+                "Congratulations!",
+                "Never mind.",
+                "That's OK.",
+                "Good luck!"
+              ],
+              "a": 0,
+              "e": "别人取得好成绩，用 Congratulations! 祝贺。",
+              "s": "— I won first prize in the singing competition.\n— Congratulations!"
+            },
+            {
+              "t": "choice",
+              "q": "Congratulations ______ winning the game!",
+              "o": [
+                "for",
+                "on",
+                "to",
+                "at"
+              ],
+              "a": 1,
+              "e": "Congratulations on sth / doing sth 祝贺某事。",
+              "s": "Congratulations on winning the game!"
+            },
+            {
+              "t": "choice",
+              "q": "My friend and I have a lot ______ common. We both love reading.",
+              "o": [
+                "on",
+                "at",
+                "in",
+                "with"
+              ],
+              "a": 2,
+              "e": "have … in common 有共同之处。",
+              "s": "My friend and I have a lot in common. We both love reading."
+            },
+            {
+              "t": "choice",
+              "q": "Ann is ______. She doesn't like talking in front of many people.",
+              "o": [
+                "outgoing",
+                "shy",
+                "loud",
+                "funny"
+              ],
+              "a": 1,
+              "e": "不喜欢在很多人面前说话，是害羞 shy。",
+              "s": "Ann is shy. She doesn't like talking in front of many people."
+            },
+            {
+              "t": "fill",
+              "q": "She has a great sense of ______ (幽默). She always makes us laugh.",
+              "a": [
+                "humour",
+                "humor"
+              ],
+              "e": "a sense of humour 幽默感。",
+              "s": "She has a great sense of humour. She always makes us laugh."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-4",
+      "points": [
+        {
+          "id": "8a-u4-superlative",
+          "cat": "grammar",
+          "kp": "形容词最高级",
+          "title": "最高级：the -est / the most",
+          "explain": "三者或三者以上比较，用「the + 最高级」，常跟 in / of 短语。\n① 一般加 -est：tall → the tallest，old → the oldest\n② 以 e 结尾加 -st：large → the largest\n③ 辅音 + y 结尾，变 y 为 i 加 -est：heavy → the heaviest\n④ 双写再加 -est：big → the biggest\n⑤ 多音节词：the most beautiful，the most popular\n⑥ 不规则：good / well → best，bad → worst，many / much → most，little → least\nin + 范围（in the world, in our class），of + 同类（of all the animals）\none of the + 最高级 + 复数名词：one of the oldest plants",
+          "examples": [
+            {
+              "en": "The cheetah runs the fastest among all land animals.",
+              "zh": "猎豹是所有陆地动物中跑得最快的。"
+            },
+            {
+              "en": "The biggest land animal in the world is the African elephant.",
+              "zh": "世界上最大的陆地动物是非洲象。"
+            },
+            {
+              "en": "Well, I think moss is one of the oldest plants.",
+              "zh": "嗯，我认为苔藓是最古老的植物之一。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "The blue whale is ______ animal in the world.",
+              "o": [
+                "big",
+                "bigger",
+                "the biggest",
+                "the bigger"
+              ],
+              "a": 2,
+              "e": "in the world 表示范围，用最高级 the biggest。",
+              "s": "The blue whale is the biggest animal in the world."
+            },
+            {
+              "t": "choice",
+              "q": "Bamboo is one of the most useful ______ in the world.",
+              "o": [
+                "plant",
+                "plants",
+                "a plant",
+                "the plant"
+              ],
+              "a": 1,
+              "e": "one of the + 最高级 + 复数名词。",
+              "s": "Bamboo is one of the most useful plants in the world."
+            },
+            {
+              "t": "choice",
+              "q": "Which do you think is ______, the rose, the peony, or the lotus flower?",
+              "o": [
+                "beautiful",
+                "more beautiful",
+                "the most beautiful",
+                "most beautifully"
+              ],
+              "a": 2,
+              "e": "三者比较用最高级 the most beautiful。",
+              "s": "Which do you think is the most beautiful, the rose, the peony, or the lotus flower?"
+            },
+            {
+              "t": "choice",
+              "q": "Of all the students, Tom does ______ in maths.",
+              "o": [
+                "good",
+                "well",
+                "better",
+                "best"
+              ],
+              "a": 3,
+              "e": "of all the students 表示三者以上，well 的最高级是 best。",
+              "s": "Of all the students, Tom does best in maths."
+            },
+            {
+              "t": "choice",
+              "q": "— Who is the tallest ______ your class?\n— Li Lei.",
+              "o": [
+                "of",
+                "in",
+                "on",
+                "at"
+              ],
+              "a": 1,
+              "e": "在某个范围里用 in：in your class。",
+              "s": "— Who is the tallest in your class?\n— Li Lei."
+            },
+            {
+              "t": "fill",
+              "q": "The ginkgo tree is one of the ______ (old) living trees on earth.",
+              "a": [
+                "oldest"
+              ],
+              "e": "one of the + 最高级 + 复数名词：the oldest。",
+              "s": "The ginkgo tree is one of the oldest living trees on earth."
+            },
+            {
+              "t": "fill",
+              "q": "Autumn is the ______ (good) time to see ginkgo trees.",
+              "a": [
+                "best"
+              ],
+              "e": "good 的最高级是 best。",
+              "s": "Autumn is the best time to see ginkgo trees."
+            },
+            {
+              "t": "fill",
+              "q": "This is the ______ (heavy) box of the three.",
+              "a": [
+                "heaviest"
+              ],
+              "e": "辅音 + y 结尾，变 y 为 i 加 -est：heaviest。",
+              "s": "This is the heaviest box of the three."
+            }
+          ]
+        },
+        {
+          "id": "8a-u4-numbers",
+          "cat": "grammar",
+          "kp": "数词",
+          "title": "大数字、百分数与度量",
+          "explain": "百、千、百万、十亿：hundred, thousand, million, billion\n具体数字前不加 -s：two hundred, five million\n表示「成百上千」要加 -s 和 of：hundreds of, thousands of, millions of\n百分数：80 per cent / percent\n度量：It can weigh as much as 200 tons. / about one metre tall / 860 kg（读作 kilograms）",
+          "examples": [
+            {
+              "en": "Ginkgo trees first appeared over 200 million years ago.",
+              "zh": "银杏树最早出现在两亿多年前。"
+            },
+            {
+              "en": "In fact, without their work, about 80 per cent of the plants in the world cannot grow.",
+              "zh": "事实上，没有它们的工作，世界上大约80%的植物都无法生长。"
+            },
+            {
+              "en": "It can weigh as much as 200 tons.",
+              "zh": "它可以重达200吨。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "There are about three ______ students in our school.",
+              "o": [
+                "thousand",
+                "thousands",
+                "thousand of",
+                "thousands of"
+              ],
+              "a": 0,
+              "e": "具体数字 three 后面用 thousand，不加 -s，也不加 of。",
+              "s": "There are about three thousand students in our school."
+            },
+            {
+              "t": "choice",
+              "q": "______ tourists come to see the old ginkgo tree each year.",
+              "o": [
+                "Thousand",
+                "Thousands",
+                "Thousand of",
+                "Thousands of"
+              ],
+              "a": 3,
+              "e": "表示「成千上万的」用 thousands of。",
+              "s": "Thousands of tourists come to see the old ginkgo tree each year."
+            },
+            {
+              "t": "choice",
+              "q": "The tree is about 1,000 years old. 1,000 读作 ______.",
+              "o": [
+                "one thousands",
+                "a thousand",
+                "one thousand of",
+                "thousands"
+              ],
+              "a": 1,
+              "e": "1,000 读作 a / one thousand。",
+              "s": "The tree is about 1,000 years old. 1,000 读作 a thousand."
+            },
+            {
+              "t": "fill",
+              "q": "About 80 ______ (百分之) of the students in our class like sports.",
+              "a": [
+                "per cent",
+                "percent"
+              ],
+              "e": "百分之……：per cent / percent。",
+              "s": "About 80 per cent of the students in our class like sports."
+            },
+            {
+              "t": "fill",
+              "q": "A blue whale can ______ (重) as much as 200 tons.",
+              "a": [
+                "weigh"
+              ],
+              "e": "weigh 有……重。",
+              "s": "A blue whale can weigh as much as 200 tons."
+            }
+          ]
+        },
+        {
+          "id": "8a-u4-connected",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "谈论动植物与人的联系",
+          "explain": "play an important role / part in … 在……中起重要作用\nbe connected with / to … 与……有联系\nwithout + 名词：没有……：We cannot live without them.\nin order to + 动词原形：为了……\nfor this reason 出于这个原因　in fact 事实上",
+          "examples": [
+            {
+              "en": "Bees play an important part in the ecosystem of our planet.",
+              "zh": "蜜蜂在我们星球的生态系统中发挥着重要作用。"
+            },
+            {
+              "en": "Take care of animals and plants because we cannot live without them.",
+              "zh": "要爱护动植物，因为我们离不开它们。"
+            },
+            {
+              "en": "In order to store honey, they create honeycombs.",
+              "zh": "为了储存蜂蜜，它们建造了蜂巢。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "Frogs play an important role ______ our ecosystem.",
+              "o": [
+                "on",
+                "in",
+                "at",
+                "for"
+              ],
+              "a": 1,
+              "e": "play an important role in … 在……中起重要作用。",
+              "s": "Frogs play an important role in our ecosystem."
+            },
+            {
+              "t": "choice",
+              "q": "Fish can't live ______ water.",
+              "o": [
+                "with",
+                "without",
+                "in",
+                "of"
+              ],
+              "a": 1,
+              "e": "without 没有：鱼离开水就不能活。",
+              "s": "Fish can't live without water."
+            },
+            {
+              "t": "choice",
+              "q": "He got up early ______ catch the first bus.",
+              "o": [
+                "in order to",
+                "so that",
+                "because of",
+                "in order"
+              ],
+              "a": 0,
+              "e": "in order to + 动词原形，表示目的。",
+              "s": "He got up early in order to catch the first bus."
+            },
+            {
+              "t": "fill",
+              "q": "People, plants, and animals are all ______ (联系) with each other.",
+              "a": [
+                "connected"
+              ],
+              "e": "be connected with / to … 与……有联系。",
+              "s": "People, plants, and animals are all connected with each other."
+            },
+            {
+              "t": "order",
+              "w": [
+                "important",
+                "Bees",
+                "an",
+                "role",
+                "play"
+              ],
+              "a": "Bees play an important role.",
+              "e": "play an important role 起重要作用。",
+              "s": "Bees play an important role."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-5",
+      "points": [
+        {
+          "id": "8a-u5-sequence",
+          "cat": "sentence",
+          "kp": "祈使句",
+          "title": "描述做菜步骤：祈使句与顺序词",
+          "explain": "给出指令用祈使句，动词原形开头：Cut up the onion. / Add salt and pepper.\n否定祈使句：Don't + 动词原形：Don't put too much salt.\n顺序词：First, … Next, … Then, … After that, … Finally, …\n问步骤：How do we make mashed potatoes? / What should we do with the tomatoes?\n问数量：How many + 可数名词复数？How much + 不可数名词？",
+          "examples": [
+            {
+              "en": "First, cut up the onion and garlic.",
+              "zh": "首先，把洋葱和大蒜切碎。"
+            },
+            {
+              "en": "Next, put the potatoes in the pot and boil them until they are soft.",
+              "zh": "接着，把土豆放进锅里煮软。"
+            },
+            {
+              "en": "Finally, put the eggs back into the pan and mix them with the tomatoes.",
+              "zh": "最后，把鸡蛋倒回锅里，和西红柿炒在一起。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "______ the bananas into small pieces.",
+              "o": [
+                "Cuts",
+                "Cut",
+                "Cutting",
+                "To cut"
+              ],
+              "a": 1,
+              "e": "祈使句用动词原形开头。",
+              "s": "Cut the bananas into small pieces."
+            },
+            {
+              "t": "choice",
+              "q": "______ too much salt. It's bad for your health.",
+              "o": [
+                "Not put",
+                "Don't put",
+                "No put",
+                "Don't putting"
+              ],
+              "a": 1,
+              "e": "否定祈使句：Don't + 动词原形。",
+              "s": "Don't put too much salt. It's bad for your health."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ yogurt do we need?\n— Two spoons.",
+              "o": [
+                "How many",
+                "How much",
+                "How long",
+                "How often"
+              ],
+              "a": 1,
+              "e": "yogurt 是不可数名词，用 How much。",
+              "s": "— How much yogurt do we need?\n— Two spoons."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ bananas do we need?\n— Three.",
+              "o": [
+                "How many",
+                "How much",
+                "How old",
+                "How far"
+              ],
+              "a": 0,
+              "e": "bananas 是可数名词复数，用 How many。",
+              "s": "— How many bananas do we need?\n— Three."
+            },
+            {
+              "t": "choice",
+              "q": "First, peel the potatoes. ______, cut them up. Finally, boil them.",
+              "o": [
+                "Finally",
+                "Next",
+                "First",
+                "At last"
+              ],
+              "a": 1,
+              "e": "中间的步骤用 Next / Then。",
+              "s": "First, peel the potatoes. Next, cut them up. Finally, boil them."
+            },
+            {
+              "t": "fill",
+              "q": "______ (首先), heat some oil in a pan.",
+              "a": [
+                "First",
+                "Firstly"
+              ],
+              "e": "第一步用 First。",
+              "s": "First, heat some oil in a pan."
+            },
+            {
+              "t": "order",
+              "w": [
+                "the",
+                "Pour",
+                "mixture",
+                "the",
+                "into",
+                "crust",
+                "pie"
+              ],
+              "a": "Pour the mixture into the pie crust.",
+              "e": "pour sth into sth 把……倒入……；祈使句动词开头。",
+              "s": "Pour the mixture into the pie crust."
+            }
+          ]
+        },
+        {
+          "id": "8a-u5-exclamation",
+          "cat": "grammar",
+          "kp": "感叹句",
+          "title": "感叹句：What … ! / How … !",
+          "explain": "What 修饰名词：\nWhat + a / an + 形容词 + 单数名词 (+ 主语 + 谓语)！What a mess (it is)!\nWhat + 形容词 + 复数名词 / 不可数名词！What delicious food!\nHow 修饰形容词或副词：\nHow + 形容词 / 副词 (+ 主语 + 谓语)！How clever you are! How time flies!\n判断方法：去掉主谓后，剩下的中心是名词用 What，是形容词 / 副词用 How。",
+          "examples": [
+            {
+              "en": "What an amazing smell (it is)!",
+              "zh": "多么诱人的香味啊！"
+            },
+            {
+              "en": "How delicious the dish looks!",
+              "zh": "这道菜看起来多么美味啊！"
+            },
+            {
+              "en": "How wonderful life is!",
+              "zh": "生活多么美好啊！"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "______ delicious the pie is!",
+              "o": [
+                "What",
+                "What a",
+                "How",
+                "How a"
+              ],
+              "a": 2,
+              "e": "中心词是形容词 delicious，用 How。",
+              "s": "How delicious the pie is!"
+            },
+            {
+              "t": "choice",
+              "q": "______ beautiful day it is!",
+              "o": [
+                "What",
+                "What a",
+                "How",
+                "How a"
+              ],
+              "a": 1,
+              "e": "中心词是单数名词 day，用 What a。",
+              "s": "What a beautiful day it is!"
+            },
+            {
+              "t": "choice",
+              "q": "______ good news it is!",
+              "o": [
+                "What",
+                "What a",
+                "How",
+                "How a"
+              ],
+              "a": 0,
+              "e": "news 是不可数名词，用 What，不加 a。",
+              "s": "What good news it is!"
+            },
+            {
+              "t": "choice",
+              "q": "______ fast the boy runs!",
+              "o": [
+                "What",
+                "What a",
+                "How",
+                "How a"
+              ],
+              "a": 2,
+              "e": "fast 是副词，用 How。",
+              "s": "How fast the boy runs!"
+            },
+            {
+              "t": "choice",
+              "q": "______ interesting story!",
+              "o": [
+                "What a",
+                "What an",
+                "How",
+                "How an"
+              ],
+              "a": 1,
+              "e": "story 是单数名词，interesting 以元音音素开头，用 What an。",
+              "s": "What an interesting story!"
+            },
+            {
+              "t": "choice",
+              "q": "— Look! I made this cake for you.\n— ______",
+              "o": [
+                "What a lovely cake!",
+                "How a lovely cake!",
+                "What lovely cake!",
+                "How lovely cake!"
+              ],
+              "a": 0,
+              "e": "What + a + 形容词 + 单数名词！",
+              "s": "— Look! I made this cake for you.\n— What a lovely cake!"
+            },
+            {
+              "t": "fill",
+              "q": "______ clever you are!",
+              "a": [
+                "How"
+              ],
+              "e": "clever 是形容词，用 How。",
+              "s": "How clever you are!"
+            },
+            {
+              "t": "fill",
+              "q": "______ a mess it is!",
+              "a": [
+                "What"
+              ],
+              "e": "mess 是名词，用 What a。",
+              "s": "What a mess it is!"
+            }
+          ]
+        },
+        {
+          "id": "8a-u5-countable",
+          "cat": "grammar",
+          "kp": "不可数名词",
+          "title": "可数与不可数名词（食物）",
+          "explain": "可数名词：potato(es), tomato(es), egg(s), onion(s), apple(s)\n不可数名词：milk, butter, salt, oil, flour, cheese, yogurt, honey, water, bread\n不可数名词的数量：a cup of milk，two spoons of sugar，one tablespoon of butter，a slice of bread\n注意：tomato → tomatoes，potato → potatoes（加 -es）",
+          "examples": [
+            {
+              "en": "Get one tablespoon of butter and half a cup of milk.",
+              "zh": "准备一汤匙黄油和半杯牛奶。"
+            },
+            {
+              "en": "Add salt and pepper.",
+              "zh": "加盐和胡椒粉。"
+            },
+            {
+              "en": "Then, heat some oil in a pan and add the eggs to it.",
+              "zh": "然后，在锅里把油烧热，再把鸡蛋加进去。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "We need two ______ to make the soup.",
+              "o": [
+                "tomato",
+                "tomatos",
+                "tomatoes",
+                "tomatoe"
+              ],
+              "a": 2,
+              "e": "tomato 的复数是 tomatoes。",
+              "s": "We need two tomatoes to make the soup."
+            },
+            {
+              "t": "choice",
+              "q": "Please add two ______ of honey.",
+              "o": [
+                "spoon",
+                "spoons",
+                "spoonful of",
+                "spoons of"
+              ],
+              "a": 1,
+              "e": "two spoons of honey，前面已有 of，选 spoons。",
+              "s": "Please add two spoons of honey."
+            },
+            {
+              "t": "choice",
+              "q": "There ______ some milk in the fridge.",
+              "o": [
+                "is",
+                "are",
+                "be",
+                "am"
+              ],
+              "a": 0,
+              "e": "milk 不可数，谓语用单数 is。",
+              "s": "There is some milk in the fridge."
+            },
+            {
+              "t": "choice",
+              "q": "Which of the following is uncountable?",
+              "o": [
+                "egg",
+                "onion",
+                "butter",
+                "potato"
+              ],
+              "a": 2,
+              "e": "butter 黄油是不可数名词。",
+              "s": "butter"
+            },
+            {
+              "t": "fill",
+              "q": "Cut the bread into thin ______ (片).",
+              "a": [
+                "slices"
+              ],
+              "e": "slice 薄片，可数，复数 slices。",
+              "s": "Cut the bread into thin slices."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-6",
+      "points": [
+        {
+          "id": "8a-u6-going-to",
+          "cat": "grammar",
+          "kp": "be going to",
+          "title": "be going to 谈计划",
+          "explain": "表示打算、计划做某事：be (am / is / are) going to + 动词原形\n肯定：I'm going to be a fireman.\n否定：She isn't going to …\n疑问：Are you going to …? — Yes, I am. / No, I'm not.\n特殊疑问：What are you going to be? How are you going to do that? Where is he going to work?\n常和 next year, this weekend, when I grow up 等将来的时间连用。",
+          "examples": [
+            {
+              "en": "So how are you going to become a fireman?",
+              "zh": "那你打算怎样成为一名消防员呢？"
+            },
+            {
+              "en": "I'm going to exercise every day, because a fireman needs to be strong.",
+              "zh": "我打算每天锻炼，因为消防员需要身体强壮。"
+            },
+            {
+              "en": "And also, I'm going to keep on writing stories and essays.",
+              "zh": "另外，我打算继续写故事和散文。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— What are you going to ______ when you grow up?\n— An engineer.",
+              "o": [
+                "be",
+                "do",
+                "doing",
+                "being"
+              ],
+              "a": 0,
+              "e": "问将来当什么：What are you going to be?",
+              "s": "— What are you going to be when you grow up?\n— An engineer."
+            },
+            {
+              "t": "choice",
+              "q": "My brother ______ going to study in France next year.",
+              "o": [
+                "am",
+                "is",
+                "are",
+                "be"
+              ],
+              "a": 1,
+              "e": "主语 My brother 是第三人称单数，用 is going to。",
+              "s": "My brother is going to study in France next year."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ are you going to work?\n— In Shanghai.",
+              "o": [
+                "What",
+                "How",
+                "Where",
+                "When"
+              ],
+              "a": 2,
+              "e": "答语是地点，用 Where 提问。",
+              "s": "— Where are you going to work?\n— In Shanghai."
+            },
+            {
+              "t": "choice",
+              "q": "— How are you going to do that?\n— I'm going to ______ every day.",
+              "o": [
+                "practise",
+                "practising",
+                "practises",
+                "practised"
+              ],
+              "a": 0,
+              "e": "be going to 后面接动词原形。",
+              "s": "— How are you going to do that?\n— I'm going to practise every day."
+            },
+            {
+              "t": "choice",
+              "q": "— Are you going to take up a new hobby?\n— Yes, I ______.",
+              "o": [
+                "do",
+                "am",
+                "will",
+                "go"
+              ],
+              "a": 1,
+              "e": "Are you …? 用 Yes, I am. 回答。",
+              "s": "— Are you going to take up a new hobby?\n— Yes, I am."
+            },
+            {
+              "t": "fill",
+              "q": "We ______ (visit) our grandparents this weekend.",
+              "a": [
+                "are going to visit",
+                "'re going to visit",
+                "will visit"
+              ],
+              "e": "this weekend 是将来的计划：are going to visit。",
+              "s": "We are going to visit our grandparents this weekend."
+            },
+            {
+              "t": "fill",
+              "q": "Lucy ______ (not take) part in the art club next term.",
+              "a": [
+                "isn't going to take",
+                "is not going to take",
+                "won't take",
+                "will not take"
+              ],
+              "e": "be going to 的否定：isn't going to + 动词原形。",
+              "s": "Lucy isn't going to take part in the art club next term."
+            },
+            {
+              "t": "order",
+              "w": [
+                "going",
+                "you",
+                "are",
+                "be",
+                "What",
+                "to"
+              ],
+              "a": "What are you going to be?",
+              "e": "What are you going to be? 你打算做什么工作？",
+              "s": "What are you going to be?"
+            }
+          ]
+        },
+        {
+          "id": "8a-u6-resolutions",
+          "cat": "sentence",
+          "kp": "动词短语",
+          "title": "新年决心与常用短语",
+          "explain": "make a resolution 下决心　take up 开始从事（爱好）　keep on doing 继续做\nstick to sth 坚持　make sure 确保　try one's best 尽最大努力\nhave to do with 与……有关　be able to 能够（比 can 多了将来形式 will be able to）\nhelp sb (to) do / with sth 帮助某人做某事",
+          "examples": [
+            {
+              "en": "A resolution is a promise that you make to yourself.",
+              "zh": "决心是你对自己许下的承诺。"
+            },
+            {
+              "en": "Always make sure your resolution is possible to achieve.",
+              "zh": "一定要确保你的决心是可以实现的。"
+            },
+            {
+              "en": "Were you able to stick to the plans?",
+              "zh": "你能坚持执行计划吗？"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "I'm going to keep on ______ English every day.",
+              "o": [
+                "practise",
+                "practising",
+                "to practise",
+                "practised"
+              ],
+              "a": 1,
+              "e": "keep on doing sth 继续做某事。",
+              "s": "I'm going to keep on practising English every day."
+            },
+            {
+              "t": "choice",
+              "q": "Some resolutions have to do ______ learning new things.",
+              "o": [
+                "for",
+                "with",
+                "to",
+                "about"
+              ],
+              "a": 1,
+              "e": "have to do with 与……有关。",
+              "s": "Some resolutions have to do with learning new things."
+            },
+            {
+              "t": "choice",
+              "q": "She decided to take ______ photography as a new hobby.",
+              "o": [
+                "up",
+                "off",
+                "out",
+                "after"
+              ],
+              "a": 0,
+              "e": "take up 开始从事（某项爱好）。",
+              "s": "She decided to take up photography as a new hobby."
+            },
+            {
+              "t": "choice",
+              "q": "If you make a plan, you should ______ it.",
+              "o": [
+                "stick to",
+                "look for",
+                "put out",
+                "turn around"
+              ],
+              "a": 0,
+              "e": "stick to sth 坚持某事。",
+              "s": "If you make a plan, you should stick to it."
+            },
+            {
+              "t": "fill",
+              "q": "I will be ______ (能够) to speak English well in a few years.",
+              "a": [
+                "able"
+              ],
+              "e": "will be able to 将来能够。",
+              "s": "I will be able to speak English well in a few years."
+            },
+            {
+              "t": "fill",
+              "q": "Please make ______ (确保) you finish your homework before nine.",
+              "a": [
+                "sure"
+              ],
+              "e": "make sure 确保。",
+              "s": "Please make sure you finish your homework before nine."
+            }
+          ]
+        },
+        {
+          "id": "8a-u6-jobs",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "谈论理想职业",
+          "explain": "问理想：What do you want to be when you grow up? / What are you going to be?\n答：I want to be a(n) … / I'm going to be a(n) …\n问理由：Why do you want to be …? — Because …\n职业：engineer 工程师　designer 设计师　director 导演　musician 音乐家　fireman 消防员　athlete 运动员　lawyer 律师　painter 画家\n注意冠词：an engineer, an actress, an athlete（元音音素开头用 an）",
+          "examples": [
+            {
+              "en": "I want to be an IT engineer.",
+              "zh": "我想当一名信息技术工程师。"
+            },
+            {
+              "en": "I want to be a fashion designer.",
+              "zh": "我想当一名时装设计师。"
+            },
+            {
+              "en": "You know, I want to be a writer when I'm older.",
+              "zh": "你知道吗，我长大后想当一名作家。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "My cousin wants to be ______ engineer.",
+              "o": [
+                "a",
+                "an",
+                "the",
+                "/"
+              ],
+              "a": 1,
+              "e": "engineer 以元音音素开头，用 an。",
+              "s": "My cousin wants to be an engineer."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ do you want to be a doctor?\n— Because I want to help sick people.",
+              "o": [
+                "What",
+                "Why",
+                "How",
+                "Where"
+              ],
+              "a": 1,
+              "e": "答语以 Because 开头，问原因用 Why。",
+              "s": "— Why do you want to be a doctor?\n— Because I want to help sick people."
+            },
+            {
+              "t": "choice",
+              "q": "This person gives advice to people about the law. He is a ______.",
+              "o": [
+                "lawyer",
+                "pilot",
+                "painter",
+                "musician"
+              ],
+              "a": 0,
+              "e": "给人提供法律建议的是 lawyer 律师。",
+              "s": "This person gives advice to people about the law. He is a lawyer."
+            },
+            {
+              "t": "fill",
+              "q": "Liu Yang wants to be a ______ (飞行员) because she likes flying.",
+              "a": [
+                "pilot"
+              ],
+              "e": "pilot 飞行员。",
+              "s": "Liu Yang wants to be a pilot because she likes flying."
+            },
+            {
+              "t": "order",
+              "w": [
+                "want",
+                "do",
+                "be",
+                "What",
+                "you",
+                "to"
+              ],
+              "a": "What do you want to be?",
+              "e": "What do you want to be? 你想当什么？",
+              "s": "What do you want to be?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-7",
+      "points": [
+        {
+          "id": "8a-u7-will",
+          "cat": "grammar",
+          "kp": "一般将来时",
+          "title": "一般将来时：will 预测未来",
+          "explain": "表示将来会发生的事或预测：will + 动词原形（will 没有人称变化）\n肯定：People will live longer.\n否定：will not = won't：Students won't go to school.\n疑问：Will people use money in 100 years? — Yes, they will. / No, they won't.\nThere be 的将来时：There will be more people in cities.（不能说 There will have）\n表示看法：I think … / I don't think …（否定前移：I don't think robots will …）",
+          "examples": [
+            {
+              "en": "In the future, robots will take over most jobs of today.",
+              "zh": "将来，机器人会接手今天的大部分工作。"
+            },
+            {
+              "en": "There will be more people in cities, but there will be fewer traffic accidents.",
+              "zh": "城市里的人会更多，但交通事故会更少。"
+            },
+            {
+              "en": "Will climate change be worse in the future?",
+              "zh": "未来气候变化会更严重吗？"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "I think people ______ on other planets in 100 years.",
+              "o": [
+                "live",
+                "lived",
+                "will live",
+                "living"
+              ],
+              "a": 2,
+              "e": "预测将来：will + 动词原形。",
+              "s": "I think people will live on other planets in 100 years."
+            },
+            {
+              "t": "choice",
+              "q": "There ______ more robots in our homes in the future.",
+              "o": [
+                "will have",
+                "will be",
+                "are going to have",
+                "has"
+              ],
+              "a": 1,
+              "e": "There be 的将来时：There will be。",
+              "s": "There will be more robots in our homes in the future."
+            },
+            {
+              "t": "choice",
+              "q": "— Will students study at home in the future?\n— No, they ______.",
+              "o": [
+                "don't",
+                "aren't",
+                "won't",
+                "didn't"
+              ],
+              "a": 2,
+              "e": "Will …? 的否定回答：No, they won't.",
+              "s": "— Will students study at home in the future?\n— No, they won't."
+            },
+            {
+              "t": "choice",
+              "q": "I ______ robots will replace teachers.",
+              "o": [
+                "think",
+                "don't think",
+                "not think",
+                "am not think"
+              ],
+              "a": 1,
+              "e": "表示「认为……不会」，否定前移：I don't think …",
+              "s": "I don't think robots will replace teachers."
+            },
+            {
+              "t": "choice",
+              "q": "My brother ______ twenty next year.",
+              "o": [
+                "is",
+                "will be",
+                "will is",
+                "was"
+              ],
+              "a": 1,
+              "e": "next year 是将来，will 后面用原形 be。",
+              "s": "My brother will be twenty next year."
+            },
+            {
+              "t": "fill",
+              "q": "I believe China ______ (send) more astronauts into space in the future.",
+              "a": [
+                "will send",
+                "'ll send"
+              ],
+              "e": "预测将来：will + 动词原形。",
+              "s": "I believe China will send more astronauts into space in the future."
+            },
+            {
+              "t": "fill",
+              "q": "Kids ______ (not go) to school. They'll study at home on computers.",
+              "a": [
+                "won't go",
+                "will not go"
+              ],
+              "e": "will 的否定：won't + 动词原形。",
+              "s": "Kids won't go to school. They'll study at home on computers."
+            },
+            {
+              "t": "order",
+              "w": [
+                "will",
+                "There",
+                "fewer",
+                "be",
+                "cars"
+              ],
+              "a": "There will be fewer cars.",
+              "e": "There will be + 名词。",
+              "s": "There will be fewer cars."
+            }
+          ]
+        },
+        {
+          "id": "8a-u7-more-less",
+          "cat": "grammar",
+          "kp": "形容词比较级",
+          "title": "more / less / fewer 谈数量变化",
+          "explain": "more 更多：可数名词复数和不可数名词都能用：more trees，more water\nfewer 更少：修饰可数名词复数：fewer cars，fewer traffic accidents\nless 更少：修饰不可数名词：less pollution，less free time\n预测：There will be more / less / fewer … in the future.",
+          "examples": [
+            {
+              "en": "There will be more people in cities, but there will be fewer traffic accidents.",
+              "zh": "城市里的人会更多，但交通事故会更少。"
+            },
+            {
+              "en": "Some scientists believe there will be less land to grow food.",
+              "zh": "一些科学家认为可以种粮食的土地会越来越少。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "There will be ______ pollution because people will use clean energy.",
+              "o": [
+                "fewer",
+                "less",
+                "more",
+                "many"
+              ],
+              "a": 1,
+              "e": "pollution 不可数，「更少」用 less。",
+              "s": "There will be less pollution because people will use clean energy."
+            },
+            {
+              "t": "choice",
+              "q": "There will be ______ cars on the road if more people take the metro.",
+              "o": [
+                "fewer",
+                "less",
+                "much",
+                "little"
+              ],
+              "a": 0,
+              "e": "cars 是可数名词复数，「更少」用 fewer。",
+              "s": "There will be fewer cars on the road if more people take the metro."
+            },
+            {
+              "t": "choice",
+              "q": "We should plant ______ trees to make our city greener.",
+              "o": [
+                "less",
+                "fewer",
+                "more",
+                "much"
+              ],
+              "a": 2,
+              "e": "多种树：more trees。",
+              "s": "We should plant more trees to make our city greener."
+            },
+            {
+              "t": "fill",
+              "q": "I want to spend ______ (更少的) time on my phone.",
+              "a": [
+                "less"
+              ],
+              "e": "time 不可数，用 less。",
+              "s": "I want to spend less time on my phone."
+            },
+            {
+              "t": "fill",
+              "q": "There will be ______ (更少的) traffic accidents in the future.",
+              "a": [
+                "fewer"
+              ],
+              "e": "accidents 可数复数，用 fewer。",
+              "s": "There will be fewer traffic accidents in the future."
+            }
+          ]
+        },
+        {
+          "id": "8a-u7-shall",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "约定与建议：Shall we …?",
+          "explain": "提建议：Shall we + 动词原形 …? / Let's … / How about + doing …? / What about …?\n约时间地点：When / Where shall we meet? — Let's meet at …\n回应：Sure. / Great! / Good idea. / Sorry, I'm busy then.\n表示「顺利的话」：If everything goes well, …",
+          "examples": [
+            {
+              "en": "Shall we meet at the cinema at five o'clock?",
+              "zh": "我们五点在电影院见面好吗？"
+            },
+            {
+              "en": "Shall we go to see the sci-fi film?",
+              "zh": "我们去看那部科幻电影好吗？"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— Shall we ______ basketball this afternoon?\n— Good idea!",
+              "o": [
+                "play",
+                "playing",
+                "to play",
+                "plays"
+              ],
+              "a": 0,
+              "e": "Shall we + 动词原形 …?",
+              "s": "— Shall we play basketball this afternoon?\n— Good idea!"
+            },
+            {
+              "t": "choice",
+              "q": "— How about ______ to the science museum?\n— Sounds great.",
+              "o": [
+                "go",
+                "going",
+                "to go",
+                "goes"
+              ],
+              "a": 1,
+              "e": "How about + doing …?",
+              "s": "— How about going to the science museum?\n— Sounds great."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ shall we meet?\n— At the school gate.",
+              "o": [
+                "When",
+                "Where",
+                "What",
+                "How"
+              ],
+              "a": 1,
+              "e": "答语是地点，用 Where。",
+              "s": "— Where shall we meet?\n— At the school gate."
+            },
+            {
+              "t": "choice",
+              "q": "— Shall we go to the concert tonight?\n— ______ I have to study for the test.",
+              "o": [
+                "Sure.",
+                "Sorry, I can't.",
+                "Good idea.",
+                "Yes, let's."
+              ],
+              "a": 1,
+              "e": "后面说要复习考试，是拒绝。",
+              "s": "— Shall we go to the concert tonight?\n— Sorry, I can't. I have to study for the test."
+            },
+            {
+              "t": "order",
+              "w": [
+                "meet",
+                "shall",
+                "Where",
+                "we"
+              ],
+              "a": "Where shall we meet?",
+              "e": "Where shall we …? 我们在哪里……？",
+              "s": "Where shall we meet?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-8",
+      "points": [
+        {
+          "id": "8a-u8-if",
+          "cat": "grammar",
+          "kp": "if条件状语从句",
+          "title": "if 条件句：主将从现",
+          "explain": "if 引导的条件状语从句，表示「如果……就……」。\n谈将来可能发生的事：主句用一般将来时，从句用一般现在时（主将从现）。\nIf it rains tomorrow, we will stay at home.（不说 If it will rain）\n主句也可以是祈使句或含情态动词：If you need help, call me. / If you are tired, you can have a rest.\n谈一般事实或规律时，主句和从句都用一般现在时：If you want to solve the problem, a face-to-face talk usually works the best.\nif 从句可以放在句首（后面加逗号），也可以放在句尾（不加逗号）。",
+          "examples": [
+            {
+              "en": "If the rehearsal ends at 7:00 p.m., I'll pick you up at 7:15 p.m.",
+              "zh": "如果排练晚上7点结束，我7点15分来接你。"
+            },
+            {
+              "en": "If you stay calm and say sorry, it will help.",
+              "zh": "如果你保持冷静并道歉，会有帮助的。"
+            },
+            {
+              "en": "Texting can make things worse if you're not careful with your words.",
+              "zh": "如果你说话不注意，发短信会让事情变得更糟。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "If it ______ tomorrow, we will go to the park.",
+              "o": [
+                "is sunny",
+                "will be sunny",
+                "was sunny",
+                "be sunny"
+              ],
+              "a": 0,
+              "e": "主将从现：if 从句用一般现在时。",
+              "s": "If it is sunny tomorrow, we will go to the park."
+            },
+            {
+              "t": "choice",
+              "q": "If you study hard, you ______ the exam.",
+              "o": [
+                "pass",
+                "passed",
+                "will pass",
+                "are passing"
+              ],
+              "a": 2,
+              "e": "主将从现：主句用一般将来时 will pass。",
+              "s": "If you study hard, you will pass the exam."
+            },
+            {
+              "t": "choice",
+              "q": "I'll call you if he ______ back.",
+              "o": [
+                "come",
+                "comes",
+                "will come",
+                "came"
+              ],
+              "a": 1,
+              "e": "if 从句用一般现在时，主语 he 用三单 comes。",
+              "s": "I'll call you if he comes back."
+            },
+            {
+              "t": "choice",
+              "q": "If you ______ help, please ask me.",
+              "o": [
+                "need",
+                "will need",
+                "needs",
+                "needed"
+              ],
+              "a": 0,
+              "e": "主句是祈使句，从句用一般现在时 need。",
+              "s": "If you need help, please ask me."
+            },
+            {
+              "t": "choice",
+              "q": "— Will you go to the party tomorrow?\n— Yes, if I ______ free.",
+              "o": [
+                "will be",
+                "am",
+                "was",
+                "be"
+              ],
+              "a": 1,
+              "e": "if 从句用一般现在时 am。",
+              "s": "— Will you go to the party tomorrow?\n— Yes, if I am free."
+            },
+            {
+              "t": "fill",
+              "q": "If we ______ (have) a face-to-face meeting, we will understand each other better.",
+              "a": [
+                "have"
+              ],
+              "e": "主将从现：从句用一般现在时 have。",
+              "s": "If we have a face-to-face meeting, we will understand each other better."
+            },
+            {
+              "t": "fill",
+              "q": "If I go to Beijing, I ______ (visit) the Great Wall.",
+              "a": [
+                "will visit",
+                "'ll visit"
+              ],
+              "e": "主句用一般将来时 will visit。",
+              "s": "If I go to Beijing, I will visit the Great Wall."
+            },
+            {
+              "t": "fill",
+              "q": "If she ______ (not hurry), she will miss the bus.",
+              "a": [
+                "doesn't hurry",
+                "does not hurry"
+              ],
+              "e": "从句用一般现在时的否定，主语 she 用 doesn't。",
+              "s": "If she doesn't hurry, she will miss the bus."
+            }
+          ]
+        },
+        {
+          "id": "8a-u8-communication",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "沟通技巧与常用表达",
+          "explain": "交流方式：face to face 面对面　text message 短信　make a phone call 打电话　in person 亲自\n好的交谈：pay attention to … 注意　show interest in … 对……表现出兴趣　be a good listener 做好的倾听者　move on to another topic 换话题\n和好：make up (with sb) 和好　argue with sb 和某人争吵\n邀请信：We would like to invite you to … / We are looking forward to your reply. / Yours sincerely,",
+          "examples": [
+            {
+              "en": "If you want to solve the problem, a face-to-face talk usually works the best.",
+              "zh": "如果你想解决问题，面对面交谈通常效果最好。"
+            },
+            {
+              "en": "Pay attention to your body language.",
+              "zh": "注意你的肢体语言。"
+            },
+            {
+              "en": "We are looking forward to your reply.",
+              "zh": "我们期待您的回复。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "Sometimes my friends and I argue but don't know how to make ______.",
+              "o": [
+                "up",
+                "out",
+                "off",
+                "on"
+              ],
+              "a": 0,
+              "e": "make up 和好。",
+              "s": "Sometimes my friends and I argue but don't know how to make up."
+            },
+            {
+              "t": "choice",
+              "q": "Pay attention ______ the speaker's body language.",
+              "o": [
+                "at",
+                "on",
+                "to",
+                "for"
+              ],
+              "a": 2,
+              "e": "pay attention to … 注意……",
+              "s": "Pay attention to the speaker's body language."
+            },
+            {
+              "t": "choice",
+              "q": "We are looking forward to ______ from you.",
+              "o": [
+                "hear",
+                "hearing",
+                "heard",
+                "hears"
+              ],
+              "a": 1,
+              "e": "look forward to 中的 to 是介词，后接 doing。",
+              "s": "We are looking forward to hearing from you."
+            },
+            {
+              "t": "choice",
+              "q": "If you don't agree with others, don't argue ______ them.",
+              "o": [
+                "to",
+                "with",
+                "at",
+                "for"
+              ],
+              "a": 1,
+              "e": "argue with sb 和某人争吵。",
+              "s": "If you don't agree with others, don't argue with them."
+            },
+            {
+              "t": "choice",
+              "q": "— What do you think makes a good ______?\n— Someone who listens carefully and asks questions.",
+              "o": [
+                "listener",
+                "speaker",
+                "stranger",
+                "writer"
+              ],
+              "a": 0,
+              "e": "认真听、会提问的是好的倾听者 listener。",
+              "s": "— What do you think makes a good listener?\n— Someone who listens carefully and asks questions."
+            },
+            {
+              "t": "fill",
+              "q": "I want to talk to him ______ (亲自), not by phone.",
+              "a": [
+                "in person"
+              ],
+              "e": "in person 亲自。",
+              "s": "I want to talk to him in person, not by phone."
+            }
+          ]
+        },
+        {
+          "id": "8a-u8-take-place",
+          "cat": "sentence",
+          "kp": "动词短语",
+          "title": "活动通知：take place / offer / benefit",
+          "explain": "take place 发生、举行（多指有计划的活动，没有被动语态）：The event will take place at 9 a.m. on 10th January.\nhappen 发生（多指偶然的事）\noffer sb sth / offer sth to sb 提供　offer to do sth 主动提出做某事\nbenefit from … 从……获益\ncover the costs 承担费用",
+          "examples": [
+            {
+              "en": "The event will take place at 9 a.m. on 10th January.",
+              "zh": "活动将于1月10日上午9点举行。"
+            },
+            {
+              "en": "The event is an excellent opportunity for students, parents, and teachers to hear new opinions and ideas.",
+              "zh": "这次活动是学生、家长和老师听取新观点和新想法的绝佳机会。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "The school sports meeting will ______ next Friday.",
+              "o": [
+                "take place",
+                "take part",
+                "take care",
+                "take off"
+              ],
+              "a": 0,
+              "e": "take place 举行（有计划的活动）。",
+              "s": "The school sports meeting will take place next Friday."
+            },
+            {
+              "t": "choice",
+              "q": "What ______ to the old man? He looks sad.",
+              "o": [
+                "took place",
+                "happened",
+                "was taken place",
+                "offered"
+              ],
+              "a": 1,
+              "e": "happen to sb 某人发生了（意外的）事。",
+              "s": "What happened to the old man? He looks sad."
+            },
+            {
+              "t": "choice",
+              "q": "Students can benefit a lot ______ reading every day.",
+              "o": [
+                "to",
+                "from",
+                "with",
+                "at"
+              ],
+              "a": 1,
+              "e": "benefit from … 从……获益。",
+              "s": "Students can benefit a lot from reading every day."
+            },
+            {
+              "t": "fill",
+              "q": "He ______ (主动提出) to help me with my maths yesterday.",
+              "a": [
+                "offered"
+              ],
+              "e": "offer to do sth 主动提出做某事；yesterday 用过去式。",
+              "s": "He offered to help me with my maths yesterday."
+            },
+            {
+              "t": "fill",
+              "q": "This is a good ______ (机会) to practise speaking English.",
+              "a": [
+                "opportunity",
+                "chance"
+              ],
+              "e": "opportunity / chance 机会。",
+              "s": "This is a good opportunity to practise speaking English."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

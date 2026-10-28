@@ -1,0 +1,1874 @@
+{
+  "book": "7b",
+  "cats": [
+    {
+      "id": "grammar",
+      "name": "语法",
+      "desc": "特殊疑问句、名词复数、祈使句、情态动词、名词性物主代词、频度副词、可数与不可数名词、现在进行时、一般过去时……"
+    },
+    {
+      "id": "sentence",
+      "name": "句型与交际",
+      "desc": "谈动物、说规则、谈健身、点餐、打电话、谈天气、谈游学、讲故事等课本重点句型"
+    }
+  ],
+  "units": [
+    {
+      "unit": "unit-1",
+      "points": [
+        {
+          "id": "7b-u1-wh",
+          "cat": "grammar",
+          "kp": "特殊疑问句",
+          "title": "特殊疑问句：问动物",
+          "explain": "特殊疑问词放句首，后面接一般疑问句语序。\nWhat 什么：What animals do you like?\nWhy 为什么：Why do you like pandas? — Because they're cute.\nWhere 哪里：Where are they from? — They're from China.\nHow 怎样：How do elephants help people?\n回答特殊疑问句不用 Yes / No。",
+          "examples": [
+            {
+              "en": "Why do you like penguins so much?",
+              "zh": "你为什么这么喜欢企鹅？"
+            },
+            {
+              "en": "Where are they from?",
+              "zh": "它们来自哪里？"
+            },
+            {
+              "en": "What's your favourite animal?",
+              "zh": "你最喜欢的动物是什么？"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— ______ do you like koalas?\n— Because they're cute.",
+              "o": [
+                "What",
+                "Why",
+                "Where",
+                "How"
+              ],
+              "a": 1,
+              "e": "答语用 Because 说明原因，问句用 Why。",
+              "s": "— Why do you like koalas?\n— Because they're cute."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ are the giraffes from?\n— They're from Africa.",
+              "o": [
+                "Where",
+                "What",
+                "Who",
+                "When"
+              ],
+              "a": 0,
+              "e": "答语说「来自非洲」，问地点用 Where。",
+              "s": "— Where are the giraffes from?\n— They're from Africa."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ animals do you like?\n— I like dolphins.",
+              "o": [
+                "How",
+                "Why",
+                "What",
+                "Where"
+              ],
+              "a": 2,
+              "e": "问「什么动物」用 What + 名词。",
+              "s": "— What animals do you like?\n— I like dolphins."
+            },
+            {
+              "t": "choice",
+              "q": "— Why don't you like snakes?\n— ______ they're scary.",
+              "o": [
+                "So",
+                "But",
+                "Because",
+                "And"
+              ],
+              "a": 2,
+              "e": "回答 Why 用 Because。",
+              "s": "— Why don't you like snakes?\n— Because they're scary."
+            },
+            {
+              "t": "fill",
+              "q": "— ______ is your favourite animal?\n— The panda.",
+              "a": [
+                "What"
+              ],
+              "e": "问「最喜欢的动物是什么」用 What。",
+              "s": "— What is your favourite animal?\n— The panda."
+            },
+            {
+              "t": "order",
+              "w": [
+                "do",
+                "like",
+                "why",
+                "elephants",
+                "you",
+                "?"
+              ],
+              "a": "Why do you like elephants?",
+              "e": "Why + do + 主语 + 动词原形。",
+              "s": "Why do you like elephants?"
+            }
+          ]
+        },
+        {
+          "id": "7b-u1-plural",
+          "cat": "grammar",
+          "kp": "名词复数",
+          "title": "名词复数：规则与不规则变化",
+          "explain": "① 一般加 -s：cat → cats，giraffe → giraffes\n② 以 s, x, sh, ch 结尾加 -es：fox → foxes，box → boxes\n③ 辅音字母 + y 结尾，变 y 为 i 加 -es：butterfly → butterflies\n④ 以 f / fe 结尾，多变 f 为 v 加 -es：wolf → wolves，knife → knives\n⑤ 不规则：sheep → sheep，fish → fish，deer → deer，mouse → mice，goose → geese，man → men",
+          "examples": [
+            {
+              "en": "They have large ears and long trunks.",
+              "zh": "它们有大耳朵和长鼻子。"
+            },
+            {
+              "en": "There are whales, Arctic foxes and many more.",
+              "zh": "那里有鲸、北极狐等许多动物。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "There are three ______ in the forest.",
+              "o": [
+                "fox",
+                "foxs",
+                "foxes",
+                "foxies"
+              ],
+              "a": 2,
+              "e": "以 x 结尾的名词加 -es：foxes。",
+              "s": "There are three foxes in the forest."
+            },
+            {
+              "t": "choice",
+              "q": "Look! Many ______ are eating grass on the hill.",
+              "o": [
+                "sheep",
+                "sheeps",
+                "sheepes",
+                "a sheep"
+              ],
+              "a": 0,
+              "e": "sheep 单复数同形。",
+              "s": "Look! Many sheep are eating grass on the hill."
+            },
+            {
+              "t": "choice",
+              "q": "I can see two ______ in the picture.",
+              "o": [
+                "wolf",
+                "wolfs",
+                "wolves",
+                "wolfes"
+              ],
+              "a": 2,
+              "e": "wolf 变 f 为 v 加 -es：wolves。",
+              "s": "I can see two wolves in the picture."
+            },
+            {
+              "t": "choice",
+              "q": "Some ______ are flying over the flowers.",
+              "o": [
+                "butterfly",
+                "butterflys",
+                "butterflies",
+                "butterflyes"
+              ],
+              "a": 2,
+              "e": "辅音字母 + y 结尾，变 y 为 i 加 -es。",
+              "s": "Some butterflies are flying over the flowers."
+            },
+            {
+              "t": "fill",
+              "q": "The cat is catching two ______ (mouse).",
+              "a": [
+                "mice"
+              ],
+              "e": "mouse 的复数是不规则的 mice。",
+              "s": "The cat is catching two mice."
+            },
+            {
+              "t": "fill",
+              "q": "There are many ______ (deer) in the forest.",
+              "a": [
+                "deer"
+              ],
+              "e": "deer 单复数同形。",
+              "s": "There are many deer in the forest."
+            }
+          ]
+        },
+        {
+          "id": "7b-u1-animals",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "谈论喜欢的动物",
+          "explain": "问喜好：What's your favourite animal? / What animals do you like?\n说理由：I like … because they're cute / smart / friendly / playful.\n说不喜欢：I don't like … because they're scary / dangerous.\n描述外形：They have long necks / big ears / soft fur.",
+          "examples": [
+            {
+              "en": "The penguin is my favourite animal.",
+              "zh": "企鹅是我最喜欢的动物。"
+            },
+            {
+              "en": "They are very playful and love to play in the water.",
+              "zh": "它们非常爱玩，喜欢在水里嬉戏。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— Do you like lions?\n— ______ They're scary.",
+              "o": [
+                "Yes, I do.",
+                "No, I don't.",
+                "Yes, they are.",
+                "No, they aren't."
+              ],
+              "a": 1,
+              "e": "后一句说「它们很吓人」，所以不喜欢：No, I don't.",
+              "s": "— Do you like lions?\n— No, I don't. They're scary."
+            },
+            {
+              "t": "choice",
+              "q": "Giraffes have long ______. They can eat leaves from tall trees.",
+              "o": [
+                "ears",
+                "tails",
+                "necks",
+                "noses"
+              ],
+              "a": 2,
+              "e": "长颈鹿脖子长，能吃到高树上的叶子。",
+              "s": "Giraffes have long necks. They can eat leaves from tall trees."
+            },
+            {
+              "t": "choice",
+              "q": "Dolphins are very ______. They love to play in the water.",
+              "o": [
+                "scary",
+                "playful",
+                "lazy",
+                "ugly"
+              ],
+              "a": 1,
+              "e": "「喜欢在水里玩」说明它们爱玩：playful。",
+              "s": "Dolphins are very playful. They love to play in the water."
+            },
+            {
+              "t": "fill",
+              "q": "Elephants are in ______ (危险) because people kill them for their ivory.",
+              "a": [
+                "danger"
+              ],
+              "e": "in danger 处于危险之中。",
+              "s": "Elephants are in danger because people kill them for their ivory."
+            },
+            {
+              "t": "order",
+              "w": [
+                "is",
+                "favourite",
+                "my",
+                "animal",
+                "the",
+                "panda"
+              ],
+              "a": "The panda is my favourite animal.",
+              "e": "主语 The panda + is + 表语。",
+              "s": "The panda is my favourite animal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-2",
+      "points": [
+        {
+          "id": "7b-u2-imperative",
+          "cat": "grammar",
+          "kp": "祈使句",
+          "title": "祈使句：说规则",
+          "explain": "祈使句用来发出命令、提出要求，一般省略主语 you，动词用原形开头。\n肯定：Be quiet. / Arrive on time.\n否定：Don't + 动词原形：Don't run in the hallways. / Don't be late.\n告示上常用 No + 名词 / doing：No food. / No running.",
+          "examples": [
+            {
+              "en": "Don't run in the hallway, please.",
+              "zh": "请不要在走廊里跑。"
+            },
+            {
+              "en": "Be polite and treat one another with respect.",
+              "zh": "要有礼貌，互相尊重。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "______ late for class again, Tom.",
+              "o": [
+                "Don't",
+                "Don't be",
+                "Not be",
+                "No"
+              ],
+              "a": 1,
+              "e": "late 是形容词，否定祈使句要用 Don't be。",
+              "s": "Don't be late for class again, Tom."
+            },
+            {
+              "t": "choice",
+              "q": "______ your hands before dinner.",
+              "o": [
+                "Wash",
+                "Washing",
+                "To wash",
+                "Washes"
+              ],
+              "a": 0,
+              "e": "祈使句用动词原形开头。",
+              "s": "Wash your hands before dinner."
+            },
+            {
+              "t": "choice",
+              "q": "Please ______ quiet in the library.",
+              "o": [
+                "is",
+                "are",
+                "be",
+                "being"
+              ],
+              "a": 2,
+              "e": "祈使句里 be 动词用原形 be。",
+              "s": "Please be quiet in the library."
+            },
+            {
+              "t": "choice",
+              "q": "The sign says \"______\". We can't eat here.",
+              "o": [
+                "No food",
+                "Not food",
+                "Don't food",
+                "No foods"
+              ],
+              "a": 0,
+              "e": "告示常用 No + 名词：No food. 禁止饮食。",
+              "s": "The sign says \"No food\". We can't eat here."
+            },
+            {
+              "t": "fill",
+              "q": "______ (not run) in the hallways.",
+              "a": [
+                "Don't run",
+                "Do not run"
+              ],
+              "e": "否定祈使句：Don't + 动词原形。",
+              "s": "Don't run in the hallways."
+            },
+            {
+              "t": "order",
+              "w": [
+                "the",
+                "litter",
+                "don't",
+                "in",
+                "park"
+              ],
+              "a": "Don't litter in the park.",
+              "e": "否定祈使句 Don't + 动词原形 + 地点。",
+              "s": "Don't litter in the park."
+            }
+          ]
+        },
+        {
+          "id": "7b-u2-must",
+          "cat": "grammar",
+          "kp": "情态动词后接动词原形",
+          "title": "can / have to / must 谈规则",
+          "explain": "can 可以；can't 不可以：We can't eat in class.\nmust 必须（说话人认为必须）：You must wear a uniform.\nmustn't 禁止：You mustn't fight.\nhave to 不得不（客观要求），主语是三单时用 has to：He has to get up at six.\n问句：Do we have to …? — Yes, we do. / No, we don't (have to).\n情态动词后面都接动词原形。",
+          "examples": [
+            {
+              "en": "You have to wear a uniform because it builds school spirit.",
+              "zh": "你必须穿校服，因为它能培养集体精神。"
+            },
+            {
+              "en": "You mustn't be late for class.",
+              "zh": "上课不许迟到。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "We ______ wear uniforms at school. It's a rule.",
+              "o": [
+                "have to",
+                "has to",
+                "don't have to",
+                "can't to"
+              ],
+              "a": 0,
+              "e": "主语 We，用 have to 表示规则要求。",
+              "s": "We have to wear uniforms at school. It's a rule."
+            },
+            {
+              "t": "choice",
+              "q": "My sister ______ practise the piano every day.",
+              "o": [
+                "have to",
+                "has to",
+                "must to",
+                "can to"
+              ],
+              "a": 1,
+              "e": "主语是三单 My sister，用 has to。",
+              "s": "My sister has to practise the piano every day."
+            },
+            {
+              "t": "choice",
+              "q": "— Must we finish the homework today?\n— No, you ______. You can finish it tomorrow.",
+              "o": [
+                "mustn't",
+                "can't",
+                "needn't",
+                "aren't"
+              ],
+              "a": 2,
+              "e": "must 问句的否定回答用 needn't 或 don't have to。",
+              "s": "— Must we finish the homework today?\n— No, you needn't. You can finish it tomorrow."
+            },
+            {
+              "t": "choice",
+              "q": "You ______ play football in the classroom. It's dangerous.",
+              "o": [
+                "must",
+                "can",
+                "mustn't",
+                "have to"
+              ],
+              "a": 2,
+              "e": "「危险」，所以禁止：mustn't。",
+              "s": "You mustn't play football in the classroom. It's dangerous."
+            },
+            {
+              "t": "choice",
+              "q": "— Do you have to clean your room on weekends?\n— Yes, I ______.",
+              "o": [
+                "do",
+                "have",
+                "must",
+                "am"
+              ],
+              "a": 0,
+              "e": "Do you have to …? 用 do 回答。",
+              "s": "— Do you have to clean your room on weekends?\n— Yes, I do."
+            },
+            {
+              "t": "fill",
+              "q": "Students mustn't ______ (bring) phones to class.",
+              "a": [
+                "bring"
+              ],
+              "e": "情态动词 mustn't 后接动词原形。",
+              "s": "Students mustn't bring phones to class."
+            },
+            {
+              "t": "order",
+              "w": [
+                "to",
+                "has",
+                "he",
+                "bed",
+                "his",
+                "make"
+              ],
+              "a": "He has to make his bed.",
+              "e": "主语三单 + has to + 动词原形。",
+              "s": "He has to make his bed."
+            }
+          ]
+        },
+        {
+          "id": "7b-u2-advice",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "抱怨规则与给建议",
+          "explain": "说规则太多：There are too many rules! / I can't … because I have to …\n给建议：You should … / Why don't you …? / Try to …\n理解规则：Rules help us to be safe. / Some rules are important.",
+          "examples": [
+            {
+              "en": "I know some rules are important, but this is awful!",
+              "zh": "我知道有些规矩很重要，但这太糟糕了！"
+            },
+            {
+              "en": "Can you give these characters any advice?",
+              "zh": "你能给这些人物一些建议吗？"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— I always forget my homework.\n— ______ write a note on your desk?",
+              "o": [
+                "Why not",
+                "Why don't you",
+                "What about",
+                "How about"
+              ],
+              "a": 1,
+              "e": "Why don't you + 动词原形？给建议。",
+              "s": "— I always forget my homework.\n— Why don't you write a note on your desk?"
+            },
+            {
+              "t": "choice",
+              "q": "There are ______ rules in my family. I can't relax.",
+              "o": [
+                "too much",
+                "too many",
+                "much too",
+                "many too"
+              ],
+              "a": 1,
+              "e": "rules 是可数名词复数，用 too many。",
+              "s": "There are too many rules in my family. I can't relax."
+            },
+            {
+              "t": "choice",
+              "q": "Rules can help us ______ safe.",
+              "o": [
+                "stay",
+                "stays",
+                "staying",
+                "to staying"
+              ],
+              "a": 0,
+              "e": "help sb (to) do sth，这里用动词原形 stay。",
+              "s": "Rules can help us stay safe."
+            },
+            {
+              "t": "fill",
+              "q": "Can you give me some ______ (建议) on keeping my room tidy?",
+              "a": [
+                "advice"
+              ],
+              "e": "advice 建议，不可数名词。",
+              "s": "Can you give me some advice on keeping my room tidy?"
+            },
+            {
+              "t": "order",
+              "w": [
+                "late",
+                "school",
+                "can't",
+                "for",
+                "we",
+                "be"
+              ],
+              "a": "We can't be late for school.",
+              "e": "情态动词 can't + be + late for。",
+              "s": "We can't be late for school."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-3",
+      "points": [
+        {
+          "id": "7b-u3-possessive",
+          "cat": "grammar",
+          "kp": "物主代词",
+          "title": "名词性物主代词",
+          "explain": "形容词性物主代词后面必须跟名词：my book, his racket\n名词性物主代词 = 形容词性物主代词 + 名词，后面不再跟名词：\nmy → mine，your → yours，his → his，her → hers，its → its，our → ours，their → theirs\nIs this your racket? — No, it isn't mine. It's hers.\n问「谁的」用 Whose：Whose glove is this?",
+          "examples": [
+            {
+              "en": "Is this baseball glove yours?",
+              "zh": "这个棒球手套是你的吗？"
+            },
+            {
+              "en": "My skateboard is really cool, and so are theirs.",
+              "zh": "我的滑板很酷，他们的也是。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— Is this your tennis racket?\n— No, it isn't ______. It's Ella's.",
+              "o": [
+                "my",
+                "mine",
+                "me",
+                "I"
+              ],
+              "a": 1,
+              "e": "后面没有名词，用名词性物主代词 mine。",
+              "s": "— Is this your tennis racket?\n— No, it isn't mine. It's Ella's."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ T-shirt is this?\n— It's Tom's.",
+              "o": [
+                "Who",
+                "Whose",
+                "Who's",
+                "Which"
+              ],
+              "a": 1,
+              "e": "问「谁的」用 Whose + 名词。",
+              "s": "— Whose T-shirt is this?\n— It's Tom's."
+            },
+            {
+              "t": "choice",
+              "q": "This is not her cap. ______ is blue.",
+              "o": [
+                "Her",
+                "She",
+                "Hers",
+                "Herself"
+              ],
+              "a": 2,
+              "e": "作主语、后面无名词，用 Hers = her cap。",
+              "s": "This is not her cap. Hers is blue."
+            },
+            {
+              "t": "choice",
+              "q": "Our classroom is big, but ______ is bigger.",
+              "o": [
+                "their",
+                "theirs",
+                "them",
+                "they"
+              ],
+              "a": 1,
+              "e": "后面没有名词，用 theirs。",
+              "s": "Our classroom is big, but theirs is bigger."
+            },
+            {
+              "t": "fill",
+              "q": "— Are these gloves yours?\n— Yes, they're ______ (我的).",
+              "a": [
+                "mine"
+              ],
+              "e": "后面没有名词，用 mine。",
+              "s": "— Are these gloves yours?\n— Yes, they're mine."
+            },
+            {
+              "t": "fill",
+              "q": "The blue bike is ______ (他的), and the red one is mine.",
+              "a": [
+                "his"
+              ],
+              "e": "his 既是形容词性也是名词性物主代词。",
+              "s": "The blue bike is his, and the red one is mine."
+            },
+            {
+              "t": "order",
+              "w": [
+                "is",
+                "racket",
+                "whose",
+                "this",
+                "?"
+              ],
+              "a": "Whose racket is this?",
+              "e": "Whose + 名词 + is this?",
+              "s": "Whose racket is this?"
+            }
+          ]
+        },
+        {
+          "id": "7b-u3-frequency",
+          "cat": "grammar",
+          "kp": "频度副词",
+          "title": "频度副词与 How often",
+          "explain": "always（总是）> usually（通常）> often（经常）> sometimes（有时）> seldom / hardly ever（很少）> never（从不）\n位置：放在实义动词前、be 动词和情态动词后：I often play badminton. / She is always happy.\n问频率用 How often：How often do you exercise? — Three times a week.\n次数：once（一次）、twice（两次）、three times（三次）a week / a month",
+          "examples": [
+            {
+              "en": "How often do you do sport or exercise?",
+              "zh": "你多久做一次运动或锻炼？"
+            },
+            {
+              "en": "I play it twice a week, usually at weekends.",
+              "zh": "我一周打两次，通常在周末。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— ______ do you play basketball?\n— Twice a week.",
+              "o": [
+                "How long",
+                "How often",
+                "How many",
+                "How much"
+              ],
+              "a": 1,
+              "e": "答语是「一周两次」，问频率用 How often。",
+              "s": "— How often do you play basketball?\n— Twice a week."
+            },
+            {
+              "t": "choice",
+              "q": "I ______ play volleyball. I don't like it at all.",
+              "o": [
+                "always",
+                "usually",
+                "often",
+                "never"
+              ],
+              "a": 3,
+              "e": "「一点也不喜欢」，所以从不打：never。",
+              "s": "I never play volleyball. I don't like it at all."
+            },
+            {
+              "t": "choice",
+              "q": "Peter ______ late for school. He always gets up early.",
+              "o": [
+                "is never",
+                "never is",
+                "is always",
+                "always is"
+              ],
+              "a": 0,
+              "e": "频度副词放在 be 动词后；他总早起，所以从不迟到。",
+              "s": "Peter is never late for school. He always gets up early."
+            },
+            {
+              "t": "choice",
+              "q": "— How often does she go swimming?\n— ______.",
+              "o": [
+                "For two hours",
+                "Two hours ago",
+                "Once a week",
+                "In the pool"
+              ],
+              "a": 2,
+              "e": "How often 问频率，答 Once a week。",
+              "s": "— How often does she go swimming?\n— Once a week."
+            },
+            {
+              "t": "fill",
+              "q": "I go jogging three ______ (次) a week.",
+              "a": [
+                "times"
+              ],
+              "e": "三次及以上用 数字 + times。",
+              "s": "I go jogging three times a week."
+            },
+            {
+              "t": "fill",
+              "q": "My dad ______ (几乎从不) drinks coffee.",
+              "a": [
+                "hardly ever",
+                "seldom"
+              ],
+              "e": "hardly ever 几乎从不，放在实义动词前。",
+              "s": "My dad hardly ever drinks coffee."
+            },
+            {
+              "t": "order",
+              "w": [
+                "often",
+                "do",
+                "how",
+                "exercise",
+                "you",
+                "?"
+              ],
+              "a": "How often do you exercise?",
+              "e": "How often + do + 主语 + 动词原形？",
+              "s": "How often do you exercise?"
+            }
+          ]
+        },
+        {
+          "id": "7b-u3-fit",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "谈保持健康",
+          "explain": "问方式：How do you keep fit? — I jog / swim / work out every day.\n说好处：It keeps me fit. / It makes me feel good. / It builds team spirit.\n鼓励：Keep going! / Don't give up! / Practice makes perfect.",
+          "examples": [
+            {
+              "en": "I like skateboarding because it keeps me fit.",
+              "zh": "我喜欢玩滑板，因为它让我保持健康。"
+            },
+            {
+              "en": "I'm full of energy after jogging.",
+              "zh": "慢跑后我精力充沛。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— How do you keep ______?\n— I go swimming every weekend.",
+              "o": [
+                "fit",
+                "fat",
+                "fine",
+                "free"
+              ],
+              "a": 0,
+              "e": "keep fit 保持健康。",
+              "s": "— How do you keep fit?\n— I go swimming every weekend."
+            },
+            {
+              "t": "choice",
+              "q": "Exercise makes me ______ good.",
+              "o": [
+                "feel",
+                "to feel",
+                "feeling",
+                "feels"
+              ],
+              "a": 0,
+              "e": "make sb do sth，用动词原形 feel。",
+              "s": "Exercise makes me feel good."
+            },
+            {
+              "t": "choice",
+              "q": "— I can't do this trick.\n— Don't give up! Practice makes ______.",
+              "o": [
+                "perfect",
+                "progress",
+                "well",
+                "better"
+              ],
+              "a": 0,
+              "e": "Practice makes perfect. 熟能生巧。",
+              "s": "— I can't do this trick.\n— Don't give up! Practice makes perfect."
+            },
+            {
+              "t": "fill",
+              "q": "I'm full of ______ (能量) after playing basketball.",
+              "a": [
+                "energy"
+              ],
+              "e": "be full of energy 精力充沛。",
+              "s": "I'm full of energy after playing basketball."
+            },
+            {
+              "t": "order",
+              "w": [
+                "keeps",
+                "swimming",
+                "me",
+                "fit"
+              ],
+              "a": "Swimming keeps me fit.",
+              "e": "keep sb + 形容词：让某人保持……",
+              "s": "Swimming keeps me fit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-4",
+      "points": [
+        {
+          "id": "7b-u4-alternative",
+          "cat": "grammar",
+          "kp": "选择疑问句",
+          "title": "选择疑问句：or",
+          "explain": "提供两个或以上的选择，用 or 连接，读的时候 or 前升调、后降调。\nWould you like rice or noodles? — Noodles, please.\nWhich would you like, beef or mutton? — Beef, please.\n回答时直接选一个，不用 Yes / No。",
+          "examples": [
+            {
+              "en": "Would you like juice or coffee?",
+              "zh": "你想喝果汁还是咖啡？"
+            },
+            {
+              "en": "Which would you like, beef or mutton?",
+              "zh": "你想要哪个，牛肉还是羊肉？"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— Would you like tea ______ coffee?\n— Tea, please.",
+              "o": [
+                "and",
+                "or",
+                "but",
+                "so"
+              ],
+              "a": 1,
+              "e": "两者选一，用 or。",
+              "s": "— Would you like tea or coffee?\n— Tea, please."
+            },
+            {
+              "t": "choice",
+              "q": "— Is your pen red or blue?\n— ______",
+              "o": [
+                "Yes, it is.",
+                "No, it isn't.",
+                "It's blue.",
+                "It's a pen."
+              ],
+              "a": 2,
+              "e": "选择疑问句不用 Yes / No 回答，直接说出选项。",
+              "s": "— Is your pen red or blue?\n— It's blue."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ would you like, rice or dumplings?\n— Dumplings, please.",
+              "o": [
+                "What",
+                "Which",
+                "Where",
+                "Who"
+              ],
+              "a": 1,
+              "e": "在给定范围里选，用 Which。",
+              "s": "— Which would you like, rice or dumplings?\n— Dumplings, please."
+            },
+            {
+              "t": "fill",
+              "q": "Do you want chicken ______ fish for dinner?",
+              "a": [
+                "or"
+              ],
+              "e": "选择疑问句用 or 连接选项。",
+              "s": "Do you want chicken or fish for dinner?"
+            },
+            {
+              "t": "order",
+              "w": [
+                "or",
+                "you",
+                "like",
+                "noodles",
+                "would",
+                "rice",
+                "?"
+              ],
+              "a": "Would you like rice or noodles?",
+              "e": "Would you like A or B?",
+              "s": "Would you like rice or noodles?"
+            }
+          ]
+        },
+        {
+          "id": "7b-u4-countable",
+          "cat": "grammar",
+          "kp": "不可数名词",
+          "title": "可数与不可数名词（食物）",
+          "explain": "可数名词有复数：an apple → apples，a carrot → carrots\n不可数名词没有复数，不能直接用 a / an：water, milk, juice, rice, bread, meat, beef, tea\n表示数量：a glass of milk，two bowls of rice，a piece of bread\n问数量：How many + 可数名词复数？How much + 不可数名词？\nsome 用于肯定句和表示请求的疑问句，any 用于否定句和一般疑问句。",
+          "examples": [
+            {
+              "en": "But it often has lots of salt, fat, and sugar.",
+              "zh": "但它常常含有很多盐、脂肪和糖。"
+            },
+            {
+              "en": "Second, I don't drink enough water.",
+              "zh": "其次，我喝水不够。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "I'd like ______ milk, please.",
+              "o": [
+                "a",
+                "an",
+                "some",
+                "many"
+              ],
+              "a": 2,
+              "e": "milk 不可数，用 some。",
+              "s": "I'd like some milk, please."
+            },
+            {
+              "t": "choice",
+              "q": "— How ______ water do you drink every day?\n— Six glasses.",
+              "o": [
+                "many",
+                "much",
+                "often",
+                "long"
+              ],
+              "a": 1,
+              "e": "water 不可数，问数量用 How much。",
+              "s": "— How much water do you drink every day?\n— Six glasses."
+            },
+            {
+              "t": "choice",
+              "q": "There are some ______ on the table.",
+              "o": [
+                "bread",
+                "breads",
+                "tomatos",
+                "tomatoes"
+              ],
+              "a": 3,
+              "e": "tomato 复数加 -es；bread 不可数。",
+              "s": "There are some tomatoes on the table."
+            },
+            {
+              "t": "choice",
+              "q": "Is there ______ juice in the fridge?",
+              "o": [
+                "some",
+                "any",
+                "many",
+                "a"
+              ],
+              "a": 1,
+              "e": "一般疑问句用 any。",
+              "s": "Is there any juice in the fridge?"
+            },
+            {
+              "t": "fill",
+              "q": "My mum bought three ______ (bottle) of juice.",
+              "a": [
+                "bottles"
+              ],
+              "e": "three bottles of juice 三瓶果汁，变的是 bottle。",
+              "s": "My mum bought three bottles of juice."
+            },
+            {
+              "t": "fill",
+              "q": "We need two ______ (potato) for the soup.",
+              "a": [
+                "potatoes"
+              ],
+              "e": "potato 复数加 -es。",
+              "s": "We need two potatoes for the soup."
+            }
+          ]
+        },
+        {
+          "id": "7b-u4-order",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "点餐用语",
+          "explain": "服务员：What would you like? / Would you like anything to drink? / Anything else?\n顾客：I'd like … / Can I have …? / That's all, thanks. / Can I have the bill, please?\nWould you like …? 的回答：Yes, please. / No, thanks.",
+          "examples": [
+            {
+              "en": "Here is a menu for you.",
+              "zh": "给您菜单。"
+            },
+            {
+              "en": "Would you like the bill now?",
+              "zh": "您现在要结账吗？"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— What would you like?\n— ______",
+              "o": [
+                "I like noodles.",
+                "I'd like noodles, please.",
+                "Yes, please.",
+                "It's delicious."
+              ],
+              "a": 1,
+              "e": "点餐回答用 I'd like …。",
+              "s": "— What would you like?\n— I'd like noodles, please."
+            },
+            {
+              "t": "choice",
+              "q": "— Would you like some juice?\n— ______ I'm not thirsty.",
+              "o": [
+                "Yes, please.",
+                "No, thanks.",
+                "Yes, I would.",
+                "Here you are."
+              ],
+              "a": 1,
+              "e": "「不渴」，所以拒绝：No, thanks.",
+              "s": "— Would you like some juice?\n— No, thanks. I'm not thirsty."
+            },
+            {
+              "t": "choice",
+              "q": "— Anything else?\n— ______, thanks.",
+              "o": [
+                "That's all",
+                "That's right",
+                "Not at all",
+                "You're welcome"
+              ],
+              "a": 0,
+              "e": "That's all. 就这些。",
+              "s": "— Anything else?\n— That's all, thanks."
+            },
+            {
+              "t": "fill",
+              "q": "Can I have the ______ (账单), please?",
+              "a": [
+                "bill"
+              ],
+              "e": "结账：Can I have the bill?",
+              "s": "Can I have the bill, please?"
+            },
+            {
+              "t": "order",
+              "w": [
+                "like",
+                "would",
+                "what",
+                "you",
+                "?"
+              ],
+              "a": "What would you like?",
+              "e": "What would you like? 您想要什么？",
+              "s": "What would you like?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-5",
+      "points": [
+        {
+          "id": "7b-u5-continuous",
+          "cat": "grammar",
+          "kp": "现在进行时",
+          "title": "现在进行时（一）：正在做什么",
+          "explain": "表示说话时正在进行的动作：am / is / are + 动词-ing。\n常和 now, right now, at the moment, Look!, Listen! 连用。\n-ing 变化：① 一般加 -ing：read → reading ② 去哑 e 加 -ing：make → making ③ 重读闭音节双写末尾字母：run → running，swim → swimming，shop → shopping\n疑问：Are you watching TV? — Yes, I am. / What are you doing?",
+          "examples": [
+            {
+              "en": "Right now my family and I are visiting friends in Canada.",
+              "zh": "现在我和家人正在加拿大拜访朋友。"
+            },
+            {
+              "en": "Some people are rushing to get home from work.",
+              "zh": "一些人正赶着下班回家。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "Look! The children ______ in the park.",
+              "o": [
+                "play",
+                "plays",
+                "are playing",
+                "is playing"
+              ],
+              "a": 2,
+              "e": "Look! 提示正在进行，children 是复数，用 are playing。",
+              "s": "Look! The children are playing in the park."
+            },
+            {
+              "t": "choice",
+              "q": "— What ______ your mother doing?\n— She is cooking.",
+              "o": [
+                "is",
+                "are",
+                "does",
+                "do"
+              ],
+              "a": 0,
+              "e": "your mother 是三单，用 is。",
+              "s": "— What is your mother doing?\n— She is cooking."
+            },
+            {
+              "t": "choice",
+              "q": "Listen! Someone ______ at the door.",
+              "o": [
+                "knock",
+                "knocks",
+                "is knocking",
+                "are knocking"
+              ],
+              "a": 2,
+              "e": "Listen! 提示正在进行，someone 用 is knocking。",
+              "s": "Listen! Someone is knocking at the door."
+            },
+            {
+              "t": "choice",
+              "q": "— Are you doing your homework?\n— ______ I'm reading a book.",
+              "o": [
+                "Yes, I am.",
+                "No, I'm not.",
+                "Yes, I do.",
+                "No, I don't."
+              ],
+              "a": 1,
+              "e": "后面说在看书，所以否定回答 No, I'm not.",
+              "s": "— Are you doing your homework?\n— No, I'm not. I'm reading a book."
+            },
+            {
+              "t": "fill",
+              "q": "The boys are ______ (swim) in the river now.",
+              "a": [
+                "swimming"
+              ],
+              "e": "swim 双写 m 加 -ing。",
+              "s": "The boys are swimming in the river now."
+            },
+            {
+              "t": "fill",
+              "q": "Mum is ______ (make) dumplings in the kitchen.",
+              "a": [
+                "making"
+              ],
+              "e": "make 去 e 加 -ing。",
+              "s": "Mum is making dumplings in the kitchen."
+            },
+            {
+              "t": "order",
+              "w": [
+                "are",
+                "what",
+                "doing",
+                "you",
+                "now",
+                "?"
+              ],
+              "a": "What are you doing now?",
+              "e": "What + are + 主语 + doing？",
+              "s": "What are you doing now?"
+            }
+          ]
+        },
+        {
+          "id": "7b-u5-phone",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "打电话用语",
+          "explain": "开头：Hello, this is … (speaking). / Is that …? / May I speak to …?\n对方不在：Sorry, he's out at the moment. / Can I take a message?\n留言：Could you ask him to call me back? / Would you like to leave a message?\n电话里介绍自己用 This is …，不用 I am …。",
+          "examples": [
+            {
+              "en": "Can I take a message?",
+              "zh": "我可以帮你捎个口信吗？"
+            },
+            {
+              "en": "Could you ask him to call me back, please?",
+              "zh": "请你让他给我回个电话好吗？"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— Hello! ______ Jane speaking.\n— Hi, Jane. This is Tom.",
+              "o": [
+                "I'm",
+                "This is",
+                "That is",
+                "It's me"
+              ],
+              "a": 1,
+              "e": "打电话介绍自己用 This is …。",
+              "s": "— Hello! This is Jane speaking.\n— Hi, Jane. This is Tom."
+            },
+            {
+              "t": "choice",
+              "q": "— May I speak to Mr Li?\n— Sorry, he's out. ______",
+              "o": [
+                "Can I take a message?",
+                "Who are you?",
+                "Hold on, please.",
+                "Here you are."
+              ],
+              "a": 0,
+              "e": "对方不在，主动提出帮忙捎口信。",
+              "s": "— May I speak to Mr Li?\n— Sorry, he's out. Can I take a message?"
+            },
+            {
+              "t": "choice",
+              "q": "Could you ask her to ______ me back?",
+              "o": [
+                "call",
+                "calls",
+                "calling",
+                "to call"
+              ],
+              "a": 0,
+              "e": "ask sb to do sth，to 后接动词原形 call。",
+              "s": "Could you ask her to call me back?"
+            },
+            {
+              "t": "fill",
+              "q": "Would you like to ______ (留) a message?",
+              "a": [
+                "leave"
+              ],
+              "e": "leave a message 留个口信。",
+              "s": "Would you like to leave a message?"
+            },
+            {
+              "t": "order",
+              "w": [
+                "is",
+                "speaking",
+                "this",
+                "Mary"
+              ],
+              "a": "This is Mary speaking.",
+              "e": "电话用语：This is … speaking.",
+              "s": "This is Mary speaking."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-6",
+      "points": [
+        {
+          "id": "7b-u6-weather",
+          "cat": "grammar",
+          "kp": "现在进行时",
+          "title": "现在进行时（二）：描述天气与活动",
+          "explain": "描述此刻的天气和人们在做的事：It's raining. / The sun is shining. / Many people are skating.\n问天气：How's the weather? = What's the weather like? — It's sunny / cloudy / windy / snowing.\n天气形容词：rain → rainy，snow → snowy，sun → sunny，wind → windy，cloud → cloudy，storm → stormy",
+          "examples": [
+            {
+              "en": "It's raining and the wind is blowing hard.",
+              "zh": "在下雨，风刮得很猛。"
+            },
+            {
+              "en": "Look, the sun is shining!",
+              "zh": "看，太阳出来了！"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— How's the weather in Beijing?\n— It's ______.",
+              "o": [
+                "rain",
+                "sun",
+                "snowy",
+                "wind"
+              ],
+              "a": 2,
+              "e": "描述天气用形容词：snowy。",
+              "s": "— How's the weather in Beijing?\n— It's snowy."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ the weather like today?\n— It's cloudy.",
+              "o": [
+                "How's",
+                "What's",
+                "How",
+                "What"
+              ],
+              "a": 1,
+              "e": "What's the weather like? = How's the weather?",
+              "s": "— What's the weather like today?\n— It's cloudy."
+            },
+            {
+              "t": "choice",
+              "q": "It's ______ hard now. Take an umbrella.",
+              "o": [
+                "rain",
+                "rains",
+                "raining",
+                "rainy"
+              ],
+              "a": 2,
+              "e": "It's raining. 正在下雨，用现在进行时。",
+              "s": "It's raining hard now. Take an umbrella."
+            },
+            {
+              "t": "choice",
+              "q": "Many people ______ on the ice right now.",
+              "o": [
+                "skate",
+                "skates",
+                "are skating",
+                "is skating"
+              ],
+              "a": 2,
+              "e": "right now 表示正在进行，主语复数用 are skating。",
+              "s": "Many people are skating on the ice right now."
+            },
+            {
+              "t": "fill",
+              "q": "It's very ______ (wind) today. Let's fly a kite.",
+              "a": [
+                "windy"
+              ],
+              "e": "wind 加 -y 变形容词 windy。",
+              "s": "It's very windy today. Let's fly a kite."
+            },
+            {
+              "t": "fill",
+              "q": "Look! The sun ______ (shine) brightly.",
+              "a": [
+                "is shining"
+              ],
+              "e": "Look! 提示正在进行：is shining。",
+              "s": "Look! The sun is shining brightly."
+            },
+            {
+              "t": "order",
+              "w": [
+                "the",
+                "like",
+                "what's",
+                "weather",
+                "?"
+              ],
+              "a": "What's the weather like?",
+              "e": "问天气：What's the weather like?",
+              "s": "What's the weather like?"
+            }
+          ]
+        },
+        {
+          "id": "7b-u6-feel",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "谈天气对心情和活动的影响",
+          "explain": "天气影响心情：Sunny days make me happy. / I feel down on rainy days.\n提建议：It's a good day for … / Let's … because it's sunny.\n回应：Sounds great! / Lucky you!",
+          "examples": [
+            {
+              "en": "I'm always happy, rain or shine!",
+              "zh": "无论晴雨，我总是很开心！"
+            },
+            {
+              "en": "Well, it affects where we go, what we do, and what we wear.",
+              "zh": "嗯，它影响我们去哪里、做什么、穿什么。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— It's sunny and warm here.\n— ______! It's raining here.",
+              "o": [
+                "Lucky you",
+                "Sorry",
+                "Not at all",
+                "Of course"
+              ],
+              "a": 0,
+              "e": "对方那里天气好，表示羡慕：Lucky you!",
+              "s": "— It's sunny and warm here.\n— Lucky you! It's raining here."
+            },
+            {
+              "t": "choice",
+              "q": "Rainy weather sometimes makes people ______ sad.",
+              "o": [
+                "feel",
+                "to feel",
+                "feeling",
+                "felt"
+              ],
+              "a": 0,
+              "e": "make sb do sth。",
+              "s": "Rainy weather sometimes makes people feel sad."
+            },
+            {
+              "t": "choice",
+              "q": "The weather ______ what we wear.",
+              "o": [
+                "affect",
+                "affects",
+                "affecting",
+                "to affect"
+              ],
+              "a": 1,
+              "e": "主语 The weather 是三单，用 affects。",
+              "s": "The weather affects what we wear."
+            },
+            {
+              "t": "fill",
+              "q": "We play football every Saturday, rain or ______ (晴).",
+              "a": [
+                "shine"
+              ],
+              "e": "rain or shine 无论晴雨。",
+              "s": "We play football every Saturday, rain or shine."
+            },
+            {
+              "t": "order",
+              "w": [
+                "day",
+                "it's",
+                "for",
+                "good",
+                "a",
+                "swimming"
+              ],
+              "a": "It's a good day for swimming.",
+              "e": "It's a good day for + 名词/动名词。",
+              "s": "It's a good day for swimming."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-7",
+      "points": [
+        {
+          "id": "7b-u7-past",
+          "cat": "grammar",
+          "kp": "一般过去时",
+          "title": "一般过去时（一）：be 动词与规则动词",
+          "explain": "表示过去发生的事，常和 yesterday, last week, ago, this morning 连用。\nbe 动词：am / is → was，are → were：It was a great day.\n规则动词加 -ed：visit → visited，live → lived，study → studied，stop → stopped\n否定和疑问借助 did，动词还原：I didn't visit the museum. / Did you go on a school trip? — Yes, I did.\n问经历：How was your trip? — It was amazing!",
+          "examples": [
+            {
+              "en": "How was your school trip to the wastewater plant?",
+              "zh": "你们学校去污水处理厂的游学怎么样？"
+            },
+            {
+              "en": "Finally, we watered the plants.",
+              "zh": "最后，我们给植物浇了水。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— How ______ your weekend?\n— It was great.",
+              "o": [
+                "is",
+                "are",
+                "was",
+                "were"
+              ],
+              "a": 2,
+              "e": "问过去的周末，主语 your weekend 用 was。",
+              "s": "— How was your weekend?\n— It was great."
+            },
+            {
+              "t": "choice",
+              "q": "We ______ a farm last Sunday.",
+              "o": [
+                "visit",
+                "visits",
+                "visited",
+                "visiting"
+              ],
+              "a": 2,
+              "e": "last Sunday 是过去时间，用 visited。",
+              "s": "We visited a farm last Sunday."
+            },
+            {
+              "t": "choice",
+              "q": "— Did you go to the museum yesterday?\n— Yes, I ______.",
+              "o": [
+                "do",
+                "did",
+                "was",
+                "went"
+              ],
+              "a": 1,
+              "e": "Did you …? 用 did 回答。",
+              "s": "— Did you go to the museum yesterday?\n— Yes, I did."
+            },
+            {
+              "t": "choice",
+              "q": "They ______ at home last night.",
+              "o": [
+                "was",
+                "were",
+                "are",
+                "is"
+              ],
+              "a": 1,
+              "e": "主语 They，过去时用 were。",
+              "s": "They were at home last night."
+            },
+            {
+              "t": "fill",
+              "q": "She ______ (study) for the exam yesterday.",
+              "a": [
+                "studied"
+              ],
+              "e": "辅音字母 + y，变 y 为 i 加 -ed。",
+              "s": "She studied for the exam yesterday."
+            },
+            {
+              "t": "fill",
+              "q": "The bus ______ (stop) at the farm gate.",
+              "a": [
+                "stopped"
+              ],
+              "e": "重读闭音节双写 p 加 -ed。",
+              "s": "The bus stopped at the farm gate."
+            },
+            {
+              "t": "order",
+              "w": [
+                "didn't",
+                "the",
+                "I",
+                "visit",
+                "museum"
+              ],
+              "a": "I didn't visit the museum.",
+              "e": "否定：didn't + 动词原形。",
+              "s": "I didn't visit the museum."
+            }
+          ]
+        },
+        {
+          "id": "7b-u7-trip",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "谈论学校游学",
+          "explain": "问经历：How was your school trip? / What did you do there? / Did you learn anything?\n回答：It was amazing / tiring / interesting. / We learnt how to … / I enjoyed working with my hands.",
+          "examples": [
+            {
+              "en": "It was tiring but great fun!",
+              "zh": "很累，但非常有趣！"
+            },
+            {
+              "en": "I didn't realize it was so hard.",
+              "zh": "我没意识到这么难。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— How was your school trip?\n— ______",
+              "o": [
+                "I went to a farm.",
+                "It was amazing!",
+                "Yes, it was.",
+                "By bus."
+              ],
+              "a": 1,
+              "e": "How was …? 问感受，回答 It was amazing!",
+              "s": "— How was your school trip?\n— It was amazing!"
+            },
+            {
+              "t": "choice",
+              "q": "We learnt ______ to plant tomatoes.",
+              "o": [
+                "what",
+                "how",
+                "where",
+                "who"
+              ],
+              "a": 1,
+              "e": "learn how to do 学习怎样做。",
+              "s": "We learnt how to plant tomatoes."
+            },
+            {
+              "t": "choice",
+              "q": "I enjoyed ______ with my hands.",
+              "o": [
+                "work",
+                "to work",
+                "working",
+                "works"
+              ],
+              "a": 2,
+              "e": "enjoy doing sth。",
+              "s": "I enjoyed working with my hands."
+            },
+            {
+              "t": "fill",
+              "q": "It was tiring, ______ (但是) I had a lot of fun.",
+              "a": [
+                "but"
+              ],
+              "e": "表示转折用 but。",
+              "s": "It was tiring, but I had a lot of fun."
+            },
+            {
+              "t": "order",
+              "w": [
+                "you",
+                "what",
+                "do",
+                "did",
+                "there",
+                "?"
+              ],
+              "a": "What did you do there?",
+              "e": "What did + 主语 + 动词原形？",
+              "s": "What did you do there?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-8",
+      "points": [
+        {
+          "id": "7b-u8-irregular",
+          "cat": "grammar",
+          "kp": "一般过去时",
+          "title": "一般过去时（二）：不规则动词与讲故事",
+          "explain": "讲故事多用一般过去时。常见不规则动词：\ngo → went，come → came，see → saw，say → said，tell → told，think → thought，find → found，make → made，take → took，give → gave，bite → bit，catch → caught，fly → flew，become → became，begin → began，leave → left\n讲故事的顺序词：Once upon a time / One day / Then / Later / Finally / In the end",
+          "examples": [
+            {
+              "en": "Once upon a time, an emperor liked clothes very much.",
+              "zh": "从前，有个皇帝非常喜欢衣服。"
+            },
+            {
+              "en": "Later, a hunter caught the lion in a net.",
+              "zh": "后来，一个猎人用网抓住了狮子。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "One day, the duckling ______ a cat and a hen.",
+              "o": [
+                "meet",
+                "meets",
+                "met",
+                "meeted"
+              ],
+              "a": 2,
+              "e": "讲过去的故事，meet 的过去式是 met。",
+              "s": "One day, the duckling met a cat and a hen."
+            },
+            {
+              "t": "choice",
+              "q": "The mouse ______ through the net and set the lion free.",
+              "o": [
+                "bite",
+                "bit",
+                "bited",
+                "bitten"
+              ],
+              "a": 1,
+              "e": "bite 的过去式是 bit。",
+              "s": "The mouse bit through the net and set the lion free."
+            },
+            {
+              "t": "choice",
+              "q": "He ______ the truth to everyone.",
+              "o": [
+                "tell",
+                "telled",
+                "told",
+                "tells"
+              ],
+              "a": 2,
+              "e": "tell 的过去式是 told。",
+              "s": "He told the truth to everyone."
+            },
+            {
+              "t": "choice",
+              "q": "— Did the farmer find his horse?\n— Yes, he ______.",
+              "o": [
+                "did",
+                "does",
+                "found",
+                "was"
+              ],
+              "a": 0,
+              "e": "Did …? 用 did 回答。",
+              "s": "— Did the farmer find his horse?\n— Yes, he did."
+            },
+            {
+              "t": "fill",
+              "q": "Once upon a time, a fisherman ______ (catch) a bottle in his net.",
+              "a": [
+                "caught"
+              ],
+              "e": "catch 的过去式是 caught。",
+              "s": "Once upon a time, a fisherman caught a bottle in his net."
+            },
+            {
+              "t": "fill",
+              "q": "The ugly duckling ______ (become) a beautiful swan.",
+              "a": [
+                "became"
+              ],
+              "e": "become 的过去式是 became。",
+              "s": "The ugly duckling became a beautiful swan."
+            },
+            {
+              "t": "order",
+              "w": [
+                "the",
+                "let",
+                "go",
+                "lion",
+                "mouse",
+                "the"
+              ],
+              "a": "The lion let the mouse go.",
+              "e": "let sb do sth，let 的过去式还是 let。",
+              "s": "The lion let the mouse go."
+            }
+          ]
+        },
+        {
+          "id": "7b-u8-story",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "复述故事与表达看法",
+          "explain": "讲故事：What happened next? / In the end, … / The story tells us that …\n说看法：I think the story is … / I learnt that we should …\n常用寓意：Don't judge a book by its cover. / Tell the truth.",
+          "examples": [
+            {
+              "en": "Why do you think everyone started laughing at the end?",
+              "zh": "你认为最后大家为什么都笑了？"
+            },
+            {
+              "en": "I can express my thoughts and feelings about a story.",
+              "zh": "我能表达我对一个故事的想法和感受。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— What ______ next?\n— The lion let the mouse go.",
+              "o": [
+                "happen",
+                "happened",
+                "happens",
+                "happening"
+              ],
+              "a": 1,
+              "e": "讲过去的故事，问「接下来发生了什么」用 happened。",
+              "s": "— What happened next?\n— The lion let the mouse go."
+            },
+            {
+              "t": "choice",
+              "q": "The story tells us ______ we should tell the truth.",
+              "o": [
+                "that",
+                "what",
+                "how",
+                "which"
+              ],
+              "a": 0,
+              "e": "tell sb that + 句子。",
+              "s": "The story tells us that we should tell the truth."
+            },
+            {
+              "t": "choice",
+              "q": "______ the end, the ugly duckling became a swan.",
+              "o": [
+                "At",
+                "In",
+                "On",
+                "By"
+              ],
+              "a": 1,
+              "e": "in the end 最后。",
+              "s": "In the end, the ugly duckling became a swan."
+            },
+            {
+              "t": "fill",
+              "q": "They ______ (pretend) to make clothes for the emperor.",
+              "a": [
+                "pretended"
+              ],
+              "e": "pretend 规则变化加 -ed。",
+              "s": "They pretended to make clothes for the emperor."
+            },
+            {
+              "t": "order",
+              "w": [
+                "the",
+                "laughed",
+                "at",
+                "everyone",
+                "emperor"
+              ],
+              "a": "Everyone laughed at the emperor.",
+              "e": "laugh at sb 嘲笑某人。",
+              "s": "Everyone laughed at the emperor."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+// Cloudflare 上的备用站点（国内访问速度待实测）。只上传打包好的 dist，不走 vite 插件。
+// 部署：npm run build && ~/.local/cf/node_modules/.bin/wrangler deploy
+{
+  "name": "english-starry-sky",
+  "compatibility_date": "2026-10-23",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  }
+}

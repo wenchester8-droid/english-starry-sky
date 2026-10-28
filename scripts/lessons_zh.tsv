@@ -1,0 +1,3373 @@
+# 课文点读的参考译文：每行「英文<Tab>中文」，英文要和点读里的句子一字不差。老师可以直接改中文。
+# 改完运行 python3 scripts/build_lessons.py … 重新生成 public/data/<册号>-lessons.json（七上、八上共用这一份）。
+Good morning, class.	同学们，早上好。
+Good morning, Ms Gao.	高老师，早上好。
+Sit down, please.	请坐。
+Hello, Peter.	你好，彼得。
+Can you say hi to the class?	你能和全班同学打个招呼吗？
+Hi, everyone!	大家好！
+I'm Peter Brown.	我是彼得·布朗。
+Thank you, Peter.	谢谢你，彼得。
+Good morning.	早上好。
+My name is Emma.	我叫埃玛。
+Good morning, Emma.	早上好，埃玛。
+So what's your name?	那你叫什么名字？
+Oh, I'm Fu Xing.	哦，我是付星。
+Nice to meet you, Emma.	很高兴认识你，埃玛。
+Nice to meet you too, Fu Xing!	我也很高兴认识你，付星！
+I'm Fu Xing.	我是付星。
+I'm Teng Fei.	我是滕飞。
+What's your name?	你叫什么名字？
+My name is Emma Miller.	我叫埃玛·米勒。
+How do you spell your name?	你的名字怎么拼写？
+E-M-M-A,	E-M-M-A，
+Emma.	埃玛。
+M-I-L-L-E-R,	M-I-L-L-E-R，
+Miller.	米勒。
+You can call me Emma.	你可以叫我埃玛。
+Nice to meet you too, Teng Fei.	我也很高兴认识你，滕飞。
+Hello, Wang Yaming.	你好，王亚明。
+How are you?	你好吗？
+Hi, Helen.	嗨，海伦。
+I'm fine,	我很好，
+thank you.	谢谢你。
+And you?	你呢？
+I'm great,	我挺好的，
+thanks.	谢谢。
+Oh, that's the bell.	哦，上课铃响了。
+Let's go to class.	我们去上课吧。
+Goodbye!	再见！
+Bye!	拜拜！
+Hi, Ella!	嗨，埃拉！
+I have a new schoolbag.	我有一个新书包。
+Cool!	真酷！
+What colour is it, Teng Fei?	它是什么颜色的，滕飞？
+It's blue.	是蓝色的。
+Blue is my favourite colour.	蓝色是我最喜欢的颜色。
+I like blue too.	我也喜欢蓝色。
+Hello, Emma!	你好，埃玛！
+I have a new bicycle.	我有一辆新自行车。
+Really?	真的吗？
+What colour is it?	它是什么颜色的？
+It's black and orange.	黑色和橙色的。
+Great.	太好了。
+Can you show me tomorrow?	你明天能给我看看吗？
+Sure,	当然，
+I'll be happy to!	我很乐意！
+Hey, Peter!	嘿，彼得！
+Look at my new shoes.	看我的新鞋。
+Oh, they look great.	哦，真好看。
+I have new shoes too.	我也有新鞋。
+What colour are they?	它们是什么颜色的？
+They're red.	是红色的。
+That's cool.	真酷。
+find my new cap.	找到我的新帽子。
+Your new cap?	你的新帽子？
+It's red.	是红色的。
+Is it in your schoolbag?	在你的书包里吗？
+No, it isn't.	不，不在。
+Oh, it's under your desk.	哦，在你的书桌下面。
+Keep your room tidy, Ella.	埃拉，要保持房间整洁。
+OK, sorry, Mum.	好的，对不起，妈妈。
+I can't find my new glasses.	我找不到我的新眼镜了。
+Do you see them, Emma?	你看见了吗，埃玛？
+What colour are they, Dad?	爸爸，眼镜是什么颜色的？
+They're brown.	棕色的。
+Oh, Dad, they're on your head!	哦，爸爸，眼镜就在你头上！
+Oh, thank you, Emma!	哦，谢谢你，埃玛！
+You're welcome.	不客气。
+Hello,	你们好，
+Peter and Helen!	彼得和海伦！
+This is my grandpa.	这是我爷爷。
+Hello, Mr Fu.	付爷爷好。
+Nice to meet you!	很高兴认识你！
+Nice to meet you too.	我也很高兴认识你。
+Welcome to my house.	欢迎来我家。
+Let me show you around.	我带你们四处看看。
+Thank you.	谢谢。
+Oh, what's that, Mr Fu?	哦，付爷爷，那是什么？
+Is that a goose?	那是一只鹅吗？
+It's a duck.	那是一只鸭子。
+Mr Fu, what are those plants?	付爷爷，那些是什么植物？
+Are they potato plants?	是土豆苗吗？
+No, Peter, they aren't.	不，彼得，不是。
+They're carrot plants.	是胡萝卜苗。
+What about these plants?	这些植物呢？
+Are they tomato plants?	是西红柿苗吗？
+Yes, they are!	对，是的！
+What	这是
+kind of tree is this?	什么树？
+It's an apple tree.	是一棵苹果树。
+How many apple trees do you have?	您有多少棵苹果树？
+Only two.	只有两棵。
+Look at those rabbits.	看那些兔子。
+They're cute!	它们真可爱！
+How many rabbits do you have?	您有多少只兔子？
+I have 12 rabbits.	我有12只兔子。
+8 are white and 4 are black.	8只白的，4只黑的。
+Look! This is my uncle's farm.	看！这是我叔叔的农场。
+It's a big farm.	这是一个很大的农场。
+The grass is so green.	草好绿啊。
+You can see many kinds of animals.	你能看到很多种动物。
+He has pigs, horses, cows, ducks, sheep, and chickens.	他养了猪、马、奶牛、鸭子、羊和鸡。
+How many ducks does my uncle have?	我叔叔有多少只鸭子？
+Let me count.	让我数一数。
+One, two, three, four, five, … fourteen ducks!	一、二、三、四、五……十四只鸭子！
+Oh, no. Look there!	哦，不对。看那儿！
+Another duck is behind the big tree.	大树后面还有一只鸭子。
+Do you see that house?	你看见那座房子了吗？
+That's my uncle's home.	那是我叔叔的家。
+It's beautiful.	它很漂亮。
+Do you like my uncle's farm?	你喜欢我叔叔的农场吗？
+Hello, I'm Song Meimei.	你好，我是宋梅梅。
+May I have your name?	可以告诉我你的名字吗？
+Hi, I'm Peter Brown.	嗨，我是彼得·布朗。
+Nice to meet you.	很高兴认识你。
+P-E-T-E-R, Peter.	P-E-T-E-R，彼得。
+B-R-O-W-N,	B-R-O-W-N，
+Brown.	布朗。
+Where are you from?	你是哪里人？
+I'm from London, in the UK.	我来自英国伦敦。
+Wow, that's far.	哇，那可真远。
+What class are you in?	你在哪个班？
+I'm in Class 1, Grade 7.	我在七年级一班。
+Wow, we're in the same class!	哇，我们在同一个班！
+Good morning, Ms Li.	李老师，早上好。
+Good morning!	早上好！
+Are you Emma?	你是埃玛吗？
+No, Ms Li.	不是，李老师。
+I'm Ella.	我是埃拉。
+Sorry, Ella.	对不起，埃拉。
+What's your last name?	你姓什么？
+It's Miller.	姓米勒。
+How old are you, Ella?	埃拉，你多大了？
+I'm 12 years old.	我12岁。
+Well, it's nice to meet you.	嗯，很高兴认识你。
+P-E-T-E-R,	P-E-T-E-R，
+Peter. B-R-O-W-N,	彼得。B-R-O-W-N，
+Hello, Mr Smith!	史密斯老师好！
+Hello, Chen Jie.	你好，陈杰。
+I'm good, thank you.	我很好，谢谢。
+Mr Smith, this is my new friend, Peter.	史密斯老师，这是我的新朋友彼得。
+Peter, this is our English teacher, Mr Smith.	彼得，这是我们的英语老师史密斯先生。
+He's from the US.	他来自美国。
+Hi, Peter.	嗨，彼得。
+Nice to meet you too, Mr Smith.	我也很高兴认识您，史密斯老师。
+What class are you in, Peter?	彼得，你在哪个班？
+I'm in Class 1.	我在一班。
+Who's your class teacher?	你的班主任是谁？
+Ms Hui.	慧老师。
+Oh, Peter, it's Ms Gao, not Ms Hui.	哦，彼得，是高老师，不是慧老师。
+It's Ms Gao.	是高老师。
+Not Ms Hui.	不是慧老师。
+Hui is her first name.	慧是她的名字。
+Oh, sorry.	哦，对不起。
+My mistake.	是我弄错了。
+Oh, sorry!	哦，对不起！
+Making new friends	结交新朋友
+Pauline Lee Peter Brown	葆琳·李　彼得·布朗
+Hi,	嗨，
+I'm Pauline Lee, and I'm 14 years old.	我是葆琳·李，今年14岁。
+I live in Singapore with my big family.	我和我的大家庭一起住在新加坡。
+I have a pet.	我有一只宠物。
+It's a parrot.	是一只鹦鹉。
+Her name is Coco.	她叫可可。
+She can speak some Chinese!	她会说一些中文！
+My favourite sport is tennis.	我最喜欢的运动是网球。
+I often play it with my friends after school.	放学后我经常和朋友们一起打网球。
+Do you want to be my friend?	你想做我的朋友吗？
+11:35	11:35
+Hi there!	大家好！
+My name is Peter Brown.	我叫彼得·布朗。
+I'm 13 years old.	我13岁。
+Now, I live in Beijing with my family.	现在我和家人住在北京。
+My favourite food is Beijing roast duck, and my favourite place is the Great Wall.	我最喜欢的食物是北京烤鸭，最喜欢的地方是长城。
+I like music, and I play the guitar.	我喜欢音乐，我会弹吉他。
+Would you like to be my friend?	你愿意做我的朋友吗？
+Morning, Emma.	早上好，埃玛。
+Oh, hi, Yaming!	哦，嗨，亚明！
+Glad to see you here in the park!	真高兴在公园里见到你！
+Me too.	我也是。
+Emma,	埃玛，
+these are my parents.	这是我的爸爸妈妈。
+Dad and Mum, this is my classmate, Emma.	爸爸妈妈，这是我的同学埃玛。
+Nice to meet you too,	我也很高兴认识你们，
+Mr and Mrs Wang.	王叔叔、王阿姨。
+And this is my sister,	这是我的妹妹，
+Yaqi. Hi, Yaqi!	亚琪。嗨，亚琪！
+Hi, Emma!	嗨，埃玛！
+Is this your family photo, Peter?	彼得，这是你的全家福吗？
+Yes, it is.	是的。
+Are these your parents?	这是你的爸爸妈妈吗？
+Yes, they are.	是的。
+Who's he?	他是谁？
+He's my father's brother, my uncle.	他是我爸爸的兄弟，我的叔叔。
+And this is my aunt.	这是我的婶婶。
+Who's she?	她是谁？
+She's my sister, Helen.	她是我的姐姐海伦。
+Is this your brother?	这是你的哥哥吗？
+No, it's my cousin, David.	不，这是我的堂兄戴维。
+This is my brother, Jim.	这是我的弟弟吉姆。
+Who are they?	他们是谁？
+They're my grandparents.	他们是我的爷爷奶奶。
+They're my father's parents.	他们是我爸爸的父母。
+What a happy family.	多么幸福的一家人啊。
+Emma, these are my parents.	埃玛，这是我的爸爸妈妈。
+Nice to meet you too, Mr and Mrs Wang.	我也很高兴认识你们，王叔叔、王阿姨。
+No,	不，
+it's my cousin, David.	这是我的堂兄戴维。
+Hi, Peter!	嗨，彼得！
+Come in.	请进。
+Thanks.	谢谢。
+Oh, these ping-pong bats are nice.	哦，这些乒乓球拍真不错。
+This is my ping-pong bat,	这是我的乒乓球拍，
+and the old one is my grandpa's.	那个旧的是我爷爷的。
+Do you often play ping-pong together?	你们经常一起打乒乓球吗？
+Yes,	是的，
+we play every week.	我们每周都打。
+My grandpa loves sport.	我爷爷很爱运动。
+Are these your books?	这些是你的书吗？
+they're my father's.	是我爸爸的。
+He spends a lot of time reading.	他花很多时间看书。
+Hey,	嘿，
+do you play the piano?	你弹钢琴吗？
+I don't.	我不弹。
+It's my mother's piano.	这是我妈妈的钢琴。
+She can play it really well.	她弹得非常好。
+She can play it really well!	她弹得非常好！
+I'm Lily from Ireland.	我是来自爱尔兰的莉莉。
+I love my big family.	我爱我的大家庭。
+Here's a photo of us.	这是我们的一张照片。
+I'm the one with the pink hat.	戴粉色帽子的那个就是我。
+This is my dad, Fred.	这是我爸爸弗雷德。
+He's very handsome.	他很帅。
+He often plays tennis with me.	他经常和我一起打网球。
+My little brother, Sam, is on his knee.	我的弟弟萨姆坐在他的膝盖上。
+Sam is seven, and he really likes chess.	萨姆七岁，他非常喜欢下国际象棋。
+This is my mum, Jane.	这是我妈妈简。
+She's beautiful and kind.	她又漂亮又善良。
+She always reads with me at night.	她晚上总是陪我一起读书。
+These are my grandparents, Jack and Sarah.	这是我的爷爷奶奶，杰克和萨拉。
+They're my dad's parents.	他们是我爸爸的父母。
+They have a dog.	他们养了一只狗。
+His name is Oscar.	它叫奥斯卡。
+My grandparents have three grandchildren:	我的爷爷奶奶有三个孙辈：
+Sam, my cousin Lucy, and me.	萨姆、我的堂妹露西和我。
+They often say I'm their favourite grandchild,	他们常说我是他们最喜欢的孙辈，
+but I think they say the same thing to all of us!	但我觉得他们对我们每个人都这么说！
+Can I help you?	需要帮忙吗？
+Oh, yes.	哦，是的。
+I'm looking for my classroom.	我在找我的教室。
+OK.	好的。
+I'm in Class 2, Grade 7.	我在七年级二班。
+Oh, it's in that building,	哦，它在那栋楼里，
+behind the sports field.	在操场后面。
+Behind the sports field.	在操场后面。
+Oh, I see!	哦，我知道了！
+Thanks!	谢谢！
+Excuse me.	打扰一下。
+Where's Ms Gao's office?	高老师的办公室在哪里？
+Her office is in the teachers' building.	她的办公室在教师楼里。
+And where's that?	那教师楼在哪里？
+The teachers' building is across from the school hall.	教师楼在学校礼堂对面。
+Is there a student centre in this school?	这所学校有学生中心吗？
+Yes, there is.	是的，有。
+Oh, good.	哦，太好了。
+Where is it?	它在哪里？
+It's between the library and the gym.	在图书馆和体育馆中间。
+Ah, yes.	啊，对。
+I can see it.	我看到了。
+Oh, it's in that building, behind the sports field.	哦，它在那栋楼里，在操场后面。
+What's your new classroom like, Peter?	彼得，你的新教室是什么样的？
+It's large.	很大。
+There are 40 student desks in the room. And a teacher's desk in front of the blackboard.	教室里有40张学生课桌。黑板前面还有一张讲桌。
+Where do you sit?	你坐在哪里？
+I sit in the middle of the classroom.	我坐在教室中间。
+That's nice.	挺好的。
+What's special in your classroom?	你们教室有什么特别的？
+There's a smart whiteboard next to the blackboard.	黑板旁边有一块智能白板。
+Oh, and there's another blackboard at the back of the classroom.	哦，教室后面还有一块黑板。
+Another blackboard?	还有一块黑板？
+Yes, we put up important notices there.	是的，我们把重要通知贴在那里。
+Are there any lockers in the classroom?	教室里有储物柜吗？
+No, there aren't.	不，没有。
+We put our things in the desk drawers.	我们把东西放在课桌抽屉里。
+What fun things do you do at school?	你在学校做哪些有趣的事？
+Hi Flora, Thanks for your email.	嗨，弗洛拉，谢谢你的邮件。
+To answer your question, my new school is great!	回答你的问题：我的新学校很棒！
+It's very beautiful.	它非常漂亮。
+There are many modern buildings.	有很多现代化的大楼。
+There's a large sports field next to the teachers' building.	教师楼旁边有一个很大的操场。
+All the students go there and do exercises together in the morning.	早上所有学生都去那里一起做操。
+It's amazing!	太壮观了！
+Every Monday we raise the flag there.	每周一我们都在那里升旗。
+It's a special way to start the week.	这是开始新一周的一种特别方式。
+The classroom building is behind the sports field.	教学楼在操场后面。
+We spend most of the time in our classroom.	我们大部分时间都待在教室里。
+It's big and clean.	教室又大又干净。
+Every week, we change seats.	我们每周都换座位。
+This week I sit next to my best friend, Han Lin.	这周我坐在我最好的朋友韩林旁边。
+The dining hall is across from the sports field.	食堂在操场对面。
+It's my favourite place because there are many kinds of food.	那是我最喜欢的地方，因为那里有很多种食物。
+I love the Chinese food there.	我很爱那里的中国菜。
+They make delicious jiaozi.	他们做的饺子很好吃。
+How about your school?	你的学校怎么样？
+Yours, Peter	你的朋友，彼得
+Hi, Ella.	嗨，埃拉。
+Are you OK?	你还好吗？
+Hi Fu Xing.	嗨，付星。
+Hi, Fu Xing.	嗨，付星。
+Not really.	不太好。
+Today is Tuesday.	今天是星期二。
+So? I have history on Tuesday mornings.	所以呢？——我星期二上午有历史课。
+You don't like history?	你不喜欢历史吗？
+it's hard for me.	它对我来说很难。
+So, what's your favourite subject?	那你最喜欢哪门课？
+Maths.	数学。
+Why?	为什么？
+Because it's fun.	因为它很有趣。
+What other classes do you have today?	你今天还有什么课？
+I have art and geography.	我有美术和地理。
+I like those subjects too.	我也喜欢那些科目。
+Good morning, Peter.	早上好，彼得。
+What classes do you have today?	你今天有什么课？
+I have Chinese and maths first.	我先上语文和数学。
+Do you like those subjects?	你喜欢那些科目吗？
+I like Chinese because it's fun,	我喜欢语文，因为它很有趣，
+but I don't like maths.	但我不喜欢数学。
+Because maths is boring to me.	因为数学对我来说很无聊。
+But every subject is important.	但是每门课都很重要。
+IT and PE.	信息技术和体育。
+What's your favourite class?	你最喜欢哪节课？
+PE,	体育，
+because it's exciting.	因为它很刺激。
+I like Chinese because it's fun, but I don't like maths.	我喜欢语文，因为它很有趣，但我不喜欢数学。
+PE, because it's exciting.	体育，因为它很刺激。
+What's your next class?	你下节是什么课？
+History. It's my favourite subject.	历史。那是我最喜欢的科目。
+Why do you like it?	你为什么喜欢它？
+It's interesting to learn about the past.	了解过去的事很有意思。
+What's your favourite subject, Meimei?	梅梅，你最喜欢哪门课？
+My favourite subject is English.	我最喜欢的科目是英语。
+It's useful, and my English teacher is really nice.	英语很有用，而且我的英语老师人非常好。
+How about you, Binbin?	斌斌，你呢？
+I like all the subjects, but my favourite is maths.	我所有科目都喜欢，但最喜欢数学。
+Because I'm good with numbers.	因为我擅长和数字打交道。
+Oh, it's difficult for me.	哦，数学对我来说很难。
+Can you help me with this subject?	你能帮我学这门课吗？
+Sure!	当然！
+Hey, look at the time.	嘿，看看都几点了。
+History.	历史。
+It's my favourite subject.	那是我最喜欢的科目。
+Mike Davis, at Music Fan, 7:09 PM, the 19th of October.	迈克·戴维斯（@音乐迷），10月19日晚上7:09
+I'm a student in Canada.	我是加拿大的一名学生。
+I'm very busy this year.	我今年很忙。
+I study maths, music, French, history, English, IT, science, and have gym.	我学数学、音乐、法语、历史、英语、信息技术、科学，还上体育课。
+My favourite subject is music because the class is fun and we learn a lot of new songs.	我最喜欢的科目是音乐，因为音乐课很有趣，我们能学很多新歌。
+Music always makes me happy.	音乐总是让我很开心。
+My music teacher is excellent.	我的音乐老师非常棒。
+He lets us play all kinds of interesting instruments.	他让我们演奏各种有趣的乐器。
+I want to be a singer in the future.	我将来想当一名歌手。
+How about you?	你呢？
+What do you study?	你学哪些科目？
+What's your favourite class and why?	你最喜欢哪节课？为什么？
+Wu Binbin, at Maths Whiz, 8:12 PM, the 19th of October.	吴斌斌（@数学达人），10月19日晚上8:12
+I'm from China.	我来自中国。
+This term, I have subjects like Chinese, history, maths, English, PE, and IT.	这学期我有语文、历史、数学、英语、体育和信息技术等科目。
+I like it because I'm good with numbers.	我喜欢它，因为我擅长和数字打交道。
+We learn how to work out maths problems in class.	我们在课上学习怎样解数学题。
+It feels like magic and is really fun.	感觉就像变魔术，真的很有趣。
+Maths is very useful in our life, and I want to be a scientist in the future.	数学在生活中非常有用，我将来想当一名科学家。
+Hello! My name is Teng Fei, and I want to join the ping-pong club.	你好！我叫滕飞，我想加入乒乓球社团。
+Great!	太好了！
+Can you play ping-pong?	你会打乒乓球吗？
+Yes, I can.	是的，我会。
+We meet at 5 o'clock every Tuesday.	我们每周二5点活动。
+Can you come?	你能来吗？
+Oh, I have drum class on Tuesday afternoons.	哦，我每周二下午有打鼓课。
+I'm sorry. You can't make it.	很遗憾，那你来不了了。
+Hello! My name is Sam.	你好！我叫萨姆。
+I want to join the chess club.	我想加入棋类社团。
+Can you play Chinese chess?	你会下中国象棋吗？
+No, I can't.	不，我不会。
+It's OK.	没关系。
+You can learn it here.	你可以在这里学。
+Can I learn to play weiqi too?	我也可以学下围棋吗？
+Sure, you can!	当然可以！
+Morning! My name is Lin Hua, and I want to join the drama club.	早上好！我叫林华，我想加入戏剧社团。
+Can you read these words with feeling?	你能有感情地读一读这些台词吗？
+Let me have a try.	让我试试。
+"To be, or not to be, that is the question."	"生存还是毁灭，这是一个问题。"
+Come to Room 11 at 12:00 every Thursday.	每周四12点到11号教室来。
+Hello!	你好！
+My name is Teng Fei, and I want to join the ping-pong club.	我叫滕飞，我想加入乒乓球社团。
+I'm sorry.	很遗憾。
+You can't make it.	那你来不了了。
+My name is Sam.	我叫萨姆。
+Morning!	早上好！
+My name is Lin Hua, and I want to join the drama club.	我叫林华，我想加入戏剧社团。
+What club do you want to join?	你想加入什么社团？
+I have no idea.	我还没想好。
+Here's some good news!	有个好消息！
+Our school wants to start a music club.	我们学校要成立一个音乐社团。
+Do you want to join?	你想加入吗？
+Sure.	当然。
+I can play the guitar.	我会弹吉他。
+What about you, Emma?	埃玛，你呢？
+I'd love to, but I can't play any musical instruments.	我很想加入，但我不会演奏任何乐器。
+Oh, but you can sing well.	哦，但是你唱歌很好听啊。
+Exactly!	没错！
+How about Ella?	埃拉呢？
+She can play the violin, right?	她会拉小提琴，对吧？
+Yes, she can.	是的，她会。
+What instruments can you play, Teng Fei?	滕飞，你会演奏什么乐器？
+I can play the drums.	我会打鼓。
+That's great!	太棒了！
+Let's go to the music room after school!	我们放学后去音乐教室吧！
+Let's go to the music room after school.	我们放学后去音乐教室吧。
+We Want You!	我们需要你！
+Cooking Club.	烹饪社团。
+Do you love Chinese food?	你爱吃中国菜吗？
+Can you cook?	你会做饭吗？
+Join our cooking club!	加入我们的烹饪社团吧！
+Let's learn to cook your favourite Chinese food.	一起学做你最爱吃的中国菜吧。
+Mapo tofu,	麻婆豆腐、
+beef noodles, jiaozi, baozi	牛肉面、饺子、包子
+Jiaozi.	饺子。
+Baozi.	包子。
+You name it!	应有尽有！
+You can soon cook for your family.	你很快就能给家人做饭了。
+Join us in Room 303 at 4:30 p.m. on Wednesdays.	每周三下午4:30到303教室来找我们。
+Email Ma Xiaohui at maxh.food@happymail.com for more information.	想了解更多，请发邮件给马晓慧：maxh.food@happymail.com。
+Book Club.	读书社团。
+Do you like reading?	你喜欢读书吗？
+Join our book club!	加入我们的读书社团吧！
+It's more than reading.	这里不只是读书。
+We act out stories, talk about books, and make new friends.	我们表演故事、谈论书籍，还能结交新朋友。
+Books can open your mind and make you think.	书能打开你的思路，让你学会思考。
+Come to the library on Tuesdays after school and fall in love with books!	每周二放学后来图书馆，爱上读书吧！
+Email Bill at billwhite@happymail.com for more information.	想了解更多，请发邮件给比尔：billwhite@happymail.com。
+Nature Club.	自然社团。
+Do you love	你热爱
+Do you love nature?	你热爱大自然吗？
+Can you take good photos?	你擅长拍照吗？
+Come hiking with us every Sunday afternoon.	每周日下午和我们一起去徒步吧。
+Come hiking with us every Sunday afternoon!	每周日下午和我们一起去徒步吧！
+We watch birds, take photos, and collect plants and insects.	我们观鸟、拍照，采集植物和昆虫。
+We also visit nature parks.	我们还去参观自然公园。
+Discover wildlife right under your nose.	发现就在你身边的野生动物。
+Discover wildlife right under your nose!	发现就在你身边的野生动物！
+Email Jenny at jenny66@happymail.com for more information.	想了解更多，请发邮件给珍妮：jenny66@happymail.com。
+Peter! Get up!	彼得！起床了！
+You're late!	你要迟到了！
+What time is it?	几点了？
+A quarter past six.	六点一刻。
+It's too early!	太早了！
+School is at eight.	八点才上学呢。
+But you're on duty today!	可是你今天值日！
+Oh, no!	哦，糟了！
+I'm late!	我要迟到了！
+Quickly!	快点！
+There's no time for a shower.	没时间洗澡了。
+Get dressed and go.	穿好衣服就走吧。
+I can still brush my teeth.	我还能刷个牙。
+And here's your breakfast.	这是你的早饭。
+Take it to school.	带到学校去吃。
+Thank you, Mum!	谢谢妈妈！
+Be safe.	路上注意安全。
+Why are you at school so early, Peter?	彼得，你怎么这么早就到学校了？
+It's only seven o'clock.	才七点钟。
+I'm on duty today.	我今天值日。
+You're here early too, Han Lin!	韩林，你也来得很早啊！
+I like to do some reading before class.	我喜欢在上课前读会儿书。
+What time do you usually get up?	你通常几点起床？
+At half past six.	六点半。
+When do you have breakfast?	你什么时候吃早饭？
+At ten to seven.	六点五十。
+Before that, I brush my teeth and take a shower.	在那之前，我刷牙、洗澡。
+Oh, I usually take a shower at night.	哦，我通常晚上洗澡。
+My family take showers in the morning.	我们家人都是早上洗澡。
+Eight.	八点。
+Hi! I'm Lu Jiaqi, a school reporter.	嗨！我是陆佳琪，一名校园小记者。
+Hi, I'm Lu Jiaqi, a school reporter.	嗨，我是陆佳琪，一名校园小记者。
+Tom.	汤姆。
+So Tom, what time do you usually get up?	那么汤姆，你通常几点起床？
+At a quarter to seven.	六点三刻。
+And then?	然后呢？
+I have breakfast at about ten past seven.	我大约七点十分吃早饭。
+Then I go to school at ten to eight.	然后七点五十去上学。
+When do you go home?	你什么时候回家？
+Around five.	五点左右。
+What do you do after that?	那之后你做什么？
+Sometimes I play basketball.	有时候我打篮球。
+I have dinner at half past six.	我六点半吃晚饭。
+Then I do my homework.	然后写作业。
+When do you usually go to bed?	你通常什么时候睡觉？
+At half past nine.	九点半。
+That's early!	真早啊！
+Well, you know the saying,	嗯，你知道那句谚语，
+"Early to bed, early to rise!"	"早睡早起！"
+Well, you know the saying, "Early to bed, early to rise!"	嗯，你知道那句谚语："早睡早起！"
+Early to rise.	早起。
+Early to bed, early to rise.	早睡早起。
+My name is Timo Halla.	我叫蒂莫·哈拉。
+I live with my parents in Helsinki, Finland.	我和父母住在芬兰的赫尔辛基。
+Now it's December.	现在是十二月。
+Every	每个
+Tuesday, I usually get up at 7:40.	星期二，我通常7:40起床。
+I often listen to the news or music.	我常听新闻或音乐。
+After breakfast, I walk to school.	吃完早饭，我步行去上学。
+It's only a 10-minute walk.	走路只要10分钟。
+My school begins at 9:00.	学校9:00开始上课。
+There are 18 students in my class.	我们班有18名学生。
+Each lesson is 45 minutes long, and there's a break between lessons.	每节课45分钟，课间有休息。
+I have one Finnish lesson and two home economics lessons in the morning.	上午我有一节芬兰语课和两节家政课。
+After that, I have lunch at 12:00.	之后，我12:00吃午饭。
+The afternoon lessons begin at half past 12 and finish at a quarter past two.	下午的课十二点半开始，两点一刻结束。
+Then I go to my ice hockey club.	然后我去冰球俱乐部。
+I usually get home around 4:00.	我通常4:00左右到家。
+It's already dark outside.	外面天已经黑了。
+I often have dinner at 6:00.	我常在6:00吃晚饭。
+After that, I read with my parents for an hour.	之后，我和父母一起读一个小时的书。
+That's an important part of my everyday life.	这是我日常生活中很重要的一部分。
+Then I prepare my schoolbag for the next day.	然后我收拾好第二天的书包。
+At 9:30, it's time for me to go to bed.	9:30，我该睡觉了。
+Today is the 3rd of December.	今天是12月3日。
+Happy birthday, Helen!	生日快乐，海伦！
+Thank you, Fu Xing!	谢谢你，付星！
+How old are you?	你多大了？
+I'm 15.	我15岁。
+I'm 13.	我13岁。
+When is your birthday?	你的生日是哪天？
+On 22nd August.	8月22日。
+So can you come to my birthday party?	那你能来参加我的生日聚会吗？
+Sure! When is it?	当然！什么时候？
+At 6 o'clock this evening. I'd love to come!	今晚6点。——我很乐意去！
+At 6 o'clock this evening.	今晚6点。
+I'd love to come!	我很乐意去！
+When is it?	什么时候？
+Ella, can you help me?	埃拉，你能帮帮我吗？
+I want to give my father a birthday gift.	我想送爸爸一份生日礼物。
+Oh, that's sweet, Teng Fei!	哦，滕飞，你真贴心！
+When is his birthday?	他的生日是哪天？
+On 9th January, next month.	1月9日，就在下个月。
+That's soon!	那很快就到了！
+You can make a card for him.	你可以给他做一张贺卡。
+That's a good idea!	这是个好主意！
+Meimei, when is Ms Gao's birthday?	梅梅，高老师的生日是哪天？
+Why do you ask?	你为什么问这个？
+Because I want us all to give her a surprise.	因为我想让我们大家给她一个惊喜。
+Sounds fun!	听起来很有趣！
+Her birthday is on 12th June.	她的生日是6月12日。
+Let's sing a song for her.	我们为她唱首歌吧。
+I'll play the guitar.	我来弹吉他。
+Great idea.	好主意。
+It's Ella and Emma's birthday soon.	埃拉和埃玛的生日快到了。
+How about a surprise party for them?	给她们办一个惊喜派对怎么样？
+Good idea!	好主意！
+Let's go and buy something for the party this weekend.	这周末我们去给派对买点东西吧。
+Yes, please.	是的，麻烦你。
+How much is this birthday cake?	这个生日蛋糕多少钱？
+We have a sale today.	我们今天打折。
+It's 85 yuan,	85元，
+and it comes with some candles.	还送一些蜡烛。
+Good,	好，
+we'll take it.	我们买了。
+How much are those oranges?	那些橙子多少钱？
+Six yuan	6元
+a kilo.	一公斤。
+How many kilos do you want?	你要几公斤？
+5 kilos please.	请给我5公斤。
+Five kilos, please. Teng Fei,	请给我5公斤。——滕飞，
+Teng Fei.	滕飞，
+how about some yogurt?	买点酸奶怎么样？
+How much is the yogurt?	酸奶多少钱？
+Five yuan	5元
+a bottle.	一瓶。
+10 bottles, please.	请给我10瓶。
+What's the total?	一共多少钱？
+165 yuan.	165元。
+Here you are.	给你。
+Thank you!	谢谢！
+Have a nice day!	祝你今天愉快！
+You too.	你也是。
+Yu Xiaoming.	于晓明
+On the 8th of June.	6月8日
+5:07 PM.	下午5:07
+My birthday is on 13th June.	我的生日是6月13日。
+On that day, I always eat birthday noodles with eggs.	那天我总是吃加鸡蛋的长寿面。
+Long noodles are a symbol of long life.	长长的面条象征着长寿。
+Every year, my family and I take a photo together under the big tree in our village.	每年，我和家人都会在村里的大树下一起拍张照。
+I like taking photos because they help me remember fun times with my family.	我喜欢拍照，因为照片能帮我记住和家人在一起的快乐时光。
+This year, I want to plant a small tree for my 14th birthday.	今年，我想为我的14岁生日种一棵小树。
+I'd like to watch it grow with me.	我想看着它和我一起长大。
+How do you celebrate it?	你怎么过生日呢？
+Bye.	再见。
+Judy Clark on 09/06 7:54 PM	朱迪·克拉克　6月9日下午7:54
+On the 9th of June.	6月9日
+7:54 PM.	下午7:54
+It's a great idea to plant a tree for your birthday!	过生日种一棵树真是个好主意！
+My birthday is on 28th July.	我的生日是7月28日。
+I usually have a party with my friends to celebrate.	我通常和朋友们开派对来庆祝。
+My mother always makes my favourite chocolate cake.	我妈妈总会做我最爱的巧克力蛋糕。
+Everyone sings the "Happy Birthday" song,	大家一起唱《生日快乐》歌，
+and then I make a wish and blow out the candles.	然后我许个愿，吹灭蜡烛。
+Next, we enjoy the cake, and I open all my gifts.	接着我们吃蛋糕，我拆开所有礼物。
+My father marks my height on the door every year.	我爸爸每年都在门上标出我的身高。
+It's fun to look at the marks later.	以后再看这些记号很有意思。
+Next time, I also want to do something different.	下次我也想做点不一样的事。
+Any good ideas?	有什么好主意吗？
+
+# ---- 八年级上册 ----
+Hi, Yaming.	嗨，亚明。
+How was your vacation?	你的假期过得怎么样？
+Hi, Emma.	嗨，埃玛。
+It was great.	很棒。
+I went to Mount Huangshan.	我去了黄山。
+Oh, really?	哦，真的吗？
+What was it like?	那里怎么样？
+It was so beautiful.	非常美。
+No one wanted to leave.	谁都不想离开。
+What did you see there?	你在那里看到了什么？
+I saw the Guest-Greeting Pine, the Sea of Clouds, lots of strange rocks, and many ancient buildings.	我看到了迎客松、云海、许多奇石和很多古建筑。
+Here, I can show you some photos.	来，我给你看些照片。
+Wow!	哇！
+That looks amazing!	看起来太棒了！
+Did you go with anyone?	你和谁一起去的？
+Yeah, I went with my family.	是啊，我和家人一起去的。
+Everyone said they wanted to go again.	大家都说还想再去。
+I'd like to go too!	我也想去！
+How about you, Emma?	你呢，埃玛？
+Where did you go on holiday?	你假期去哪儿了？
+I went back to the US with my mum and sister.	我和妈妈、妹妹回了美国。
+I see.	我明白了。
+So, did you do anything interesting there?	那你在那里做了什么有趣的事吗？
+I went to a strawberry festival.	我去了一个草莓节。
+The food was great!	吃的东西很棒！
+Everything had strawberries in it.	每样东西里都有草莓。
+I ate strawberry cookies and strawberry chocolates.	我吃了草莓饼干和草莓巧克力。
+They were delicious!	它们很好吃！
+That sounds fantastic!	听起来棒极了！
+Yeah, it was.	是啊，确实是。
+The festival was near my grandparents' house in Seattle too.	那个节日活动也在我祖父母西雅图的家附近。
+Nice!	不错！
+Did you stay with them?	你和他们住在一起吗？
+we stayed for ten days.	我们住了十天。
+Wow! That looks amazing!	哇！看起来太棒了！
+Yes, we stayed for ten days.	是的，我们住了十天。
+Hi, Adam.	嗨，亚当。
+How was your holiday?	你的假期过得怎么样？
+It was fantastic.	棒极了。
+Did you go anywhere interesting?	你去了什么有趣的地方吗？
+I went to Yunnan with my family.	我和家人去了云南。
+That sounds great.	听起来很棒。
+Did you go to Lijiang?	你去丽江了吗？
+we stayed in the old town for a few days, and we enjoyed it very much.	我们在古城住了几天，玩得非常开心。
+Did you visit Yulong Mountain?	你去玉龙雪山了吗？
+Everyone says it's beautiful.	大家都说那里很美。
+It is!	确实很美！
+It just took my breath away.	它真是令我惊叹。
+We took a lot of great photos there.	我们在那里拍了很多好照片。
+Did you eat anything special?	你吃了什么特别的东西吗？
+Yes, we did!	是的，吃了！
+Everything tasted good, especially the steamed chicken soup.	每样东西都很好吃，尤其是汽锅鸡。
+What about you?	你呢？
+Someone said you went to Beijing.	有人说你去了北京。
+No, not this holiday.	没有，这个假期没去。
+I did nothing special.	我没做什么特别的事。
+I just stayed at home to read, play games, and relax, but it was still fun.	我只是待在家里看书、玩游戏、放松，但还是很开心。
+But it was still fun.	但还是很开心。
+Everything tasted good,	每样东西都很好吃，
+especially the steamed chicken soup.	尤其是汽锅鸡。
+Then answer the questions.	然后回答问题。
+The 17th of July.	7月17日。
+Today was our first day visiting Moscow.	今天是我们游览莫斯科的第一天。
+The weather was fine and everyone felt excited to visit some famous places in Russia.	天气很好，大家都为能参观俄罗斯的一些著名景点而兴奋。
+In the morning, we went to the Victory Museum.	上午，我们去了胜利博物馆。
+The Russian people built this museum to remember their fight against the Nazis during World War II.	俄罗斯人民建造这座博物馆，是为了纪念他们在第二次世界大战中与纳粹的斗争。
+As we walked through the halls, the tour guide told us stories about the war.	我们穿过一个个展厅时，导游给我们讲了关于那场战争的故事。
+In one hall, I saw an artwork with thousands of glass "tears" falling down.	在一个大厅里，我看到一件艺术品，成千上万颗玻璃“眼泪”落下来。
+It reminds us that war is terrible and peace does not come easily.	它提醒我们，战争是可怕的，和平来之不易。
+We should not forget that.	我们不应该忘记这一点。
+At noon, we had lunch at a restaurant near the park.	中午，我们在公园附近的一家饭馆吃了午饭。
+I liked the ice cream there, so I ate a lot of it.	我喜欢那里的冰激凌，所以吃了很多。
+But, during dinner, I didn't feel like eating because I felt sick.	但是吃晚饭时我不想吃东西，因为我觉得不舒服。
+So now, I just want to get a good night's sleep.	所以现在，我只想好好睡一觉。
+The 18th of July.	7月18日。
+It rained last night, so this morning the air was fresh and cool.	昨晚下了雨，所以今天早上空气清新凉爽。
+I felt much better today.	我今天感觉好多了。
+We took the Moscow Metro to travel around.	我们乘坐莫斯科地铁四处游览。
+The metro stations are really beautiful.	地铁站真的很漂亮。
+Sometimes I felt like I was walking inside a palace.	有时我觉得自己好像在宫殿里行走。
+After that, we went to Red Square.	之后，我们去了红场。
+We saw some fantastic buildings there.	我们在那里看到了一些很棒的建筑。
+In the afternoon, we arrived at a school and met a group of Russian students.	下午，我们到了一所学校，见到了一群俄罗斯学生。
+We played games and soon became friends.	我们一起玩游戏，很快就成了朋友。
+Later, someone took out his accordion, and soon everyone got together to sing and dance.	后来，有人拿出了手风琴，很快大家就聚在一起唱歌跳舞。
+We were so happy that we didn't notice the time.	我们太开心了，都没注意到时间。
+It was such a good experience.	这真是一次很好的经历。
+Dad, can I hang out with my friends after lunch?	爸爸，午饭后我能和朋友们出去玩吗？
+Sorry, Jim, you have to pack up your things first.	抱歉，吉姆，你得先把你的东西收拾好。
+But I want to spend time with them before we move.	可我想在搬家前和他们待一会儿。
+I know, but we need to get ready before the movers come.	我知道，但我们得在搬家工人来之前准备好。
+Can you sort your things into those boxes?	你能把你的东西分类放进那些箱子里吗？
+After that, could I go out?	收拾完我可以出去吗？
+Yes. Remember to write "Jim's bedroom" on each box!	可以。记得在每个箱子上写“吉姆的卧室”！
+No problem, Dad.	没问题，爸爸。
+I love our new house.	我喜欢我们的新家。
+The living room is so big!	客厅真大！
+Could we keep some fish here?	我们可以在这里养些鱼吗？
+Well, Jim, that's a lot of work.	嗯，吉姆，那可要做很多事。
+Can you take care of them every day?	你能每天照顾它们吗？
+Yes!	能！
+Now, could you please help me hang up the photos?	现在，你能帮我把照片挂起来吗？
+Our balcony is so big and gets a lot of sunshine.	我们的阳台很大，阳光充足。
+Can I grow some flowers there?	我可以在那里种些花吗？
+Yes, you can.	可以。
+That's a great idea, Helen!	好主意，海伦！
+Mum, can I invite my friends to our new house?	妈妈，我可以邀请朋友们来我们的新家吗？
+Yes, Peter, but help clean up first.	可以，彼得，但要先帮忙打扫。
+Could you please sweep the floor?	你能扫一下地吗？
+I'll clean the bathroom.	我来打扫卫生间。
+OK, Mum.	好的，妈妈。
+Guess what!	你猜怎么着！
+Grandpa and Grandma are visiting us this weekend!	爷爷奶奶这个周末要来看我们！
+Oh, great!	哦，太好了！
+I can't wait to show them our new house!	我等不及要带他们看我们的新家了！
+Yes, but now we need to get ready for their arrival.	是的，但现在我们得为他们的到来做好准备。
+Can you help me clean up their room?	你能帮我打扫他们的房间吗？
+But their room is already clean!	可是他们的房间已经很干净了！
+Well, it's not "grandma clean" yet!	嗯，还没达到“奶奶的干净标准”呢！
+Oh, OK.	哦，好吧。
+Jim, can you help me put the new clock on the wall?	吉姆，你能帮我把新钟挂到墙上吗？
+I bought it for Grandpa to see the time.	我买它是为了让爷爷看时间。
+Sure, Dad.	当然，爸爸。
+Helen, can you move this chair to their room?	海伦，你能把这把椅子搬到他们的房间吗？
+Grandpa likes reading books in front of the window.	爷爷喜欢在窗前看书。
+Can I put some flowers by the window?	我可以在窗边放些花吗？
+Yes, good idea!	可以，好主意！
+Grandma loves flowers.	奶奶很喜欢花。
+Mum, could you take me to the flower shop later?	妈妈，你待会儿能带我去花店吗？
+No problem.	没问题。
+Let's go after lunch.	我们午饭后去吧。
+Going Home for the Spring Festival	回家过春节
+"It's almost the Spring Festival.	“快到春节了。
+Can we go to Hainan for the holiday, Dad?"	爸爸，我们放假能去海南吗？”
+"Not this time,"	“这次不行，”
+Dad answered with a smile.	爸爸笑着回答。
+"We're going to your mum's hometown!"	“我们要去你妈妈的老家！”
+Soon the day of our family trip came.	很快，我们全家出行的日子到了。
+We got up very early in the morning to catch the train.	我们一大早就起床去赶火车。
+The train journey took more than five hours, and then we changed to a bus to get to my grandparents' village in the afternoon.	火车坐了五个多小时，然后我们换乘公交车，下午到了外公外婆的村子。
+At the end of the road, I saw Grandpa and my little cousin standing in the cold wind waiting for us.	在路的尽头，我看到外公和我的小表弟站在寒风中等我们。
+We walked quickly to greet them.	我们快步走过去和他们打招呼。
+Grandpa helped us pull the heavy luggage into the house.	外公帮我们把沉重的行李拖进屋里。
+"Ah, home again!"	“啊，又回家了！”
+said Mum with a smile on her face.	妈妈笑着说。
+Grandma, my aunt, and my uncle were busy cooking dinner in the kitchen.	外婆、舅妈和舅舅正在厨房里忙着做晚饭。
+They were very happy to see us.	他们见到我们非常高兴。
+After a little while, my parents went to the kitchen to help.	过了一会儿，爸爸妈妈去厨房帮忙。
+"Could you bring Wenwen her favourite snacks?"	“你能把文文最爱吃的零食拿来吗？”
+Grandma asked Grandpa.	外婆对外公说。
+I shared the snacks with my cousin and told Grandpa about school.	我和表弟分享零食，还给外公讲学校的事。
+He was happy to hear I was doing well at school.	听说我在学校表现很好，他很高兴。
+When dinner was ready, I asked, "Can I help?"	晚饭做好时，我问：“我能帮忙吗？”
+"You can set the table,"	“你可以摆碗筷，”
+Dad said. We then enjoyed all the delicious food.	爸爸说。然后我们享用了所有美味的饭菜。
+the familiar taste of home!"	熟悉的家乡味道！”
+said Mum.	妈妈说。
+During the dinner, my uncle told us some jokes and we had a good laugh.	吃饭时，舅舅给我们讲了些笑话，我们开怀大笑。
+Several days later when we were leaving, Grandma held my hands and asked us, "Will you come home more often?"	几天后我们要走时，外婆握着我的手问我们：“你们会常回家吗？”
+Mum nodded, with tears in her eyes.	妈妈点点头，眼里含着泪水。
+Chen Jie, did you hear about the school music festival?	陈杰，你听说学校音乐节的事了吗？
+Yeah, it sounds fun.	听说了，听起来很有意思。
+Why don't you perform?	你为什么不去表演呢？
+You play the Chinese flute better than anyone else in our music club.	你的笛子吹得比我们音乐社任何人都好。
+Well, I'm afraid of performing alone.	嗯，我害怕独自表演。
+I'm not as outgoing as you.	我不像你那么外向。
+But you work harder than me.	但你比我更努力。
+And last week you played a really beautiful song!	而且上周你吹了一首非常好听的曲子！
+You liked it?	你喜欢吗？
+Maybe we could play it together!	也许我们可以一起演奏！
+Great idea!	好主意！
+I loved your performance!	我很喜欢你们的表演！
+You two did a wonderful job!	你们俩表现得太棒了！
+Look, it's time for Ella and Emma's show!	看，该埃拉和埃玛表演了！
+Is that Ella singing?	正在唱歌的是埃拉吗？
+No, that's Emma.	不，那是埃玛。
+Emma is taller than Ella.	埃玛比埃拉高。
+And she sings louder than Ella.	而且她唱歌比埃拉声音大。
+Look! That is Ella dancing.	看！正在跳舞的是埃拉。
+Her hair is longer than Emma's.	她的头发比埃玛的长。
+They both dance well,	她们俩都跳得很好，
+but I think Ella dances better than her sister.	但我觉得埃拉比她姐姐跳得更好。
+Emma is taller than Ella. And she sings louder than Ella.	埃玛比埃拉高。而且她唱歌比埃拉声音大。
+They both dance well, but I think Ella dances better than her sister.	她们俩都跳得很好，但我觉得埃拉比她姐姐跳得更好。
+Congratulations on winning the prize at the school music festival!	祝贺你们在学校音乐节上获奖！
+You attended the festival last year and this year.	你们去年和今年都参加了音乐节。
+How is this year different?	今年有什么不同？
+There are more students and more activities this year.	今年的学生更多，活动也更多。
+I think it is more colourful than last year.	我觉得比去年更精彩。
+twins, you look very similar.	双胞胎姐妹，你们长得很像。
+How are you different?	你们有什么不同？
+I'm a little quieter than Ella. And she is funnier than me.	我比埃拉安静一点。她比我更风趣。
+Emma always gets up earlier than me.	埃玛总是比我起得早。
+Many people say I'm lazier than Emma, but that's not true!	很多人说我比埃玛懒，但那不是真的！
+I work as hard as her!	我和她一样努力！
+That's really interesting.	那真有意思。
+Besides singing, how do you spend your spare time?	除了唱歌，你们空闲时间还做什么？
+I love playing sports more than anything.	我最喜欢运动。
+I like reading.	我喜欢阅读。
+You see, we're different in many ways, but together, we make a great team!	你看，我们在很多方面都不同，但在一起就是一个很棒的组合！
+Thanks for talking with me.	谢谢你们接受我的采访。
+Our pleasure.	不客气。
+You see, we're different in many ways,	你看，我们在很多方面都不同，
+but together, we make a great team!	但在一起就是一个很棒的组合！
+Our pleasure!	不客气！
+What are Matt's and Diana's opinions about friends?	马特和戴安娜对朋友有什么看法？
+Forum.	论坛。
+Some people think that friends should be alike, but some other people think that friends should be different.	有些人认为朋友应该相似，但另一些人认为朋友应该不同。
+What do you think?	你怎么看？
+Should friends be similar or different?	朋友应该相似还是不同？
+Matt	马特
+I think a good friend is like a mirror.	我认为好朋友就像一面镜子。
+You can understand people by knowing their friends.	通过了解一个人的朋友，你就能了解这个人。
+My friend, Stephen, is a great example.	我的朋友斯蒂芬就是一个很好的例子。
+We often hang out together because we have similar hobbies and interests.	我们经常一起玩，因为我们有相似的爱好和兴趣。
+For example, we both love sport.	比如，我们都热爱运动。
+He plays badminton better than I do, so he always wins our matches.	他羽毛球打得比我好，所以我们比赛总是他赢。
+Because of that, I try harder when I practise, and now I'm getting better at badminton.	因此，我练习时更加努力，现在我的羽毛球越打越好了。
+and I are similar in other ways.	和我在其他方面也很像。
+He is as serious as me.	他和我一样严肃。
+When we aren't playing sport, we enjoy reading together.	不运动的时候，我们喜欢一起看书。
+I read more history books than he does, and he reads a lot of novels.	我读的历史书比他多，而他读很多小说。
+We often share interesting books with each other.	我们经常互相分享有趣的书。
+Diana	戴安娜
+I don't agree.	我不同意。
+For me, friends who are different make me better.	对我来说，与我不同的朋友让我变得更好。
+I think we should respect each other's differences and learn from each other.	我认为我们应该尊重彼此的不同，互相学习。
+For example, I am kind of shy, but my best friend, Yuan Lei, is outgoing.	比如，我有点害羞，但我最好的朋友袁磊很外向。
+She has a great sense of humour too.	她也很有幽默感。
+Thanks to her, I am becoming more outgoing.	多亏了她，我变得更外向了。
+Now I think meeting new people is really fun!	现在我觉得结识新朋友真的很有趣！
+I have another friend, Zhang Yong.	我还有一个朋友叫张勇。
+He is not afraid to give his opinion, especially when he thinks I am making a mistake.	他不怕说出自己的看法，尤其是当他认为我在犯错的时候。
+I am less straightforward than he is, but I am glad to have an honest friend.	我没有他那么直率，但我很高兴有一个诚实的朋友。
+What are you doing?	你在做什么？
+I'm starting a test on animals and plants.	我正要开始做一个关于动植物的测试。
+Sounds fun.	听起来很有趣。
+Let's take it together.	我们一起做吧。
+OK. First question.	好的。第一题。
+What's the largest animal in the world?	世界上最大的动物是什么？
+It's the blue whale, right?	是蓝鲸，对吧？
+Right.	对。
+It's also the heaviest animal on earth.	它也是地球上最重的动物。
+Next question.	下一题。
+Which animal runs the fastest?	哪种动物跑得最快？
+Oh wait!	哦，等等！
+I just read about it.	我刚读到过。
+The cheetah runs the fastest.	猎豹跑得最快。
+Right again!	又对了！
+And I think it's the most beautiful animal in the world.	而且我觉得它是世界上最漂亮的动物。
+I completely agree with you.	我完全同意你的看法。
+Now let's answer the questions about plants.	现在我们来回答关于植物的问题。
+What is the oldest plant in the world?	世界上最古老的植物是什么？
+I'm not sure.	我不确定。
+Do you have any idea?	你知道吗？
+Well, I think moss is one of the oldest plants.	嗯，我认为苔藓是最古老的植物之一。
+It appeared on earth around 470 million years ago	它大约在4.7亿年前出现在地球上
+Oh, look here.	哦，看这里。
+I'm correct!	我答对了！
+Interesting!	有意思！
+Let's go on!	我们继续吧！
+Which kind of tree is the tallest in the world?	哪种树是世界上最高的？
+The redwood tree, right?	是红杉树，对吧？
+I hope I can see some one day.	希望有一天我能亲眼看到。
+Some have two answers.	有些题有两个答案。
+First question.	第一题。
+Hmm,	嗯，
+Oh, what's that, Chen Jie?	哦，那是什么，陈杰？
+It's so beautiful!	真漂亮！
+It's a folding fan.	这是一把折扇。
+I bought it last year.	我去年买的。
+Oh! It has a painting of bamboo on it.	哦！上面画着竹子。
+Yeah. Bamboo is one of the most popular subjects in Chinese paintings.	是啊。竹子是中国画中最受欢迎的题材之一。
+It's a symbol of goodness in Chinese culture.	在中国文化中它是美德的象征。
+I didn't know that before.	我以前不知道。
+So, where did you get that fan?	那你是在哪儿买的这把扇子？
+At the Bamboo Sea in Sichuan, the largest and oldest bamboo forest in China.	在四川的蜀南竹海，那是中国最大、最古老的竹林。
+I learnt lots of interesting things when I was there.	我在那里了解到很多有趣的事。
+Like what?	比如说？
+Well, bamboo is one of the fastest-growing plants.	嗯，竹子是生长最快的植物之一。
+Some bamboo can grow almost one metre in one day.	有些竹子一天能长将近一米。
+Also, it's one of the most useful plants in the world.	而且，它是世界上最有用的植物之一。
+People can use it to build houses and make tools and instruments.	人们可以用它盖房子，制作工具和乐器。
+Oh, that's interesting.	哦，真有意思。
+I remember pandas love to eat bamboo too, right?	我记得熊猫也爱吃竹子，对吧？
+Actually we eat bamboo shoots too.	其实我们也吃竹笋。
+They're really delicious.	竹笋真的很好吃。
+Thanks. It's a folding fan.	谢谢。这是一把折扇。
+Yes.	是的。
+We Can't Live Without Bees	我们离不开蜜蜂
+Imagine you go to the supermarket in your area, but there are almost no fruits, vegetables, honey, milk, eggs, or chocolate.	想象一下，你去附近的超市，却几乎没有水果、蔬菜、蜂蜜、牛奶、鸡蛋或巧克力。
+How would you feel?	你会有什么感觉？
+Disappointed?	失望？
+Angry?	生气？
+Sad?	难过？
+At this moment you realize people, plants, and animals are all connected.	此刻你会意识到，人、植物和动物都是相互联系的。
+We need each other to live, and bees are one of the best examples of this connection.	我们相互依存，而蜜蜂就是这种联系的最好例子之一。
+Bees are very hard-working animals, and their greatest work is pollination.	蜜蜂是非常勤劳的动物，它们最伟大的工作就是授粉。
+On one trip, they often visit 50 to 100 flowers.	一次出行，它们常常要拜访50到100朵花。
+As they fly from one flower to another, they take pollen with them.	当它们从一朵花飞到另一朵花时，就把花粉带了过去。
+This action helps plants grow.	这一行为有助于植物生长。
+In fact, without their work, about 80 per cent of the plants in the world cannot grow.	事实上，没有它们的工作，世界上大约80%的植物都无法生长。
+For this reason, many scientists believe that bees are the most important animals on this planet.	因此，许多科学家认为蜜蜂是这个星球上最重要的动物。
+Bees are also one of the most interesting animals in the world.	蜜蜂也是世界上最有趣的动物之一。
+For example, they work hard together to make their homes.	例如，它们齐心协力地建造自己的家。
+In order to store honey, they create honeycombs.	为了储存蜂蜜，它们建造了蜂巢。
+Another interesting thing about bees is how they communicate.	关于蜜蜂另一件有趣的事是它们怎样交流。
+When a bee finds new food, it uses a dance to tell the others where and how far away the food is.	当一只蜜蜂找到新的食物时，它会用舞蹈告诉其他蜜蜂食物在哪里、有多远。
+Bees play an important part in the ecosystem of our planet.	蜜蜂在我们星球的生态系统中发挥着重要作用。
+However, the number of bees is dropping, and scientists are worried.	然而，蜜蜂的数量正在减少，科学家们很担忧。
+Bees need our help, and there is a lot we can do.	蜜蜂需要我们的帮助，我们能做的有很多。
+Think about what you can do to protect one of the most amazing animals on earth.	想一想你能做些什么来保护这种地球上最神奇的动物之一。
+Let's make some mashed potatoes for lunch.	我们午饭做点土豆泥吧。
+How do we make them?	怎么做呢？
+Well, first, get some potatoes and wash them.	嗯，首先，拿些土豆洗干净。
+How many do we need?	我们需要几个？
+Six.	六个。
+Cut them into pieces.	把它们切成块。
+Done.	好了。
+Next, put the potatoes in the pot and boil them until they are soft.	接着，把土豆放进锅里煮软。
+Got it.	明白了。
+Then, we need some milk and butter.	然后，我们需要一些牛奶和黄油。
+Can you get them for me, please?	你能帮我拿过来吗？
+How much do we need?	需要多少？
+One tablespoon of butter and half a cup of milk	一汤匙黄油和半杯牛奶
+Now, let's start mashing Listening Scripts 97 the potatoes.	现在，我们开始捣土豆吧。
+The potatoes are done.	土豆捣好了。
+Now, add the milk and butter to the potatoes, and mix.	现在，把牛奶和黄油加到土豆里，搅拌均匀。
+Like this?	像这样吗？
+Finally, add salt and pepper	最后，加盐和胡椒粉
+We're done!	做好了！
+Let's try them!	我们尝尝吧！
+Mmm	嗯
+How delicious they taste!	真好吃啊！
+Let's make some mashed potatoes for lunch. Great idea!	我们午饭做点土豆泥吧。好主意！
+Well, first, get some potatoes and wash them. OK. How many do we need?	嗯，首先，拿些土豆洗干净。好的。我们需要几个？
+OK. Done.	好的。好了。
+Got	明白
+it.	了。
+Then, we need some milk and butter. Can you get them for me, please?	然后，我们需要一些牛奶和黄油。你能帮我拿过来吗？
+The potatoes are done. Now, add the milk and butter to the potatoes, and mix.	土豆捣好了。现在，把牛奶和黄油加到土豆里，搅拌均匀。
+OK. We're done!	好的。做好了！
+Let's try them! Mmm ... How delicious they taste!	我们尝尝吧！嗯……真好吃啊！
+Hey Teng Fei, can you teach me how to cook a popular Chinese dish?	嘿，滕飞，你能教我做一道受欢迎的中国菜吗？
+How about stir-fried eggs and tomatoes?	西红柿炒鸡蛋怎么样？
+How do we make it?	怎么做呢？
+We need eggs, tomatoes, salt, and sugar.	我们需要鸡蛋、西红柿、盐和糖。
+How many tomatoes and eggs do we need?	我们需要几个西红柿和几个鸡蛋？
+Four tomatoes and three eggs.	四个西红柿和三个鸡蛋。
+What should we do with the tomatoes and eggs?	我们该怎么处理西红柿和鸡蛋？
+First, cut the tomatoes into small pieces.	首先，把西红柿切成小块。
+Next, mix the eggs in a bowl.	接下来，在碗里把鸡蛋搅匀。
+Like this? Perfect.	像这样吗？很好。
+Then, heat some oil in a pan and add the eggs to it.	然后，在锅里把油烧热，再把鸡蛋加进去。
+Stir-fry for one minute.	翻炒一分钟。
+Then take the eggs out of the pan.	然后把鸡蛋盛出锅。
+Next, cook the tomatoes in the pan until they're soft.	接下来，把西红柿放进锅里炒软。
+Then, add some salt and sugar.	然后，加点盐和糖。
+What an amazing smell!	多么诱人的香味啊！
+What's next?	下一步是什么？
+Finally, put the eggs back into the pan and mix them with the tomatoes.	最后，把鸡蛋倒回锅里，和西红柿炒在一起。
+Wow, it looks so good!	哇，看起来真不错！
+How simple!	多简单啊！
+Perfect.	很好。
+Wow,	哇，
+it looks so good!	看起来真不错！
+How simple.	多简单啊。
+Food for thought.	值得思考的食物。
+"Cooking is love made visible."	“烹饪是看得见的爱。”
+That is what my grandmother always told me.	这是奶奶常对我说的话。
+Thanks to her, I love cooking.	多亏了她，我爱上了烹饪。
+It's a great way for me to share my love with others.	这是我与他人分享爱的好方式。
+Every time I sit at the table, after cooking for my family, we create memories.	每次我为家人做完饭坐到餐桌旁，我们都在创造回忆。
+The smells and the food's taste, along with our conversations, connect us to each other.	食物的香气和味道，还有我们的谈话，把我们彼此联系在一起。
+What wonderful memories I have!	我有多么美好的回忆啊！
+One of my favourite memories is my grandmother's pumpkin pie.	我最美好的回忆之一是奶奶做的南瓜派。
+She always made it in autumn, when the weather got colder.	她总是在秋天天气转凉时做南瓜派。
+Her friendly kitchen was the perfect place to warm up and enjoy a taste of the changing seasons.	她温馨的厨房是暖和身子、品尝四季变化滋味的绝佳地方。
+I still remember the days when the smell of cinnamon filled the room with sweetness.	我仍然记得那些日子，肉桂的香味让屋子里充满了甜蜜。
+Now, every time I smell cinnamon, I think of my grandmother's pumpkin pie.	现在，每当我闻到肉桂的味道，我就会想起奶奶做的南瓜派。
+My grandmother told me about her first pumpkin pie.	奶奶给我讲过她做的第一个南瓜派。
+When she was a college student in the US, she stayed with a host family.	她在美国读大学时，住在一个寄宿家庭里。
+One year around Thanksgiving, the hostess taught her how to make a pumpkin pie.	有一年感恩节前后，女主人教她怎么做南瓜派。
+Many years later, she taught me how to make it too.	许多年后，她也教会了我怎么做。
+My grandmother loved learning how to make food from other cultures.	奶奶喜欢学做其他文化的食物。
+"It's my way of making friends from around the world," she said.	“这是我结交世界各地朋友的方式。”她说。
+Grandmother taught me the secret to cooking: Cook with love.	奶奶教给我烹饪的诀窍：用爱做饭。
+Thanks to my grandmother, I love to try new food and new recipes from other countries and cultures.	多亏了奶奶，我喜欢尝试其他国家和文化的新食物、新菜谱。
+Pumpkin Pie Recipe eggs, sugar, cinnamon, salt, pumpkin, cream, pie crust	南瓜派食谱：鸡蛋、糖、肉桂、盐、南瓜、奶油、派皮
+First, mix the eggs. Then, add the sugar, cinnamon, salt, pumpkin, and cream.	首先，把鸡蛋搅匀。然后，加入糖、肉桂、盐、南瓜和奶油。
+Next, pour the mixture into the pie crust.	接下来，把混合好的馅料倒进派皮里。
+After that, place the pie in the oven and cook for 40 to 50 minutes.	之后，把派放进烤箱烤40到50分钟。
+Finally, let the pie cool for at least an hour before serving.	最后，让派冷却至少一个小时再吃。
+John, what do you want to be when you grow up?	约翰，你长大后想做什么？
+I want to be a fireman.	我想当一名消防员。
+But why?	为什么呢？
+Well, my uncle is a firefighter.	嗯，我叔叔是一名消防员。
+He is like a hero to me.	他对我来说就像个英雄。
+So I want to be just like him.	所以我想成为像他一样的人。
+So how are you going to become a fireman?	那你打算怎样成为一名消防员呢？
+I'm going to exercise every day, because a fireman needs to be strong.	我打算每天锻炼，因为消防员需要身体强壮。
+Yes, you need to be really fit.	是的，你得身体非常健康。
+Tina, what do you want to be when you grow up?	蒂娜，你长大后想做什么？
+I want to be a fashion designer.	我想当一名时装设计师。
+How are you going to do that?	你打算怎么做呢？
+I'm going to take art lessons and practise my drawing skills every day.	我打算上美术课，每天练习画画。
+That sounds great!	听起来很棒！
+What about you, Jason?	你呢，贾森？
+What do you want to be when you're older?	你长大后想做什么？
+I want to be an IT engineer.	我想当一名信息技术工程师。
+How do you plan to do that?	你打算怎么做呢？
+I'm going to work hard at maths.	我打算努力学数学。
+And I'm also going to read more books about IT and AI.	而且我还打算多读一些关于信息技术和人工智能的书。
+Wow! But why?	哇！为什么呢？
+He is like a hero to me. So I want to be just like him.	他对我来说就像个英雄。所以我想成为像他一样的人。
+Cool! How are you going to do that?	酷！你打算怎么做呢？
+Nice! How do you plan to do that?	不错！你打算怎么做呢？
+I'm going to work hard at maths. And I'm also going to read more books about IT and AI.	我打算努力学数学。而且我还打算多读一些关于信息技术和人工智能的书。
+What are you reading, Fu Xing?	付星，你在读什么？
+It's a book of essays by a famous Chinese writer.	这是一位中国著名作家写的散文集。
+now I know why you're so good at writing.	现在我知道你为什么那么擅长写作了。
+You know, I want to be a writer when I'm older.	你知道吗，我长大后想当一名作家。
+I'm going to read more classics.	我打算多读些经典名著。
+And also, I'm going to keep on writing stories and essays.	另外，我打算继续写故事和散文。
+Your plan sounds wonderful!	你的计划听起来很棒！
+I think you're going to be a great writer.	我觉得你会成为一名伟大的作家。
+I hope so!	希望如此！
+about you, Adam?	你呢，亚当？
+My parents want me to be a doctor,	我父母想让我当医生，
+but I'm not sure about that.	但我自己还不确定。
+Well, don't worry.	嗯，别担心。
+Not everyone knows what they want to be.	并不是每个人都知道自己想做什么。
+Just make sure you try your best at school.	只要确保你在学校尽了最大努力就行。
+Then you can do anything you want!	那样你想做什么都可以！
+Yeah, you're right.	是啊，你说得对。
+You're right.	你说得对。
+Put the sentences in the correct places.	把句子放到正确的位置。
+Making Resolutions	下决心
+Do you know what a resolution is?	你知道什么是决心吗？
+A resolution is a promise that you make to yourself.	决心是你对自己许下的承诺。
+People make resolutions to improve their life.	人们下决心是为了改善自己的生活。
+The most common kind is a New Year's resolution.	最常见的是新年决心。
+After all, the start of the year is often a perfect time for making resolutions.	毕竟，一年的开始往往是下决心的最佳时机。
+Resolutions can be about anything.	决心可以是关于任何事情的。
+Some are about physical health.	有些是关于身体健康的。
+For example, some people may promise to exercise more or eat more healthily.	例如，有些人可能会承诺多锻炼或吃得更健康。
+Some resolutions have to do with learning new things.	有些决心与学习新事物有关。
+People might decide they are going to take up a hobby, like painting or photography.	人们可能会决定培养一项爱好，比如绘画或摄影。
+And some resolutions have to do with self-improvement, like becoming more confident or	还有些决心与自我提升有关，比如变得更自信或
+For example, a student may decide to start a new study plan.	例如，一个学生可能会决定开始一项新的学习计划。
+Although there are differences, most resolutions have one thing in common:	虽然各有不同，但大多数决心都有一个共同点：
+People hardly ever keep them!	人们几乎从来都坚持不下去！
+But there are good reasons for this.	但这是有原因的。
+Sometimes the resolutions may be too difficult to keep.	有时候决心可能太难坚持。
+And sometimes people just forget about them.	有时候人们干脆就忘了。
+To make your resolutions work, you need to plan them wisely.	要让你的决心付诸实现，你需要明智地规划。
+Always make sure your resolution is possible to achieve.	一定要确保你的决心是可以实现的。
+Don't set a goal that is too difficult or too much for you.	不要给自己定太难或太多的目标。
+Try to set mini-goals to help you achieve your resolution.	试着设定一些小目标来帮助你实现决心。
+And if you don't want to forget your resolutions, write them down.	如果你不想忘记自己的决心，就把它们写下来。
+Also, talk about them with your family and friends.	另外，和家人朋友谈谈你的决心。
+Encourage them to remind you of your goals.	请他们提醒你记住自己的目标。
+So what resolutions are you going to make?	那么你打算下什么决心呢？
+How are you going to keep them?	你打算怎样坚持下去？
+Are you free tomorrow?	你明天有空吗？
+A new sci-fi film is coming out.	有一部新的科幻电影要上映了。
+I know you like sci-fi films.	我知道你喜欢科幻电影。
+Shall we go to see it?	我们去看好吗？
+Oh, I'd love to!	哦，我很想去！
+Which cinema shall we go to?	我们去哪家电影院？
+What about the Huaxia Cinema?	华夏影院怎么样？
+I'll book the tickets online now	我现在就在网上订票
+OK,	好的，
+done.	订好了。
+The film starts at 5:15 p.m.	电影下午5点15分开始。
+Good.	好。
+Shall we meet at the cinema at five o'clock?	我们五点在电影院见面好吗？
+All right.	好的。
+See you then!	到时见！
+What an exciting sci-fi film!	多么激动人心的科幻电影啊！
+I really loved the story.	我真的很喜欢这个故事。
+But do you think the film was right?	但你觉得电影里说的对吗？
+Will climate change be worse in the future?	未来气候变化会更严重吗？
+I'm afraid so.	恐怕会的。
+Some scientists believe there will be less land to grow food.	一些科学家认为可以种粮食的土地会越来越少。
+I don't think there will be less land.	我认为土地不会变少。
+You seem quite positive about the future, Teng Fei.	滕飞，你似乎对未来相当乐观。
+I am.	是的。
+I read that people could plant trees and turn deserts into forests.	我读到过，人们可以植树，把沙漠变成森林。
+And we can make more farmland too.	而且我们还能开垦更多农田。
+Perhaps you are right.	也许你是对的。
+So, do you think we will still live on earth in the future?	那么，你认为将来我们还会住在地球上吗？
+but I believe we'll keep on exploring space.	但我相信我们会继续探索太空。
+Hi, Jennifer.	嗨，珍妮弗。
+What's up?	怎么了？
+Oh, hi, Helen.	哦，嗨，海伦。
+I'm watching a video about future predictions.	我在看一个关于未来预测的视频。
+So, what will the future be like?	那么，未来会是什么样子？
+Well, there will be more people in cities, but the transport system will be more efficient.	嗯，城市里的人会更多，但交通系统会更高效。
+It means that there will be fewer traffic accidents.	这意味着交通事故会更少。
+Sounds great!	听起来很棒！
+Any other predictions?	还有别的预测吗？
+Students probably won't go to a school in the future.	将来学生们可能不会去学校上学了。
+They will study at home or any place they want.	他们会在家或任何想去的地方学习。
+Oh, but I really like going to school!	哦，可我真的很喜欢去学校！
+Anything else?	还有别的吗？
+And people will live longer.	还有，人们会活得更长。
+Because we'll have better health care technology in our homes.	因为我们家里会有更好的医疗保健技术。
+Machines will tell us how to solve small health problems before they become bigger.	机器会在小的健康问题变严重之前告诉我们怎样解决。
+That'll be great.	那太好了。
+How long will most people live?	大多数人能活多久？
+Well, more people will live to be over 100 years old.	嗯，会有更多人活到100岁以上。
+Some may even live to be 150.	有些人甚至可能活到150岁。
+Wow, that sounds wonderful.	哇，那听起来太美好了。
+Ready for Tomorrow?	为明天准备好了吗？
+Good evening, everyone!	大家晚上好！
+Our guest today is Dr Lu Xingyuan, chief researcher of the Future World Research Centre.	我们今天的嘉宾是未来世界研究中心的首席研究员陆星远博士。
+So welcome to our show, Dr Lu.	欢迎来到我们的节目，陆博士。
+Good	晚上
+evening.	好。
+Thank you,	谢谢，
+it's a pleasure to be here.	很荣幸来到这里。
+Dr Lu, thank you for joining us.	陆博士，谢谢您参加我们的节目。
+So, as a futurist, can you tell us how life will be different in 50 years?	那么，作为一名未来学家，您能告诉我们50年后生活会有什么不同吗？
+Well, you'll see robots working everywhere.	嗯，你会看到到处都有机器人在工作。
+Can you give us some examples?	您能举些例子吗？
+Well, as we all know, China's robotics industry is growing fast.	嗯，众所周知，中国的机器人产业发展很快。
+Robots will make our life easier.	机器人会让我们的生活更轻松。
+We'll have service robots.	我们会有服务型机器人。
+They will do almost all our housework.	它们会做几乎所有的家务。
+They will also help save lives when disasters and emergencies happen.	当灾难和紧急情况发生时，它们还会帮助拯救生命。
+So, what jobs will humans still do in the future?	那么，将来人类还会做哪些工作呢？
+Good question!	好问题！
+Some jobs today will disappear in the coming years.	今天的一些工作在未来几年会消失。
+However, there will be more challenging jobs in the future, such as space pilots and AI experts.	然而，将来会有更多有挑战性的工作，比如太空飞行员和人工智能专家。
+Do you think robots will replace humans one day?	您认为机器人有一天会取代人类吗？
+No, I don't.	不，我不这么认为。
+Our creativity and emotional intelligence are important for relationships.	我们的创造力和情绪智力对人际关系很重要。
+AI will not replace humans for these things.	在这些方面人工智能不会取代人类。
+You mentioned AI.	您提到了人工智能。
+How will AI change our world?	人工智能会怎样改变我们的世界？
+Well, it will certainly change how we work, study, and live.	嗯，它肯定会改变我们工作、学习和生活的方式。
+For example, a smart refrigerator will know what you need and order food for you when you're running low.	例如，智能冰箱会知道你需要什么，在食物快吃完时帮你订购。
+Wow, that'll save us a lot of time!	哇，那会帮我们节省很多时间！
+Now, my last question:	现在，我的最后一个问题：
+How can we prepare for the future?	我们怎样为未来做准备？
+It's simple.	很简单。
+Just accept change.	接受变化就好。
+Keep learning and working hard.	坚持学习，努力工作。
+Today's choices will influence your future.	今天的选择会影响你的未来。
+Thank you for your time, Dr Lu.	谢谢您抽出时间，陆博士。
+How do we communicate?	我们怎样交流？
+Hello?	喂？
+Hi Dad,	嗨，爸爸，
+I have a rehearsal after school.	我放学后要排练。
+Can you pick me up later?	你晚点能来接我吗？
+When does it end?	什么时候结束？
+We'll finish at 7 p.m. if it's on time.	如果准时的话，我们晚上7点结束。
+Can you pick me up at 7:15?	你能7点15分来接我吗？
+100 Listening Scripts OK.	好的。
+If everything goes well, I'll see you at 7:15.	如果一切顺利，我7点15分见你。
+If the traffic is too bad, you'll have to wait for a few minutes.	如果交通太堵，你就得等几分钟。
+I'll wait for you at the school gate.	我会在校门口等你。
+Grandpa, can you see me?	爷爷，您能看到我吗？
+Welcome to People's Park!	欢迎来到人民公园！
+Let me use the camera to show you around.	我用摄像头带您四处看看。
+I can see you and the park.	我能看到你和公园。
+Oh, people are singing and dancing.	哦，人们在唱歌跳舞。
+They seem happy.	他们看起来很开心。
+Yeah.	是啊。
+Many people come here to exercise and relax.	很多人来这里锻炼和放松。
+If I visit China this year, I will go to the park with you.	如果我今年去中国，我会和你一起去这个公园。
+It seems fun and lively.	看起来很有趣，很热闹。
+If you can make it, I'll show you around the city and let you taste all the yummy local food.	如果您能来，我会带您逛逛这座城市，让您尝遍所有美味的当地食物。
+Wonderful!	太好了！
+Professor, thanks for the helpful speech on communication.	教授，感谢您关于沟通的有益演讲。
+I have a question.	我有一个问题。
+Sometimes my friends and I argue but don't know how to make up.	有时我和朋友们会争吵，却不知道怎样和好。
+What's the best way to communicate in this situation?	在这种情况下最好的沟通方式是什么？
+If you want to solve the problem, a face-to-face talk usually works the best.	如果你想解决问题，面对面交谈通常效果最好。
+I understand, but meeting in person is not always easy.	我明白，但亲自见面并不总是那么容易。
+If you can't meet, just call your friend.	如果不能见面，就给朋友打个电话。
+Some of you may prefer texting, but it takes longer and can make things worse if you're not careful with your words.	你们有些人可能更喜欢发短信，但这样更费时间，而且如果说话不注意，会让事情变得更糟。
+But what if we argue more over the phone?	但如果我们在电话里吵得更厉害怎么办？
+If you stay calm and say sorry, it will help.	如果你保持冷静并道歉，会有帮助的。
+If it is still hard to talk, take a break.	如果还是很难沟通，就先冷静一下。
+Meet when you're both ready.	等你们都准备好了再见面。
+I'll call and try to meet. Because friendship is important.	我会打电话，争取见面。因为友谊很重要。
+Thanks for the advice!	谢谢您的建议！
+Who did the author write this text for?	作者是为谁写的这篇文章？
+How to Make a Better Conversation	怎样让交谈更顺利
+Do you get nervous when you talk to someone?	你和别人说话时会紧张吗？
+Do you find it hard to have a conversation with a stranger?	你觉得和陌生人交谈很难吗？
+If you have such worries, it is time for you to learn some more conversation skills.	如果你有这样的担心，是时候学一些交谈技巧了。
+Here are some tips for making better conversations.	这里有一些让交谈更顺利的小建议。
+Listen carefully and show interest in others.	认真倾听，对别人表现出兴趣。
+One of the most important things is to listen to the person you speak to.	最重要的事情之一就是倾听和你说话的人。
+If you are a good listener, you will find some good points to ask questions about.	如果你是一个好的倾听者，你会找到一些值得提问的好话题。
+For example, if someone tells you their hobby and you can ask questions about it, they will surely be happy to continue the conversation.	例如，如果有人告诉你他们的爱好，而你能就此提问，他们肯定会很乐意继续聊下去。
+Some of the best topics might be the weather, sports, music, films, food, or travel.	最好的话题可能是天气、体育、音乐、电影、食物或旅行。
+However, it is impolite to ask someone's age, weight, or other personal information.	然而，询问别人的年龄、体重或其他个人信息是不礼貌的。
+Also, if you don't agree with others, don't argue with them.	另外，如果你不同意别人的意见，不要和他们争吵。
+Just move on to another topic.	换个话题就好。
+Be honest and sincere.	要诚实真诚。
+If you have no idea of a subject, just say "I don't know much about it."	如果你对某个话题一无所知，就说“我对此了解不多”。
+If you want to make the other person happy, mention his or her strong points. But don't just pretend to be nice, because people can find out you are not telling the truth.	如果你想让对方高兴，就提提他或她的长处。但不要只是假装友好，因为别人能看出你说的不是真话。
+Pay attention to your body language.	注意你的肢体语言。
+Sometimes it is just as important as your words.	有时它和你说的话一样重要。
+Don't be nervous.	不要紧张。
+Stand up straight, smile, and be yourself—you	站直，微笑，做真实的自己——你
+yourself—you have a lot to offer.	——你有很多闪光点。
+If you really work at it, you will find having conversations much easier.	只要你真正下功夫，你会发现交谈容易多了。
+
+# ---- 九年级 ----
+Hello, George.	你好，乔治。
+Hi, Li Rui.	嗨，李瑞。
+My father, Bob, and I are going to visit your hometown.	我和我爸爸鲍勃要去你的家乡看看。
+Could you be our guide?	你能给我们当导游吗？
+I'd love to!	我很乐意！
+You know, my father's last visit was about 20 years ago.	你知道吗，我爸爸上次去是大约20年前。
+He became a good friend of your grandfather.	他和你爷爷成了好朋友。
+Grandpa will be so happy.	爷爷会非常高兴的。
+They haven't seen each other for ages!	他们好久没见面了！
+Yes, and my father really wants to see how the place has changed since he last visited.	是啊，我爸爸很想看看自从他上次来过之后，那里发生了怎样的变化。
+What do you think of your trip so far?	到目前为止，您觉得这次旅行怎么样？
+Amazing!	太棒了！
+When I first visited here, it took half a day to reach the town.	我第一次来这里时，到镇上要花半天时间。
+Now, with the new roads, it takes only an hour.	现在有了新路，只要一个小时。
+When I was a child, the bus took nearly 40 minutes over rough roads to get to school.	我小时候，公交车要在崎岖的路上开将近40分钟才能到学校。
+Now, it takes only 15 minutes.	现在只要15分钟。
+Life is much easier!	生活方便多了！
+Not only that. We used to have to travel far to see a doctor, but now our town has built a new hospital.	不仅如此。我们过去要走很远的路去看病，现在镇上建了一所新医院。
+And didn't I see a supermarket down the street?	我是不是在街那头看到了一家超市？
+We didn't have any such places for shopping until 10 years ago.	直到10年前，我们这里都没有这样的购物场所。
+But the biggest change is on the hills.	但最大的变化在山上。
+They used to be covered with sand.	那些山过去被沙子覆盖着。
+And now they have been covered with beautiful trees!	现在山上长满了美丽的树木！
+I'm amazed by how green your hometown has become!	你的家乡变得这么绿，真让我惊叹！
+Have you seen the corn fields outside of the town yet?	你看过镇子外面的玉米地了吗？
+Yeah! They're huge!	看过了！好大啊！
+There used to be sandstorms all the time, and the fields were getting smaller and smaller.	以前总是刮沙尘暴，田地越来越小。
+Then, after one big sandstorm, we decided to do something.	后来，在一场大沙尘暴之后，我们决定做点什么。
+What did you do?	你们做了什么？
+We found a small bush.	我们找到了一种小灌木。
+It had long roots that could hold the soil together.	它有长长的根，能把土壤固定住。
+We began planting it in sandy areas.	我们开始在沙地上种植它。
+The government provided support too.	政府也提供了支持。
+Wasn't it difficult to plant so many bushes?	种这么多灌木不难吗？
+Yes, it was.	是很难。
+In the beginning, we worked by hand.	一开始，我们靠手工干活。
+Later, we had machines to help.	后来，我们有了机器帮忙。
+We have planted many bushes and trees since then.	从那以后，我们种了许多灌木和树。
+There are fewer sandstorms now and the environment is getting better.	现在沙尘暴少了，环境越来越好了。
+It has also improved our lives.	它也改善了我们的生活。
+Everyone has become richer and happier.	每个人都变得更富裕、更幸福了。
+How has life changed in your hometown over the last 20 years?	在过去的20年里，你家乡的生活发生了怎样的变化？
+Oh, it has changed quite a lot!	哦，变化很大！
+Many young people used to work in big cities.	过去很多年轻人在大城市打工。
+Now, more of them have come back to live and work here.	现在，越来越多的人回到这里生活和工作。
+Have there been any other changes?	还有其他变化吗？
+Yes, we've changed the way we farm.	有，我们改变了种地的方式。
+I used to grow a few vegetables on a small farm to sell at the local market.	我过去在一个小农场里种点蔬菜，拿到当地集市上卖。
+Now, I have large, high-tech greenhouses.	现在，我有了大型高科技温室。
+There, I grow tons of fruit and vegetables, and sell them in large cities.	我在那里种出成吨的水果和蔬菜，卖到大城市去。
+Wow, the new highway and railway must have helped a lot!	哇，新修的公路和铁路一定帮了大忙！
+Oh, they have!	是啊，确实是！
+Our village has become a tourist attraction.	我们村已经成了一个旅游景点。
+We can now sell local products to tourists.	我们现在可以把当地产品卖给游客了。
+We also sell products online to people all over China.	我们还在网上把产品卖给全国各地的人。
+Have these changes greatly improved your lives?	这些变化是不是大大改善了你们的生活？
+Yes! We now have new houses.	是的！我们现在住上了新房子。
+And our village has just built a new hospital and a library.	而且我们村刚建了一所新医院和一座图书馆。
+Together you are building a new socialist village.	你们正在一起建设社会主义新农村。
+What is the text probably about?	这篇文章可能是关于什么的？
+Read it quickly to check your prediction.	快速阅读，检验你的预测。
+On the fast track.	在快车道上。
+In 2017, the new 480 km Mombasa-Nairobi railway was opened.	2017年，全长480千米的新蒙内铁路（蒙巴萨—内罗毕）通车了。
+Before then, the only transport links between Mombasa, Kenya's main port, and Nairobi, Kenya's capital, were rough roads and an old railway line completed in 1901.	在那之前，肯尼亚的主要港口蒙巴萨和首都内罗毕之间，只有崎岖的公路和一条1901年建成的老铁路。
+The old trains were very slow.	老火车非常慢。
+It took 10 hours to get to Nairobi from Mombasa by train.	过去从蒙巴萨坐火车到内罗毕要10个小时。
+However, the new railway, built with China's help, has already cut the travel time between Mombasa and Nairobi to about five to six hours for passengers.	然而，在中国帮助下修建的新铁路，已经把旅客往返蒙巴萨和内罗毕的时间缩短到五到六个小时左右。
+Now, more than two million people use it every year.	现在，每年有两百多万人乘坐它。
+Local Kenyans have benefited a lot from the new railway.	当地肯尼亚人从新铁路中受益良多。
+A government worker said, "I'm very happy with the new railway built by our Chinese friends.	一位政府工作人员说：“我对中国朋友修建的新铁路非常满意。
+Many changes have taken place in the town over the last few years, and the people who live here have become rich."	在过去的几年里，镇上发生了许多变化，住在这里的人也富起来了。”
+A businessman said, "My experience of using the train since 2017 has been good.	一位商人说：“从2017年开始，我乘坐这趟火车的体验一直很好。
+It is very convenient and doesn't cost much money.	这非常方便，而且花不了多少钱。
+I am able to get to places on time and make business deals with ease."	我能准时到达目的地，轻松地谈成生意。”
+The railway has also made the transport of food easier.	这条铁路也让食物运输变得更容易了。
+"It used to take hundreds of lorries to carry food between the two cities,	“过去在两座城市之间运送食物要用几百辆卡车，
+but now it takes only two or three trains," said a supermarket manager.	而现在只要两三列火车。”一位超市经理说。
+As a result, people now have more fresh food to eat.	因此，人们现在能吃到更多新鲜的食物。
+Although China and Kenya are far away from each other, the railway shows how different countries can work together to build a better world.	虽然中国和肯尼亚相距遥远，但这条铁路展示了不同国家怎样携手建设一个更美好的世界。
+Class,	同学们，
+who do you admire the most?	你们最钦佩谁？
+Yes, Yaming?	好，亚明？
+I really admire Yuan Longping.	我非常钦佩袁隆平。
+It was great of him to develop a new kind of rice and help reduce hunger.	他培育出一种新水稻，帮助减少了饥饿，真了不起。
+Yuan Longping also trained many people to do research on farming in China and other parts of the world.	袁隆平还在中国和世界其他地方培训了许多人从事农业研究。
+Who else inspires you?	还有谁激励了你们？
+Yes, Peter?	好，彼得？
+I admire Michael Faraday very much.	我非常钦佩迈克尔·法拉第。
+It was amazing that he did scientific research in physics and chemistry even though he didn't receive a formal education.	令人惊叹的是，尽管没有受过正规教育，他仍在物理和化学领域进行了科学研究。
+Yes, Michael Faraday dropped out of school at an early age, but he found every chance to study and became a great scientist.	是的，迈克尔·法拉第很小就辍学了，但他抓住一切机会学习，成了一位伟大的科学家。
+Who do your parents or grandparents admire?	你们的父母或祖父母钦佩谁？
+Do you know,	你知道吗，
+Fu Xing?	付星？
+Yes, Ms Gao.	知道，高老师。
+My father loves history.	我爸爸热爱历史。
+He admires Sima Qian.	他钦佩司马迁。
+Ah yes,	啊，对，
+the writer of the book Shiji (Records of the Grand Historian).	就是《史记》的作者。
+He also played a big part in reviewing the Chinese calendar at that time.	他还在修订当时的中国历法中发挥了重要作用。
+Oh, I didn't know that.	哦，这个我不知道。
+But I know he was the kind of person who never gave up.	但我知道他是那种从不放弃的人。
+It's always important to keep going in life.	在生活中坚持下去总是很重要的。
+My grandma told me about Marie Curie, a great scientist.	我奶奶给我讲过伟大的科学家玛丽·居里。
+She made many important discoveries in physics and chemistry.	她在物理和化学领域有许多重要发现。
+Yes. I admire Madame Curie too!	是的。我也很钦佩居里夫人！
+It was difficult for women to do that kind of work back in those days. And she won two Nobel Prizes!	在那个年代，女性做那种工作很难。而且她获得了两次诺贝尔奖！
+Class, who do you admire the most?	同学们，你们最钦佩谁？
+Longping also trained many people to do research on farming in China and other parts of the world.	袁隆平还在中国和世界其他地方培训了许多人从事农业研究。
+Do you know, Fu Xing?	付星，你知道吗？
+Ah yes, the writer of the book Shiji (Records of the Grand Historian).	啊，对，就是《史记》的作者。
+Oh, I didn't know that. But I know he was the kind of person who never gave up.	哦，这个我不知道。但我知道他是那种从不放弃的人。
+Right. It's always important to keep going in life.	对。在生活中坚持下去总是很重要的。
+Dad, do you have a second?	爸爸，你有空吗？
+We need to do a survey of our family members about their most admired people.	我们需要对家人做一个调查，了解他们最钦佩的人。
+Can you help me, please?	你能帮帮我吗？
+Sure. Go ahead.	当然。问吧。
+OK, Dad.	好的，爸爸。
+Who do you admire the most?	你最钦佩谁？
+For me, it has to be Isambard Brunel, a famous English engineer.	对我来说，一定是著名的英国工程师伊桑巴德·布鲁内尔。
+He built the first British railways and many other important things, such as bridges, ships, and tunnels.	他修建了英国第一批铁路，还有许多其他重要的东西，比如桥梁、轮船和隧道。
+All these helped the UK develop into a modern nation.	所有这些帮助英国发展成为一个现代国家。
+Oh, I see.	哦，我明白了。
+How about you, Mum?	妈妈，你呢？
+Well, I am really inspired by Florence Nightingale.	嗯，弗洛伦斯·南丁格尔真的很激励我。
+She created modern nursing.	她开创了现代护理事业。
+It was wonderful of her to help us understand the need for cleaner hospitals to stop the spread of diseases.	她帮助我们认识到医院需要更干净才能阻止疾病传播，真了不起。
+What about you, Steve?	史蒂夫，你呢？
+Isaac Newton, of course.	当然是艾萨克·牛顿。
+It was so important that he developed physics!	他发展了物理学，这太重要了！
+I also admire Alan Turing.	我还钦佩阿兰·图灵。
+You know the famous Turing test?	你知道著名的图灵测试吗？
+It's so cool!	它太酷了！
+Yes, I agree.	是的，我同意。
+He was a pioneer of computer science.	他是计算机科学的先驱。
+Thanks, Steve.	谢谢，史蒂夫。
+OK, Dad. Who do you admire the most?	好的，爸爸。你最钦佩谁？
+Thanks Steve.	谢谢，史蒂夫。
+Pay attention to the questions the speakers used.	注意说话人用了哪些问题。
+Hi, everyone.	大家好。
+Who is the person you admire the most?	你最钦佩的人是谁？
+My favourite person is I. M. Pei.	我最喜欢的人是贝聿铭。
+Did he design the glass pyramid at the Louvre Museum?	卢浮宫博物馆的玻璃金字塔是他设计的吗？
+Yes. It was very creative of him to design it.	是的。他设计出它，非常有创意。
+The Suzhou Museum is also one of his amazing designs.	苏州博物馆也是他了不起的设计之一。
+He created a beautiful balance between the East and the West.	他在东方与西方之间创造了一种美妙的平衡。
+Wow, you really know a lot about him!	哇，你真的很了解他！
+I read books and reports about him.	我读过关于他的书和报道。
+I want to be a creative person like him.	我想成为像他一样有创造力的人。
+What about you, Chen Jie?	陈杰，你呢？
+Who inspires you?	谁激励了你？
+Wang Yaping, of course,	当然是王亚平，
+China's first woman to walk in space.	中国第一位进行太空行走的女性。
+She is full of courage and wisdom.	她充满勇气和智慧。
+She was also the first woman to teach a live class from space.	她还是第一位在太空进行直播授课的女性。
+What about you, Adam?	亚当，你呢？
+Who do you look up to?	你敬佩谁？
+Me?	我吗？
+My biggest inspiration is not a famous person.	最激励我的人不是名人。
+It's my father.	是我的爸爸。
+It's really very nice of him to support and encourage my exchange study here.	他支持并鼓励我来这里交换学习，真是太好了。
+Who was the seed scientist?	这位种子科学家是谁？
+What did he do?	他做了什么？
+The Inspiring Seed Scientist On 25 September 2017, the scientific world was shaken by the news that Chinese professor Zhong Yang had died in a car accident.	激励人心的种子科学家 2017年9月25日，中国教授钟扬在一场车祸中不幸去世的消息震惊了科学界。
+The well-respected biologist had spent his whole life researching plants and seeds.	这位备受尊敬的生物学家一生都在研究植物和种子。
+Over the years, he collected many important seeds for China's seed banks.	多年来，他为中国的种子库收集了许多重要的种子。
+These special banks protect all kinds of plant seeds, including the ones we need for food, and they make sure that important plants do not disappear from the world forever.	这些特殊的种子库保护着各种植物种子，包括我们赖以为食的那些，确保重要的植物不会从世界上永远消失。
+Zhong Yang was born in 1964.	钟扬出生于1964年。
+When he was young, he showed a deep love for and a curiosity about the things he studied.	年轻时，他就对所学的东西表现出深深的热爱和好奇。
+He was an excellent student, entering university at the early age of 15.	他是一名优秀的学生，15岁就上了大学。
+There, he studied radio engineering and later became interested in plants.	他在那里学习无线电工程，后来对植物产生了兴趣。
+The research and study of plants, especially the seeds, became the focus of his life after he became a professor at Fudan University.	成为复旦大学的教授后，研究植物，尤其是种子，成了他生活的重心。
+It is important for seed banks to include many different kinds of seeds.	种子库收藏许多不同种类的种子很重要。
+When Zhong Yang discovered that there was not enough research on the seeds from Xizang, he went there to collect seeds himself.	当钟扬发现对西藏种子的研究不够时，他亲自去那里采集种子。
+In 2001, he began his travels across Xizang.	2001年，他开始了穿越西藏的旅程。
+It was very difficult for him to brave the cold weather and great heights.	对他来说，顶着严寒、登上高处非常艰难。
+He sometimes fell sick, but he always continued with his work.	他有时会生病，但总是坚持工作。
+Zhong Yang knew it was better to include more people when doing important work.	钟扬知道，做重要的工作时最好让更多的人参与进来。
+He began a programme to find and train local students in field research to become scientists.	他启动了一个项目，寻找当地学生并训练他们进行野外研究，让他们成为科学家。
+Together, he and his team collected more than 40 million seeds from over 1,000 types of plants.	他和他的团队一起，从一千多种植物中收集了四千多万粒种子。
+Their hard work provided the world with lots of new information about the plants in China.	他们的辛勤工作为世界提供了大量关于中国植物的新信息。
+Zhong Yang left behind more than just a huge collection of seeds.	钟扬留下的不只是大量的种子收藏。
+His love for his job and research lives on in his students.	他对工作和研究的热爱在他的学生身上延续。
+He once said, "My students will continue on the road of scientific exploration, and the seeds we have collected may grow hundreds of years from now."	他曾说：“我的学生会继续走在科学探索的路上，我们收集的种子也许几百年后还会生根发芽。”
+Smart Learning	聪明地学习
+Section A, 1b and 1c Teng Fei,	滕飞，
+you always do well in maths.	你数学总是学得很好。
+How do you study for it?	你是怎么学的？
+For me, I think the best way is to do maths problems.	对我来说，我认为最好的办法是做数学题。
+I found a learning app for that.	我找到了一个这方面的学习软件。
+Let me show you.	我给你看看。
+How does it work?	它是怎么用的？
+You begin by taking a test.	你先做一个测试。
+It will find your weak points.	它会找出你的薄弱环节。
+Then it gives exercises to work on them.	然后它会给出练习，帮你攻克它们。
+That's smart.	真聪明。
+I wonder if you could help me with my history study.	不知道你能不能帮我学历史。
+You always get good marks in history.	你历史总是考得很好。
+How do you do it?	你是怎么做到的？
+Sure, Adam.	当然可以，亚当。
+I study by taking notes a lot.	我学习时会记很多笔记。
+What do you mean by that?	你这是什么意思？
+Well, for historical events, I usually make a timeline and test myself on the key points.	嗯，对于历史事件，我通常会做一条时间轴，再就要点自我测试。
+I like using mind maps.	我喜欢用思维导图。
+I think they can help me better understand historical events.	我认为它们能帮助我更好地理解历史事件。
+Sounds interesting.	听起来很有趣。
+What is your secret to learning physics well, Peter?	彼得，你学好物理的秘诀是什么？
+Well, Ella, I like doing hands-on experiments.	嗯，埃拉，我喜欢动手做实验。
+How does that help?	这有什么帮助呢？
+You know, everything in physics connects with something in real life.	你知道，物理学里的每样东西都和现实生活中的某样东西有联系。
+By doing hands-on experiments, I can see that connection.	通过动手做实验，我能看到其中的联系。
+I see!	我明白了！
+Many famous physicists also started doing experiments when they were young.	许多著名的物理学家也是从小就开始做实验的。
+Exactly.	没错。
+Sure, Adam. I study by taking notes a lot.	当然可以，亚当。我学习时会记很多笔记。
+Welcome to the English club!	欢迎来到英语社！
+Today's question is: What are some good ways to learn English?	今天的问题是：学英语有哪些好方法？
+I like to learn new words by using flashcards.	我喜欢用单词卡学新单词。
+Yes, flashcards are easy to carry around and let you review the words.	是的，单词卡便于随身携带，还能让你复习单词。
+It's also good to note down useful expressions and word groups.	把有用的表达和词组记下来也很好。
+Right. It's helpful to put words into meaningful groups.	对。把单词按意义归类很有帮助。
+I also want to know whether you read English books outside class.	我还想知道你们课外读不读英语书。
+Yes. I like reading a lot, both in English and Chinese.	读。我很喜欢阅读，英文书和中文书都读。
+I believe reading is important for learning in general.	我认为总的来说，阅读对学习很重要。
+I like reading too. But I can't read very fast.	我也喜欢阅读。但我读得不太快。
+I guess maybe you need to read books that suit your English level.	我想你也许需要读适合你英语水平的书。
+Yes, choose something interesting and easy to read.	是的，选一些有趣又容易读的。
+Read something every day and read widely.	每天读一点，而且要广泛阅读。
+The more you read, the faster and better you'll become.	你读得越多，就会读得越快越好。
+Any other ideas?	还有别的想法吗？
+It's helpful to put words into meaningful groups.	把单词按意义归类很有帮助。
+I like reading a lot, both in English and Chinese.	我很喜欢阅读，英文书和中文书都读。
+choose something interesting and easy to read.	选一些有趣又容易读的。
+Pay attention to how the speaker explains his	注意说话人是怎样解释他的
+Hi, this is Ella's podcast.	大家好，这里是埃拉的播客。
+Today's guest is Binbin.	今天的嘉宾是彬彬。
+He's going to give us some ideas for learning English.	他将给我们分享一些学英语的方法。
+Thanks for having me!	谢谢邀请我！
+For learning English, I think first you need to become an active learner.	学英语，我认为首先你要成为一个主动的学习者。
+Well, because I want to speak English well, I practise English all the time.	嗯，因为我想把英语说好，所以我一直在练习英语。
+Oh, you must spend a lot of time studying!	哦，你一定花了很多时间学习吧！
+Well, it doesn't mean you have to study all the time.	嗯，这并不意味着你得一直学习。
+You need to spend time using the language.	你需要花时间去使用这门语言。
+For example, I speak English with friends.	比如，我和朋友说英语。
+I repeat the dialogues from the films I like.	我会跟读我喜欢的电影里的对白。
+I read English books, and sometimes I write my diary in English.	我读英语书，有时还用英语写日记。
+Wow! I guess you really enjoy learning.	哇！我猜你一定很享受学习。
+Yes, it's true!	是的，确实如此！
+But you see, I started out at zero and came across problems.	但你知道，我是从零开始的，也遇到过困难。
+I mean, you just have to take things step by step.	我的意思是，你只需要一步一步来。
+Start simple and build up.	从简单的开始，逐步提高。
+That's so true.	说得太对了。
+How to Become a Successful Learner	怎样成为成功的学习者
+Everyone has the ability to learn.	每个人都有学习的能力。
+Experts on the science of learning will tell you that anyone can become a successful learner.	研究学习科学的专家会告诉你，任何人都能成为成功的学习者。
+However, many students do not realize this, and they have trouble learning.	然而，许多学生没有意识到这一点，他们在学习上遇到困难。
+Studies show that the first key to becoming a successful learner is to have a growth mindset.	研究表明，成为成功学习者的第一个关键是拥有成长型思维。
+This means, in part, believing in yourself.	这在某种程度上意味着相信你自己。
+It also means setting goals, taking action, and meeting challenges.	它还意味着设定目标、采取行动、迎接挑战。
+People with a growth mindset see mistakes as chances for learning, as they teach us how to improve.	拥有成长型思维的人把错误看作学习的机会，因为错误教会我们如何进步。
+Research also shows that practice is important for learning.	研究还表明，练习对学习很重要。
+The more we practise, the better we learn.	我们练习得越多，就学得越好。
+We learn best by practising new and difficult things.	我们通过练习新的、有难度的东西学得最好。
+Sometimes it is also important to get guidance from a teacher or a coach.	有时得到老师或教练的指导也很重要。
+They can show us the right way to practise and give us important feedback and advice.	他们能告诉我们正确的练习方法，并给我们重要的反馈和建议。
+In addition, studies show that students learn more when they hang out with other students who are serious about study.	此外，研究表明，和认真学习的同学在一起时，学生能学到更多。
+First, by being together, students can easily learn from each other.	首先，在一起时，学生们可以很容易地互相学习。
+Second, students are challenged to do better by each other.	其次，学生们会互相激励，争取做得更好。
+This has been proven to encourage learner growth.	这已被证明能促进学习者的成长。
+Successful learners also use the best learning materials they can find.	成功的学习者也会使用他们能找到的最好的学习材料。
+In the 21st century, this means using new technology and resources, not just textbooks.	在21世纪，这意味着要使用新技术和新资源，而不只是课本。
+Since there are so many learning materials on the Internet, it is important to think carefully and choose wisely what and how you study.	由于网上的学习材料太多，仔细思考、明智地选择学什么和怎么学很重要。
+Take advantage of the best tools and resources to learn wisely and efficiently.	利用最好的工具和资源，明智而高效地学习。
+Finally, successful learners see learning as part of daily life.	最后，成功的学习者把学习看作日常生活的一部分。
+It is something they will do even after they leave school, and even when they are old.	即使离开学校，甚至到了老年，他们也会坚持学习。
+As you continue on your learning journey, you should try to walk at your own speed and enjoy the trip.	在继续学习之旅时，你应该按自己的节奏前行，享受这段旅程。
+Never lose heart.	永远不要灰心。
+The road ahead of you may be long and may have many mountains and valleys, but it also has great treasure.	你前面的路可能很长，可能有许多高山和深谷，但也有巨大的宝藏。
+You will find more joy in living a life with learning!	你会发现，有学习相伴的人生更加快乐！
+Hi, Mum.	嗨，妈妈。
+I can't remember what things you asked me to buy.	我不记得你让我买什么东西了。
+so tell me what you've got so far.	那你告诉我你目前买了些什么。
+Let me see	我看看
+butter, milk, eggs, flour,	黄油、牛奶、鸡蛋、面粉，
+Flour?	面粉？
+That's not what I asked you to buy.	我没让你买面粉。
+I'll put it back.	我把它放回去。
+Did you buy any sugar?	你买糖了吗？
+It's running out.	糖快用完了。
+Right!	对！
+I wonder how I forgot about the sugar.	不知道我怎么把糖给忘了。
+And don't forget to buy strawberries.	还有，别忘了买草莓。
+I'm going to make a strawberry cake, remember?	我要做草莓蛋糕，记得吗？
+Oh, yeah!	哦，对！
+Anything else, Mum?	还要别的吗，妈妈？
+One more thing, darling.	还有一件事，亲爱的。
+Next time, take a shopping list.	下次带个购物清单吧。
+OK, so tell me what you've got so far.	好吧，那你告诉我你目前买了些什么。
+Morning, Fu Xing.	早上好，付星。
+Sorry I forgot your birthday yesterday.	对不起，我昨天忘了你的生日。
+Oh, that's OK, Billy.	哦，没关系，比利。
+But you're forgetting quite a lot recently.	不过你最近忘事挺多的。
+Is everything OK?	一切都还好吗？
+Yes, fine, thanks.	挺好的，谢谢。
+I don't know why I am so forgetful.	我不知道自己为什么这么健忘。
+Maybe you're too busy.	也许你太忙了。
+Can I help you with anything?	有什么我能帮你的吗？
+You are a good friend	你真是个好朋友
+I left my homework at home!	我把作业落在家里了！
+I need to go back!	我得回去拿！
+Go!	快去吧！
+I'll meet you at the school hall then.	那我们在学校礼堂见。
+Right,	对了，
+Professor Green's lecture on how to improve your memory.	格林教授关于如何提高记忆力的讲座。
+You'd better hurry up.	你最好快点。
+It will begin at 9:00.	九点就开始了。
+Oh, no.	哦，不。
+I thought it was 9:30!	我以为是九点半！
+Oh, Billy, you really should go to that lecture on time!	哦，比利，你真该准时去听那场讲座！
+Morning, Fu Xing!	早上好，付星！
+Thanks. You are a good friend	谢谢。你真是个好朋友
+Go! I'll meet you at the school hall then.	快去吧！那我们在学校礼堂见。
+Professor, I don't quite understand what you said about linking knowledge.	教授，我不太明白您说的把知识联系起来是什么意思。
+Well, knowledge is like a chain, and new knowledge is best remembered by linking it with old knowledge.	嗯，知识就像一条链子，把新知识和旧知识联系起来才记得最牢。
+The more links you create, the more you remember.	你建立的联系越多，记住的就越多。
+Professor, I often get some words mixed up, like "kitchen" and "chicken".	教授，我经常把一些单词弄混，比如“kitchen”和“chicken”。
+Pay attention to details.	注意细节。
+Study how they are different from each other.	研究它们彼此有什么不同。
+You can also create a picture for each word in your mind.	你也可以在脑海中给每个单词想象一幅画面。
+Hello, Professor,	您好，教授，
+could you tell me why it is much easier to forget things to buy than to forget how to ride a bike?	您能告诉我，为什么忘记要买的东西比忘记怎样骑自行车容易得多吗？
+Scientists are still working on this mystery.	科学家们仍在研究这个谜题。
+For one thing, the memory of how to ride a bike is probably stored in a more stable area of our brain.	一方面，骑自行车的记忆很可能储存在我们大脑中一个更稳定的区域。
+There are so many mysteries about our brain!	我们的大脑真是有太多谜团了！
+And at your age, your brain is developing fast, so put it to good use!	在你们这个年纪，大脑发育得很快，所以要好好利用它！
+Why do you look worried, Rick?	里克，你怎么看起来忧心忡忡的？
+Yesterday I visited my grandma, but she kept calling me Johnny.	昨天我去看奶奶，可她一直叫我约翰尼。
+Who's Johnny?	约翰尼是谁？
+My dad!	我爸爸！
+Oh dear!	哎呀！
+And then she told me not to eat the cookies because she was saving them for her grandson.	然后她叫我别吃饼干，因为她要留给她的孙子。
+Who's that?	那是谁？
+Me!	就是我！
+Well, that's not a good sign.	嗯，这可不是个好兆头。
+No.	是啊。
+My parents are taking her to hospital tomorrow.	我爸妈明天要带她去医院。
+Follow what the doctor says.	听医生的话。
+She may need special care.	她可能需要特殊的照顾。
+Yeah. I just feel so sad.	是啊。我就是觉得很难过。
+I don't understand what she's going through.	我不明白她正在经历什么。
+Well, you know how some people's memory gets worse as they get older.	嗯，你知道有些人年纪越大记性就越差。
+It happened to my grandpa too.	我爷爷也是这样。
+What happened?	发生了什么？
+We used to fly kites in the park. But now he forgets how to reach the park.	我们以前常在公园放风筝。可现在他忘了怎么去公园。
+So, I walk him there every weekend.	所以，我每个周末都陪他走过去。
+That's sweet!	你真贴心！
+Instead of what he forgets, I keep in mind what he remembers.	我记住的不是他忘了什么，而是他还记得什么。
+In your case, your grandma still remembers that you love cookies!	就你的情况来说，你奶奶还记得你爱吃饼干！
+Thanks, Chen Jie.	谢谢你，陈杰。
+How to Boost Your Memory	怎样增强你的记忆力
+Would you like to improve your memory?	你想提高你的记忆力吗？
+To start with, it is important to understand how memory works.	首先，了解记忆是怎样运作的很重要。
+There are two main kinds of memory: short-term memory and long-term memory.	记忆主要有两种：短期记忆和长期记忆。
+Short-term memory helps you remember things that you may only need for a short time, like phone numbers when you need to make a phone call.	短期记忆帮助你记住只需要短时间记住的东西，比如打电话时要拨的号码。
+Long-term memory is the ability to remember things for days, years, or even a lifetime.	长期记忆是把东西记住几天、几年甚至一辈子的能力。
+So the real question is: How do you make sure what you learn enters your long-term memory?	所以真正的问题是：你怎样确保学到的东西进入长期记忆？
+By using some clever memory techniques and leading a healthy life, you will see some great results.	运用一些巧妙的记忆技巧，过健康的生活，你就会看到很好的效果。
+Let's take a look.	我们来看一看。
+First, pay attention.	第一，集中注意力。
+However, you might fail to remember all the details.	然而，你可能记不住所有的细节。
+So, try taking notes by writing down key points.	所以，试着把要点写下来做笔记。
+After all, it is easier to remember a summary than every word in a passage.	毕竟，记住一段话的概要比记住其中每个字容易。
+Second, use it or lose it.	第二，不用就会忘。
+The more you review what you learn, the more likely you will remember it.	你复习学过的东西越多，就越可能记住它。
+However, you should not wear out your brain.	然而，你不应该让大脑过度疲劳。
+Try studying for 40 minutes, and then take a break.	试着学习40分钟，然后休息一下。
+You can also review information by discussing it with others or by teaching others.	你也可以通过和别人讨论或教别人来复习。
+A third way is to make use of your senses.	第三个方法是利用你的感官。
+Create images by using tables, graphs, and mind maps to organize information.	用表格、图表和思维导图来整理信息，形成图像。
+You can also create a story with information and view it in your mind like a film.	你也可以用信息编一个故事，像看电影一样在脑海里回放。
+In addition, make use of your other senses.	此外，还要利用你的其他感官。
+For example, listening to recorded information can be very effective.	例如，听录下来的信息会非常有效。
+Last but not least, boost your memory by staying healthy.	最后但同样重要的是，保持健康来增强记忆力。
+Sleep well.	睡好觉。
+While you sleep, your brain organizes your memories.	在你睡觉的时候，你的大脑会整理你的记忆。
+Bad sleep makes it harder for new information to enter your long-term memory.	睡眠不好会让新信息更难进入长期记忆。
+Eat well.	吃好饭。
+Your brain needs food like an engine needs fuel.	你的大脑需要食物，就像发动机需要燃料一样。
+Healthy food and drink will help your brain work much better.	健康的饮食会帮助你的大脑运转得更好。
+Exercise.	锻炼身体。
+A healthy and active body boosts both your memory and your mind.	健康而有活力的身体能增强你的记忆力和思维能力。
+Exercise can also reduce stress and anxiety.	锻炼也能减轻压力和焦虑。
+Many more memory techniques can be found in books or online.	在书上或网上还能找到更多记忆技巧。
+Try some different methods to see which ones work best for you.	试试不同的方法，看看哪些对你最有效。
+You are sure to improve your memory.	你一定能提高记忆力。
+Welcome to the International Exhibition of Inventions!	欢迎来到国际发明展！
+Over here we have Super See from Germany.	这边是来自德国的“超级看”。
+They look like sunglasses.	它们看起来像墨镜。
+What are they used for?	它们是用来做什么的？
+They're for people who can't see well.	它们是给视力不好的人用的。
+They don't find normal glasses helpful.	普通眼镜对他们没什么帮助。
+How do they help people to see?	它们是怎样帮助人们看东西的？
+Well, a mini-camera is connected to the front of the glasses.	嗯，眼镜前面连着一个微型摄像头。
+It makes everything look larger.	它让所有东西看起来都更大。
+Words can also be turned into sound.	文字还可以转换成声音。
+So they can help people watch TV and read books.	所以它们能帮助人们看电视、读书。
+They can also control the colour and picture.	它们还能调节颜色和画面。
+What smells so delicious?	什么东西闻起来这么香？
+Come and have a try.	来尝一尝吧。
+Smart Cook from China is cooking some food.	来自中国的“智能厨师”正在做饭。
+It's simple!	很简单！
+Put food like carrots and onions in the cup on the top of the machine.	把胡萝卜、洋葱之类的食材放进机器顶部的杯子里。
+Then press this button.	然后按这个按钮。
+All the food is cut and fried.	所有食材就会被切好、炒熟。
+The oil and salt are also added by the machine itself.	油和盐也是机器自己加的。
+Fantastic!	太棒了！
+How many kinds of dishes can it make?	它能做多少种菜？
+Hundreds!	几百种！
+It has an app with many recipes.	它有一个装着许多菜谱的应用程序。
+With this robot, my parents can take a break from cooking.	有了这个机器人，我爸妈就可以不用做饭、歇一歇了。
+How nice of you to think so.	你能这么想真好。
+I'm sure they will love it.	我相信他们会喜欢的。
+Welcome	欢迎
+to the International Exhibition of Inventions!	来到国际发明展！
+Over here, we have Super See from Germany.	这边是来自德国的“超级看”。
+smells so delicious?	闻起来这么香？
+Hi, Han Lin.	嗨，韩林。
+Did you go to the International Exhibition of Inventions last weekend?	上周末你去国际发明展了吗？
+some amazing inventions were shown from all over the world.	展出了来自世界各地的一些令人惊叹的发明。
+What invention did you like the most?	你最喜欢哪项发明？
+Oh,	哦，
+the 3D printer was amazing.	3D打印机太神奇了。
+Almost everything under the sun can be made by it.	它几乎能造出世上所有的东西。
+Well, all kinds of everyday objects.	嗯，各种日常用品。
+Toys, chairs, tables, and even houses can all be made by the 3D printer.	玩具、椅子、桌子，甚至房子，都可以用3D打印机制造。
+That's cool!	真酷！
+medicine, for example,	比如在医学上，
+arms and legs, and even hearts can be created by the 3D printer.	手臂、腿，甚至心脏，都可以用3D打印机制造出来。
+Well, first, the object is designed on a computer. Then, a file is created and sent Listening Scripts 99 to the 3D printer.	嗯，首先，在电脑上设计好物体。然后，生成一个文件，发送到3D打印机。
+The 3D printer reads the file, and after that, the object is produced by building up plastic.	3D打印机读取文件，然后一层层堆叠塑料，把物体制造出来。
+Is only plastic used?	只用塑料吗？
+other materials can also be used to produce things.	其他材料也可以用来制造东西。
+It can even make food.	它甚至能做食物。
+I'd love to try 3D printed food.	我很想尝尝3D打印的食物。
+Yes, some amazing inventions were shown from all over the world.	是的，展出了来自世界各地的一些令人惊叹的发明。
+Oh, the 3D printer was amazing.	哦，3D打印机太神奇了。
+Well, all kinds of everyday objects. Toys, chairs, tables, and even houses can all be made by the 3D printer.	嗯，各种日常用品。玩具、椅子、桌子，甚至房子，都可以用3D打印机制造。
+Yeah. And in medicine, for example, arms and legs, and even hearts can be created by the 3D printer.	是啊。比如在医学上，手臂、腿，甚至心脏，都可以用3D打印机制造出来。
+Well, first, the object is designed on a computer.	嗯，首先，在电脑上设计好物体。
+Then a file is created and sent to the 3D printer.	然后生成一个文件，发送到3D打印机。
+No, other materials can also be used to produce things.	不，其他材料也可以用来制造东西。
+What do you think is the most useful invention of all time, Peter?	彼得，你认为有史以来最有用的发明是什么？
+It has to be the radio.	一定是收音机。
+The radio?	收音机？
+Before the radio was invented, information travelled very slowly.	在收音机发明之前，信息传播得非常慢。
+The world was made much smaller by the radio.	收音机让世界变小了很多。
+Suddenly, news could be spread around the world in seconds.	突然之间，新闻可以在几秒钟内传遍全世界。
+Who was the inventor?	发明者是谁？
+An Italian inventor called Guglielmo Marconi.	一位名叫古列尔莫·马科尼的意大利发明家。
+He developed the idea in the 1890s.	他在19世纪90年代提出了这个想法。
+In 1901, a radio message was sent across the Atlantic Ocean for the first time.	1901年，无线电信号第一次越过大西洋。
+That was quite a distance at that time.	在当时，那是相当远的距离。
+And because of the radio, some other important inventions were developed as well.	而且因为有了收音机，其他一些重要的发明也被研发出来。
+Like the television?	比如电视？
+That's right.	没错。
+It also had a big effect on music.	它对音乐也有很大影响。
+The radio made it much easier for people to enjoy music from artists around the world.	收音机让人们欣赏世界各地艺术家的音乐变得容易多了。
+An Invention That Changed the World	一项改变世界的发明
+Can you imagine a world without books, newspapers, or magazines?	你能想象一个没有书、报纸和杂志的世界吗？
+All of these things depend on one invention—papermaking.	所有这些东西都依赖于一项发明——造纸术。
+It, more than any other invention, was responsible for the rapid spread of information that shaped our modern world.	它比其他任何发明都更能促成信息的迅速传播，塑造了我们的现代世界。
+In ancient China, many different materials were used to write on, such as animal bones, bronze ware, stones, wood, bamboo, and even silk.	在古代中国，人们在许多不同的材料上写字，比如兽骨、青铜器、石头、木头、竹子，甚至丝绸。
+In the Western Han Dynasty, there was also a very early form of paper made from jute—a fibre that comes from plants.	西汉时期，还有一种非常早期的纸，是用黄麻做的——黄麻是一种来自植物的纤维。
+However, all of these materials were either difficult to use and store, or very expensive.	然而，所有这些材料要么难以使用和保存，要么非常昂贵。
+As the head officer of the palace workshop for the emperor in the Eastern Han Dynasty, Cai Lun became interested in trying to solve the problem.	东汉时期，蔡伦作为为皇帝掌管宫廷作坊的长官，开始想办法解决这个问题。
+Different methods for creating something to write on were tried, but none were ideal.	人们尝试了各种方法来制造可以写字的东西，但都不理想。
+In his time, some kinds of bark—the outer part of trees—were used to make clothes.	在他那个时代，有些树皮——也就是树的外层——被用来做衣服。
+From past experiences, Cai Lun got the idea that bark, certain plants, and old clothes could be used to make a special material suitable to write on.	根据以往的经验，蔡伦想到，树皮、某些植物和旧衣服可以用来制作一种适合写字的特殊材料。
+In the first step of Cai Lun's experiment, all the ingredients were mixed and boiled in water.	在蔡伦实验的第一步，所有原料被混合在一起放进水里煮。
+Then, this material was beaten, cut up, and mixed with water again.	然后，把这些材料捶打、切碎，再和水混合。
+Next, the liquid was poured over a bamboo screen, leaving just the fibre.	接着，把液体倒在竹帘上，只留下纤维。
+Finally, this fibre was dried and pressed to form paper.	最后，把这些纤维晾干、压平，就成了纸。
+To everyone's surprise, this paper was soft, light, easy to make and use, and most importantly, cheap.	让所有人惊讶的是，这种纸又软又轻，容易制作和使用，最重要的是很便宜。
+In 105 CE, Cai Lun showed his creation to the emperor.	公元105年，蔡伦把他的发明献给了皇帝。
+The emperor was very pleased and praised Cai Lun for his great work.	皇帝非常高兴，称赞了蔡伦的伟大成就。
+Later on, the papermaking technique not only speeded up the development of Chinese culture but also changed civilizations around the world.	后来，造纸术不仅加快了中华文化的发展，也改变了世界各地的文明。
+It first spread to China's neighbouring countries and finally reached Europe through Arab countries in the 12th century.	它先传到中国的邻国，最后在12世纪经阿拉伯国家传到欧洲。
+When the use of paper and printing came together in later centuries, it led to a rapid increase in the number of books.	在后来的几个世纪里，纸和印刷术结合起来，使书的数量迅速增加。
+This resulted in a new birth of knowledge, creating the world we have today.	这带来了知识的新生，创造了我们今天的世界。
+News report 1	新闻报道一
+China's new space programme was made public today.	中国新的航天计划今天公布了。
+Exploration of the planet Mars and the moon will be continued.	对火星和月球的探索将继续进行。
+China's Zhurong rover successfully landed on Mars in 2021, and it is hoped that a manned mission to the moon will follow around 2030.	中国的祝融号火星车于2021年成功登陆火星，人们希望2030年前后能实现载人登月。
+News report 2	新闻报道二
+China has announced that more astronauts will be sent to the Tiangong space station.	中国宣布，将有更多航天员被送往天宫空间站。
+Since the space station was completed in 2022, it has been used to do research on biology, medicine, and materials.	自2022年建成以来，空间站一直被用于开展生物、医学和材料方面的研究。
+It will also continue its cooperation with Germany, Italy, and Russia on scientific research.	它还将继续与德国、意大利和俄罗斯开展科学研究合作。
+News report 3	新闻报道三
+According to Chinese space scientists, Chang'e-6 collected 1,935.3 grams of precious soil samples from the far side of the moon.	据中国航天科学家介绍，嫦娥六号从月球背面采集了1935.3克珍贵的月壤样品。
+These samples will be stored and studied by scientists.	这些样品将由科学家保存和研究。
+It is believed that our understanding of the moon and the universe will be greatly improved.	人们相信，我们对月球和宇宙的了解将大大提高。
+Let's wait and see what will be discovered in the future.	我们拭目以待，看看将来会发现什么。
+So, we've done some experiments.	好了，我们已经做了一些实验。
+Now it's time for questions.	现在是提问时间。
+Hi, Ms Wang!	王老师好！
+I want to know how it feels to be weightless.	我想知道失重是什么感觉。
+Oh, it's so much fun!	哦，非常有趣！
+I can turn around easily!	我可以轻松地转身！
+You see, I can move everywhere by just pushing against the wall!	你看，我只要推一下墙，就能移动到任何地方！
+Ms Wang, what does Earth look like from the space station?	王老师，从空间站看地球是什么样子的？
+It looks like a huge shining ball.	它看起来像一个巨大的发光的球。
+It's really beautiful.	真的很美。
+Ms Wang, I want to know how you eat up there.	王老师，我想知道你们在上面怎么吃饭。
+Nice question.	好问题。
+Well, all our food is prepared on Earth and kept in bags.	嗯，我们所有的食物都是在地球上准备好、装在袋子里的。
+We have over 120 dishes to choose from.	我们有120多种菜可以选择。
+What's difficult about living in space?	在太空生活有什么困难吗？
+Well, it's a little hard to fall asleep.	嗯，入睡有点难。
+We have to be tied down so we don't fly away!	我们得被绑住，才不会飘走！
+Do you get bored?	你们会觉得无聊吗？
+Will you be visited by other astronauts?	会有其他航天员来看你们吗？
+It's never boring in space.	在太空从来不会无聊。
+Actually, two astronauts will arrive next month.	实际上，下个月就有两名航天员要来。
+It's very exciting.	非常令人兴奋。
+Alright.	好的。
+Our question today is: Why do we explore space?	我们今天的问题是：我们为什么要探索太空？
+Let's talk to space scientist Dr Yang. Welcome, Dr Yang! Thank you very much. Well, there are three good reasons to explore space. First, to improve our knowledge of Earth and its place in the universe. Could you explain that a bit more?	让我们和航天科学家杨博士聊一聊。欢迎您，杨博士！非常感谢。嗯，探索太空有三个很好的理由。第一，增进我们对地球及其在宇宙中位置的了解。您能再解释一下吗？
+Sure. The study of other planets helps us better understand Earth's geology, history, and relationship with other planets. Oh, right.	当然。研究其他星球有助于我们更好地了解地球的地质、历史以及它与其他星球的关系。哦，明白了。
+Second, technology developed for space can benefit us here on Earth. Could you give our listeners an example?	第二，为太空研发的技术能让我们在地球上受益。您能给听众举个例子吗？
+Of course. Some satellites, for example, help us deal with problems caused by climate change. Yes, that's very useful.	当然。例如，有些卫星帮助我们应对气候变化带来的问题。是的，那非常有用。
+And the third reason?	那第三个理由呢？
+Well, at some point in the far future, we may find new resources in outer space. It might sound crazy, but our Earth may run out of resources. In that case, a new home for us human beings will be needed. Wow, interesting! Maybe Mars will be turned into our new home in the future.	嗯，在遥远的将来，我们也许会在外太空找到新资源。这听起来可能很疯狂，但我们的地球可能会耗尽资源。那样的话，我们人类就需要一个新家园。哇，真有意思！也许将来火星会变成我们的新家园。
+Where would you find an article like this?	你会在哪里看到这样的文章？
+Reaching for the stars.	伸手摘星。
+Since the beginning of human history, people have looked up at the stars and wondered what they were like.	自人类历史开始以来，人们就仰望星空，想知道星星是什么样子的。
+Many ancient cultures believed that these points of light were from gods or other mysterious worlds.	许多古代文化认为，这些光点来自神灵或其他神秘的世界。
+However, as science and technology developed, we learnt the truth about stars.	然而，随着科学技术的发展，我们知道了星星的真相。
+They are real places like our own sun, and they are farther away than anyone imagined.	它们是像我们的太阳一样真实存在的地方，而且比任何人想象的都要遥远。
+This raises the question: Can we visit the stars one day?	这就引出了一个问题：我们有一天能去星星那里吗？
+The man-made object which has travelled farthest from Earth is Voyager 1.	离地球最远的人造物体是“旅行者1号”。
+This spacecraft was launched in 1977.	这艘宇宙飞船于1977年发射。
+In case Voyager 1 is found by alien life, a special record with sounds and pictures from Earth is carried on board.	为防“旅行者1号”被外星生命发现，它上面载有一张记录着地球声音和图片的特殊唱片。
+It shows who we are and where we are from.	它展示了我们是谁、来自哪里。
+By 2025, Voyager 1 was over 25 billion kilometres from Earth, but that is still a long way from Earth's second-closest star, Proxima Centauri.	到2025年，“旅行者1号”距离地球已超过250亿千米，但那里离地球第二近的恒星比邻星仍然很遥远。
+That star is 4.2 light years away—about 40 trillion kilometres!	那颗恒星在4.2光年之外——大约40万亿千米！
+The challenge of visiting the stars gets even bigger for space flights with humans.	对载人航天来说，飞往恒星的挑战更大。
+The farthest that any human has travelled in space is only about 400,000 kilometres, to the far side of the moon.	人类在太空中到过的最远距离只有大约40万千米，那就是月球背面。
+Time is a big problem.	时间是个大问题。
+At present, even a journey to the planet Mars will take around six to nine months.	目前，即使是去火星，也要花六到九个月左右。
+What will the astronauts eat and drink during this period?	在这段时间里，航天员吃什么、喝什么？
+And how about their health and safety?	他们的健康和安全又怎么办？
+These problems grow when we talk about visiting another star.	说到飞往另一颗恒星，这些问题就更大了。
+It might take hundreds of thousands of years to get there!	到那里可能需要几十万年！
+Scientists, however, believe that visiting the stars is not a completely wild dream.	然而，科学家们认为，飞往恒星并不完全是异想天开。
+One idea is to have the astronauts sleep during their journey, like some animals do in winter.	一个想法是让航天员在旅途中睡觉，就像一些动物冬眠那样。
+Another is to develop much faster spacecraft.	另一个办法是研制快得多的宇宙飞船。
+While this is not possible right now, with nations and scientists cooperating with one another, there is hope that the necessary technology will be developed.	虽然现在还做不到，但随着各国和科学家们相互合作，必要的技术有望被研发出来。
+Humans have photographed other galaxies, set foot on the moon, and even successfully landed rovers on Mars.	人类已经拍摄到其他星系，登上了月球，甚至成功让探测车登陆火星。
+It seems likely that one day we will reach the stars.	看起来我们有一天很可能会到达星星那里。
+Hey, everyone!	嘿，大家好！
+The New Year School Concert is around the corner.	学校新年音乐会快到了。
+We want to find out what kind of music everyone likes.	我们想了解一下大家喜欢什么样的音乐。
+How about you, Teng Fei?	滕飞，你呢？
+I love traditional music that tells a story,	我喜欢讲故事的传统音乐，
+for example, folk music.	比如民间音乐。
+Folk music is great.	民间音乐很棒。
+What's your favourite, Clarice?	克拉丽斯，你最喜欢什么？
+Of course it's rock.	当然是摇滚乐。
+I like music that I can dance to.	我喜欢能跟着跳舞的音乐。
+What about you, Jack?	杰克，你呢？
+Well, I need something that has a strong rhythm, like rap.	嗯，我需要节奏感强的音乐，比如说唱。
+Wouldn't you agree, Debbie?	黛比，你同意吗？
+I'm not that into rap.	我不太喜欢说唱。
+Then what kind of music do you like?	那你喜欢什么样的音乐？
+I prefer music that I can sing along to, so it's pop for me.	我更喜欢能跟着唱的音乐，所以我喜欢流行乐。
+Well, I need something that has a strong rhythm,	嗯，我需要节奏感强的音乐，
+like rap.	比如说唱。
+So it's pop for me.	所以我喜欢流行乐。
+Hey, guys! Have you heard the news?	嘿，大家！你们听说那个消息了吗？
+No. What?	没有。什么消息？
+The Chinese Dragon band is going to perform at our New Year School Concert!	“中国龙”乐队要在我们学校新年音乐会上演出！
+I love their music!	我喜欢他们的音乐！
+Me too!	我也是！
+I like the fact that they mix rock, pop, and traditional Chinese music to make a new style.	我喜欢他们把摇滚、流行和中国传统音乐融合成一种新风格。
+Yes, it's amazing to hear the erhu and pipa being played together with the keyboard and electric guitar.	是啊，听二胡、琵琶和电子琴、电吉他一起演奏，真是太棒了。
+Yeah,	是啊，
+I like musicians who are creative.	我喜欢有创造力的音乐人。
+So do I!	我也是！
+And the lead singer, Bob Wu, has a voice that I could listen to all day!	而且主唱鲍勃·吴的嗓音，我能听一整天！
+Do you think they'll play "Horse Racing"?	你们觉得他们会演奏《赛马》吗？
+They should!	应该会！
+It's a piece which everyone loves!	那是一首人人都喜欢的曲子！
+Oh, I just remembered!	哦，我刚想起来！
+What?	什么？
+I've got a T-shirt which has the band's name on the back!	我有一件背后印着乐队名字的T恤！
+You should wear it to the concert!	你应该穿着它去听音乐会！
+Yeah, I like musicians who are creative.	是啊，我喜欢有创造力的音乐人。
+They should! It's a piece which everyone loves!	应该会！那是一首人人都喜欢的曲子！
+Cool! You should wear it to the concert!	真酷！你应该穿着它去听音乐会！
+Pay attention to how the reasons are emphasized when people speak.	注意人们说话时是怎样强调理由的。
+That was a great concert!	那场音乐会太棒了！
+Which performance did you like the best, Jack?	杰克，你最喜欢哪个节目？
+I thought "Horse Racing" was especially good.	我觉得《赛马》特别好。
+really gave me the feeling of a horse race.	真的让我感受到了赛马的气势。
+I love music which is energetic!	我喜欢充满活力的音乐！
+use of the keyboard and erhu made me imagine horses running down a track.	用电子琴和二胡演奏，让我想象出骏马在小路上奔跑的样子。
+Yes, but for me, I really like music which is full of joy and celebration, such as "Dance of the Golden Snake".	是啊，不过我很喜欢充满欢乐和喜庆的音乐，比如《金蛇狂舞》。
+The use of the erhu, pipa and drums was exciting, but I prefer music that touches me.	二胡、琵琶和鼓的演奏很激动人心，但我更喜欢能打动我的音乐。
+me—that's why I liked "Butterfly Lovers" more.	——所以我更喜欢《梁祝》。
+The music tells a sad and romantic story.	这首曲子讲了一个悲伤而浪漫的故事。
+Yeah, and it's interesting that the performers used both Chinese and Western instruments.	是啊，有意思的是，演奏者同时用了中国乐器和西洋乐器。
+I've never heard the erhu played together with the violin.	我从没听过二胡和小提琴一起演奏。
+I also liked "Voices of Spring".	我还喜欢《春之声》。
+I never realized that you could dance to it!	我从没想到可以跟着它跳舞！
+Chopin.	肖邦。
+A Great Inspiration	一位伟大的激励者
+When the great composer Robert Schumann first heard a work which was written by young Chopin, he said, "Hats off, gentlemen! A genius!" Frédéric	伟大的作曲家罗伯特·舒曼第一次听到年轻的肖邦写的作品时说：“先生们，脱帽致敬吧！这是一位天才！”弗雷德里克·
+Chopin (1810–1849) is considered one of the greatest musicians in history.	肖邦（1810—1849）被认为是历史上最伟大的音乐家之一。
+During his short lifetime, he was celebrated as one of the world's greatest pianists— even though he only gave around 30 concerts!	在短暂的一生中，他被誉为世界上最伟大的钢琴家之一——尽管他只举办过大约30场音乐会！
+He was also a gifted composer who left behind more than 200 musical works.	他还是一位有天赋的作曲家，留下了200多部音乐作品。
+Chopin was born in a village in Poland.	肖邦出生在波兰的一个村庄。
+He didn't attend music school until he was 16, but soon outdid his teachers.	他16岁才上音乐学校，但很快就超过了他的老师。
+His parents sent him to Vienna in 1829 to widen his musical experience.	1829年，他的父母送他去维也纳开阔音乐眼界。
+By 1832, he had made his way to Paris, the city that he would call home for the rest of his life.	到1832年，他来到了巴黎，此后一生都把那座城市当作家。
+Chopin was not only a great pianist, but also a respected piano teacher.	肖邦不仅是一位伟大的钢琴家，还是一位受人尊敬的钢琴老师。
+He often told his students, "Put all your soul into it! Play the way you feel!"	他常常对学生说：“把你全部的情感投入进去！按照你的感受去弹！”
+This is advice that is still followed by musicians today.	这条建议至今仍被音乐家们遵循。
+Polish folk music was a kind of music that some people looked down on at the time—it	波兰民间音乐在当时是一种被一些人看不起的音乐——
+time—it was seen as too simple and common. But it became an important characteristic of Chopin's music.	——它被认为太简单、太普通。但它成了肖邦音乐的一个重要特点。
+His use of Polish folk music caused people to see it as a valuable art form.	他对波兰民间音乐的运用让人们把它看作一种有价值的艺术形式。
+His music also helped build a nation which was divided up by other countries.	他的音乐还帮助建设了一个被其他国家瓜分的国家。
+By using Polish folk music, Chopin seemed to be saying to the world, "We are our own country with our own culture! We are our own people!"	通过运用波兰民间音乐，肖邦似乎在向世界宣告：“我们是一个有自己文化的国家！我们是独立的民族！”
+Chopin's music encouraged his people and helped them keep going through years of difficulty.	肖邦的音乐鼓舞了他的人民，帮助他们度过了多年的艰难岁月。
+Today, the Polish people proudly think of Poland as the country of Chopin.	如今，波兰人民自豪地把波兰看作肖邦之国。
+When Chopin died from ill health at 39, thousands of people travelled from faraway countries to attend his funeral.	肖邦39岁因病去世时，成千上万的人从遥远的国家赶来参加他的葬礼。
+Today, people around the world still listen to his moving and often sad music.	如今，世界各地的人们仍在聆听他那动人而常常带着忧伤的音乐。
+It is studied in music schools, played by pianists, heard in films and on TV, and loved by listeners young and old.	音乐学校研究它，钢琴家演奏它，电影和电视里能听到它，男女老少的听众都喜爱它。
+Hi, guys.	嗨，大家好。
+Sports Day is coming soon.	运动会马上就要到了。
+We need to sign up for the tryouts by Friday.	我们得在星期五之前报名参加选拔赛。
+Well, the 100 metres is usually exciting and everybody is looking forward to the 4 × 100 m relay.	嗯，100米通常很精彩，而且大家都很期待4×100米接力。
+I could sign up for both.	我可以两项都报。
+What about you, Binbin?	彬彬，你呢？
+I don't know.	我不知道。
+Neither is really suitable for me.	两个都不太适合我。
+I might not take part.	我可能不参加了。
+But you like jogging.	但你喜欢慢跑啊。
+You could try the 1,500 metres.	你可以试试1500米。
+Well, maybe.	嗯，也许吧。
+How about you, Fu Xing?	付星，你呢？
+I like the high jump, so I will try that.	我喜欢跳高，所以我要试试。
+Hi, Teng Fei.	嗨，滕飞。
+Have we found anybody who can join our 4 × 100 m relay?	我们找到能参加4×100米接力的人了吗？
+I was just about to tell you.	我正要告诉你。
+Han Lin will join us.	韩林会加入我们。
+But for the fourth member, either Wang Yaming or Adam is a possible choice.	不过第四名队员，王亚明或者亚当都有可能。
+So, who do you prefer?	那你更喜欢谁？
+Both are quite fast.	两个人都挺快的。
+But Adam seems quite busy already	但亚当好像已经很忙了
+I'll go with Wang Yaming. And we need to start training soon!	我选王亚明。而且我们得马上开始训练！
+The team looks great!	这支队伍看起来很棒！
+Everybody is so excited about Sports Day.	大家都为运动会感到兴奋。
+What events are you taking part in, Meimei?	美美，你参加什么项目？
+I'm really not much of an athlete.	我真的不太擅长运动。
+Oh, that's OK.	哦，没关系。
+Yes, no problem at all.	是啊，完全没问题。
+Ms Gao made me the school photographer and reporter.	高老师让我当学校的摄影师兼记者。
+You can get a closer look at every event.	你可以近距离看每一个项目。
+What are you looking forward to the most?	你最期待什么？
+Hmm, the 4 × 100 m relay and the team pull-up competition.	嗯，4×100米接力和团体引体向上比赛。
+The 4 × 100 m relay and the team pull-up competition.	4×100米接力和团体引体向上比赛。
+I'll go with Wang Yaming.	我选王亚明。
+And we need to start training soon!	而且我们得马上开始训练！
+What kind of talk is it?	这是一段什么样的讲话？
+Hello, everyone!	大家好！
+Finally, here comes the exciting 4 × 100 m relay.	终于，激动人心的4×100米接力来了。
+I'm Song Meimei.	我是宋美美。
+This is Adam.	这位是亚当。
+Welcome to the 4 × 100 m relay.	欢迎收看4×100米接力。
+Look. The runners are at the starting line.	看。运动员们已经站在起跑线上了。
+The race is about to start.	比赛即将开始。
+They're off!	他们出发了！
+Wang Yaming for Class 1 takes the lead.	一班的王亚明领先。
+He passes the baton to Peter.	他把接力棒交给彼得。
+Peter keeps the lead.	彼得保持领先。
+Now for the handoff to Han Lin.	现在要交棒给韩林了。
+Peter drops the baton!	彼得把接力棒掉了！
+picks it up!	捡起来了！
+But the other runners run past him.	但其他选手都超过了他。
+for Class 5 takes the lead now.	五班的……现在领先。
+Wait a minute!	等一下！
+Han Lin is making up ground on Li Lei.	韩林正在逼近李雷。
+Here comes the final handoff.	最后一次交接棒来了。
+Li Lei passes the baton to Xie Tao.	李雷把接力棒交给谢涛。
+Han Lin passes the baton to Teng Fei.	韩林把接力棒交给滕飞。
+And here are Teng Fei and Xie Tao side by side!	现在滕飞和谢涛并驾齐驱！
+They cross the line together!	他们同时冲过了终点线！
+But who won?	但谁赢了？
+The judges are reviewing the video to decide who the winner is.	裁判们正在回看录像，以决定谁是获胜者。
+Let's wait for their final decision!	让我们等待他们的最终裁决！
+Oh! The winner is Teng Fei!	哦！获胜者是滕飞！
+Congratulations to Class 1.	祝贺一班。
+Han Lin picks it up!	韩林把它捡起来了！
+Li Lei for Class 5 takes the lead now.	五班的李雷现在领先。
+The Winter Olympics start next month. What event would you like to watch?	冬奥会下个月开幕。你想看什么项目？
+Ski jumping is at the top of my list. Same here! Really?	跳台滑雪是我的首选。我也是！真的吗？
+I just love seeing the athletes fly through the air! I agree. It's not easy to do what they do. My parents and I also enjoy watching figure skating. I'm always amazed by their strength and technique. Like you, my family watch sports together, especially speed skating. It's truly amazing.	我就是喜欢看运动员在空中飞翔！我同意。他们做的事可不容易。我和爸爸妈妈也喜欢看花样滑冰。他们的力量和技术总是让我惊叹。和你一样，我们全家人也一起看体育比赛，尤其是速度滑冰。真的太精彩了。
+What about the Summer Games?	那夏季奥运会呢？
+Do you have a favourite event?	你有最喜欢的项目吗？
+Oh yes! I especially like the men's swimming. You must be a good swimmer. Not really, but I love watching it anyway. For me, the swimming events are so exciting because swimmers often win by just 0.01 seconds. My family also watch team sports together, like women's volleyball. That's my mum's favourite. Cool! Oh, don't forget to watch the opening ceremony. Yeah. That's always exciting!	有啊！我特别喜欢男子游泳。你一定游得很好吧。不太会，但不管怎样我都喜欢看。对我来说，游泳比赛非常激动人心，因为选手们常常只以0.01秒的优势获胜。我们家还一起看团体项目，比如女排。那是我妈妈的最爱。真酷！哦，别忘了看开幕式。是啊。开幕式总是很精彩！
+How does sport bring us together?	体育怎样把我们联系在一起？
+Predict what topics will be included in a speech about the Beijing Olympic Games.	预测一篇关于北京奥运会的演讲会包括哪些话题。
+Then read the speech quickly to check your prediction.	然后快速阅读演讲稿，检验你的预测。
+Good morning, everyone!	大家早上好！
+Today, I'd like to talk about my favourite sports event.	今天，我想谈谈我最喜欢的体育盛会。
+Actually, when I used the word "event", I meant two events: the 2008 Summer Olympics and the 2022 Winter Olympics.	其实，我用“盛会”这个词，指的是两届盛会：2008年夏季奥运会和2022年冬季奥运会。
+They were held in Beijing—the first city ever to host both the Summer and the Winter Olympics.	它们都在北京举办——北京是有史以来第一座同时举办过夏季和冬季奥运会的城市。
+The most recent was the 2022 Winter Olympics. A total of nearly 2,900 athletes attended and competed in 109 events in seven Olympic winter sports.	最近的一次是2022年冬奥会。共有近2900名运动员参加了7个冬季运动大项、109个小项的比赛。
+There were many exciting moments.	有许多激动人心的时刻。
+Nearly the whole world watched the fantastic figure skating and ski jumping competitions.	几乎全世界都观看了精彩的花样滑冰和跳台滑雪比赛。
+I watched the freestyle skiing, and like everyone else,	我看了自由式滑雪，和其他人一样，
+I fell in love with those brave and talented athletes.	我爱上了那些勇敢而有天赋的运动员。
+I also became a huge fan of the mascot, Bing Dwen Dwen.	我还成了吉祥物冰墩墩的超级粉丝。
+And we shall not forget the amazing achievements in the 2008 Summer Olympics.	我们也不应忘记2008年夏季奥运会上取得的惊人成就。
+I watched in wonder as Usain Bolt smiled his way across the finish line in the 100 metres, setting a new world record.	我惊奇地看着尤塞恩·博尔特面带微笑冲过百米终点线，创造了新的世界纪录。
+Then I watched the drama of the shooting event.	然后我观看了扣人心弦的射击比赛。
+Du Li won her second Olympic gold medal, after the first one in 2004.	杜丽在2004年首次夺冠后，又获得了她的第二枚奥运金牌。
+Both were dramatic come-from-behind victories.	两场都是激动人心的逆转胜利。
+Hosting two Olympics brought challenges but also opportunities to Beijing.	举办两届奥运会给北京带来了挑战，也带来了机遇。
+Both Games showed China's success in its reform and opening-up on the world stage.	这两届奥运会都在世界舞台上展示了中国改革开放的成就。
+China's great achievements have gained worldwide attention.	中国的伟大成就赢得了全世界的关注。
+In both events, many volunteers and citizens helped out.	在这两次盛会中，许多志愿者和市民都出了力。
+They worked with pride to make sure that people from around the world had a pleasant stay.	他们满怀自豪地工作，确保来自世界各地的人们过得愉快。
+Events like the Olympic Games build bridges between countries and form friendships between people.	像奥运会这样的盛会在国家之间架起桥梁，在人们之间建立友谊。
+The purpose of the Olympics is to build relationships between people, to celebrate the Olympic spirit, and to bring people together for peace and harmony.	奥运会的目的是在人与人之间建立联系，弘扬奥林匹克精神，把人们团结在一起，共享和平与和谐。
+This is shown in both the motto of the 2008 Olympics, "One World, One Dream", and the motto of the 2022 Olympics, "Together for a Shared Future".	这体现在2008年奥运会的口号“同一个世界，同一个梦想”和2022年冬奥会的口号“一起向未来”中。
+These mottos touch my heart quite deeply, as I'm sure they touch yours.	这些口号深深打动了我，我相信也打动了你们。
+Thank you for listening.	谢谢大家聆听。
+Now, we're at the zoo to learn about different animals, from funny pandas and penguins to powerful lions and eagles.	现在我们在动物园了解各种动物，从有趣的熊猫和企鹅到强大的狮子和老鹰。
+What's your favourite animal?	你最喜欢的动物是什么？
+Who likes the same animal?	谁喜欢同一种动物？
+Make a group.	组成一组。
+Go and learn about them!	去了解它们吧！
+Come back before 12 o'clock.	12点前回来。
+I like monkeys.	我喜欢猴子。
+Why do you like them, Yaming?	亚明，你为什么喜欢它们？
+Because they're really clever and funny.	因为它们真的很聪明，又很有趣。
+They're my favourite too.	它们也是我最喜欢的。
+Let's go and see them.	我们去看看它们吧。
+Oh, look! A baby wolf and its mother!	哦，看！一只小狼和它的妈妈！
+Do you like wolves, Emma?	埃玛，你喜欢狼吗？
+They're very dangerous.	它们很危险。
+But I do.	但我喜欢。
+They're dangerous, but they take good care of their babies.	它们很危险，但它们把自己的孩子照顾得很好。
+Look! The monkeys are over there.	看！猴子在那边。
+Wow! Aren't their faces interesting?	哇！它们的脸是不是很有趣？
+Yes. They look like us!	是的。它们看起来像我们！
+The penguin is my favourite animal.	企鹅是我最喜欢的动物。
+What's your favourite animal, Fu Xing?	付星，你最喜欢的动物是什么？
+I like penguins too.	我也喜欢企鹅。
+Why do you like them so much?	你为什么这么喜欢它们？
+Because they're very cute!	因为它们非常可爱！
+Yes, they look lovely.	是的，它们看起来很可爱。
+Oh, there they are!	哦，它们在那儿！
+They can't fly like other birds, but they can swim fast.	它们不能像别的鸟那样飞，但它们游得很快。
+I like how they walk.	我喜欢它们走路的样子。
+It's funny!	真有趣！
+Yes, it is!	是啊！
+Where are they from?	它们来自哪里？
+Look here!	看这里！
+It says they're from Antarctica.	上面说它们来自南极洲。
+It's very cold there, so they often stand close together.	那里非常冷，所以它们常常挤在一起站着。
+It helps them keep warm.	这能帮它们保暖。
+They're so smart.	它们真聪明。
+What do they eat?	它们吃什么？
+Fish and small sea animals,	鱼和小型海洋动物，
+I think.	我想。
+I have a fish sandwich	我有一个鱼肉三明治。
+Don't give them your sandwich!	别把你的三明治给它们！
+It's not good for them.	那对它们不好。
+Fish and small sea animals, I think.	我想是鱼和小型海洋动物。
+Hi, I'm Malee and I live in Thailand!	嗨，我是马莉，我住在泰国！
+The elephant is my favourite animal.	大象是我最喜欢的动物。
+I love elephants because they are strong and clever.	我喜欢大象，因为它们强壮又聪明。
+They are also a symbol of good luck here.	在这里它们也是好运的象征。
+The elephant is our national animal.	大象是我们的国兽。
+On 13 March, we celebrate Thai Elephant Day.	3月13日，我们庆祝泰国大象节。
+Elephants look very different from other animals.	大象看起来和别的动物很不一样。
+They are huge.	它们非常巨大。
+They have large ears and long trunks.	它们有大耳朵和长鼻子。
+They can pick up and carry heavy things with their trunks.	它们能用鼻子拿起并搬运重物。
+Elephants are like us in some ways.	大象在某些方面和我们很像。
+They are very playful and love to play in the water.	它们非常爱玩，喜欢在水里嬉戏。
+They are great swimmers.	它们是游泳健将。
+They are also clever.	它们也很聪明。
+For example, they can remember one another and places with food and water after many years.	例如，许多年后它们还能记得彼此，记得有食物和水的地方。
+Elephants are very kind too.	大象也非常善良。
+They look after other elephants when they don't feel well.	当别的大象不舒服时，它们会照顾它们。
+The big elephants also help the baby ones.	大象还会帮助小象。
+Elephants are an important part of Thai life and culture.	大象是泰国人生活和文化的重要部分。
+However, they are in danger.	然而，它们正处于危险之中。
+They live in forests, but people cut down too many trees.	它们生活在森林里，但人们砍伐了太多树木。
+People also kill elephants for their ivory.	人们还为了象牙杀害大象。
+Let's save the forests and not buy things made of ivory.	让我们保护森林，不买象牙制品。
+Every elephant counts.	每一头大象都很重要。
+Part 1 Ms Brown:	第一部分 布朗老师：
+Mary, slow down!	玛丽，慢一点！
+Don't run in the hallway, please.	请不要在走廊里跑。
+I'm sorry!	对不起！
+I don't want to be late.	我不想迟到。
+Sally, you know the rules.	萨莉，你知道规定的。
+You can only wear the uniform at school.	校服只能在学校穿。
+You can't wear that jacket here.	你不能在这里穿那件夹克。
+Sorry, Ms Brown.	对不起，布朗老师。
+Why is there a bottle here?	这里为什么有个瓶子？
+Oh!	哦！
+Sorry.	对不起。
+Tony, you know you mustn't litter.	托尼，你知道不能乱扔垃圾。
+We have to keep the school clean and tidy.	我们必须保持学校干净整洁。
+Yes, Ms Brown.	好的，布朗老师。
+Part 2	第二部分
+Good morning, students.	同学们，早上好。
+This morning I had to tell some students to follow the school rules.	今天早上我不得不提醒一些同学遵守校规。
+Please remember them, everyone!	请大家都记住！
+Walk in the hallway.	在走廊里要慢走。
+Don't run!	不要跑！
+You have to wear the uniform.	你们必须穿校服。
+You mustn't wear other clothes to school instead.	不许穿别的衣服来上学。
+Don't litter.	不要乱扔垃圾。
+Make sure to keep the school tidy.	一定要保持学校整洁。
+And most importantly, we must be polite and treat everyone with respect.	最重要的是，我们必须有礼貌，尊重每一个人。
+If we follow these rules, we can have a happy and safe school!	如果我们遵守这些规定，就能拥有一个快乐、安全的校园！
+Hi, I'm Ann.	嗨，我是安。
+Hello! I'm Tom.	你好！我是汤姆。
+It's my first day here.	今天是我来这里的第一天。
+It's nice to meet you, Tom!	很高兴认识你，汤姆！
+Well, I can't find my pencil box.	嗯，我找不到我的文具盒了。
+I think it's in my locker.	我想它在我的储物柜里。
+Here, I can lend you my pen.	给，我可以借给你我的钢笔。
+Would you like a sweet?	你要一颗糖吗？
+No, thank you.	不了，谢谢。
+We can't eat snacks in class.	我们上课不能吃零食。
+Can we drink water?	我们能喝水吗？
+Yes, of course.	是的，当然可以。
+OK, thanks	好的，谢谢。
+Oh! I'm sorry.	哦！对不起。
+I have to answer my phone.	我得接个电话。
+Oh, but we mustn't bring our mobile phones to class.	哦，但是我们不能把手机带到课堂上。
+We have to turn them off and keep them in our lockers.	我们必须把手机关掉，放在储物柜里。
+That's another rule.	那是另一条规定。
+OK, thanks for telling me, Ann.	好的，谢谢你告诉我，安。
+You're welcome, Tom.	不客气，汤姆。
+Hi, I'm Anne.	嗨，我是安妮。
+Thanks for telling me, Anne.	谢谢你告诉我，安妮。
+Dear Dr Know, Help!	亲爱的“知道博士”，救救我！
+There are too many rules in my life!	我生活中的规矩太多了！
+Every morning, I have to make my bed before breakfast.	每天早上，我必须在早饭前整理床铺。
+I have to hurry to school because I can't be late for school.	我得赶紧去上学，因为上学不能迟到。
+When I'm at school, I mustn't use my phone in class either.	在学校时，我上课也不能用手机。
+And I have to wear the uniform.	而且我必须穿校服。
+After school, there are even more rules!	放学后，规矩更多了！
+I have to finish my homework first.	我必须先做完作业。
+I can only play basketball after I practise the piano.	我只有练完钢琴才能打篮球。
+I can't hang out with my friends on weekdays.	工作日我不能和朋友出去玩。
+I know some rules are important, but this is awful!	我知道有些规矩很重要，但这太糟糕了！
+What can I do?	我该怎么办？
+Yours, Alice	你的，艾丽斯
+Dear Alice, Yes, there are many rules in life! But they can help you to become a better person.	亲爱的艾丽斯：是的，生活中有很多规矩！但它们能帮你成为一个更好的人。
+You mustn't be late for class.	上课不许迟到。
+That shows respect for your class and teacher.	那表示对你的班级和老师的尊重。
+You can't use your phone in class because you need to focus on learning.	你上课不能用手机，因为你需要专心学习。
+You have to wear a uniform because it builds school spirit.	你必须穿校服，因为它能培养集体精神。
+You can also think about the things you can do!	你也可以想想你能做的事情！
+You can use your phone at home.	你可以在家用手机。
+You can relax after you finish your homework.	做完作业后你可以放松一下。
+And you can hang out with friends at weekends!	而且你周末可以和朋友出去玩！
+I know it's hard, but rules can help to make the world better.	我知道这很难，但规矩能让世界变得更好。
+Remember: No rules, no order!	记住：没有规矩，不成方圆！
+Dear Dr Know.	亲爱的“知道博士”。
+Is this football yours, Han Lin?	韩林，这个足球是你的吗？
+Yes, thank you.	是的，谢谢你。
+That's mine.	那是我的。
+How often do you play football?	你多久踢一次足球？
+I play football three times a week.	我一周踢三次足球。
+Hardly ever.	几乎从不。
+Maybe just once a year?	大概一年一次？
+I'm not very good at it!	我踢得不太好！
+You can practise with me if you like.	如果你愿意，可以和我一起练。
+baseball glove is this?	这是谁的棒球手套？
+Oh, that's mine.	哦，那是我的。
+You're welcome, Peter.	不客气，彼得。
+Do you play baseball often?	你经常打棒球吗？
+Yes. I usually play once or twice at weekends.	是的。我通常周末打一两次。
+How often do you play?	你多久打一次？
+Twice a week.	一周两次。
+Can I join your game this weekend?	这个周末我能加入你们的比赛吗？
+Of course!	当然可以！
+Ella, is this tennis racket yours?	埃拉，这个网球拍是你的吗？
+No, it's not mine.	不，不是我的。
+Ask Han Lin.	问问韩林。
+I think it's his.	我想是他的。
+Oh, you're right.	哦，你说得对。
+It has "HL" on it.	上面有“HL”。
+Do you play tennis, Binbin?	彬彬，你打网球吗？
+I never do.	我从来不打。
+I don't like it.	我不喜欢网球。
+I like tennis.	我喜欢网球。
+How often do you play it?	你多久打一次？
+I play it three times a week, and sometimes more!	我一周打三次，有时更多！
+That's a lot!	真多啊！
+I usually play once or twice at weekends.	我通常周末打一两次。
+There is a pink ping-pong bat here.	这里有一个粉色的乒乓球拍。
+Is it yours?	是你的吗？
+it isn't mine.	不是我的。
+Is it Ella's?	是埃拉的吗？
+hers is at home.	她的在家里。
+Maybe it's Yaming's.	也许是亚明的。
+Is this your bat?	这是你的球拍吗？
+Oh yes,	哦，是的，
+it's mine.	是我的。
+Not at all.	不客气。
+Your bat looks well-used.	你的球拍看起来用了很久了。
+Do you play often?	你经常打吗？
+Yes, twice a week, and sometimes more!	是的，一周两次，有时更多！
+Well, practice makes perfect.	嗯，熟能生巧。
+How often do you play, Jim?	吉姆，你多久打一次？
+I seldom do, but I often play badminton.	我很少打，但我经常打羽毛球。
+Oh, me too.	哦，我也是。
+I sometimes play badminton with Ella.	我有时和埃拉打羽毛球。
+We should all play doubles sometime.	我们哪天都应该打一场双打。
+There is a ping-pong bat here.	这里有一个乒乓球拍。
+No, it isn't mine.	不，不是我的。
+No, hers is at home.	不，她的在家里。
+How often do you play,	你多久打一次，
+Jim? I seldom do, but I often play badminton.	吉姆？我很少打，但我经常打羽毛球。
+skateboarding, or play baseball.	玩滑板，或者打棒球。
+Xia Tian	夏天
+I like very much.	我非常喜欢。
+My friends and I practise at a special park twice a week.	我和朋友们每周去一个专门的公园练习两次。
+My skateboard is really cool, and so are theirs.	我的滑板很酷，他们的也是。
+We encourage one another to do tricks.	我们互相鼓励做技巧动作。
+Some tricks are difficult,	有些技巧很难，
+but once you succeed, you feel great!	但一旦你成功了，你会感觉很棒！
+I like skateboarding because it keeps me fit.	我喜欢玩滑板，因为它让我保持健康。
+Jenny	珍妮
+This year, my goal is to be really fit.	今年，我的目标是变得很健康。
+I jog, swim, and do sit-ups.	我慢跑、游泳，还做仰卧起坐。
+But my favourite way of keeping fit is to to work out.	但我最喜欢的健身方式是锻炼。
+The app gives me exercises to do every day.	这个应用程序每天给我安排要做的练习。
+It can show my progress.	它能显示我的进步。
+My friends use the app too.	我的朋友们也用这个应用程序。
+We have fun when we keep fit together!	我们一起健身时很开心！
+Steve	史蒂夫
+I'm in my school's baseball club,	我在学校的棒球俱乐部，
+so I quite often.	所以我经常打。
+It's my favourite sport.	这是我最喜欢的运动。
+We play many matches.	我们打很多比赛。
+The other teams are great, but I think ours is the best!	其他队都很棒，但我认为我们队是最好的！
+We usually practise three times a week after school.	我们通常每周放学后练习三次。
+We also exercise a lot because it keeps us fit and helps us play better.	我们也经常锻炼，因为这能让我们保持健康，打得更好。
+Baseball also builds team spirit.	棒球还能培养团队精神。
+All of us are good friends, both on and off the field.	我们都是好朋友，无论在球场上还是球场下。
+We work as a team, and we win or lose as a team.	我们作为一个团队合作，输赢都在一起。
+Oh, dumplings, my favourite!	哦，饺子，我的最爱！
+My favorite.	我的最爱。
+Look, Li Meng.	看，李梦。
+there are two kinds.	有两种。
+Lucky you!	你真幸运！
+Well, there's beef and carrot, and mutton and onion.	嗯，有牛肉胡萝卜，还有羊肉洋葱。
+Which would you like,	你想要哪个，
+beef or mutton?	牛肉还是羊肉？
+Beef, please.	请给我牛肉的。
+Do you want dumplings too?	你也想要饺子吗？
+I'd like noodles with beef and cabbage.	我想要牛肉卷心菜面条。
+That sounds delicious.	听起来很好吃。
+Now, what would you like to drink?	现在，你想喝点什么？
+Is there any tea or juice?	有茶或果汁吗？
+There isn't any tea, but there's watermelon juice!	没有茶，但有西瓜汁！
+That's what I like.	那正是我喜欢的。
+Do you want that?	你想要那个吗？
+What do you usually eat for breakfast in England, Jane?	简，你在英国早饭通常吃什么？
+I usually have some bread and milk.	我通常吃些面包、喝牛奶。
+Sometimes I have eggs and beans.	有时我吃鸡蛋和豆子。
+And what about lunch?	那午饭呢？
+Oh, I usually have lunch at school.	哦，我通常在学校吃午饭。
+Sometimes I have chicken or beef,	有时我吃鸡肉或牛肉，
+sometimes I have sandwiches,	有时吃三明治，
+and sometimes fish and chips.	有时吃炸鱼薯条。
+I also drink juice or eat yogurt.	我还喝果汁或吃酸奶。
+And what about dinner?	那晚饭呢？
+My family really likes pizza and salad for dinner.	我家晚饭很喜欢吃比萨和沙拉。
+After that we sometimes have ice cream or cookies for a treat!	之后我们有时会吃冰激凌或饼干作为款待！
+What would you like to order?	你想点什么菜？
+What about Gongbao chicken?	宫保鸡丁怎么样？
+We often have it in America, but it may taste different here.	我们在美国常吃这个，但在这里味道可能不一样。
+I'd like to try it.	我想尝尝。
+Do you have anything with tofu?	你们有豆腐做的菜吗？
+Would you like a hot tofu dish or a cold one?	你想要热的豆腐菜还是凉的？
+A hot tofu dish, please.	请来热的豆腐菜。
+We have Mapo tofu.	我们有麻婆豆腐。
+Would you like that?	你想要吗？
+We should also order a salad.	我们还应该点个沙拉。
+How about a chicken and cabbage salad?	来一份鸡肉卷心菜沙拉怎么样？
+That sounds good.	听起来不错。
+Can we order soup too?	我们也能点汤吗？
+Let's see	我看看。
+Which soup would you like,	你想要哪种汤，
+chicken or fish?	鸡汤还是鱼汤？
+Fish, please!	请来鱼汤！
+Now, would you like rice or noodles?	现在，你想要米饭还是面条？
+Rice, please.	请来米饭。
+Let's get that.	我们就要这个吧。
+How many poor eating habits are mentioned?	文中提到了几种不良饮食习惯？
+Joy Clinic NEWSLETTER	快乐诊所简讯
+What new?	有什么新闻？
+Improve Your Eating Habits	改善你的饮食习惯
+Healthy eating is important for a healthy body and mind.	健康饮食对身心健康很重要。
+Both what we eat and how we eat are important!	我们吃什么和怎么吃都很重要！
+For example, some people have fast food every week.	例如，有些人每周都吃快餐。
+It is easy and delicious!	快餐方便又好吃！
+But it often has lots of salt, fat, and sugar.	但它常常含有很多盐、脂肪和糖。
+That makes us put on weight.	那会让我们体重增加。
+Eating fast food like pizza and hamburgers too often may cause heart problems later.	太常吃比萨和汉堡这样的快餐，以后可能会导致心脏问题。
+If you cook your own meals instead, you can make healthy balanced meals.	如果你自己做饭，就能做出健康均衡的饭菜。
+Eating three meals a day is important.	一天吃三顿饭很重要。
+But some people don't have breakfast.	但有些人不吃早饭。
+Maybe they don't feel hungry in the morning, or they are too busy to eat anything.	也许他们早上不觉得饿，或者太忙而没吃东西。
+But food gives us energy.	但食物给我们能量。
+If we don't eat breakfast, it is easy to feel sleepy.	如果我们不吃早饭，很容易犯困。
+It is also hard to focus on our work or studies.	也很难专注于工作或学习。
+Some people also eat too many sweet things.	有些人还吃太多甜食。
+Ice cream, sweets, and chocolate are delicious, but they usually have lots of sugar.	冰激凌、糖果和巧克力很好吃，但它们通常含有很多糖。
+This can cause tooth problems.	这会导致牙齿问题。
+When you want a snack, why don't you have some fruit instead?	你想吃零食时，为什么不吃些水果呢？
+After all, an apple a day keeps the doctor away.	毕竟，一天一苹果，医生远离我。
+You are what you eat.	吃什么，就成为什么样的人。
+Healthy eating means eating healthy food and having good eating habits.	健康饮食就是吃健康的食物，养成良好的饮食习惯。
+It's Peter!	我是彼得！
+What are you doing at the moment?	你这会儿在做什么？
+I'm doing my homework.	我在做作业。
+Do you want to play volleyball at the sports park instead?	你想改去运动公园打排球吗？
+I'd love to, but I'm working on something important.	我很想去，但我在忙一件重要的事。
+Never mind then!	那没关系！
+Maybe next time?	下次吧？
+That sounds good!	听起来不错！
+Hello.	你好。
+May I speak to Adam, please?	请问亚当在吗？
+It's Peter.	我是彼得。
+I'm afraid he's not home yet.	恐怕他还没回家。
+is he still exercising at the park?	他还在公园锻炼吗？
+he's shopping at the supermarket at the moment.	他这会儿在超市购物。
+Can I take a message?	需要我帮你捎个口信吗？
+Could you ask him to call me back, please?	请你让他给我回个电话好吗？
+Thanks, Mrs Clark.	谢谢您，克拉克太太。
+Hey, Binbin.	嘿，彬彬。
+What are you doing right now?	你现在在做什么？
+Nothing much!	没做什么！
+I'm watching a film,	我在看一部电影，
+but it's quite boring.	但它相当无聊。
+That's too bad.	那太糟了。
+I'm thinking about playing volleyball at the sports park.	我在考虑去运动公园打排球。
+Would you like to come?	你想来吗？
+Let's meet at the sports park at ten, OK?	我们十点在运动公园见，好吗？
+See you then.	到时候见。
+I'd love to,	我很想去，
+but I'm working on something important.	但我在忙一件重要的事。
+Oh, is he still exercising at the park?	哦，他还在公园锻炼吗？
+No, he's shopping at the supermarket at the moment.	不，他这会儿在超市购物。
+Hi, Dad.	嗨，爸爸。
+Hi, Jane!	嗨，简！
+I'm fine.	我很好。
+How's life in Guangzhou?	广州的生活怎么样？
+We're having a holiday here.	我们正在这里过节。
+Hao Yi and I are making zongzi!	郝毅和我在包粽子！
+Are you making them for the Dragon Boat Festival?	你们是为端午节包粽子吗？
+That's right!	是的！
+I'm washing the car right now.	我正在洗车。
+Is Mum there too?	妈妈也在吗？
+Is she feeling better?	她好些了吗？
+Yes, her cold is gone.	是的，她的感冒好了。
+She's gardening.	她在打理花园。
+Hold on.	等一下。
+Here's Mum.	妈妈来了。
+Hi, Mum!	嗨，妈妈！
+How are you doing?	你过得怎么样？
+Good, thanks.	很好，谢谢。
+It's great to hear your voice!	听到你的声音真好！
+Yours too!	我也是！
+I'm happy you're feeling better!	你好些了我真高兴！
+Are you having fun in China?	你在中国玩得开心吗？
+Yes, I am.	是的，很开心。
+and I are making zongzi and watching dragon boat races on TV.	和我正在包粽子，看电视上的龙舟赛。
+Oh, I have to go now.	哦，我现在得走了。
+Let's talk later.	我们以后再聊。
+Bye, darling.	再见，宝贝。
+Hao Yi and I are making zongzi and watching dragon boat races on TV?	郝毅和我正在包粽子，看电视上的龙舟赛。
+What is happening in different time zones around the world right now?	此刻世界各地不同的时区正在发生什么？
+What are people doing in different places?	人们在不同的地方正在做什么？
+It's in Chongqing, China.	这是在中国重庆。
+Some people are rushing to get home from work. But others are not in a hurry!	一些人正赶着下班回家，但另一些人并不着急！
+They are enjoying the city at night.	他们在享受城市的夜晚。
+Lights are shining brightly across the city, and colourful boats are moving slowly down the river.	灯光照亮了整座城市，彩色的船在河上缓缓驶过。
+People are eating delicious food, such as Chongqing hot pot and noodles.	人们在吃美食，比如重庆火锅和面条。
+In Nairobi, Kenya, it's	在肯尼亚内罗毕，现在是
+Many people are working hard in their offices.	许多人正在办公室里努力工作。
+Some people are shopping for gifts, such as paintings and bags, in the markets.	有些人正在市场上买礼物，比如画和包。
+Many others are walking in the parks and looking at elephants and giraffes.	许多其他人在公园里散步，看大象和长颈鹿。
+In this city, people live side by side with many wonderful animals!	在这座城市，人们和许多奇妙的动物和谐共处！
+It's in New York, USA.	这是在美国纽约。
+It's rush hour, and the city is busy!	现在是交通高峰期，城市很繁忙！
+Many people are rushing to the subway.	许多人正赶往地铁。
+They are going to work.	他们要去上班。
+Bright yellow taxis are picking up and dropping off passengers.	亮黄色的出租车正在接送乘客。
+Some people are jogging, walking, and riding bikes in Central Park.	有些人正在中央公园里慢跑、散步、骑自行车。
+Others are drinking coffee and eating breakfast in coffee shops.	另一些人在咖啡馆里喝咖啡、吃早饭。
+Here's the weather report.	下面是天气预报。
+Let's look at the weather across Australia.	我们来看看澳大利亚各地的天气。
+In the north, it's stormy.	北部有暴风雨。
+It's raining and the wind is blowing hard.	在下雨，风刮得很猛。
+The temperature is around 20°C.	气温在20摄氏度左右。
+In the west, it's cloudy and about 22°C.	西部多云，大约22摄氏度。
+In the south and east, the sun is shining and it's very hot.	南部和东部阳光明媚，非常炎热。
+It's around 35°C.	大约35摄氏度。
+The centre of the country has the best weather right now.	目前全国中部的天气最好。
+It's warm and dry, and the temperature is about 28°C.	温暖干燥，气温大约28摄氏度。
+Hey, Grandpa. How are you?	嘿，爷爷。您好吗？
+How's the weather in Australia?	澳大利亚天气怎么样？
+Hi, Lucy. It's raining cats and dogs.	嗨，露西。正下着倾盆大雨。
+Oh! And now there's lightning!	哦！现在还打闪电了！
+Oh no, don't go outside!	哦不，别出去！
+Don't worry. I'm staying in!	别担心，我待在家里！
+What's the weather like back home?	家里天气怎么样？
+What are you doing now?	您现在在做什么？
+I'm watering flowers in the garden.	我在花园里浇花。
+It's sunny and warm here!	这里阳光明媚，很暖和！
+Well, enjoy your day!	好吧，祝你今天愉快！
+You too!	您也是！
+I'm always happy, rain or shine!	无论晴雨，我总是很开心！
+Hey, Anna.	嘿，安娜。
+How's your holiday going?	你的假期过得怎么样？
+It's wonderful!	太棒了！
+I'm at a beach in Sanya!	我在三亚的海滩上！
+Wow, lucky you!	哇，你真幸运！
+That sounds amazing.	听起来太好了。
+What's the weather like there?	那里天气怎么样？
+It's hot and sunny.	又热又晴。
+It's about 28°C.	大约28摄氏度。
+That's nice!	真好！
+What are you doing at the beach?	你在海滩上做什么？
+I'm sunbathing at the moment!	我这会儿正在晒太阳！
+My brother John's here too.	我哥哥约翰也在这儿。
+Oh, what's he doing?	哦，他在做什么？
+He's playing beach volleyball right now.	他此刻正在打沙滩排球。
+How's the weather in Stockholm?	斯德哥尔摩天气怎么样？
+Well, it's cold and snowy.	嗯，天气寒冷，还下着雪。
+It's about -3°C.	大约零下3摄氏度。
+Oh, that's really cold!	哦，那真冷！
+What's your family doing?	你的家人在做什么？
+Well, we usually stay in when it snows, but now we're building a snowman outside.	嗯，下雪时我们通常待在家里，但现在我们在外面堆雪人。
+Hey, come and visit us some day!	嘿，哪天来看看我们吧！
+Once the weather turns warm...	等天气暖和了……
+Hey, Anna. How's your holiday going?	嘿，安娜，你的假期过得怎么样？
+Once the weather turns warm.	等天气暖和了。
+Are they visiting the same place?	他们在游览同一个地方吗？
+Do they feel the same about it?	他们对这个地方的感受一样吗？
+We're here at Mount Huangshan!	我们到黄山了！
+The clouds look amazing.	云看起来太美了。
+It feels like a magical place.	这里感觉像一个神奇的地方。
+The trees and rocks look like a part of a painting.	树木和岩石看起来像一幅画的一部分。
+Helen.	海伦
+First of May.	5月1日
+We're at a rest area now.	我们现在在休息区。
+Climbing is hard, but we're making good progress.	爬山很难，但我们进展很顺利。
+Although the weather is bad, many people here are still in high spirits.	虽然天气不好，这里的许多人依然兴致很高。
+I don't think my brother Peter is enjoying the experience very much, so I'm encouraging him.	我觉得我弟弟彼得不太喜欢这次经历，所以我在鼓励他。
+Helen	海伦
+9:18 1 May Helen 7:22 1 May	5月1日9:18 海伦 5月1日7:22
+The sun is shining through the clouds!	阳光穿过云层照下来！
+It's a lovely sight.	真是美丽的景色。
+I'm so glad we're here at Bright Peak.	我真高兴我们来到了光明顶。
+Helen 10:36 1 May Climbing is tiring!	海伦 5月1日10:36 爬山真累！
+Today I'm visiting Mount Huangshan with my family.	今天我和家人在游览黄山。
+I'm not really enjoying the experience.	我不太喜欢这次经历。
+Everything looks grey, and you can't see much because of the heavy fog.	一切看起来都是灰色的，因为大雾你看不清多少东西。
+The ground is very wet, so we have to climb	地面很湿，所以我们只能慢慢地爬
+Peter.	彼得
+Climbing is tiring!	爬山真累！
+My shoes are all wet and dirty too.	我的鞋也全湿了，还很脏。
+There are many other tourists at this rest area, but they don't seem tired at all.	这个休息区还有很多其他游客，但他们看起来一点也不累。
+Instead, they're talking and laughing!	相反，他们在说说笑笑！
+My sister Helen is also in high spirits.	我姐姐海伦也兴高采烈的。
+Peter 9:15 1 May Today I'm visiting Mount Huangshan with my family.	彼得 5月1日9:15 今天我和家人在游览黄山。
+We're here at Bright Peak.	我们到光明顶了。
+Mount Huangshan is beautiful in the sunlight.	黄山在阳光下很美。
+I'm tired and hungry, but it feels good to be at the top!	我又累又饿，但到达山顶感觉真好！
+Peter 10:40 1 May 46	彼得 5月1日10:40
+How was your weekend?	你周末过得怎么样？
+It was great!	很棒！
+I visited the science museum.	我参观了科学博物馆。
+Did you see anything interesting?	你看到什么有趣的东西了吗？
+there was a space exhibition.	有一个太空展览。
+There were some special rooms, and they looked like parts of a space station.	有一些特别的房间，看起来像空间站的一部分。
+You could go inside them and see how astronauts live and work!	你可以走进去，看看航天员是怎样生活和工作的！
+It was amazing.	太神奇了。
+Were there any astronauts there?	那里有航天员吗？
+Well, no.	嗯，没有。
+But there were robots!	但是有机器人！
+I asked one of them questions and it answered me!	我问了其中一个机器人问题，它回答了我！
+I'd love to go and see them!	我很想去看看！
+How was your weekend, Teng Fei?	滕飞，你周末过得怎么样？
+It was terrible!	糟透了！
+Well, first, I was on my way to meet my friends when some tourists asked me the way to the history museum.	嗯，首先，我在去见朋友的路上，有几个游客问我去历史博物馆怎么走。
+I didn't mean to, but I gave them the wrong directions.	我不是故意的，但我给他们指错了路。
+I only realized it after they left!	他们走了以后我才意识到！
+Oh no!	哦不！
+But don't worry.	不过别担心。
+They probably asked someone else too.	他们可能也问了别人。
+But I was so worried.	但我很担心。
+I even got on the wrong bus.	我甚至坐错了公交车。
+I was late to meet my friends.	我和朋友见面迟到了。
+Oh, and I left my book on the bus too!	哦，我还把书落在公交车上了！
+Oh no.	哦不。
+What a day!	多么糟糕的一天！
+Yes, there was a space exhibition.	是的，有一个太空展览。
+and I left my book on the bus too!	我还把书落在公交车上了！
+Hi Fu Xing!	嗨，付星！
+How was your school trip to the wastewater plant?	你们学校去污水处理厂的游学怎么样？
+Was it boring?	无聊吗？
+No, it wasn't at all.	不，一点也不。
+It was really interesting!	真的很有趣！
+Wow! What did you see?	哇！你们看到了什么？
+We saw the plant make dirty water clean again.	我们看到工厂把脏水重新变干净。
+How?	怎么做的？
+Well, first, dirty water from our homes goes into the plant.	嗯，首先，我们家里的脏水流进工厂。
+Then, special screens remove large pieces of waste from the water.	然后，特殊的滤网把大块的废弃物从水中除去。
+What happens next?	接下来呢？
+Well, large machines remove germs and other things from the water.	嗯，大型机器除去水里的细菌和其他东西。
+These things are usually too small to see.	这些东西通常太小，看不见。
+It takes a few more steps after that before the water becomes clean again.	那之后还要经过好几个步骤，水才会重新变干净。
+Wow! I used to think it was easy to get clean water.	哇！我过去以为得到干净的水很容易。
+I didn't realize it was so hard.	我没意识到这么难。
+Hi, Fu Xing!	嗨，付星！
+your school trip to the wastewater plant?	你们学校去污水处理厂的游学怎么样？
+I didn't realise it was so hard.	我没意识到这么难。
+Friday, the 30th of May.	5月30日，星期五。
+Today we went on a school trip to a farm!	今天我们学校组织去一个农场游学！
+It was tiring but great fun!	很累，但非常有趣！
+In the morning, we explored the farm.	上午，我们参观了农场。
+There were large tents with tomatoes, cucumbers, and many other fruits and vegetables.	那里有大棚，里面种着西红柿、黄瓜和许多其他蔬菜水果。
+The farmer told us about how these fruits and vegetables go from the fields to our tables.	农民给我们讲了这些蔬菜水果是怎样从田间来到我们餐桌上的。
+I was very interested because I usually only see them in the supermarket.	我非常感兴趣，因为我平时只在超市里见到它们。
+Then we got straight to work!	然后我们就直接开始干活了！
+First, we picked some strawberries.	首先，我们摘了一些草莓。
+The work seemed easy, but it took time to get it right.	这活儿看起来很容易，但要做好需要时间。
+Slowly, we filled many baskets.	慢慢地，我们装满了好多篮子。
+In the afternoon, the farmer taught us how to cut branches and leaves from tomato plants.	下午，农民教我们怎样从西红柿秧上剪掉枝叶。
+This helps them to grow more fruit.	这能帮助它们结更多的果实。
+Finally, we watered the plants.	最后，我们给植物浇了水。
+Plants need so much work!	种植物要付出这么多劳动！
+It was tiring, but I enjoyed working with my hands.	很累，但我喜欢动手劳动。
+One thing I learnt today: Farming isn't easy!	我今天学到了一件事：种地不容易！
+It made me think of the saying,"Every grain comes from hard work."The	它让我想起了那句话：“粒粒皆辛苦。”
+work."The farmer let us take some vegetables home.	农民让我们带了一些蔬菜回家。
+My mum cooked some for dinner, and they were fresh and delicious!	妈妈做了一些当晚饭，它们又新鲜又好吃！
+They certainly taste better when you work for them!	自己动手劳动得来的东西，吃起来肯定更香！
+Today was really a day to remember.	今天真是难忘的一天。
+Please share your favourite story with me, Peter.	彼得，请和我分享你最喜欢的故事。
+Once a lion caught a mouse.	有一次，一头狮子抓住了一只老鼠。
+The mouse was afraid.	老鼠很害怕。
+He said, "Please let me go!	他说：“请放了我吧！
+One day I will help you!"	有一天我会帮助你的！”
+The lion laughed and let the mouse go.	狮子笑了，放走了老鼠。
+Later, a hunter caught the lion in a net.	后来，一个猎人用网抓住了狮子。
+The mouse helped the lion then.	这时老鼠帮助了狮子。
+He bit through the net and set the lion free!	他咬破了网，放走了狮子！
+I like that story.	我喜欢那个故事。
+Kindness is never wasted.	善良从不白费。
+What's your favourite story, Teng Fei?	滕飞，你最喜欢的故事是什么？
+Oh, I like this one.	哦，我喜欢这个。
+A farmer lost his horse.	一个农夫丢了他的马。
+His neighbours said, "How unlucky!"	他的邻居们说：“真倒霉！”
+But the farmer just said, "Maybe."	但农夫只是说：“也许吧。”
+Later, his horse came back with seven other horses.	后来，他的马带着另外七匹马回来了。
+People said, "That's great!"	人们说：“太好了！”
+But the farmer said, "Maybe."	但农夫说：“也许吧。”
+Later, his son broke his leg when he tried to ride a horse.	后来，他的儿子骑马时摔断了腿。
+People said, "That's terrible!"	人们说：“太糟糕了！”
+Again, the farmer said, "Maybe."	农夫又说：“也许吧。”
+Well, because of his leg, the son didn't have to join a war.	嗯，因为腿伤，儿子不用去打仗了。
+That saved his life!	那救了他的命！
+Unlucky things may turn out well.	不幸的事可能会变好。
+And good things could go wrong too.	好事也可能变坏。
+Yes, you never know.	是啊，世事难料。
+Unlucky things may turn out well. And good things could go wrong too.	不幸的事可能会变好，好事也可能变坏。
+Here's The Emperor's New Clothes by Hans Christian Andersen.	这是汉斯·克里斯蒂安·安徒生的《皇帝的新装》。
+Once upon a time, an emperor liked clothes very much.	从前，有个皇帝非常喜欢衣服。
+He wanted to buy some new clothes.	他想买一些新衣服。
+Two brothers came and lied to him,	两兄弟来了，对他撒谎说：
+"We can make wonderful clothes! But only clever people can see them!"	“我们能做出很棒的衣服！可是只有聪明的人才能看见它们！”
+They pretended to make the clothes.	他们假装在做衣服。
+The emperor's officials couldn't see the clothes, but they said, "What lovely clothes!"	皇帝的大臣们看不见衣服，但他们说：“多漂亮的衣服啊！”
+The emperor couldn't see anything either, but he said, "They're beautiful!"	皇帝也什么都看不见，但他说：“它们真美！”
+No one wanted to look silly.	没有人想显得愚蠢。
+The emperor decided to show everyone his new clothes.	皇帝决定向大家展示他的新衣服。
+People in the street praised them.	街上的人们都称赞它们。
+They were afraid to look silly too!	他们也害怕显得愚蠢！
+Suddenly, a boy shouted, "Look! The emperor has no clothes on!"	突然，一个男孩喊道：“看！皇帝什么也没穿！”
+Everyone looked at one another.	大家面面相觑。
+They started laughing.	他们开始大笑。
+The end!	故事讲完了！
+Did you like the story?	你喜欢这个故事吗？
+Please tell me what you think.	请告诉我你的想法。
+Suddenly, a boy shouted, "Look!	突然，一个男孩喊道：“看！
+The emperor has no clothes on!"	皇帝什么也没穿！”
+The Ugly Duckling	丑小鸭
+Once upon a time, there was a mother duck.	从前，有一只鸭妈妈。
+She had six little ducklings.	她有六只小鸭子。
+Five of the ducklings were small and yellow, but the last duckling was big and grey.	五只小鸭子又小又黄，但最后一只小鸭子又大又灰。
+"He doesn't look like us!	“他长得不像我们！
+What an ugly duckling!"	多丑的小鸭子！”
+the other ducklings said.	其他小鸭子说。
+"That's not nice!" said Mother Duck.	“那样说可不好！”鸭妈妈说。
+"He's still a duck like us!"	“他和我们一样还是鸭子！”
+At the river, the ugly duckling swam well, just like all the other ducklings.	在河里，丑小鸭和其他小鸭子一样游得很好。
+But the other ducklings still laughed at him and told him to go away.	但其他小鸭子还是嘲笑他，叫他走开。
+It made the poor duckling very sad, so he decided to search for a new home.	这让可怜的小鸭非常难过，所以他决定去寻找一个新家。
+He met many other birds, but all of them thought that he was ugly too.	他遇到了许多别的鸟，但它们都觉得他也很丑。
+They did not want him to live with them.	它们不想让他和它们住在一起。
+One day, the duckling met a cat and a hen.	有一天，小鸭子遇见了一只猫和一只母鸡。
+"May I stay with you?"	“我可以和你们住在一起吗？”
+he asked hopefully.	他满怀希望地问。
+But the two animals said no.	但这两只动物拒绝了。
+They did not like him because he could not purr or lay eggs!	它们不喜欢他，因为他不会打呼噜，也不会下蛋！
+Some days later, the ugly duckling came to a lake.	几天后，丑小鸭来到一个湖边。
+There, he saw three beautiful swans with long necks and white feathers.	在那里，他看见三只美丽的天鹅，长着长脖子和白羽毛。
+"I wish I looked like you!"	“我真希望自己长得像你们！”
+he cried.	他喊道。
+"My friend, you do look like us!	“我的朋友，你确实长得像我们！
+Look in the water!"	看看水里！”
+one of the swans said.	一只天鹅说。
+The duckling looked down, and to his surprise, he saw that he was a beautiful white swan too!	小鸭子往下一看，惊讶地发现自己也是一只美丽的白天鹅！
+Time to Relax	放松时间
+Section A, 1b and 1c	A部分，1b和1c
+Interview 1	采访一
+Hey, Teng Fei!	嘿，滕飞！
+I'm doing a survey on free-time activities.	我在做一项关于业余活动的调查。
+Could you help?	你能帮个忙吗？
+What do you usually do when you're free?	你空闲时通常做什么？
+Hmm.	嗯。
+I like programming.	我喜欢编程。
+I do it after school.	我放学后编程。
+are you creating an app?	你在开发一个应用程序吗？
+I also like hiking at the weekend.	我周末也喜欢徒步。
+It's a great form of exercise.	这是一种很好的锻炼方式。
+Interview 2 Helen: Adam: Helen: How do you spend your free time, Helen?	采访二 海伦，你怎样度过空闲时间？
+Well, I love painting pictures.	嗯，我喜欢画画。
+How did you get into it?	你是怎么开始画画的？
+Oh, I saw my mother paint when I was young.	哦，我小时候看到妈妈画画。
+I decided to give it a go too!	我决定也试一试！
+Painting helps me to express how I feel.	绘画帮助我表达自己的感受。
+Interview 3	采访三
+What do you do in your free time, Chen Jie?	陈洁，你空闲时间做什么？
+Do you do sport?	你做运动吗？
+No, not really.	不，不怎么做。
+But I like to play the flute.	但我喜欢吹笛子。
+Isn't that difficult?	那不难吗？
+It was very difficult at first.	一开始非常难。
+I needed to practise a lot!	我需要大量练习！
+And is it easier now?	现在容易些了吗？
+It's never easy,	从来都不容易，
+but it's more fun now.	但现在更有乐趣了。
+I do it to relax these days.	这些日子我吹笛子是为了放松。
+Interview 1 Hey, Teng Fei! I'm doing a survey on free-time activities.	采访一 嘿，滕飞！我在做一项关于业余活动的调查。
+Hmm. I like programming. I do it after school.	嗯。我喜欢编程，我放学后编程。
+Oh, are you creating an app?	哦，你在开发一个应用程序吗？
+That's right. I also like hiking at the weekend.	是的。我周末也喜欢徒步。
+It's never easy, but it's more fun now.	从来都不容易，但现在更有乐趣了。
+Hi, Emma, how was your weekend?	嗨，埃玛，你周末过得怎么样？
+It was OK, but now I hurt all over!	还行，但现在我浑身疼！
+How come?	怎么回事？
+I went to the sports centre to try ice skating.	我去体育中心尝试滑冰了。
+People looked so beautiful doing it!	人们滑冰的样子太美了！
+But I didn't expect to fall so many times!	但我没想到会摔那么多次！
+I don't want to go ice skating again.	我不想再去滑冰了。
+Nobody expects you to be perfect from the start.	没有人期望你一开始就完美。
+My instructor said that too.	我的教练也这么说。
+She also encouraged me to get back up whenever I fell.	她还鼓励我每次摔倒都要重新站起来。
+She told me not to give up so easily.	她告诉我不要这么轻易放弃。
+Everything's difficult before it's easy.	万事开头难。
+Like swimming.	就像游泳。
+I love it now, but I used to be scared of water.	我现在喜欢游泳，但我以前很怕水。
+Yes. I started swimming to get over my fear.	是的。我开始游泳是为了克服我的恐惧。
+Slowly, I became more confident.	慢慢地，我变得更自信了。
+I have fun being in the water now!	现在我在水里很开心！
+I'll try ice skating again!	我还要再试试滑冰！
+People looked so beautiful doing it! But I didn't expect to fall so many times!	人们滑冰的样子太美了！但我没想到会摔那么多次！
+I started swimming to get over my fear.	我开始游泳是为了克服我的恐惧。
+I'll try ice skating again.	我还要再试试滑冰。
+Hey, Yaming! What are you up to?	嘿，亚明！你在忙什么呢？
+Hi, Peter. I'm doing calligraphy.	嗨，彼得。我在练书法。
+It's beautiful! What are you writing?	真漂亮！你在写什么？
+It's a poem by Li Bai. My grandmother taught me how to write it.	是李白的一首诗。我奶奶教我怎么写的。
+What's this character?	这个字是什么？
+It's yue. It means "moon".	是“月”，意思是 moon。
+It's nice! I like watching you write like that. But it looks difficult.	真好看！我喜欢看你这样写字。但看起来很难。
+Well, the first step is always the hardest.	嗯，万事开头难。
+When I started to do calligraphy, I spent hours practising single strokes.	我刚开始练书法时，花好几个小时练单个的笔画。
+I know how that feels! My dad's teaching me to play the guitar.	我懂那种感觉！我爸爸在教我弹吉他。
+It's difficult, but he always encourages me not to give up.	很难，但他总是鼓励我不要放弃。
+Exactly. Now I do calligraphy to relax.	没错。现在我练书法来放松。
+I even like how the ink smells!	我甚至喜欢墨的气味！
+Why did you choose to play the guitar?	你为什么选择弹吉他？
+I think playing the guitar is cool.	我觉得弹吉他很酷。
+Will you teach me to write a poem?	你能教我写一首诗吗？
+I can teach you to play a song in return.	作为回报，我可以教你弹一首歌。
+It's a deal!	一言为定！
+Hobbies That Are Good for You	对你有益的爱好
+When work or school is over, what do you do to pass the time?	工作或学习结束后，你做什么来打发时间？
+Do you spend time on your hobbies?	你会在爱好上花时间吗？
+Reading or listening to music can help us to calm down after a busy day.	阅读或听音乐能帮助我们在忙碌一天后平静下来。
+Physical hobbies, such as playing tennis or doing yoga, can help us to keep fit.	打网球或练瑜伽这样的运动爱好能帮助我们保持健康。
+And some hobbies are creative.	有些爱好富有创造性。
+For example, people sometimes paint pictures to remember a beautiful landscape or object, or reduce stress.	例如，人们有时画画是为了记住美丽的风景或物品，或者减轻压力。
+Luca Bruno likes to be creative in his free time.	卢卡·布鲁诺喜欢在空闲时间搞创作。
+But he doesn't make art or write stories.	但他不搞艺术，也不写故事。
+Instead, this Italian teenager finds it fun to make mobile phone apps.	相反，这个意大利少年觉得开发手机应用程序很有趣。
+He thinks that apps can be a great way to help people.	他认为应用程序是帮助人们的好方法。
+He started programming when he was ten, after he read about famous businessmen who started out as programmers.	他十岁开始编程，那时他读到了一些以程序员起家的著名商人的故事。
+His latest app allows people around the world to find study partners for learning Italian.	他最新的应用程序让世界各地的人都能找到学意大利语的学习伙伴。
+They can learn Italian and make friends at the same time!	他们可以一边学意大利语一边交朋友！
+"It gives me such a sense of achievement to see people using the app,"	“看到人们用这个应用程序，我很有成就感。”
+says Luca.	卢卡说。
+"I believe I'm helping people around the world to learn Italian!"	“我相信我在帮助世界各地的人学习意大利语！”
+Some people prefer not to make things.	有些人不喜欢做东西。
+They prefer to collect them!	他们更喜欢收集东西！
+In India, Maya Badal doesn't collect coins or stamps.	在印度，玛娅·巴达尔不收集硬币或邮票。
+Instead, this teenage girl collects postcards!	相反，这个十几岁的女孩收集明信片！
+"I know some people think postcards are rather old-fashioned, but I think they're a good way to learn about different places,"	“我知道有些人觉得明信片有点过时，但我认为它们是了解不同地方的好方法。”
+Maya says.	玛娅说。
+"I think it's interesting to see the beautiful buildings and landscapes in foreign countries."	“我觉得看外国美丽的建筑和风景很有趣。”
+Maya's first postcard shows the Mogao Caves in Dunhuang.	玛娅的第一张明信片上是敦煌莫高窟。
+Her dad sent it to her when she was five, and she liked it so much that she put it up on her bedroom wall!	那是她五岁时爸爸寄给她的，她非常喜欢，就把它贴在了卧室的墙上！
+Now there are over one hundred postcards from thirty-two countries on Maya's walls.	现在玛娅的墙上有来自32个国家的一百多张明信片。
+She dreams of travelling to these places in the future!	她梦想将来去这些地方旅行！
+You don't look well.	你看起来不太舒服。
+What's wrong, David?	戴维，你怎么了？
+I have a stomachache.	我肚子疼。
+I ate too much at my friend's birthday party yesterday.	我昨天在朋友的生日聚会上吃得太多了。
+Why did you eat so much?	你为什么吃那么多？
+I couldn't help myself!	我忍不住！
+The food was too delicious.	食物太好吃了。
+My friend's mother cooked everything herself.	我朋友的妈妈亲手做了所有的菜。
+Are you OK, Ben?	本，你还好吗？
+Did you hurt yourself?	你受伤了吗？
+I fell during the football game yesterday.	我昨天踢足球时摔倒了。
+It seemed OK at first, but now I have a backache.	一开始好像没事，但现在我背疼。
+Oh dear.	哎呀。
+Accidents often happen in sport.	运动中常常发生意外。
+Be more careful next time!	下次要更小心！
+Would you like some snacks, Nancy?	南希，你想吃点零食吗？
+Help yourself!	随便吃！
+I can't eat anything.	我什么都吃不了。
+I have a terrible toothache.	我牙疼得厉害。
+I'm sorry to hear that.	听到这个我很难过。
+Did you bite something hard?	你咬到什么硬东西了吗？
+I think I ate too many sweet things.	我想是我吃了太多甜食。
+Oh, my tooth really hurts!	哦，我的牙真疼！
+What's the matter, Judy?	朱迪，你怎么了？
+I'm sorry, but it's difficult for me to talk.	对不起，我说话很困难。
+I practised my speech by myself for hours yesterday.	我昨天一个人练了好几个小时的演讲。
+I guess I didn't drink enough water.	我想我喝水不够。
+I'm suffering from a sore throat now.	我现在喉咙疼。
+What's the matter, David?	戴维，你怎么了？
+I ate too much last night.	我昨晚吃得太多了。
+Now my stomach aches.	现在我胃疼。
+You shouldn't eat so much next time.	下次你不应该吃那么多。
+I'll give you some medicine.	我给你开点药。
+And please avoid soft drinks for now as the gas could make the ache worse.	现在请先别喝软饮料，因为里面的气体会让疼痛更厉害。
+Got it,	明白了，
+thanks!	谢谢！
+What's wrong, Nancy?	南希，你怎么了？
+I have a really bad toothache.	我牙疼得厉害。
+You should see a dentist.	你应该去看牙医。
+You might need an X-ray.	你可能需要拍个X光片。
+But what should I do for now?	但我现在该怎么办？
+You could eat some soft food. But no more sweet things.	你可以吃些软的食物，但别再吃甜食了。
+Remember to brush your teeth carefully too!	也要记得认真刷牙！
+Oh, your nose is bleeding!	哎呀，你流鼻血了！
+How did you hurt yourself, Jeff?	杰夫，你是怎么受伤的？
+I fell off my bike!	我从自行车上摔下来了！
+I didn't expect to see someone around the corner.	我没想到拐角处有人。
+Press down on your nose.	按住你的鼻子。
+Now wait for a few minutes.	现在等几分钟。
+Do you think I broke my nose?	你觉得我鼻子摔断了吗？
+No, it's not that serious.	不，没那么严重。
+But you should be more careful next time.	但你下次应该更小心。
+Accidents can happen when we're careless.	我们粗心时就可能发生事故。
+You could eat some soft food.	你可以吃些软的食物。
+But no more sweet things.	但别再吃甜食了。
+Take a seat, Helen.	海伦，请坐。
+How are you feeling?	你感觉怎么样？
+Not good	不太好。
+I have a runny nose and a fever.	我流鼻涕，还发烧。
+Let me take your temperature	我来给你量一下体温。
+Oh, it's quite high.	哦，体温相当高。
+Yes, it started yesterday.	是的，从昨天开始的。
+I felt so cold, and I didn't have much energy.	我觉得好冷，也没什么力气。
+When I tried to get out of bed, I almost fell and hurt myself.	我想起床时差点摔倒受伤。
+My throat hurts too.	我的喉咙也疼。
+Let's see.	我看看。
+Yes, the back of your throat looks very red.	是的，你的喉咙后部看起来很红。
+We'll need to do a test, but I believe you have the flu.	我们需要做个检查，不过我认为你得了流感。
+It's flu season.	现在是流感季节。
+What should I do, Doctor?	医生，我该怎么办？
+You should take some medicine and drink enough water.	你应该吃点药，多喝水。
+OK, thank you.	好的，谢谢您。
+Can I go to school tomorrow?	我明天能去上学吗？
+No, you should rest at home.	不，你应该在家休息。
+When you're outside, please wear a mask.	你在外面时请戴口罩。
+It stops us from passing the flu virus to others easily.	它能防止我们轻易地把流感病毒传给别人。
+I will!	我会的！
+And remember, your health is in your hands.	记住，你的健康掌握在你自己手里。
+If you take good care of yourself, you'll get better soon.	如果你好好照顾自己，很快就会好起来。
+A Cooking Accident	一次做饭的意外
+James lived in the city with his friend Allen.	詹姆斯和他的朋友艾伦住在城里。
+It was their first time living away from their families, and they enjoyed learning how to do many things themselves.	这是他们第一次离开家人生活，他们很喜欢学着自己做很多事。
+One Saturday, James decided to make fried chicken.	一个星期六，詹姆斯决定做炸鸡。
+First, he poured oil into a pan.	首先，他往锅里倒了油。
+Then he turned on the stove and left the oil to heat while he prepared the chicken.	然后他打开炉子，把油放在上面加热，自己去准备鸡肉。
+Just then, he heard the front door open, followed by the sound of Allen singing.	就在这时，他听到前门开了，接着是艾伦唱歌的声音。
+"Guess what," Allen	“猜猜怎么着，”艾伦
+called out happily.	高兴地喊道。
+"We won!"	“我们赢了！”
+"No way!"	“不可能！”
+James followed him into the living room.	詹姆斯跟着他走进了客厅。
+He wanted to hear all about the football game!	他想听听足球比赛的全部经过！
+Suddenly, Allen stopped talking and looked up.	突然，艾伦停止说话，抬起头来。
+"Hey, do you smell something burning?"	“嘿，你闻到什么东西烧焦了吗？”
+"Oh no!"	“哦不！”
+They both rushed back into the kitchen.	他们俩都冲回了厨房。
+The pan was on fire!	锅着火了！
+Large flames were jumping into the air.	大火苗蹿向空中。
+In a panic, James turned off the stove at once. But he was so close to the pan that a flame jumped onto his shirt.	惊慌之中，詹姆斯立刻关掉了炉子。但他离锅太近了，一团火苗蹿到了他的衬衫上。
+James cried out and threw himself to the floor.	詹姆斯叫了一声，扑倒在地上。
+He put out the fire by rolling on the ground, but the pan was still burning!	他在地上打滚把火扑灭了，但锅还在烧！
+"Get water,	“快拿水来，
+quick!"	快！”
+he shouted.	他喊道。
+was about to do so when he stopped short.	正要这样做，突然停住了。
+Thanks to the first aid and safety classes he took at school, he knew that water could make oil fires much worse!	多亏了在学校上的急救和安全课，他知道水会让油火烧得更厉害！
+Instead, he rushed to get the fire extinguisher.	于是，他冲过去拿灭火器。
+In seconds, the fire in the burning pan was put out.	几秒钟内，燃烧的锅里的火就被扑灭了。
+16	16
+asked his friend.	问他的朋友。
+"I think so,"	“我想没事。”
+James said. It was lucky that his shirt wasn't too thin!	詹姆斯说。幸好他的衬衫不太薄！
+His arm was red, but it didn't hurt very much.	他的胳膊红了，但不太疼。
+"Maybe we should eat out tonight,"	“也许我们今晚该出去吃。”
+James said as he ran cool water over his arm.	詹姆斯一边用凉水冲胳膊一边说。
+"Sure,	“当然，
+we could do that.	我们可以出去吃。
+What do you want?"	你想吃什么？”
+"Anything but fried chicken,"	“除了炸鸡什么都行。”
+he said sadly.	他难过地说。
+What's wrong, Peter?	彼得，你怎么了？
+You look worried.	你看起来很担心。
+Harry and I got into a fight a few days ago.	哈里和我几天前吵架了。
+Now he's not speaking to me.	现在他不跟我说话了。
+He borrowed my guitar. But there was an ugly mark on the guitar when he returned it.	他借了我的吉他。但他还回来的时候，吉他上有一道难看的划痕。
+I was upset, but he didn't care.	我很难过，但他不在乎。
+He even said, "It's just an old guitar." But it's very special to me.	他甚至说：“这只是一把旧吉他。”但它对我来说非常特别。
+It was from my grandfather.	它是我爷爷送的。
+That wasn't nice.	那样可不好。
+I was angry and said things that hurt him.	我很生气，说了些伤他的话。
+I feel awful now.	我现在感觉很糟。
+It's hard to control our anger sometimes.	有时很难控制住我们的怒火。
+Although he was wrong, you hurt him too.	虽然他错了，但你也伤害了他。
+If you want to say sorry, you could call him.	如果你想道歉，可以给他打个电话。
+I want to, but I'm afraid he's still angry.	我想打，但我怕他还在生气。
+Well, maybe you could send him a text message first.	嗯，也许你可以先给他发条短信。
+Good idea.	好主意。
+He even said, "It's just an old guitar."	他甚至说：“这只是一把旧吉他。”
+But it's very special to me.	但它对我来说非常特别。
+Hi, Harry. Thanks for picking up.	嗨，哈里。谢谢你接电话。
+I wanted to call earlier, but I didn't know what to say until I spoke to Ella.	我早就想打电话了，但直到和埃拉谈过之后，我才知道该说什么。
+Hi, yeah,	嗨，是的，
+I feel bad about it too.	我也感觉很难受。
+We should talk so that we can clear the air.	我们应该谈一谈，以便消除误会。
+Listen, I'm sorry I hurt you.	听我说，对不起，我伤害了你。
+I didn't mean it.	我不是故意的。
+I was just angry about that mark on the guitar.	我只是因为吉他上的划痕生气。
+No, I'm sorry.	不，是我对不起你。
+It was my fault.	是我的错。
+That guitar was a birthday present from my grandfather when I was eight.	那把吉他是我八岁时爷爷送我的生日礼物。
+He's not around anymore.	他已经不在了。
+Although it's old, it means a lot to me.	虽然它很旧，但对我意义重大。
+I didn't know that.	我不知道这些。
+I forgive you.	我原谅你。
+You're my best friend, and I don't want to lose you.	你是我最好的朋友，我不想失去你。
+I feel the same.	我也一样。
+I'm really sorry.	真的很对不起。
+I'll be more careful in future.	今后我会更小心。
+Hi, Harry.	嗨，哈里。
+Thanks for picking up.	谢谢你接电话。
+yeah,	是的，
+Listen,	听我说，
+I'm sorry I hurt you.	对不起，我伤害了你。
+You're my best friend,	你是我最好的朋友，
+and I don't want to lose you.	我不想失去你。
+What's wrong, Judy?	朱迪，你怎么了？
+Well, my parents aren't happy with my grades.	嗯，我父母对我的成绩不满意。
+Weren't they pretty good this term?	你这学期的成绩不是挺好的吗？
+Yeah, but my parents have very high standards.	是的，但我父母的标准非常高。
+They often compare me with my cousin, Kate.	他们常拿我和我表姐凯特比较。
+She gets better grades, plays the piano well, often wins awards	她成绩更好，钢琴弹得好，还经常获奖……
+I'm sorry to hear that. But look on the bright side.	听到这个我很难过。但要往好的方面想。
+I'm sure your parents just want you to do well, although they may not show it.	我相信你父母只是希望你做得好，虽然他们可能没表现出来。
+I know my parents love me, but sometimes I think they love Kate more.	我知道父母爱我，但有时我觉得他们更爱凯特。
+Why don't you talk to them?	你为什么不和他们谈谈呢？
+Until you talk to them, they might not know how you feel.	你不和他们谈，他们可能不知道你的感受。
+I'm afraid I'll cry if we talk.	我怕我们一谈我就会哭。
+How about writing them a letter so that you can get your message across clearly?	给他们写封信，好把你的想法清楚地表达出来，怎么样？
+Oh, that's a good idea.	哦，好主意。
+Writing things down can also make you feel better.	把事情写下来也能让你感觉好些。
+Just talking to you makes me feel better already!	光是和你说说话，我就已经感觉好多了！
+What mistake did Matt make at the basketball game?	马特在篮球比赛中犯了什么错？
+You Can't Win Them All	你不可能每次都赢
+When the bell rang, Matt entered the classroom with a heavy heart.	铃响时，马特心情沉重地走进了教室。
+"Hey, Matt,"	“嘿，马特，”
+his best friend Tom greeted him.	他最好的朋友汤姆跟他打招呼。
+He and Tom were in the school's basketball team.	他和汤姆都是校篮球队的。
+"Why the long face?	“干吗愁眉苦脸的？
+Are you still feeling blue about Saturday night's game?"	你还在为星期六晚上的比赛闷闷不乐吗？”
+Tom asked.	汤姆问。
+"Of course I am,"	“当然。”
+Matt said quietly.	马特轻声说。
+He didn't dare to look at Tom as he spoke.	他说话时不敢看汤姆。
+"I'm really sorry about letting everybody down.	“真对不起，让大家失望了。
+The other team got those points because of me."	对方得那几分都是因为我。”
+"Don't be too hard on yourself!" Tom said.	“别对自己太苛刻了！”汤姆说。
+"Although you pushed their player, it was just an accident.	“虽然你推了他们的队员，但那只是个意外。
+Everyone knows that!"	大家都知道！”
+Tom was a good friend. But Matt knew the referee didn't share Tom's opinion.	汤姆是个好朋友。但马特知道裁判并不同意汤姆的看法。
+When the referee saw Matt push another player, he gave the other team two free throws.	裁判看到马特推了对方队员，就判给对方两次罚球。
+Matt was as shocked as anyone else when the accident happened, but it was too late.	意外发生时，马特和其他人一样震惊，但已经太晚了。
+He couldn't take it back.	他没法收回了。
+"I guess we have to respect his decision,"	“我想我们得尊重他的决定。”
+Matt said after a while.	过了一会儿马特说。
+"But we had a good chance to win until I made that mistake.	“可是在我犯那个错之前，我们很有机会赢。
+Why wasn't I more careful?"	我为什么不更小心一点呢？”
+"Listen, Matt," said Tom,	“听我说，马特，”汤姆说，
+"try to look on the bright side.	“试着往好的方面想。
+The other team is the best in our area, but our scores were really close.	对方是我们地区最好的球队，但我们的比分非常接近。
+I'm proud of us, and I know our coach and everyone else in our school are as well."	我为我们感到骄傲，我知道我们的教练和全校的人也一样。”
+Matt felt a bit better.	马特感觉好了一点。
+"Thanks, Tom.	“谢谢你，汤姆。
+I guess it's just hard to lose."	我想只是输了比赛很难受。”
+"Hey, you can't win them all," said Tom.	“嘿，你不可能每次都赢。”汤姆说。
+"It's more important to learn from your mistakes so that you don't repeat them in future.	“更重要的是从错误中学习，以后不再重犯。
+We'll keep working together as a team. One for all, and all for one, right?"	我们会继续团结一致。人人为我，我为人人，对吧？”
+"You're right.	“你说得对。
+If we pull together, we should win next time,"	如果我们齐心协力，下次就该赢了。”
+Matt smiled.	马特笑着说。
+He was lucky to have a friend like Tom!	他有汤姆这样的朋友真幸运！
+Welcome to our game show!	欢迎来到我们的竞赛节目！
+Today, it's all about geography.	今天的主题是地理。
+Answer as quickly as you can!	请尽快回答！
+Question one:	第一题：
+What is the highest mountain in the world?	世界上最高的山是什么？
+Fu Xing : It's Mount Qomolangma!	付星：是珠穆朗玛峰！
+Correct!	正确！
+How high is it?	它有多高？
+I know this—it's	我知道——
+this—it's 8,848.43 metres high.	它有8848.43米高。
+No, sorry.	不，对不起。
+Fu Xing? Fu Xing	付星？付星
+Is it 8,848.86 metres?	是8848.86米吗？
+Yes! But some scientists say Qomolangma is still growing taller!	是的！不过有科学家说珠穆朗玛峰还在长高！
+Now, name the biggest desert in the world.	现在，说出世界上最大的沙漠。
+The Taklimakan Desert?	塔克拉玛干沙漠？
+Wrong!	错了！
+Ella?	埃拉？
+It's the Sahara Desert.	是撒哈拉沙漠。
+Now, how big is it?	那么，它有多大？
+It's about 9,000,000 square kilometres.	大约900万平方千米。
+What's the lowest place on earth?	地球上最低的地方是哪里？
+It's the Dead Sea!	是死海！
+Well done!	答得好！
+Its surface is 416 metres below sea level.	它的水面低于海平面416米。
+Now where's the deepest point in the ocean?	那么海洋最深的地方在哪里？
+It's in the Mariana Trench.	在马里亚纳海沟。
+That's correct!	正确！
+How deep is it?	它有多深？
+It's about 11,000 metres deep.	大约11000米深。
+Thank you for the wonderful talk, Mr Jones.	谢谢您精彩的讲座，琼斯先生。
+Now, does anyone have any questions?	现在，有人有问题吗？
+I do!	我有！
+Why are so many countries researching the deep sea?	为什么这么多国家在研究深海？
+Well, curiosity is one reason.	嗯，好奇心是一个原因。
+We don't know enough about the ocean floor.	我们对海底了解得还不够。
+I remember that in 2020, China's Fendouzhe dived deeper into the Mariana Trench than many other submersibles in the world and filmed it.	我记得2020年，中国的“奋斗者”号潜入马里亚纳海沟，比世界上许多其他潜水器潜得都深，还拍了视频。
+But I didn't see any deep-sea animals.	但我没看到任何深海动物。
+What are they like?	它们是什么样子的？
+Well, many deep-sea animals are large and unusual.	嗯，许多深海动物又大又奇特。
+Some animals are blind, but they can "see" as well as others.	有些动物是瞎的，但它们能和别的动物一样“看见”。
+Some even create their own light!	有些甚至能自己发光！
+Are there any other surprising facts about the deep sea?	关于深海还有其他令人惊讶的事实吗？
+Did you know that there's rubbish even at 11,000 metres deep?	你知道吗，即使在11000米深的地方也有垃圾？
+shocked many people.	让很多人震惊。
+That's terrible!	太可怕了！
+We should do something about it.	我们应该为此做点什么。
+That shocked many people.	那让很多人震惊。
+Welcome back, Ella!	欢迎回来，埃拉！
+How was your trip?	你的旅行怎么样？
+We saw the Hukou Waterfall on the Yellow River.	我们看到了黄河上的壶口瀑布。
+Is that the longest river in China?	那是中国最长的河吗？
+No, the Yangtze River is the longest river in China.	不，长江是中国最长的河。
+It travels the farthest and is about 6,300 kilometres long.	它流得最远，大约有6300千米长。
+The Yellow River is 5,464 kilometres long and is the second longest.	黄河长5464千米，是第二长的河。
+By the way, do you know why it's called the Yellow River?	顺便问一下，你知道它为什么叫黄河吗？
+Because it's yellow?	因为它是黄色的？
+Some parts of the river carry brown and yellow earth.	这条河有些河段携带着棕黄色的泥土。
+That's interesting!	真有趣！
+I like learning about rivers.	我喜欢了解河流。
+My favourite is the Nile.	我最喜欢的是尼罗河。
+Did you know it's the longest river in the world?	你知道它是世界上最长的河吗？
+it's 6,671 kilometres long.	它长6671千米。
+It's very important in Egypt's history.	它在埃及历史上非常重要。
+Both the Nile and the Yellow River helped ancient civilizations to develop.	尼罗河和黄河都帮助了古代文明的发展。
+And they're still very important today.	它们今天仍然非常重要。
+In China, we even call the Yellow River our "mother river"!	在中国，我们甚至把黄河称为“母亲河”！
+We should protect them at all costs.	我们应该不惜一切代价保护它们。
+Reaching New Heights	攀上新高度
+To most people, Mount Qomolangma is one of the greatest wonders of the world.	对大多数人来说，珠穆朗玛峰是世界上最伟大的奇观之一。
+On the highest place on earth, you will feel like you are able to touch the sky.	站在地球的最高处，你会觉得自己能摸到天空。
+But only the best climbers reach the top, and that is only if they survive the terrible conditions first.	但只有最优秀的登山者才能登顶，而且前提是他们先要熬过恶劣的环境。
+On the mountain, temperatures can fall to –30 degrees.	山上的气温可能降到零下30度。
+Climbers must also deal with thin air, high cliffs, and changeable weather.	登山者还必须应对稀薄的空气、高耸的悬崖和多变的天气。
+Before 1960, no one was able to reach the top of Qomolangma from the northern side.	1960年以前，没有人能从北坡登上珠穆朗玛峰顶。
+Mountain climbers even called that way the "Death Road", but a Chinese climbing team was determined to make the climb.	登山者甚至把那条路称为“死亡之路”，但一支中国登山队决心攀登。
+On the 24th of May 1960, climbers Liu Lianman, Wang Fuzhou, Qu Yinhua and Gombu arrived at the second step.	1960年5月24日，登山队员刘连满、王富洲、屈银华和贡布到达了第二台阶。
+It was 8,600 metres above sea level.	那里海拔8600米。
+People said it was so high that even birds could not reach it.	人们说那里高得连鸟都飞不上去。
+allowed his teammates to step on his shoulders.	让队友踩在他的肩膀上。
+Bit by bit, the climbers pulled themselves up, and they made it past the Second Step.	一点一点地，登山者们把自己拉了上去，越过了第二台阶。
+At 4:20 a.m. on 25 May, the Chinese national flag flew above the world's highest mountain for the first time.	5月25日凌晨4点20分，中国国旗第一次飘扬在世界最高峰之上。
+In 1975, another Chinese team climbed to the top of Qomolangma to do research.	1975年，另一支中国登山队登上珠穆朗玛峰顶进行科学考察。
+This time, they brought a ladder to the Second Step.	这一次，他们把一架梯子带到了第二台阶。
+Until 2007, almost all climbers from the northern side used this "Chinese Ladder" to reach the top much faster.	直到2007年，几乎所有从北坡攀登的登山者都借助这架“中国梯”更快地登顶。
+In 2020, a Chinese research team went to Qomolangma to measure its height—8,848.86	2020年，一支中国科考队登上珠穆朗玛峰测量它的高度——8848.86
+metres. Climbing Qomolangma is dangerous.	米。攀登珠穆朗玛峰很危险。
+Some climbers reach the top successfully, but many fail.	有些登山者成功登顶，但许多人失败了。
+Why do people still risk their lives to climb the highest mountain in the world?	为什么人们还要冒着生命危险攀登世界最高峰？
+It is because human curiosity and ambition cannot be stopped.	这是因为人类的好奇心和雄心是无法阻挡的。
+Or, as the English explorer George Mallory put it, it is simply "because it's there"!	或者像英国探险家乔治·马洛里说的那样，只是“因为山就在那里”！
+Hi, Xinyi.	嗨，心怡。
+I heard about the flood in your town.	我听说了你们镇上的洪水。
+Yes, we're all right.	是的，我们都没事。
+Our neighbour warned us about it in time.	我们的邻居及时提醒了我们。
+What a kind neighbour!	多好的邻居啊！
+What were you doing at the time?	那时你们在做什么？
+Oh, my family were having dinner when she called.	哦，她打电话来时，我家正在吃晚饭。
+We didn't notice that the water was rising!	我们没注意到水在上涨！
+You're lucky!	你们真幸运！
+Hi, Kate.	嗨，凯特。
+That was a big earthquake!	那是一场大地震！
+Yeah! It scared me.	是啊！吓坏我了。
+I was doing my homework when the building shook all of a sudden.	我正在写作业，突然楼晃了起来。
+What were you doing when it started, Jiaming?	家明，地震开始时你在做什么？
+Oh, I was doing some chores while my mother was preparing lunch.	哦，我妈妈做午饭时，我在做家务。
+The earthquake took us by surprise too.	地震也让我们措手不及。
+Well, I'm glad we're all fine.	嗯，我很高兴我们都没事。
+Thanks for calling!	谢谢你打电话来！
+Wasn't the snowstorm last weekend terrible, Liu Yun?	刘云，上周末的暴风雪是不是很可怕？
+Yes, it really was!	是的，确实很可怕！
+What were you doing while it was snowing?	下雪的时候你在做什么？
+Not much.	没做什么。
+I was travelling on the train then.	我那时正坐火车出行。
+The ride took five hours longer!	这趟车多开了五个小时！
+Oh no	哦不。
+I heard many people couldn't get home.	我听说很多人回不了家。
+They had to stay in hotels for the night.	他们只好在酒店过夜。
+Hi, Kate. Are you OK?	嗨，凯特。你还好吗？
+Did you have any trouble during the typhoon?	台风期间你遇到什么麻烦了吗？
+When the typhoon hit, my family were having dinner at home.	台风来袭时，我家正在吃晚饭。
+That's good.	那就好。
+How about your	你们的
+neighbourhood? Was it OK?	街区呢？还好吗？
+Oh, it was a mess.	哦，一团糟。
+My parents and I helped with the clean-up this morning.	今天早上我和父母一起帮忙清理了。
+Interview 2	采访二
+Miss, how did the typhoon affect you?	女士，台风对您有什么影响？
+I was OK, but I was worried about my grandparents.	我没事，但我很担心我的爷爷奶奶。
+Were they all right?	他们没事吧？
+Yes, thankfully.	没事，谢天谢地。
+When I called them, they were playing chess at home.	我给他们打电话时，他们正在家里下棋。
+Sir, what were your family doing when the typhoon hit?	先生，台风来袭时您的家人在做什么？
+Well, my children and I were reading together when a window broke.	嗯，我和孩子们正在一起看书，一扇窗户破了。
+Even our roof nearly came off!	甚至我们的屋顶都差点被掀掉！
+My children were crying, and my wife was scared too.	我的孩子们在哭，我妻子也很害怕。
+Were you prepared for the typhoon?	你们为台风做好准备了吗？
+Well, I heard the news, but I didn't think it would be that strong.	嗯，我听到了消息，但没想到它会那么强。
+Weather report	天气预报
+Now, the typhoon is slowing down as it moves west, but it's not over.	现在，台风在向西移动的过程中减弱了，但还没有结束。
+If you're near one of the areas close by, be careful, and pay attention to our weather reports.	如果你在附近的地区，请小心，并留意我们的天气预报。
+Do stay inside.	一定要待在室内。
+Hi, Lisa.	嗨，丽莎。
+Did your family have any trouble during the typhoon?	台风期间你家遇到什么麻烦了吗？
+Yes, it was awful.	是的，糟透了。
+Did you know that a typhoon was coming?	你们知道台风要来吗？
+We did. But it was worse than we expected.	知道。但它比我们预想的更严重。
+We were driving home from our relatives' house when the strong winds started.	大风开始刮的时候，我们正从亲戚家开车回家。
+Oh no! It's dangerous to travel during a typhoon.	哦不！台风期间出行很危险。
+I know.	我知道。
+It was raining hard while we were driving back.	我们开车回来时雨下得很大。
+We almost got into an accident when a truck nearly hit us.	一辆卡车差点撞到我们，我们险些出了事故。
+Oh dear,	天哪，
+I'm glad you were safe!	你们平安我真高兴！
+Yes, but when we got home later, we found water everywhere.	是的，但后来我们回到家，发现到处都是水。
+The house looked awful!	房子看起来糟透了！
+Was yours OK?	你家还好吗？
+Luckily, we covered our windows and moved our things off the floor before the typhoon started.	幸运的是，台风来之前我们把窗户遮好，把东西从地上搬走了。
+We stored food and water too.	我们还储备了食物和水。
+That's good!	那很好！
+We'll do that next time.	下次我们也那样做。
+What do you think happened to Tilly Smith and her family next?	你认为蒂莉·史密斯和她的家人接下来发生了什么？
+Then read the rest of the text to check your answer.	然后读课文的其余部分，检查你的答案。
+How One Girl Saved Many Lives	一个女孩怎样救了许多人
+On 26 December 2004, Tilly Smith, a 10-year-old English schoolgirl, and her family were on holiday in Phuket, Thailand.	2004年12月26日，10岁的英国女学生蒂莉·史密斯和家人在泰国普吉岛度假。
+Everyone was enjoying the beautiful weather that morning.	那天早上，每个人都在享受美好的天气。
+Some people were swimming in the sea, and some were relaxing on the beach.	有些人在海里游泳，有些人在沙滩上放松。
+But while Tilly was walking along the beach with her family, she noticed something strange.	但蒂莉和家人沿着海滩散步时，她注意到了一些奇怪的事。
+Thick white froth was forming on top of the waves.	厚厚的白色泡沫正在浪尖上形成。
+Next, she saw that the waves were coming in instead of going out.	接着，她看到海浪在往岸上涌，而不是往外退。
+Just then, she remembered something important.	就在那时，她想起了一件重要的事。
+Two weeks before, her geography teacher had explained that earthquakes under the sea could create dangerous waves called tsunamis!	两周前，她的地理老师讲过，海底地震会引发叫作海啸的危险巨浪！
+"I know what's going to happen!	“我知道要发生什么了！
+There's going to be a big wave,"	会有一个大浪。”
+Tilly cried.	蒂莉喊道。
+Unfortunately, her family didn't believe her and wanted to continue their walk.	不幸的是，她的家人不相信她，还想继续散步。
+However, Tilly refused to take a single step further.	然而，蒂莉拒绝再往前走一步。
+Finally, her mother decided to continue the walk alone, and the rest of her family returned to the hotel.	最后，她妈妈决定一个人继续散步，其余家人回到了酒店。
+Back at the hotel, Tilly's father told a security guard about the tsunami.	回到酒店，蒂莉的爸爸把海啸的事告诉了一名保安。
+The security guard was shocked.	保安大吃一惊。
+He knew about the huge earthquake in nearby Indonesia.	他知道附近的印度尼西亚发生了大地震。
+It meant that a tsunami was possible!	这意味着可能会有海啸！
+He jumped into action right away and rushed to get people off the beach.	他立刻行动起来，赶紧让人们离开海滩。
+Everyone began to panic.	每个人都开始惊慌。
+People were screaming and running as fast as they could when they saw a huge wall of water coming from the sea.	当人们看到一堵巨大的水墙从海上涌来时，他们尖叫着拼命奔跑。
+Tilly was right!	蒂莉是对的！
+Her mother was one of the last people on the beach, but thankfully, her family made it to safety just as the water hit the hotel.	她妈妈是最后离开海滩的人之一，但谢天谢地，就在海水冲到酒店时，她一家都到了安全的地方。
+The 2004 tsunami caused over 200,000 deaths, but no one on the beach died that day.	2004年的海啸造成了二十多万人死亡，但那天那片海滩上没有一个人遇难。
+This true story shows how a single lesson could mean the difference between life and death.	这个真实的故事说明，一堂课可能决定生死。
+Thanks to her knowledge and quick thinking, one schoolgirl was able to save over 100 lives.	凭借她的知识和敏捷的思维，一个女学生救了一百多人的性命。
+Hi, Kaito.	嗨，海斗。
+You're new here, right?	你是新来的，对吧？
+I'm Anna Brown, one of your teachers.	我是安娜·布朗，你的老师之一。
+to meet you	很高兴认识你
+What's wrong, Ms Brown?	怎么了，布朗老师？
+Sorry,	对不起，
+your bow surprised me.	你的鞠躬让我吃了一惊。
+We usually just say "hello" or shake hands in the US!	在美国，我们通常只是说“你好”或握手！
+That's surprising!	真让人惊讶！
+In Japan, we bow as soon as we meet a teacher.	在日本，我们一见到老师就鞠躬。
+Li Tong: Hello!	李彤：你好！
+You're Li Tong, right?	你是李彤，对吧？
+I'm Harry.	我是哈里。
+We're in the same science class.	我们在同一个科学课班上。
+Oh, hi, Harry!	哦，嗨，哈里！
+should we shake hands?	我们应该握手吗？
+How do you greet others in the UK?	在英国你们怎样和别人打招呼？
+We could, but it's a little formal.	可以握手，但有点正式。
+Usually we just say "hello".	我们通常只说“你好”。
+Do you kiss others on the cheek?	你们会亲吻别人的脸颊吗？
+We hug sometimes, but we don't usually kiss to say hello.	我们有时拥抱，但通常不用亲吻来打招呼。
+We don't bow either.	我们也不鞠躬。
+That's so formal that we only do it at special times.	那太正式了，只在特殊场合才这样做。
+I thought people in the UK were very formal.	我原以为英国人很拘谨。
+Marie: Ji-Hoon: Marie: Hey, Ji-Hoon,	嘿，智勋，
+meet Marie.	来认识一下玛丽。
+She's from France.	她来自法国。
+Hi, Ji-Hoon,	嗨，智勋，
+nice to meet you	很高兴认识你
+Oh, don't look so embarrassed!	哦，别那么不好意思！
+It's embarrassing!	真尴尬！
+In Korean culture, we don't usually kiss people unless we love them.	在韩国文化中，我们通常不亲吻别人，除非是爱的人。
+In France we kiss friends on the cheek to say hello!	在法国，我们亲吻朋友的脸颊来打招呼！
+Hi, Kaito!	嗨，海斗！
+hi, Harry!	嗨，哈里！
+We heard you're going to India, Peter!	彼得，我们听说你要去印度了！
+How exciting!	真让人兴奋！
+Yes, I'm really excited!	是的，我真的很兴奋！
+You went there last year, right?	你去年去过那里，对吧？
+Can you tell me about their customs?	你能给我讲讲他们的习俗吗？
+First, they have a special greeting.	首先，他们有一种特别的问候方式。
+They press their palms together, bow, and say, "Namaste."	他们双手合十，鞠躬，说“有礼了”。
+Wow! I'll remember that.	哇！我会记住的。
+Second, you should only use your right hand to eat.	其次，你只能用右手吃饭。
+With my knife and fork?	用我的刀叉吗？
+Well, people may not use a knife and fork at all.	嗯，人们可能根本不用刀叉。
+Very often they eat with their hands instead.	他们常常直接用手吃。
+OK! Anything else?	好的！还有别的吗？
+Yes! People in India often eat a lot of curry.	有！印度人常吃很多咖喱。
+I ate chicken curry there, and it was delicious!	我在那里吃了咖喱鸡，非常好吃！
+But don't expect to eat any beef.	但别指望能吃到牛肉。
+Cows are protected in India.	在印度，牛受到保护。
+They are special to many people.	对许多人来说，牛很特别。
+And they even walk anywhere they like!	而且它们甚至想去哪儿就去哪儿！
+While we were there, one walked right in front of our car!	我们在那里的时候，有一头牛就在我们车前面走！
+It walked so slowly that we had to slow down and follow it!	它走得太慢了，我们只好放慢速度跟着它！
+I'll remember that.	我会记住的。
+OK!	好的！
+People in India often eat a lot of curry.	印度人常吃很多咖喱。
+What's wrong, Hongli?	红丽，你怎么了？
+I'm having dinner at my friend's house tonight. But English table manners are so confusing that I'm a little worried.	我今晚在朋友家吃晚饭。但英国的餐桌礼仪太令人困惑了，我有点担心。
+Well, I'm from London.	嗯，我是伦敦人。
+Ask me anything!	尽管问我！
+Well, first, should I bring something?	嗯，首先，我应该带点东西去吗？
+Yes. Bring a small gift, but don't bring food unless the host asks you to. And remember to wait for the host to start before you eat.	是的。带一件小礼物，但除非主人请你带，否则不要带食物。还要记得等主人开始吃了你再吃。
+Good to know!	知道了，很有用！
+Could you tell me the proper way to use a knife and fork too?	你能告诉我使用刀叉的正确方法吗？
+Just hold the knife in your right hand, and the fork in your left.	只要右手拿刀，左手拿叉就行了。
+If you get confused, watch what everyone else does.	如果你感到困惑，就看看别人是怎么做的。
+After the meal, thank the host and say that everything was delicious.	饭后，要感谢主人，说每样菜都很好吃。
+And, most importantly ... Yes? Enjoy yourself!	还有，最重要的是……什么？好好玩！
+Thanks, I will!	谢谢，我会的！
+Hi Diana,	嗨，戴安娜：
+It's so great to hear from you.	收到你的来信真高兴。
+Life in Paris is pretty good!	在巴黎的生活很不错！
+I was a little lonely at first, but I'm starting to make some friends.	一开始我有点孤独，但我开始交到一些朋友了。
+They helped me to learn more about the customs here after I had some embarrassing experiences at a party last month.	上个月我在一次聚会上有过一些尴尬的经历之后，他们帮我更多地了解了这里的习俗。
+I'd like to share some tips with you.	我想和你分享一些建议。
+First, you shouldn't arrive early to a party.	首先，你参加聚会不应该早到。
+It's normal to be on time or a few minutes late, but arriving early can cause problems.	准时或晚几分钟到是正常的，但早到可能会带来麻烦。
+Once, I arrived 10 minutes early to a party.	有一次，我提前10分钟到了一个聚会。
+Usually that's the polite thing to do, right?	通常那是礼貌的做法，对吧？
+But my friend looked so surprised to see me!	但我的朋友看到我非常吃惊！
+He was still getting everything ready.	他还在准备东西。
+Second, it's important to bring a gift when you visit someone.	其次，拜访别人时带礼物很重要。
+When I attended my friend's party, I didn't bring anything.	我参加朋友的聚会时，什么也没带。
+It wasn't his birthday, but everyone else brought gifts like chocolates or flowers to thank him for the party.	那天不是他的生日，但其他人都带了巧克力或花之类的礼物来感谢他办聚会。
+I was so embarrassed!	我太尴尬了！
+Third, you should always try to dress for the occasion.	第三，你应该总是根据场合穿着。
+At that party it was surprising to see how nicely everyone was dressed.	在那次聚会上，看到每个人都穿得那么讲究，我很吃惊。
+It was summer, so I was just wearing a simple blouse and shorts.	那时是夏天，所以我只穿了一件简单的女式衬衫和短裤。
+But everyone else was dressed so well that I felt silly.	但其他人都穿得那么好，我觉得自己很傻。
+Fourth, it's best not to ask personal questions unless you know the person well.	第四，除非和对方很熟，最好不要问私人问题。
+Many French people are quite private.	许多法国人相当注重隐私。
+They don't like it when others ask them about their age, their family, whether they are married, or how much money they make.	他们不喜欢别人问他们的年龄、家庭、是否结婚或挣多少钱。
+Food and culture, however, are safe conversation topics.	不过，食物和文化是安全的聊天话题。
+Last but not least, make sure you use French whenever you can.	最后但同样重要的是，尽量多说法语。
+Lots of people speak English here, but you can develop closer relationships with them if you use French.	这里很多人会说英语，但如果你用法语，就能和他们建立更亲密的关系。
+It's very important in their culture.	这在他们的文化中非常重要。
+I found that even a simple "merci" goes a long way!	我发现即使一句简单的“谢谢”也大有帮助！
+You'll see what I mean as soon as you get here!	你一到这里就会明白我的意思！
+Au revoir, Nancy.	再见，南希。
+Have you decided on a book for your report, Peter?	彼得，你决定好读书报告写哪本书了吗？
+I've picked The Final Problem.	我选了《最后一案》。
+It's a mystery with the famous detective Sherlock Holmes as its main character.	这是一部悬疑小说，主人公是著名侦探夏洛克·福尔摩斯。
+Have you chosen a book yet?	你选好书了吗？
+No, I can't decide between two science fiction novels:	还没有，我在两本科幻小说之间拿不定主意：
+The Time Machine and The Three-Body Problem.	《时间机器》和《三体》。
+I've never heard of The Three-Body Problem.	我从没听说过《三体》。
+It's about aliens planning to attack the earth.	它讲的是外星人计划攻击地球的故事。
+That's the kind of story I like.	那正是我喜欢的那种故事。
+Maybe I'll give it a try.	也许我会读读看。
+What are you reading, Emma?	埃玛，你在读什么？
+Hey, Yaming,	嘿，亚明，
+I'm reading Harry Potter and the Philosopher's Stone.	我在读《哈利·波特与魔法石》。
+Have you ever read it?	你读过吗？
+I love fantasy novels.	我喜欢奇幻小说。
+I've read all of the Harry Potter books.	《哈利·波特》的书我全读过了。
+What other fantasy novels have you read?	你还读过哪些奇幻小说？
+Well, I've read Journey to the West and I've just chosen it for my book report.	嗯，我读过《西游记》，我刚选了它写读书报告。
+It's a classic.	它是一部经典。
+Have you ever read Around the World in Eighty Days, Adam?	亚当，你读过《八十天环游地球》吗？
+I've read it twice!	我读过两遍了！
+I love adventure novels based in different countries.	我喜欢以不同国家为背景的冒险小说。
+I'm looking forward to it!	我很期待读它！
+I haven't read it yet, but I've already borrowed it from the library.	我还没读，但我已经从图书馆借来了。
+Zhang Yi.	张毅
+For my book report, I've chosen The Romance of the Three Kingdoms by Luo Guanzhong.	我的读书报告选的是罗贯中的《三国演义》。
+I love historical fiction novels, and this is a classic.	我喜欢历史小说，而这本是经典。
+It describes a time long ago when three kingdoms fought one another for over 100 years.	它描写了很久以前三个国家互相争战一百多年的时代。
+There are almost 1,000 different characters.	书中有将近一千个不同的人物。
+My favourite is Zhuge Liang because he's so clever and he has a plan for everything.	我最喜欢诸葛亮，因为他非常聪明，凡事都有计划。
+The book is full of great stories, and it has helped me to understand many Chinese idioms better.	这本书里满是精彩的故事，它帮助我更好地理解了许多汉语成语。
+Linda Have you ever heard of Oliver Twist?	琳达 你听说过《雾都孤儿》吗？
+It's a classic social novel from the 1800s by my favourite writer, Charles Dickens.	这是我最喜欢的作家查尔斯·狄更斯在19世纪写的一部经典社会小说。
+It talks about how poor people lived in London back then.	它讲述了当时伦敦穷人的生活。
+In the story, Oliver is a boy whose parents have died.	在故事里，奥利弗是一个父母双亡的男孩。
+He becomes a factory worker, but he's later forced to steal things.	他成了工厂的工人，但后来被迫去偷东西。
+I really like Oliver.	我真的很喜欢奥利弗。
+He's always kind to others, even when things are tough.	即使在困境中，他也总是善待别人。
+In the end, the bad people are punished, and Oliver has a better life.	最后，坏人受到了惩罚，奥利弗过上了更好的生活。
+I love this story, and I've already read it twice.	我喜欢这个故事，已经读过两遍了。
+Yi For my book report, I've chosen The Romance of the Three Kingdoms by Luo Guanzhong.	毅 我的读书报告选的是罗贯中的《三国演义》。
+What have you read recently, Fu Xing?	付星，你最近读了什么书？
+I've just finished Alice's Adventures in Wonderland by Lewis Carroll.	我刚读完刘易斯·卡罗尔的《爱丽丝梦游仙境》。
+It's a fantasy classic about a girl who gets lost in a magical world.	这是一部奇幻经典，讲一个女孩迷失在神奇世界里的故事。
+Have you ever read it, Peter?	彼得，你读过吗？
+I've never read it, but I've watched the movie.	我从没读过，但看过电影。
+You should read the book too!	你也应该读读这本书！
+I've always preferred the book to the movie.	比起电影，我一直更喜欢书。
+What's your favourite part of the book?	你最喜欢书中哪一部分？
+Do you remember when Alice finds a tiny door?	你还记得爱丽丝发现一扇小门的情节吗？
+She drinks from a bottle and grows smaller	她喝了瓶子里的东西，变小了。
+I remember!	我记得！
+Then she realizes she's forgotten about the key on the table,	然后她发现自己忘了拿桌上的钥匙，
+but she's grown too small to reach it.	可她已经变得太小，够不着了。
+Yes, then she eats a magic cake and grows bigger!	是的，然后她吃了一块魔法蛋糕，又变大了！
+I guess you really love this book!	我看你真的很喜欢这本书！
+Yes. I've always loved reading fantasy books. And this story is about growing up.	是的。我一直喜欢读奇幻书。而且这个故事讲的是成长。
+I find it interesting.	我觉得很有意思。
+How are they related to one another?	它们之间有什么联系？
+The Secret Garden	秘密花园
+A summary of Frances Hodgson Burnett's The Secret Garden)	（弗朗西丝·霍奇森·伯内特《秘密花园》概要）
+In this story, Mary Lennox, a spoiled and selfish 10-year-old girl goes to live with her uncle, Mr Craven, after her parents pass away.	在这个故事里，被宠坏的自私的10岁女孩玛丽·伦诺克斯在父母去世后，去和她的姑父克雷文先生一起生活。
+Her uncle has a huge house, but he is seldom there.	她的姑父有一座大房子，但他很少在家。
+Mary spends a lot of time alone and gets bored.	玛丽很多时间都是一个人，觉得很无聊。
+At night she often hears crying coming from somewhere.	晚上她常常听到不知哪里传来的哭声。
+One day, Mary hears about a beautiful garden.	有一天，玛丽听说了一个美丽的花园。
+It belonged to her uncle's wife.	它属于她姑父的妻子。
+After she died, the garden became a painful memory for him, so he locked it up.	她死后，花园成了他痛苦的回忆，所以他把它锁了起来。
+No one has seen it for ten years.	十年来没有人见过它。
+One morning, Mary finds an old key.	一天早上，玛丽找到了一把旧钥匙。
+When it unlocks a half-hidden door, she discovers the secret garden inside!	当它打开一扇半隐蔽的门时，她发现了里面的秘密花园！
+Unfortunately, nobody has taken care of the plants, and therefore, much of it is in a bad state.	不幸的是，没有人照料这些植物，因此，大部分都处于很糟的状态。
+Later, Mary tells her secret to a new friend, Dickon.	后来，玛丽把她的秘密告诉了新朋友迪康。
+The young boy knows a lot about gardening, and they work together to make the garden beautiful again.	这个男孩懂很多园艺知识，他们一起努力让花园重新变得美丽。
+One night, Mary hears someone crying again and discovers Colin, her cousin.	一天晚上，玛丽又听到有人在哭，发现了她的表哥科林。
+He is unhappy and weak because he has lived alone in a hidden room since his mother's death.	他不开心又虚弱，因为自从母亲去世后，他一直独自住在一个隐蔽的房间里。
+He has not walked for years because he thinks he has an illness.	他好几年没走路了，因为他觉得自己有病。
+Mary and Dickon tell him stories about the garden and take him secretly to see it.	玛丽和迪康给他讲花园的故事，还偷偷带他去看。
+Over time, Colin grows stronger.	随着时间推移，科林变得越来越强壮。
+The fresh air and beautiful garden are good for him, and he proves that he is not ill when he gets to his feet for the first time in years!	新鲜的空气和美丽的花园对他有好处，当他多年来第一次站起来时，他证明了自己没有病！
+The three friends spend time together in the garden and grow happier day by day.	三个朋友在花园里一起度过时光，一天比一天快乐。
+In the end, Mary's uncle returns home.	最后，玛丽的姑父回到了家。
+To his great surprise, he sees Colin walking and running, and he discovers that the secret garden has become as alive and beautiful as it ever was!	让他非常惊讶的是，他看到科林在走、在跑，还发现秘密花园变得和从前一样生机勃勃、美丽动人！
+Excuse me,	打扰一下，
+are you a volunteer here?	你是这里的志愿者吗？
+How long have you been a volunteer with this football organization?	你在这个足球组织做志愿者多久了？
+Oh, I've been a volunteer since last year.	哦，我从去年开始做志愿者。
+What do you do?	你做什么工作？
+Lots, really!	很多，真的！
+I help the players and give directions.	我帮助球员，还给人指路。
+I clean up the stadium after matches too.	比赛结束后我还打扫体育场。
+Sir, are you a volunteer here at the art museum?	先生，您是这家美术馆的志愿者吗？
+May I know what you do?	我可以问问您做什么吗？
+I guide visitors through the museum and provide information about the paintings.	我带参观者游览美术馆，介绍这些画。
+You see, I'm studying art history at university.	你看，我在大学学艺术史。
+That's a good use of your skills!	这样很好地发挥了你的专长！
+How long have you been a volunteer at the museum?	你在美术馆做志愿者多久了？
+Well, I've only been a guide here for two weeks.	嗯，我在这里当讲解员才两周。
+Let's talk to one of the volunteers with the beach clean-up organization.	我们去和海滩清洁组织的一位志愿者聊聊吧。
+Excuse me, Miss.	打扰一下，女士。
+How is the clean-up going?	清洁工作进展得怎么样？
+It's going well!	很顺利！
+I've picked up three bags of bottles and cans since our team arrived this morning.	从今天早上我们团队到这里以来，我已经捡了三袋瓶子和罐子。
+You've worked hard!	你干得真卖力！
+Have you been a volunteer with the organization for long?	你在这个组织做志愿者很久了吗？
+Yes, for about seven years.	是的，大约七年了。
+You must really care about the beach.	你一定很爱护这片海滩。
+Yes, I think it's everyone's duty to look after it!	是的，我认为保护它是每个人的责任！
+Wow! You must really care about the beach.	哇！你一定很爱护这片海滩。
+Hi, Robert.	嗨，罗伯特。
+What are you watching?	你在看什么？
+Oh, it's a show about volunteering.	哦，是一个关于志愿服务的节目。
+It's quite inspiring!	很鼓舞人心！
+Hey, I've watched that before.	嘿，我以前看过。
+Did it inspire you to volunteer?	它激励你去做志愿者了吗？
+Yeah. In fact, I've been a volunteer at an animal shelter for two years now.	是的。事实上，我在一家动物收容所做志愿者已经两年了。
+Wow! What do you do there?	哇！你在那里做什么？
+Well, I clean the cages and feed the animals	嗯，我打扫笼子、喂动物，
+And I look after the new dogs.	还照顾新来的狗。
+Some of them are in poor condition and need more care!	有些狗状况很差，需要更多的照顾！
+And I collect donations for the shelter too.	我还为收容所收集捐赠物。
+Goodness!	天哪！
+Hey, do you need help?	嘿，你需要帮手吗？
+Can I volunteer too?	我也能做志愿者吗？
+Have you ever been to our animal shelter, Robert?	罗伯特，你来过我们的动物收容所吗？
+No, I haven't,	不，没来过，
+but my friend Rose has told me all about it.	但我的朋友罗丝都跟我讲过了。
+Have you taken care of animals before?	你以前照顾过动物吗？
+I had a dog when I was young.	我小时候养过一只狗。
+I walked her, and I filled her food and water bowls.	我遛她，给她的碗添食物和水。
+Because of her, I learnt that every animal is special and needs love.	因为她，我懂得了每只动物都很特别，都需要爱。
+You're right!	你说得对！
+Now, how often can you volunteer?	那么，你多久能来做一次志愿者？
+About once a week?	大约一周一次？
+Perfect!	太好了！
+What do you do there?	你在那里做什么？
+What are your plans for the summer vacation?	你暑假有什么计划？
+I think I'll do some volunteer work at a nursing home with my youth group.	我想我会和青年团的伙伴们去养老院做些志愿工作。
+I've been a volunteer there since last year.	我从去年开始就在那里做志愿者。
+Oh! What do you do?	哦！你做什么？
+I exercise with the elderly to help them stay active.	我和老人们一起锻炼，帮助他们保持活力。
+Sometimes I play Chinese chess with them.	有时我和他们下中国象棋。
+I've even taught some of them how to use a mobile phone.	我甚至教过一些老人怎样用手机。
+That's great.	太好了。
+Do their families visit them often?	他们的家人常来看他们吗？
+Some do, but not all.	有些常来，但不是所有人。
+Many elderly people are very lonely.	许多老人非常孤独。
+That makes me sad.	那让我很难过。
+We'll all be old one day too.	我们总有一天也会老。
+It's important to care for the elderly.	关爱老人很重要。
+You know, they actually have so many interesting life stories and experiences to share with us.	你知道，他们其实有很多有趣的人生故事和经历可以和我们分享。
+Can I join your group of volunteers?	我能加入你们的志愿者小组吗？
+I'd love to help.	我很想帮忙。
+come along!	来吧！
+It's fun to volunteer together.	一起做志愿者很有趣。
+What kind of hook does the speaker use?	演讲者用了什么样的开场方式？
+Which paragraph includes a call to action?	哪一段包含了行动号召？
+Ladies and gentlemen, thank you for inviting me to speak to you about Blue Sky Rescue today.	女士们，先生们，谢谢你们今天邀请我来介绍蓝天救援队。
+Let me begin with my own story.	让我从我自己的故事讲起。
+Back in 2008, I was hiking in the mountains with some friends when one of them fell and got a bad head injury.	2008年，我和几个朋友在山里徒步时，其中一个人摔倒了，头部受了重伤。
+We had to find help quickly, so we called an emergency number.	我们必须尽快找到帮助，于是拨打了急救电话。
+It was already dark, and we couldn't even see where we were.	天已经黑了，我们甚至看不清自己在哪里。
+After some time, we heard dogs barking and the voices of the Blue Sky Rescue team. I nearly started crying.	过了一会儿，我们听到了狗叫声和蓝天救援队队员的声音。我差点哭了出来。
+We were so thankful that they found us!	他们找到了我们，我们真是太感激了！
+I've never forgotten that day.	我从没忘记那一天。
+Since then, I've wanted to help others too.	从那以后，我也想帮助别人。
+I signed up with Blue Sky Rescue in 2009, and I've been a volunteer ever since.	我在2009年报名加入了蓝天救援队，从那以后一直是一名志愿者。
+We've been to schools and other communities to teach children and adults how to stay safe and prepare for the worst.	我们去学校和其他社区，教孩子和大人如何保护自己、为最坏的情况做准备。
+We've also rescued people during emergencies.	我们还在紧急情况下救援过人们。
+We've provided medical aid and searched for missing people after natural disasters, like the 2013 earthquake in Ya'an and the typhoon in the Philippines in the same year.	我们在自然灾害后提供医疗援助、搜寻失踪人员，比如2013年的雅安地震和同年的菲律宾台风。
+In 2023, we even helped in places as far away as Türkiye!	2023年，我们甚至在远至土耳其的地方提供了帮助！
+Working as a volunteer has taught me many practical life-saving skills.	做志愿者教会了我许多实用的救生技能。
+It has also helped me understand the power of teamwork because it's the key to successful rescues.	它还让我明白了团队合作的力量，因为这是救援成功的关键。
+Most of all, being a volunteer has taught me the value of every life.	最重要的是，做志愿者让我懂得了每个生命的价值。
+The work is difficult.	这份工作很艰难。
+It's voluntary, so we aren't paid.	这是自愿的，所以我们没有报酬。
+We often go without food or sleep.	我们常常顾不上吃饭睡觉。
+But our primary goal has always been to save as many people as we can.	但我们的首要目标始终是尽可能多地救人。
+I'm just an ordinary person, but I'll rush into danger, just like everyone else in Blue Sky Rescue.	我只是一个普通人，但我会冲向危险，就像蓝天救援队的其他人一样。
+To the people we've saved and their loved ones, I know we're their heroes. And that makes everything we do worth it.	对于我们救过的人和他们的亲人，我知道我们是他们的英雄。这让我们做的一切都值得。
+We want to do even more, but we can't do it all alone.	我们想做得更多，但我们不能单打独斗。
+Will you join us as a volunteer?	你愿意作为志愿者加入我们吗？
+Together we can make a difference!	我们一起就能带来改变！

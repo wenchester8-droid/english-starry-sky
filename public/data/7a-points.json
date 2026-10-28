@@ -1,0 +1,2353 @@
+{
+  "book": "7a",
+  "cats": [
+    {
+      "id": "grammar",
+      "name": "语法",
+      "desc": "be 动词、三单、There be、can、连词、序数词……"
+    },
+    {
+      "id": "sentence",
+      "name": "句型与交际",
+      "desc": "问候、问路、问时间、购物等课本重点句型"
+    }
+  ],
+  "units": [
+    {
+      "unit": "starter-unit-1",
+      "points": [
+        {
+          "id": "su1-greet",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "打招呼与自我介绍",
+          "explain": "见面问候：Hello! / Hi! / Good morning.\n问好：How are you? — I'm fine, thank you. And you? / I'm great, thanks.\n初次见面：Nice to meet you. — Nice to meet you too.\n问名字：What's your name? — My name is … / I'm …\n问拼写：How do you spell your name? — E-M-M-A, Emma.",
+          "examples": [
+            {
+              "en": "Good morning, Ms Gao.",
+              "zh": "高老师，早上好。"
+            },
+            {
+              "en": "Nice to meet you too, Fu Xing!",
+              "zh": "也很高兴见到你，付星！"
+            },
+            {
+              "en": "How do you spell your name?",
+              "zh": "你的名字怎么拼写？"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— Nice to meet you, Emma.\n— ______",
+              "o": [
+                "Nice to meet you too.",
+                "I'm fine, thank you.",
+                "Good morning.",
+                "Goodbye."
+              ],
+              "a": 0,
+              "e": "对方说 Nice to meet you，回答要加 too：Nice to meet you too.",
+              "s": "— Nice to meet you, Emma.\n— Nice to meet you too."
+            },
+            {
+              "t": "choice",
+              "q": "— How are you?\n— ______",
+              "o": [
+                "I'm 12.",
+                "I'm fine, thank you.",
+                "I'm Peter.",
+                "Nice to meet you."
+              ],
+              "a": 1,
+              "e": "How are you? 问身体/状况，回答 I'm fine, thank you. 或 I'm great, thanks.",
+              "s": "— How are you?\n— I'm fine, thank you."
+            },
+            {
+              "t": "choice",
+              "q": "— ______\n— M-I-L-L-E-R, Miller.",
+              "o": [
+                "What's your name?",
+                "How are you?",
+                "How do you spell your name?",
+                "What colour is it?"
+              ],
+              "a": 2,
+              "e": "答语是逐个字母拼读，所以问的是 How do you spell your name?",
+              "s": "— How do you spell your name?\n— M-I-L-L-E-R, Miller."
+            },
+            {
+              "t": "choice",
+              "q": "— Good morning, class.\n— ______",
+              "o": [
+                "Good morning, Ms Gao.",
+                "Goodbye, Ms Gao.",
+                "Thank you.",
+                "Good night."
+              ],
+              "a": 0,
+              "e": "老师说 Good morning，学生用同样的问候回应：Good morning, Ms Gao.",
+              "s": "— Good morning, class.\n— Good morning, Ms Gao."
+            },
+            {
+              "t": "order",
+              "w": [
+                "your",
+                "What's",
+                "name"
+              ],
+              "a": "What's your name?",
+              "e": "特殊疑问句：疑问词 What 开头，What's = What is。",
+              "s": "What's your name?"
+            },
+            {
+              "t": "order",
+              "w": [
+                "you",
+                "spell",
+                "How",
+                "do",
+                "your",
+                "name"
+              ],
+              "a": "How do you spell your name?",
+              "e": "How do you spell …? 你怎么拼写……？",
+              "s": "How do you spell your name?"
+            },
+            {
+              "t": "fill",
+              "q": "— I'm fine, thank you. And ______?\n— I'm great, thanks.",
+              "a": [
+                "you"
+              ],
+              "e": "And you? 你呢？用来反问对方。",
+              "s": "— I'm fine, thank you. And you?\n— I'm great, thanks."
+            }
+          ]
+        },
+        {
+          "id": "su1-capital",
+          "cat": "grammar",
+          "kp": "首字母大写",
+          "title": "大小写与缩写",
+          "explain": "句子第一个字母要大写。\n人名、地名的首字母要大写：Peter Brown, Beijing。\nI（我）任何时候都大写。\n缩写字母都用大写：PRC 中华人民共和国、UN 联合国、WHO 世界卫生组织。",
+          "examples": [
+            {
+              "en": "My name is Emma Miller.",
+              "zh": "我的名字是埃玛·米勒。"
+            },
+            {
+              "en": "Helen and I are friends.",
+              "zh": "海伦和我是朋友。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "下面哪一句书写正确？",
+              "o": [
+                "my name is peter.",
+                "My name is Peter.",
+                "My Name Is peter.",
+                "my name is Peter."
+              ],
+              "a": 1,
+              "e": "句首 My 大写，人名 Peter 大写，其余小写。",
+              "s": "My name is Peter."
+            },
+            {
+              "t": "choice",
+              "q": "“联合国”的英文缩写是：",
+              "o": [
+                "UN",
+                "un",
+                "PLA",
+                "VR"
+              ],
+              "a": 0,
+              "e": "UN = United Nations 联合国，缩写全部大写。",
+              "s": "UN"
+            },
+            {
+              "t": "choice",
+              "q": "WHO 表示：",
+              "o": [
+                "谁",
+                "世界卫生组织",
+                "中国人民解放军",
+                "虚拟现实"
+              ],
+              "a": 1,
+              "e": "全部大写的 WHO 是缩写，指世界卫生组织；小写 who 才是“谁”。"
+            },
+            {
+              "t": "choice",
+              "q": "下面哪一句书写正确？",
+              "o": [
+                "helen and i are in Class 1.",
+                "Helen and i are in class 1.",
+                "Helen and I are in Class 1.",
+                "helen and I are in class 1."
+              ],
+              "a": 2,
+              "e": "句首、人名 Helen、代词 I、班级 Class 1 都要大写。",
+              "s": "Helen and I are in Class 1."
+            },
+            {
+              "t": "fill",
+              "q": "“中华人民共和国”的英文缩写：______",
+              "a": [
+                "PRC"
+              ],
+              "e": "PRC = People's Republic of China。",
+              "s": "PRC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "starter-unit-2",
+      "points": [
+        {
+          "id": "su2-article",
+          "cat": "grammar",
+          "kp": "冠词",
+          "title": "不定冠词 a / an",
+          "explain": "a / an 表示“一个”，只用在单数可数名词前。\n看读音不看字母：以元音音素开头用 an，其他用 a。\nan eraser, an apple, an orange, an egg；a ruler, a cap, a bottle, a key。",
+          "examples": [
+            {
+              "en": "I have an eraser and a ruler.",
+              "zh": "我有一块橡皮和一把尺子。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "I have ______ eraser in my schoolbag.",
+              "o": [
+                "a",
+                "an",
+                "/",
+                "the two"
+              ],
+              "a": 1,
+              "e": "eraser /ɪˈreɪzə(r)/ 以元音音素开头，用 an。",
+              "s": "I have an eraser in my schoolbag."
+            },
+            {
+              "t": "choice",
+              "q": "This is ______ bottle.",
+              "o": [
+                "a",
+                "an",
+                "two",
+                "some"
+              ],
+              "a": 0,
+              "e": "bottle 以辅音 /b/ 开头，用 a。",
+              "s": "This is a bottle."
+            },
+            {
+              "t": "choice",
+              "q": "I have ______ orange and ______ cap.",
+              "o": [
+                "a; a",
+                "an; an",
+                "an; a",
+                "a; an"
+              ],
+              "a": 2,
+              "e": "orange 以元音开头用 an；cap 以辅音开头用 a。",
+              "s": "I have an orange and a cap."
+            },
+            {
+              "t": "choice",
+              "q": "下面哪个短语正确？",
+              "o": [
+                "a keys",
+                "an key",
+                "a key",
+                "an keys"
+              ],
+              "a": 2,
+              "e": "key 是单数，以辅音开头，用 a key；复数 keys 前不能用 a/an。",
+              "s": "a key"
+            },
+            {
+              "t": "fill",
+              "q": "There is ______ egg on the desk.",
+              "a": [
+                "an"
+              ],
+              "e": "egg 以元音音素 /e/ 开头，用 an。",
+              "s": "There is an egg on the desk."
+            }
+          ]
+        },
+        {
+          "id": "su2-plural",
+          "cat": "grammar",
+          "kp": "名词复数",
+          "title": "名词复数（一）",
+          "explain": "一般加 -s：key → keys, pencil → pencils, ruler → rulers。\n以 s, x, ch, sh 结尾加 -es：box → boxes, glass → glasses。\n成双成对的东西常用复数：glasses 眼镜, shoes 鞋, socks 袜子, trousers 裤子。\n复数作主语，be 动词用 are：The rulers are blue.",
+          "examples": [
+            {
+              "en": "What colour are the rulers? — They're blue.",
+              "zh": "尺子是什么颜色？——蓝色。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "I have three ______.",
+              "o": [
+                "key",
+                "keys",
+                "keyes",
+                "a key"
+              ],
+              "a": 1,
+              "e": "three 后接复数，key 直接加 -s。",
+              "s": "I have three keys."
+            },
+            {
+              "t": "choice",
+              "q": "My ______ are under the bed.",
+              "o": [
+                "shoe",
+                "shoes",
+                "shoees",
+                "a shoe"
+              ],
+              "a": 1,
+              "e": "动词用 are，主语是复数 shoes。",
+              "s": "My shoes are under the bed."
+            },
+            {
+              "t": "fill",
+              "q": "There are two ______ (box) on the floor.",
+              "a": [
+                "boxes"
+              ],
+              "e": "box 以 x 结尾，加 -es。",
+              "s": "There are two boxes on the floor."
+            },
+            {
+              "t": "fill",
+              "q": "Where are my ______ (glass)? — They're on your nose!",
+              "a": [
+                "glasses"
+              ],
+              "e": "glasses 眼镜，常用复数；glass 以 s 结尾加 -es。",
+              "s": "Where are my glasses? — They're on your nose!"
+            },
+            {
+              "t": "choice",
+              "q": "— What colour ______ the trousers?\n— They're black.",
+              "o": [
+                "is",
+                "are",
+                "am",
+                "be"
+              ],
+              "a": 1,
+              "e": "trousers 是复数，用 are。",
+              "s": "— What colour are the trousers?\n— They're black."
+            }
+          ]
+        },
+        {
+          "id": "su2-have-colour",
+          "cat": "sentence",
+          "kp": "特殊疑问句",
+          "title": "问物品、颜色和位置",
+          "explain": "问有什么：What do you have in your schoolbag? — I have a cap / some books.\n问颜色：What colour is the cap? — It's red. / What colour are the rulers? — They're blue.\n问位置：Where is my cap? — It's under your desk. / Some books are in / on / under the box.",
+          "examples": [
+            {
+              "en": "What do you have in your schoolbag?",
+              "zh": "你的书包里有什么？"
+            },
+            {
+              "en": "Is it in your schoolbag? — No, it isn't.",
+              "zh": "它在你书包里吗？——不在。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— ______ is your new cap?\n— It's red.",
+              "o": [
+                "What",
+                "What colour",
+                "Where",
+                "How"
+              ],
+              "a": 1,
+              "e": "答语是颜色，用 What colour 提问。",
+              "s": "— What colour is your new cap?\n— It's red."
+            },
+            {
+              "t": "choice",
+              "q": "— Where is my cap?\n— It's ______ your desk.",
+              "o": [
+                "under",
+                "is",
+                "what",
+                "colour"
+              ],
+              "a": 0,
+              "e": "under 在……下面，回答位置用介词。",
+              "s": "— Where is my cap?\n— It's under your desk."
+            },
+            {
+              "t": "choice",
+              "q": "— Is the key in your schoolbag?\n— No, it ______.",
+              "o": [
+                "is",
+                "isn't",
+                "aren't",
+                "don't"
+              ],
+              "a": 1,
+              "e": "Is …? 的否定回答：No, it isn't.",
+              "s": "— Is the key in your schoolbag?\n— No, it isn't."
+            },
+            {
+              "t": "order",
+              "w": [
+                "have",
+                "What",
+                "do",
+                "you",
+                "in",
+                "your",
+                "schoolbag"
+              ],
+              "a": "What do you have in your schoolbag?",
+              "e": "What do you have …? 你有什么……？",
+              "s": "What do you have in your schoolbag?"
+            },
+            {
+              "t": "order",
+              "w": [
+                "the",
+                "colour",
+                "are",
+                "What",
+                "pencils"
+              ],
+              "a": "What colour are the pencils?",
+              "e": "pencils 是复数，用 are。",
+              "s": "What colour are the pencils?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "starter-unit-3",
+      "points": [
+        {
+          "id": "su3-this-that",
+          "cat": "grammar",
+          "kp": "指示代词",
+          "title": "this / that / these / those",
+          "explain": "近处单数 this（这个），近处复数 these（这些）。\n远处单数 that（那个），远处复数 those（那些）。\nWhat's this / that? — It's a cat.\nWhat are these / those? — They're carrot plants.\n注意回答时：this/that 用 it，these/those 用 they。",
+          "examples": [
+            {
+              "en": "What are these? — They're carrot plants.",
+              "zh": "这些是什么？——是胡萝卜苗。"
+            },
+            {
+              "en": "What's that? — It's a goose.",
+              "zh": "那是什么？——是一只鹅。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— What are ______ over there?\n— They're apple trees.",
+              "o": [
+                "this",
+                "that",
+                "these",
+                "those"
+              ],
+              "a": 3,
+              "e": "over there 远处，They're 复数，用 those。",
+              "s": "— What are those over there?\n— They're apple trees."
+            },
+            {
+              "t": "choice",
+              "q": "— What's this?\n— ______ a rabbit.",
+              "o": [
+                "It's",
+                "They're",
+                "This",
+                "Its"
+              ],
+              "a": 0,
+              "e": "this 单数，回答用 It's。注意 It's 和 Its 不同。",
+              "s": "— What's this?\n— It's a rabbit."
+            },
+            {
+              "t": "choice",
+              "q": "— What are these?\n— ______ baby chickens.",
+              "o": [
+                "It's",
+                "They're",
+                "These is",
+                "This are"
+              ],
+              "a": 1,
+              "e": "these 复数，回答用 They're。",
+              "s": "— What are these?\n— They're baby chickens."
+            },
+            {
+              "t": "choice",
+              "q": "______ is my uncle's farm.",
+              "o": [
+                "These",
+                "Those",
+                "This",
+                "They"
+              ],
+              "a": 2,
+              "e": "is 单数，用 This。",
+              "s": "This is my uncle's farm."
+            },
+            {
+              "t": "fill",
+              "q": "these 的单数形式是 ______",
+              "a": [
+                "this"
+              ],
+              "e": "this ↔ these；that ↔ those。",
+              "s": "this"
+            }
+          ]
+        },
+        {
+          "id": "su3-how-many",
+          "cat": "sentence",
+          "kp": "名词复数",
+          "title": "How many 与名词复数（二）",
+          "explain": "How many + 可数名词复数 问数量：How many rabbits do they have? — Eight.\n特殊复数要单独记：goose → geese, sheep → sheep, child → children。\n以辅音 + o 结尾的部分名词加 -es：tomato → tomatoes, potato → potatoes。",
+          "examples": [
+            {
+              "en": "How many ducks does my uncle have?",
+              "zh": "我叔叔有多少只鸭子？"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "How many ______ can you see?",
+              "o": [
+                "goose",
+                "gooses",
+                "geese",
+                "a goose"
+              ],
+              "a": 2,
+              "e": "How many 后接复数，goose 的复数是 geese。",
+              "s": "How many geese can you see?"
+            },
+            {
+              "t": "choice",
+              "q": "— How many ______ does he have?\n— Twelve.",
+              "o": [
+                "rabbit",
+                "rabbits",
+                "rabbites",
+                "a rabbit"
+              ],
+              "a": 1,
+              "e": "How many + 可数名词复数。",
+              "s": "— How many rabbits does he have?\n— Twelve."
+            },
+            {
+              "t": "fill",
+              "q": "There are five ______ (sheep) on the farm.",
+              "a": [
+                "sheep"
+              ],
+              "e": "sheep 单复数同形。",
+              "s": "There are five sheep on the farm."
+            },
+            {
+              "t": "fill",
+              "q": "I can see many ______ (tomato) plants.",
+              "a": [
+                "tomato"
+              ],
+              "e": "名词作定语修饰 plants 时一般用单数：tomato plants。",
+              "s": "I can see many tomato plants."
+            },
+            {
+              "t": "fill",
+              "q": "My grandpa has two ______ (potato) in his hands.",
+              "a": [
+                "potatoes"
+              ],
+              "e": "potato 复数加 -es：potatoes。",
+              "s": "My grandpa has two potatoes in his hands."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-1",
+      "points": [
+        {
+          "id": "u1-be",
+          "cat": "grammar",
+          "kp": "be动词",
+          "title": "一般现在时（be）与人称代词",
+          "explain": "I 用 am；you / we / they 和复数用 are；he / she / it 和单数用 is。\n缩写：I'm, you're, he's, she's, it's, we're, they're；isn't, aren't。\n一般疑问句把 be 提前：Are you Peter? — Yes, I am. / No, I'm not.\n人称代词主格：I, you, he, she, it, we, they。",
+          "examples": [
+            {
+              "en": "Are Meimei and Peter in the same class? — Yes, they are.",
+              "zh": "梅梅和彼得在同一个班吗？——是的。"
+            },
+            {
+              "en": "Where is Mr Smith from? — He's from the US.",
+              "zh": "史密斯先生来自哪里？——他来自美国。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "Emma and Ella ______ twins.",
+              "o": [
+                "am",
+                "is",
+                "are",
+                "be"
+              ],
+              "a": 2,
+              "e": "Emma and Ella 两个人，复数主语用 are。",
+              "s": "Emma and Ella are twins."
+            },
+            {
+              "t": "choice",
+              "q": "Tom and I ______ in the same class.",
+              "o": [
+                "am",
+                "is",
+                "are",
+                "be"
+              ],
+              "a": 2,
+              "e": "Tom and I 是复数，用 are（不要被 I 迷惑）。",
+              "s": "Tom and I are in the same class."
+            },
+            {
+              "t": "choice",
+              "q": "Lin Hai's favourite colour ______ green.",
+              "o": [
+                "am",
+                "is",
+                "are",
+                "be"
+              ],
+              "a": 1,
+              "e": "主语是 colour（单数），用 is。",
+              "s": "Lin Hai's favourite colour is green."
+            },
+            {
+              "t": "choice",
+              "q": "— Are you Peter?\n— No, ______.",
+              "o": [
+                "I am",
+                "I'm not",
+                "you aren't",
+                "I isn't"
+              ],
+              "a": 1,
+              "e": "Are you …? 否定回答 No, I'm not.",
+              "s": "— Are you Peter?\n— No, I'm not."
+            },
+            {
+              "t": "fill",
+              "q": "My sister ______ (be) 13 years old.",
+              "a": [
+                "is"
+              ],
+              "e": "my sister 单数第三人称，用 is。",
+              "s": "My sister is 13 years old."
+            },
+            {
+              "t": "fill",
+              "q": "I ______ (be) from Chengdu, China.",
+              "a": [
+                "am",
+                "'m"
+              ],
+              "e": "I 用 am。",
+              "s": "I am from Chengdu, China."
+            },
+            {
+              "t": "choice",
+              "q": "This is my new friend. ______ name is Sally.",
+              "o": [
+                "She",
+                "Her",
+                "He",
+                "His"
+              ],
+              "a": 1,
+              "e": "名词 name 前用形容词性物主代词；Sally 是女生，用 Her。",
+              "s": "This is my new friend. Her name is Sally."
+            }
+          ]
+        },
+        {
+          "id": "u1-possessive",
+          "cat": "grammar",
+          "kp": "物主代词",
+          "title": "形容词性物主代词",
+          "explain": "物主代词表示“……的”，后面必须跟名词。\nI → my, you → your, he → his, she → her, it → its, we → our, they → their。\n容易混：he（他，作主语）和 his（他的）；it's（= it is）和 its（它的）。",
+          "examples": [
+            {
+              "en": "His name is Peter. He's from the UK.",
+              "zh": "他的名字叫彼得，他来自英国。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "This is my friend. ______ name is Jim Green.",
+              "o": [
+                "He",
+                "His",
+                "Him",
+                "He's"
+              ],
+              "a": 1,
+              "e": "name 前用 his（他的）。",
+              "s": "This is my friend. His name is Jim Green."
+            },
+            {
+              "t": "choice",
+              "q": "I have a cat. ______ name is Mimi.",
+              "o": [
+                "It's",
+                "Its",
+                "It",
+                "Her's"
+              ],
+              "a": 1,
+              "e": "its 它的；it's = it is。",
+              "s": "I have a cat. Its name is Mimi."
+            },
+            {
+              "t": "choice",
+              "q": "Lucy and Lily are twins. ______ favourite food is hot pot.",
+              "o": [
+                "They",
+                "Them",
+                "Their",
+                "There"
+              ],
+              "a": 2,
+              "e": "their 他们的/她们的；there 是“那里”。",
+              "s": "Lucy and Lily are twins. Their favourite food is hot pot."
+            },
+            {
+              "t": "fill",
+              "q": "— What's ______ (you) full name?\n— Tom Smith.",
+              "a": [
+                "your"
+              ],
+              "e": "full name 前用 your（你的）。",
+              "s": "— What's your full name?\n— Tom Smith."
+            },
+            {
+              "t": "fill",
+              "q": "We are in Class 2. ______ (we) class teacher is Ms Gao.",
+              "a": [
+                "Our"
+              ],
+              "e": "我们的 = our，句首大写 Our。",
+              "s": "We are in Class 2. Our class teacher is Ms Gao."
+            }
+          ]
+        },
+        {
+          "id": "u1-object-pronoun",
+          "cat": "grammar",
+          "kp": "人称代词宾格",
+          "title": "人称代词宾格",
+          "explain": "放在动词或介词后面要用宾格：I → me, you → you, he → him, she → her, it → it, we → us, they → them。\nlike her, help me, play with them, tell us。",
+          "examples": [
+            {
+              "en": "Lisa's pet cat is very cute. She likes it very much.",
+              "zh": "莉萨的宠物猫很可爱，她很喜欢它。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "Sally is my new classmate. I like ______ very much.",
+              "o": [
+                "she",
+                "her",
+                "hers",
+                "he"
+              ],
+              "a": 1,
+              "e": "like 后接宾格 her。",
+              "s": "Sally is my new classmate. I like her very much."
+            },
+            {
+              "t": "choice",
+              "q": "Can you tell ______ your name?",
+              "o": [
+                "we",
+                "our",
+                "us",
+                "ours"
+              ],
+              "a": 2,
+              "e": "tell 后接宾格 us。",
+              "s": "Can you tell us your name?"
+            },
+            {
+              "t": "choice",
+              "q": "My grandparents are kind. I often visit ______.",
+              "o": [
+                "they",
+                "their",
+                "them",
+                "theirs"
+              ],
+              "a": 2,
+              "e": "visit 后接宾格 them。",
+              "s": "My grandparents are kind. I often visit them."
+            },
+            {
+              "t": "fill",
+              "q": "Peter is my friend. I often play tennis with ______ (he).",
+              "a": [
+                "him"
+              ],
+              "e": "介词 with 后用宾格 him。",
+              "s": "Peter is my friend. I often play tennis with him."
+            }
+          ]
+        },
+        {
+          "id": "u1-wh",
+          "cat": "sentence",
+          "kp": "班级年级表达",
+          "title": "认识新朋友：问班级、来自哪里",
+          "explain": "What class are you in? — I'm in Class 1, Grade 7.（班级在前、年级在后，Class / Grade 和数字都大写）\nWho's your class teacher? — It's Ms Gao.\nWhere are you from? — I'm from Sydney, Australia.\nWhat's your full name? / first name / last name。\nWould you like to be my friend? 你愿意做我的朋友吗？\nin the same class 在同一个班。",
+          "examples": [
+            {
+              "en": "I'm in Class 1, Grade 7.",
+              "zh": "我在七年级一班。"
+            },
+            {
+              "en": "Would you like to be my friend?",
+              "zh": "你愿意做我的朋友吗？"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "“七年级三班”的正确写法是：",
+              "o": [
+                "class 3, grade 7",
+                "Grade 7, Class 3",
+                "Class 3, Grade 7",
+                "Class Three Grade Seven"
+              ],
+              "a": 2,
+              "e": "英文先说小单位（班）再说大单位（年级），首字母大写：Class 3, Grade 7。",
+              "s": "Class 3, Grade 7"
+            },
+            {
+              "t": "choice",
+              "q": "— ______ is your class teacher?\n— It's Mr Wang.",
+              "o": [
+                "What",
+                "Who",
+                "Where",
+                "How"
+              ],
+              "a": 1,
+              "e": "问人用 Who。",
+              "s": "— Who is your class teacher?\n— It's Mr Wang."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ is Sally from?\n— She's from Australia.",
+              "o": [
+                "What",
+                "Who",
+                "Where",
+                "When"
+              ],
+              "a": 2,
+              "e": "问来自哪里用 Where … from?",
+              "s": "— Where is Sally from?\n— She's from Australia."
+            },
+            {
+              "t": "choice",
+              "q": "Meimei and I are in ______ class.",
+              "o": [
+                "same",
+                "a same",
+                "the same",
+                "same a"
+              ],
+              "a": 2,
+              "e": "固定搭配 the same，same 前要加 the。",
+              "kp": "the same 固定搭配",
+              "s": "Meimei and I are in the same class."
+            },
+            {
+              "t": "choice",
+              "q": "Would you like ______ my friend?",
+              "o": [
+                "be",
+                "to be",
+                "being",
+                "is"
+              ],
+              "a": 1,
+              "e": "would like to do 想要做某事。",
+              "s": "Would you like to be my friend?"
+            },
+            {
+              "t": "order",
+              "w": [
+                "class",
+                "What",
+                "you",
+                "are",
+                "in"
+              ],
+              "a": "What class are you in?",
+              "e": "问班级：What class are you in?",
+              "s": "What class are you in?"
+            },
+            {
+              "t": "fill",
+              "q": "My ______ name is Smith, and my first name is Tom.",
+              "a": [
+                "last"
+              ],
+              "e": "last name 姓；first name 名。",
+              "s": "My last name is Smith, and my first name is Tom."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-2",
+      "points": [
+        {
+          "id": "u2-third-person",
+          "cat": "grammar",
+          "kp": "动词三单",
+          "title": "一般现在时（do）：动词三单",
+          "explain": "主语是 he / she / it 或单数名词时，动词要用第三人称单数形式。\n一般加 -s：play → plays, like → likes。\n以 s, x, ch, sh, o 结尾加 -es：watch → watches, go → goes, do → does。\n辅音 + y 结尾，变 y 为 i 加 -es：study → studies。\n特殊：have → has。",
+          "examples": [
+            {
+              "en": "Teng Fei's grandpa loves sport.",
+              "zh": "滕飞的爷爷热爱运动。"
+            },
+            {
+              "en": "Teng Fei's father has many books.",
+              "zh": "滕飞的爸爸有很多书。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "My brother ______ short hair.",
+              "o": [
+                "have",
+                "has",
+                "haves",
+                "having"
+              ],
+              "a": 1,
+              "e": "主语 my brother 是三单，have 变 has。",
+              "s": "My brother has short hair."
+            },
+            {
+              "t": "choice",
+              "q": "He often ______ us laugh.",
+              "o": [
+                "make",
+                "makes",
+                "making",
+                "to make"
+              ],
+              "a": 1,
+              "e": "主语 He，动词加 -s：makes。",
+              "s": "He often makes us laugh."
+            },
+            {
+              "t": "choice",
+              "q": "Teng Fei and his grandpa ______ ping-pong every week.",
+              "o": [
+                "play",
+                "plays",
+                "playing",
+                "is play"
+              ],
+              "a": 0,
+              "e": "主语是两个人（复数），动词用原形。",
+              "s": "Teng Fei and his grandpa play ping-pong every week."
+            },
+            {
+              "t": "fill",
+              "q": "My sister really ______ (like) reading.",
+              "a": [
+                "likes"
+              ],
+              "e": "my sister 三单，like 加 -s。",
+              "s": "My sister really likes reading."
+            },
+            {
+              "t": "fill",
+              "q": "Lisa ______ (watch) TV with her parents on Sundays.",
+              "a": [
+                "watches"
+              ],
+              "e": "watch 以 ch 结尾，加 -es。",
+              "s": "Lisa watches TV with her parents on Sundays."
+            },
+            {
+              "t": "fill",
+              "q": "Tom ______ (study) English every day.",
+              "a": [
+                "studies"
+              ],
+              "e": "辅音 + y 结尾，变 y 为 i 再加 -es。",
+              "s": "Tom studies English every day."
+            }
+          ]
+        },
+        {
+          "id": "u2-do-does",
+          "cat": "grammar",
+          "kp": "动词三单",
+          "title": "一般现在时：疑问句与否定句",
+          "explain": "疑问句借助 do / does：Do you play the piano? — Yes, I do. / No, I don't.\n主语三单用 does，后面的动词变回原形：Does your father spend a lot of time reading? — Yes, he does. / No, he doesn't.\n否定句：I don't sing much. She doesn't like maths.",
+          "examples": [
+            {
+              "en": "Do you have any sisters or brothers?",
+              "zh": "你有兄弟姐妹吗？"
+            },
+            {
+              "en": "Does your mother like music?",
+              "zh": "你妈妈喜欢音乐吗？"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— ______ your father play any sport?\n— Yes, he does.",
+              "o": [
+                "Do",
+                "Does",
+                "Is",
+                "Are"
+              ],
+              "a": 1,
+              "e": "主语 your father 三单，用 Does 提问。",
+              "s": "— Does your father play any sport?\n— Yes, he does."
+            },
+            {
+              "t": "choice",
+              "q": "— Do you like music?\n— No, I ______.",
+              "o": [
+                "am not",
+                "don't",
+                "doesn't",
+                "isn't"
+              ],
+              "a": 1,
+              "e": "Do you …? 否定回答 No, I don't.",
+              "s": "— Do you like music?\n— No, I don't."
+            },
+            {
+              "t": "choice",
+              "q": "My mother ______ like coffee.",
+              "o": [
+                "don't",
+                "doesn't",
+                "isn't",
+                "not"
+              ],
+              "a": 1,
+              "e": "主语三单，否定用 doesn't + 动词原形。",
+              "s": "My mother doesn't like coffee."
+            },
+            {
+              "t": "choice",
+              "q": "Does she ______ a pet dog?",
+              "o": [
+                "has",
+                "have",
+                "having",
+                "to have"
+              ],
+              "a": 1,
+              "e": "does 后面的动词用原形 have。",
+              "s": "Does she have a pet dog?"
+            },
+            {
+              "t": "order",
+              "w": [
+                "your",
+                "Does",
+                "brother",
+                "the",
+                "play",
+                "guitar"
+              ],
+              "a": "Does your brother play the guitar?",
+              "e": "Does + 主语 + 动词原形 …?",
+              "s": "Does your brother play the guitar?"
+            }
+          ]
+        },
+        {
+          "id": "u2-genitive",
+          "cat": "grammar",
+          "kp": "名词所有格",
+          "title": "名词所有格 's",
+          "explain": "单数名词加 's：Kate's cat, my uncle's farm。\n以 -s 结尾的复数名词只加 '：my grandparents' caps, my brothers' balls。\n不以 -s 结尾的复数加 's：Children's Day。\n两人共有，只在后一个名字加 's：Peter and Emma's classroom。",
+          "examples": [
+            {
+              "en": "These are my grandparents' caps.",
+              "zh": "这些是我祖父母的帽子。"
+            },
+            {
+              "en": "This is Peter and Emma's classroom.",
+              "zh": "这是彼得和埃玛（共同）的教室。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "This is ______ cat. It is very cute.",
+              "o": [
+                "Kate",
+                "Kates",
+                "Kate's",
+                "Kates'"
+              ],
+              "a": 2,
+              "e": "单数名词加 's：Kate's。",
+              "s": "This is Kate's cat. It is very cute."
+            },
+            {
+              "t": "choice",
+              "q": "These are my little ______ balls.",
+              "o": [
+                "brother",
+                "brothers",
+                "brothers'",
+                "brother'"
+              ],
+              "a": 2,
+              "e": "复数名词 brothers 以 s 结尾，只加 '。",
+              "s": "These are my little brothers' balls."
+            },
+            {
+              "t": "choice",
+              "q": "June 1st is ______ Day.",
+              "o": [
+                "Children",
+                "Childrens'",
+                "Children's",
+                "Child's"
+              ],
+              "a": 2,
+              "e": "children 不以 s 结尾，加 's：Children's Day。",
+              "s": "June 1st is Children's Day."
+            },
+            {
+              "t": "fill",
+              "q": "That is ______ (Teng Fei) schoolbag.",
+              "a": [
+                "Teng Fei's"
+              ],
+              "e": "人名加 's 表示“……的”。",
+              "s": "That is Teng Fei's schoolbag."
+            }
+          ]
+        },
+        {
+          "id": "u2-like-doing",
+          "cat": "grammar",
+          "kp": "动名词(like doing)",
+          "title": "like / love doing 与 a lot of",
+          "explain": "like / love 后接动词 -ing 表示爱好：like reading, love playing tennis。\n-ing 变法：一般直接加 -ing；以不发音的 e 结尾去 e 加 -ing（make → making）；重读闭音节双写末尾字母（swim → swimming）。\na lot of / lots of 许多（可数、不可数都能用）；spend time (in) doing sth 花时间做某事。",
+          "examples": [
+            {
+              "en": "I also like playing tennis.",
+              "zh": "我也喜欢打网球。"
+            },
+            {
+              "en": "My mum spends a lot of time reading.",
+              "zh": "我妈妈花很多时间读书。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "My father likes ______ a lot.",
+              "o": [
+                "fish",
+                "fishing",
+                "fishs",
+                "to fishes"
+              ],
+              "a": 1,
+              "e": "like doing 喜欢做某事。",
+              "s": "My father likes fishing a lot."
+            },
+            {
+              "t": "fill",
+              "q": "She loves ______ (swim) in summer.",
+              "a": [
+                "swimming"
+              ],
+              "e": "swim 重读闭音节，双写 m 再加 -ing。",
+              "s": "She loves swimming in summer."
+            },
+            {
+              "t": "fill",
+              "q": "My grandpa spends a lot of time ______ (read) newspapers.",
+              "a": [
+                "reading"
+              ],
+              "e": "spend time doing sth 花时间做某事。",
+              "s": "My grandpa spends a lot of time reading newspapers."
+            },
+            {
+              "t": "choice",
+              "q": "We have ______ fun together.",
+              "o": [
+                "a lot",
+                "a lot of",
+                "many",
+                "lot of"
+              ],
+              "a": 1,
+              "e": "fun 不可数，用 a lot of。",
+              "s": "We have a lot of fun together."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-3",
+      "points": [
+        {
+          "id": "u3-there-be",
+          "cat": "grammar",
+          "kp": "There be 句型",
+          "title": "There be 句型",
+          "explain": "There is + 单数 / 不可数名词；There are + 复数名词，表示“某处有……”。\n就近原则：be 跟最近的名词一致：There is a pen and two books.\n一般疑问句：Is there a gym? — Yes, there is. / No, there isn't.\nAre there any lockers? — Yes, there are. / No, there aren't.（疑问、否定句用 any）\nThere be 表示“某处存在”；have 表示“某人拥有”。",
+          "examples": [
+            {
+              "en": "There is a student centre between the library and the gym.",
+              "zh": "图书馆和体育馆之间有一个学生中心。"
+            },
+            {
+              "en": "There are some trees in front of the sports field.",
+              "zh": "运动场前面有一些树。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "There ______ a nice library behind the classroom building.",
+              "o": [
+                "is",
+                "are",
+                "have",
+                "has"
+              ],
+              "a": 0,
+              "e": "a library 单数，用 There is。",
+              "s": "There is a nice library behind the classroom building."
+            },
+            {
+              "t": "choice",
+              "q": "There ______ some pictures of famous people on the wall.",
+              "o": [
+                "is",
+                "are",
+                "has",
+                "be"
+              ],
+              "a": 1,
+              "e": "pictures 复数，用 There are。",
+              "s": "There are some pictures of famous people on the wall."
+            },
+            {
+              "t": "choice",
+              "q": "— Is there a gym in this school?\n— Yes, ______.",
+              "o": [
+                "it is",
+                "there is",
+                "there are",
+                "it has"
+              ],
+              "a": 1,
+              "e": "Is there …? 回答 Yes, there is.",
+              "s": "— Is there a gym in this school?\n— Yes, there is."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ any flowers in front of the building?\n— No, there aren't.",
+              "o": [
+                "Is there",
+                "Are there",
+                "Have",
+                "Do there"
+              ],
+              "a": 1,
+              "e": "flowers 复数，用 Are there any …?",
+              "s": "— Are there any flowers in front of the building?\n— No, there aren't."
+            },
+            {
+              "t": "choice",
+              "q": "There ______ a pen and two rulers on the desk.",
+              "o": [
+                "is",
+                "are",
+                "be",
+                "has"
+              ],
+              "a": 0,
+              "e": "就近原则：离 be 最近的是 a pen（单数），用 is。",
+              "s": "There is a pen and two rulers on the desk."
+            },
+            {
+              "t": "fill",
+              "q": "There ______ (be) two lockers next to the reading corner.",
+              "a": [
+                "are"
+              ],
+              "e": "two lockers 复数，用 are。",
+              "s": "There are two lockers next to the reading corner."
+            }
+          ]
+        },
+        {
+          "id": "u3-prep-place",
+          "cat": "grammar",
+          "kp": "介词",
+          "title": "方位介词",
+          "explain": "in 在……里，on 在……上（表面接触），under 在……下面。\nbehind 在……后面，in front of 在……前面（外部）。\nnext to 紧挨着，between A and B 在 A 和 B 之间，across from 在……对面。\nin the middle of 在……中间，at the back of 在……后部，in the corner 在角落里。",
+          "examples": [
+            {
+              "en": "The library is behind the classroom building.",
+              "zh": "图书馆在教学楼后面。"
+            },
+            {
+              "en": "There is a teachers' building across from the school hall.",
+              "zh": "礼堂对面有一栋教师楼。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "The school hall is ______ the classroom building and the science building.",
+              "o": [
+                "next",
+                "between",
+                "across",
+                "behind of"
+              ],
+              "a": 1,
+              "e": "between A and B 在 A 和 B 之间。",
+              "s": "The school hall is between the classroom building and the science building."
+            },
+            {
+              "t": "choice",
+              "q": "There's a screen ______ the wall.",
+              "o": [
+                "on",
+                "in",
+                "under",
+                "between"
+              ],
+              "a": 0,
+              "e": "挂在墙面上，用 on。",
+              "s": "There's a screen on the wall."
+            },
+            {
+              "t": "choice",
+              "q": "The bookcases are next ______ the window.",
+              "o": [
+                "of",
+                "to",
+                "from",
+                "in"
+              ],
+              "a": 1,
+              "e": "固定搭配 next to 紧挨着。",
+              "s": "The bookcases are next to the window."
+            },
+            {
+              "t": "choice",
+              "q": "The gym is across ______ the dining hall.",
+              "o": [
+                "to",
+                "of",
+                "from",
+                "with"
+              ],
+              "a": 2,
+              "e": "固定搭配 across from 在……对面。",
+              "s": "The gym is across from the dining hall."
+            },
+            {
+              "t": "fill",
+              "q": "There are some trees in ______ of the sports field.",
+              "a": [
+                "front"
+              ],
+              "e": "in front of 在……前面。",
+              "s": "There are some trees in front of the sports field."
+            },
+            {
+              "t": "fill",
+              "q": "My seat is in the ______ of the classroom.（在中间）",
+              "a": [
+                "middle"
+              ],
+              "e": "in the middle of 在……中间。",
+              "s": "My seat is in the middle of the classroom."
+            }
+          ]
+        },
+        {
+          "id": "u3-where",
+          "cat": "sentence",
+          "kp": "特殊疑问句",
+          "title": "问地点：Where is / are …?",
+          "explain": "Where is the library? — It's behind the classroom building.\nWhere are the bookcases? — They're next to the window.\n单数用 is / It's，复数用 are / They're。\n写信结尾：Bye for now! / Yours, …",
+          "examples": [
+            {
+              "en": "Where are the lockers? — They're next to the reading corner.",
+              "zh": "储物柜在哪里？——在阅读角旁边。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— Where ______ the lockers?\n— ______ next to the reading corner.",
+              "o": [
+                "is; It's",
+                "are; They're",
+                "is; They're",
+                "are; It's"
+              ],
+              "a": 1,
+              "e": "lockers 复数：are … They're。",
+              "s": "— Where are the lockers?\n— They're next to the reading corner."
+            },
+            {
+              "t": "choice",
+              "q": "— Where ______ the school hall?\n— It's between the two buildings.",
+              "o": [
+                "is",
+                "are",
+                "am",
+                "be"
+              ],
+              "a": 0,
+              "e": "the school hall 单数，用 is。",
+              "s": "— Where is the school hall?\n— It's between the two buildings."
+            },
+            {
+              "t": "order",
+              "w": [
+                "the",
+                "Where",
+                "is",
+                "library"
+              ],
+              "a": "Where is the library?",
+              "e": "Where + be + 主语？",
+              "s": "Where is the library?"
+            },
+            {
+              "t": "choice",
+              "q": "My classroom is different ______ yours.",
+              "o": [
+                "to",
+                "from",
+                "with",
+                "of"
+              ],
+              "a": 1,
+              "e": "be different from 与……不同。",
+              "s": "My classroom is different from yours."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-4",
+      "points": [
+        {
+          "id": "u4-conj",
+          "cat": "grammar",
+          "kp": "连词",
+          "title": "连词 and / but / because",
+          "explain": "and 补充同类信息（和；而且）：I have art and geography today.\nbut 表示转折（但是）：Biology is difficult but important.\nbecause 说明原因（因为），回答 Why 的问题：I like Chinese because it's fun.\n注意：中文“因为……所以……”在英语里不能 because 和 so 连用。",
+          "examples": [
+            {
+              "en": "History is my favourite subject, but my sister doesn't like it.",
+              "zh": "历史是我最喜欢的科目，但是我妹妹不喜欢。"
+            },
+            {
+              "en": "He doesn't like maths because it's boring to him.",
+              "zh": "他不喜欢数学，因为对他来说很无聊。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "I'm not good at science, ______ I like the class very much.",
+              "o": [
+                "and",
+                "but",
+                "because",
+                "so"
+              ],
+              "a": 1,
+              "e": "前后意思相反（不擅长 ↔ 很喜欢），用 but。",
+              "s": "I'm not good at science, but I like the class very much."
+            },
+            {
+              "t": "choice",
+              "q": "I love Thursday afternoons ______ we have a fun class then.",
+              "o": [
+                "and",
+                "but",
+                "because",
+                "or"
+              ],
+              "a": 2,
+              "e": "后半句说明原因，用 because。",
+              "s": "I love Thursday afternoons because we have a fun class then."
+            },
+            {
+              "t": "choice",
+              "q": "We learn about different plants ______ animals.",
+              "o": [
+                "and",
+                "but",
+                "because",
+                "so"
+              ],
+              "a": 0,
+              "e": "并列两个同类事物，用 and。",
+              "s": "We learn about different plants and animals."
+            },
+            {
+              "t": "choice",
+              "q": "— Why do you like geography?\n— ______ I like travelling.",
+              "o": [
+                "And",
+                "But",
+                "Because",
+                "So"
+              ],
+              "a": 2,
+              "e": "Why 问原因，用 Because 回答。",
+              "s": "— Why do you like geography?\n— Because I like travelling."
+            },
+            {
+              "t": "fill",
+              "q": "Biology is difficult ______ important.（困难但是重要）",
+              "a": [
+                "but"
+              ],
+              "e": "转折用 but。",
+              "s": "Biology is difficult but important."
+            },
+            {
+              "t": "fill",
+              "q": "She's my favourite teacher ______ she makes everyone feel special.",
+              "a": [
+                "because"
+              ],
+              "e": "说明原因用 because。",
+              "s": "She's my favourite teacher because she makes everyone feel special."
+            }
+          ]
+        },
+        {
+          "id": "u4-subject",
+          "cat": "sentence",
+          "kp": "交际用语",
+          "title": "谈论科目与理由",
+          "explain": "What's your favourite subject? — My favourite subject is history.\nWhy do you like it? — Because it's interesting / useful / exciting.\nbe good at 擅长；be good with numbers 擅长和数字打交道。\nhelp sb with sth 在某方面帮助某人：He often helps me with my English.\nwork out 算出；解决。",
+          "examples": [
+            {
+              "en": "He is good at English, and he often helps me with my English.",
+              "zh": "他英语很好，经常帮我学英语。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "Binbin is good ______ maths.",
+              "o": [
+                "at",
+                "in",
+                "for",
+                "to"
+              ],
+              "a": 0,
+              "e": "be good at 擅长。",
+              "s": "Binbin is good at maths."
+            },
+            {
+              "t": "choice",
+              "q": "He often helps me ______ my English.",
+              "o": [
+                "at",
+                "with",
+                "for",
+                "in"
+              ],
+              "a": 1,
+              "e": "help sb with sth 在某方面帮助某人。",
+              "s": "He often helps me with my English."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ do you like IT?\n— Because it's fun to learn to use computers.",
+              "o": [
+                "What",
+                "Why",
+                "Where",
+                "Who"
+              ],
+              "a": 1,
+              "e": "答语 Because …，问原因用 Why。",
+              "s": "— Why do you like IT?\n— Because it's fun to learn to use computers."
+            },
+            {
+              "t": "order",
+              "w": [
+                "your",
+                "is",
+                "What",
+                "favourite",
+                "subject"
+              ],
+              "a": "What is your favourite subject?",
+              "e": "问最喜欢的科目。",
+              "s": "What is your favourite subject?"
+            },
+            {
+              "t": "fill",
+              "q": "Can you help me ______ out this maths problem?",
+              "a": [
+                "work"
+              ],
+              "e": "work out 算出；解决。",
+              "s": "Can you help me work out this maths problem?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-5",
+      "points": [
+        {
+          "id": "u5-can",
+          "cat": "grammar",
+          "kp": "情态动词后接动词原形",
+          "title": "情态动词 can（能力）",
+          "explain": "can + 动词原形，表示“能，会”，没有人称和数的变化：He can swim.（不是 cans / swims）\n否定：can't / cannot：I can't swim.\n疑问把 can 提前：Can you play ping-pong? — Yes, I can. / No, I can't.\nplay + 球类不加 the：play chess, play ping-pong；play + 乐器加 the：play the violin, play the guitar。",
+          "examples": [
+            {
+              "en": "Emma can sing well, but she can't play any musical instruments.",
+              "zh": "埃玛唱歌很好，但她不会演奏任何乐器。"
+            },
+            {
+              "en": "Can he play the violin? — Yes, he can.",
+              "zh": "他会拉小提琴吗？——会。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "Linda can ______ English, French, and even some Chinese.",
+              "o": [
+                "speak",
+                "speaks",
+                "speaking",
+                "to speak"
+              ],
+              "a": 0,
+              "e": "can 后接动词原形。",
+              "s": "Linda can speak English, French, and even some Chinese."
+            },
+            {
+              "t": "choice",
+              "q": "— Can you play the guitar?\n— No, I ______.",
+              "o": [
+                "don't",
+                "can",
+                "can't",
+                "am not"
+              ],
+              "a": 2,
+              "e": "Can you …? 否定回答 No, I can't.",
+              "s": "— Can you play the guitar?\n— No, I can't."
+            },
+            {
+              "t": "choice",
+              "q": "My brother can play ______ violin, and he can play ______ chess too.",
+              "o": [
+                "the; the",
+                "/; the",
+                "the; /",
+                "/; /"
+              ],
+              "a": 2,
+              "e": "乐器前加 the，棋类、球类前不加冠词。",
+              "s": "My brother can play the violin, and he can play chess too."
+            },
+            {
+              "t": "choice",
+              "q": "She ______ make delicious cakes!",
+              "o": [
+                "cans",
+                "can",
+                "is can",
+                "can to"
+              ],
+              "a": 1,
+              "e": "can 没有人称变化，也不加 to。",
+              "s": "She can make delicious cakes!"
+            },
+            {
+              "t": "fill",
+              "q": "A fish can ______ (swim), but it can't walk.",
+              "a": [
+                "swim"
+              ],
+              "e": "can 后接动词原形 swim。",
+              "s": "A fish can swim, but it can't walk."
+            },
+            {
+              "t": "order",
+              "w": [
+                "you",
+                "Can",
+                "ping-pong",
+                "play"
+              ],
+              "a": "Can you play ping-pong?",
+              "e": "Can + 主语 + 动词原形 …?",
+              "s": "Can you play ping-pong?"
+            }
+          ]
+        },
+        {
+          "id": "u5-club",
+          "cat": "sentence",
+          "kp": "want to do",
+          "title": "加入社团：want to / would like to",
+          "explain": "What club do you want to join? — I want to join the music club.\nwant to do / would like to do 想做某事。\nbe interested in (doing) sth 对……感兴趣。\nfall in love with 爱上；more than 多于。",
+          "examples": [
+            {
+              "en": "I want to join the drama club because I like acting.",
+              "zh": "我想加入戏剧社，因为我喜欢表演。"
+            },
+            {
+              "en": "He is interested in nature.",
+              "zh": "他对大自然感兴趣。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "I want ______ the art club.",
+              "o": [
+                "join",
+                "to join",
+                "joining",
+                "joins"
+              ],
+              "a": 1,
+              "e": "want to do 想做某事。",
+              "s": "I want to join the art club."
+            },
+            {
+              "t": "choice",
+              "q": "Mike is interested ______ collecting insects.",
+              "o": [
+                "in",
+                "on",
+                "at",
+                "with"
+              ],
+              "a": 0,
+              "e": "be interested in 对……感兴趣。",
+              "s": "Mike is interested in collecting insects."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ club do you want to join?\n— The chess club.",
+              "o": [
+                "What",
+                "Who",
+                "Where",
+                "How"
+              ],
+              "a": 0,
+              "e": "What club 什么社团。",
+              "s": "— What club do you want to join?\n— The chess club."
+            },
+            {
+              "t": "fill",
+              "q": "She would like ______ (learn) French.",
+              "a": [
+                "to learn"
+              ],
+              "e": "would like to do 想要做某事。",
+              "s": "She would like to learn French."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-6",
+      "points": [
+        {
+          "id": "u6-time",
+          "cat": "grammar",
+          "kp": "介词",
+          "title": "时间表达与时间介词",
+          "explain": "at + 钟点：at 6:30, at about 10:00；at night, at weekends。\non + 某一天 / 某天上午等：on Monday, on Saturdays, on Sunday mornings。\nin + 一天的某段 / 月 / 年：in the morning, in the afternoon。\n钟点读法：6:30 six thirty / half past six；6:15 a quarter past six；6:45 a quarter to seven。\na.m. 上午，p.m. 下午。",
+          "examples": [
+            {
+              "en": "I usually get up at 6:30 a.m.",
+              "zh": "我通常早上 6 点半起床。"
+            },
+            {
+              "en": "They go to the music club on Monday afternoons.",
+              "zh": "他们周一下午去音乐社。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "He usually goes to bed ______ 9:30 p.m.",
+              "o": [
+                "in",
+                "on",
+                "at",
+                "for"
+              ],
+              "a": 2,
+              "e": "具体钟点前用 at。",
+              "s": "He usually goes to bed at 9:30 p.m."
+            },
+            {
+              "t": "choice",
+              "q": "David plays basketball ______ Thursdays.",
+              "o": [
+                "in",
+                "on",
+                "at",
+                "of"
+              ],
+              "a": 1,
+              "e": "星期几前用 on。",
+              "s": "David plays basketball on Thursdays."
+            },
+            {
+              "t": "choice",
+              "q": "Sam often helps his mother ______ Sunday mornings.",
+              "o": [
+                "in",
+                "on",
+                "at",
+                "for"
+              ],
+              "a": 1,
+              "e": "具体某一天的上午（Sunday mornings）用 on。",
+              "s": "Sam often helps his mother on Sunday mornings."
+            },
+            {
+              "t": "choice",
+              "q": "I do my homework ______ the evening.",
+              "o": [
+                "in",
+                "on",
+                "at",
+                "of"
+              ],
+              "a": 0,
+              "e": "in the morning / afternoon / evening。",
+              "s": "I do my homework in the evening."
+            },
+            {
+              "t": "choice",
+              "q": "7:15 可以读作：",
+              "o": [
+                "a quarter to seven",
+                "a quarter past seven",
+                "half past seven",
+                "seven fifty"
+              ],
+              "a": 1,
+              "e": "15 分是 a quarter，过了 7 点用 past：a quarter past seven。",
+              "s": "a quarter past seven"
+            },
+            {
+              "t": "fill",
+              "q": "What do you usually do ______ weekends?",
+              "a": [
+                "at",
+                "on"
+              ],
+              "e": "at weekends（英式）/ on weekends（美式），课本用 at weekends。",
+              "s": "What do you usually do at weekends?"
+            }
+          ]
+        },
+        {
+          "id": "u6-wh",
+          "cat": "sentence",
+          "kp": "特殊疑问句",
+          "title": "What time / When / What 问日常",
+          "explain": "What time 问具体钟点：What time do you usually get up? — At 6:30.\nWhen 问时间（钟点、星期、日期都可以）：When does Lisa do her homework? — After dinner.\nWhat 问做什么：What do you do after dinner?\n主语三单用 does，动词变原形：What time does Tom go to bed?",
+          "examples": [
+            {
+              "en": "What does Peter do before breakfast? — He brushes his teeth and takes a shower.",
+              "zh": "彼得早饭前做什么？——刷牙、洗澡。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— ______ does Tom usually go to bed?\n— He usually goes to bed at 9:30 p.m.",
+              "o": [
+                "What",
+                "What time",
+                "Where",
+                "Who"
+              ],
+              "a": 1,
+              "e": "答语是具体钟点，用 What time。",
+              "s": "— What time does Tom usually go to bed?\n— He usually goes to bed at 9:30 p.m."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ do you do after dinner?\n— I read books or do my homework.",
+              "o": [
+                "What",
+                "When",
+                "What time",
+                "Where"
+              ],
+              "a": 0,
+              "e": "问做什么，用 What。",
+              "s": "— What do you do after dinner?\n— I read books or do my homework."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ is your maths class?\n— On Monday.",
+              "o": [
+                "What",
+                "When",
+                "What time",
+                "How"
+              ],
+              "a": 1,
+              "e": "答语是星期，用 When。",
+              "s": "— When is your maths class?\n— On Monday."
+            },
+            {
+              "t": "choice",
+              "q": "What time ______ Mike usually get to school?",
+              "o": [
+                "do",
+                "does",
+                "is",
+                "are"
+              ],
+              "a": 1,
+              "e": "主语 Mike 三单，用 does。",
+              "s": "What time does Mike usually get to school?"
+            },
+            {
+              "t": "order",
+              "w": [
+                "time",
+                "What",
+                "usually",
+                "you",
+                "do",
+                "get",
+                "up"
+              ],
+              "a": "What time do you usually get up?",
+              "e": "频度副词 usually 放在实义动词前。",
+              "s": "What time do you usually get up?"
+            }
+          ]
+        },
+        {
+          "id": "u6-routine-verbs",
+          "cat": "grammar",
+          "kp": "动词三单",
+          "title": "日常作息与动词三单",
+          "explain": "get up → gets up, go → goes, do → does, brush → brushes, watch → watches, have → has。\n频度副词 always > usually > often > sometimes > never，一般放在实义动词前、be 动词后。\n常用短语：take a shower, brush teeth, get dressed, be on duty, go to bed。",
+          "examples": [
+            {
+              "en": "On Saturdays, Sam sometimes gets up at 9:00.",
+              "zh": "周六萨姆有时 9 点起床。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "fill",
+              "q": "He usually ______ (go) to bed at about 10:00.",
+              "a": [
+                "goes"
+              ],
+              "e": "go 以 o 结尾，三单加 -es。",
+              "s": "He usually goes to bed at about 10:00."
+            },
+            {
+              "t": "fill",
+              "q": "Peter ______ (brush) his teeth before breakfast.",
+              "a": [
+                "brushes"
+              ],
+              "e": "brush 以 sh 结尾，加 -es。",
+              "s": "Peter brushes his teeth before breakfast."
+            },
+            {
+              "t": "fill",
+              "q": "He makes breakfast and then ______ (do) his homework.",
+              "a": [
+                "does"
+              ],
+              "e": "do 三单 does。",
+              "s": "He makes breakfast and then does his homework."
+            },
+            {
+              "t": "choice",
+              "q": "My father ______ late.",
+              "o": [
+                "usually gets up",
+                "gets usually up",
+                "usually get up",
+                "get up usually"
+              ],
+              "a": 0,
+              "e": "频度副词放实义动词前；主语三单用 gets。",
+              "s": "My father usually gets up late."
+            },
+            {
+              "t": "fill",
+              "q": "I'm ______ duty today, so I go to school early.",
+              "a": [
+                "on"
+              ],
+              "e": "be on duty 值班。",
+              "s": "I'm on duty today, so I go to school early."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "unit-7",
+      "points": [
+        {
+          "id": "u7-ordinal",
+          "cat": "grammar",
+          "kp": "序数词",
+          "title": "序数词与日期",
+          "explain": "first, second, third 三个特殊；其余一般加 -th：fourth, sixth, seventh。\n特殊变化：five → fifth, eight → eighth, nine → ninth, twelve → twelfth。\n以 -ty 结尾，变 y 为 ie 再加 -th：twenty → twentieth。\n几十几只变个位：twenty-one → twenty-first。\n日期：When is your birthday? — It's on 2nd August. / on 15th July（具体某天用 on）。",
+          "examples": [
+            {
+              "en": "When is your birthday? — It's on 2nd August.",
+              "zh": "你的生日是什么时候？——8月2日。"
+            },
+            {
+              "en": "We celebrate International Nurses Day on 12th May.",
+              "zh": "我们在5月12日庆祝国际护士节。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "fill",
+              "q": "five 的序数词：______",
+              "a": [
+                "fifth"
+              ],
+              "e": "five → fifth（ve 变 f 加 th）。",
+              "s": "fifth"
+            },
+            {
+              "t": "fill",
+              "q": "twelve 的序数词：______",
+              "a": [
+                "twelfth"
+              ],
+              "e": "twelve → twelfth。",
+              "s": "twelfth"
+            },
+            {
+              "t": "fill",
+              "q": "nine 的序数词：______",
+              "a": [
+                "ninth"
+              ],
+              "e": "nine → ninth（去 e 加 th）。",
+              "s": "ninth"
+            },
+            {
+              "t": "fill",
+              "q": "twenty 的序数词：______",
+              "a": [
+                "twentieth"
+              ],
+              "e": "-ty 变 -tieth：twentieth。",
+              "s": "twentieth"
+            },
+            {
+              "t": "choice",
+              "q": "My birthday is ______ 3rd March.",
+              "o": [
+                "in",
+                "on",
+                "at",
+                "of"
+              ],
+              "a": 1,
+              "e": "具体某一天用 on。",
+              "s": "My birthday is on 3rd March."
+            },
+            {
+              "t": "choice",
+              "q": "“第二十一”是：",
+              "o": [
+                "twenty-one",
+                "twentieth-one",
+                "twenty-first",
+                "twenty-oneth"
+              ],
+              "a": 2,
+              "e": "几十几只变个位：twenty-first。",
+              "s": "twenty-first"
+            },
+            {
+              "t": "choice",
+              "q": "This is my ______ time to visit Beijing.",
+              "o": [
+                "one",
+                "first",
+                "once",
+                "the one"
+              ],
+              "a": 1,
+              "e": "表示“第一次”用序数词 first。",
+              "s": "This is my first time to visit Beijing."
+            }
+          ]
+        },
+        {
+          "id": "u7-how-much",
+          "cat": "sentence",
+          "kp": "特殊疑问句",
+          "title": "购物：How much / How many",
+          "explain": "How much 问价格：How much are those oranges? — Six yuan a kilo.\nHow many + 可数名词复数 问数量：How many kilos do you want? — Five kilos.\nHow much + 不可数名词 问数量：How much milk do you want?\nHow old 问年龄：How old are you? — I'm 12.",
+          "examples": [
+            {
+              "en": "How much are those oranges? — Six yuan a kilo.",
+              "zh": "那些橙子多少钱？——一公斤六元。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— ______ is the birthday card?\n— 5 yuan.",
+              "o": [
+                "How many",
+                "How much",
+                "How old",
+                "What"
+              ],
+              "a": 1,
+              "e": "问价格用 How much。",
+              "s": "— How much is the birthday card?\n— 5 yuan."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ balloons do you want?\n— I want ten.",
+              "o": [
+                "How many",
+                "How much",
+                "How old",
+                "What time"
+              ],
+              "a": 0,
+              "e": "balloons 可数复数，问数量用 How many。",
+              "s": "— How many balloons do you want?\n— I want ten."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ is your father?\n— He's 45 years old.",
+              "o": [
+                "How many",
+                "How much",
+                "How old",
+                "Who"
+              ],
+              "a": 2,
+              "e": "问年龄用 How old。",
+              "s": "— How old is your father?\n— He's 45 years old."
+            },
+            {
+              "t": "choice",
+              "q": "How much ______ those apples?",
+              "o": [
+                "is",
+                "are",
+                "do",
+                "does"
+              ],
+              "a": 1,
+              "e": "主语 those apples 复数，用 are。",
+              "s": "How much are those apples?"
+            },
+            {
+              "t": "order",
+              "w": [
+                "kilos",
+                "How",
+                "you",
+                "many",
+                "want",
+                "do"
+              ],
+              "a": "How many kilos do you want?",
+              "e": "How many + 复数名词 + do you want?",
+              "s": "How many kilos do you want?"
+            }
+          ]
+        },
+        {
+          "id": "u7-wh-review",
+          "cat": "sentence",
+          "kp": "特殊疑问句",
+          "title": "特殊疑问词复习",
+          "explain": "what 什么，when 什么时候，where 哪里，who 谁，why 为什么，\nhow old 多大，how many 多少（可数），how much 多少钱 / 多少（不可数），what time 几点。\n看答语找疑问词：答语说地点 → Where；说原因 → Why；说人 → Who / With whom。",
+          "examples": [
+            {
+              "en": "Who do you celebrate your birthday with? — With my parents.",
+              "zh": "你和谁一起过生日？——和我父母。"
+            },
+            {
+              "en": "Why do people eat birthday noodles? — To wish for a long life.",
+              "zh": "人们为什么吃长寿面？——为了祝愿长寿。"
+            }
+          ],
+          "questions": [
+            {
+              "t": "choice",
+              "q": "— ______ is Mrs Green from?\n— She's from Australia.",
+              "o": [
+                "What",
+                "Where",
+                "When",
+                "Why"
+              ],
+              "a": 1,
+              "e": "问来自哪里用 Where。",
+              "s": "— Where is Mrs Green from?\n— She's from Australia."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ do people eat birthday noodles?\n— To wish for a long life.",
+              "o": [
+                "What",
+                "Who",
+                "Why",
+                "How"
+              ],
+              "a": 2,
+              "e": "答语说目的/原因，用 Why。",
+              "s": "— Why do people eat birthday noodles?\n— To wish for a long life."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ do you want for a birthday gift?\n— A new pair of shoes.",
+              "o": [
+                "What",
+                "Where",
+                "When",
+                "Who"
+              ],
+              "a": 0,
+              "e": "问想要什么，用 What。",
+              "s": "— What do you want for a birthday gift?\n— A new pair of shoes."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ is China's National Day?\n— It's on 1st October.",
+              "o": [
+                "What",
+                "When",
+                "Where",
+                "Who"
+              ],
+              "a": 1,
+              "e": "答语是日期，用 When。",
+              "s": "— When is China's National Day?\n— It's on 1st October."
+            },
+            {
+              "t": "choice",
+              "q": "— ______ do you celebrate your birthday with?\n— With my parents.",
+              "o": [
+                "Who",
+                "What",
+                "Where",
+                "How"
+              ],
+              "a": 0,
+              "e": "问和谁一起，用 Who … with?",
+              "s": "— Who do you celebrate your birthday with?\n— With my parents."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
